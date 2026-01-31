@@ -1,0 +1,80 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  return products.map(product => ({
+    params: { slug: product.slug },
+    props: { product },
+  }));
+}
+
+const { product } = Astro.props;
+const { Content } = await product.render();
+---
+
+<Layout title={product.data.title} description={`New Holland ${product.data.title} - ${product.data.title_te}`} image={product.data.image}>
+    
+    <!-- Navbar -->
+    <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <a href="/" class="flex items-center gap-3">
+                    <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl shadow-sm"><span class="text-[#FFD100] scale-125">P</span></div>
+                    <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
+                </a>
+                <a href="/#products" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] flex items-center gap-1"><i data-lucide="arrow-left" class="w-4 h-4"></i> All Machinery</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="pt-32 pb-24 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid lg:grid-cols-2 gap-12 items-start">
+                <div class="sticky top-24">
+                    <div class="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-gray-100">
+                         {product.data.isRecommended && <div class="absolute top-0 right-0 bg-[#001489] text-white text-xs font-bold px-4 py-2 uppercase tracking-wider z-10">Recommended</div>}
+                        <img src={product.data.image} alt={product.data.title} class="w-full object-cover" />
+                    </div>
+                </div>
+                
+                <div>
+                   <span class="text-[#001489] font-bold tracking-widest uppercase text-xs border border-[#001489] px-2 py-1 rounded mb-4 inline-block">{product.data.category}</span>
+                   <h1 class="text-4xl md:text-5xl font-black text-[#001489] mt-2 uppercase leading-tight">{product.data.title}</h1>
+                   <h2 class="font-telugu text-2xl font-bold text-gray-500 mb-8 mt-2">{product.data.title_te}</h2>
+                   
+                   <div class="bg-gray-50 p-8 rounded-xl border border-gray-100 mb-8">
+                       <h3 class="font-bold text-[#001489] uppercase tracking-wider text-sm mb-6 border-b border-gray-200 pb-2">Key Specifications</h3>
+                       <ul class="space-y-4">
+                           {product.data.features.map(feature => (
+                               <li class="flex items-start gap-3 text-gray-700 font-medium">
+                                   <i data-lucide="check-circle" class="w-5 h-5 text-[#001489] shrink-0 mt-0.5"></i>
+                                   {feature}
+                               </li>
+                           ))}
+                       </ul>
+                   </div>
+
+                   <div class="prose prose-lg text-gray-600 mb-10">
+                        <Content />
+                   </div>
+
+                   <div class="flex flex-col gap-4">
+                        <button onclick={`window.open('${product.data.whatsapp_message || 'https://wa.me/919999999999'}', '_blank')`} class="w-full bg-[#001489] text-white py-5 rounded-xl font-bold hover:bg-[#000E5C] transition-all flex items-center justify-center gap-3 uppercase tracking-wide text-sm shadow-xl hover:shadow-2xl transform hover:-translate-y-1">
+                            <i data-lucide="message-circle" class="w-6 h-6"></i>
+                            <div class="text-left leading-none">
+                                <span class="block">Get Best Price Quote</span>
+                                <span class="block font-telugu text-[10px] font-normal mt-1 opacity-80">ఉత్తమ ధరను పొందండి</span>
+                            </div>
+                        </button>
+                        <button onclick="window.print()" class="w-full bg-white text-[#001489] border-2 border-[#001489] py-4 rounded-xl font-bold hover:bg-[#001489] hover:text-white transition-all uppercase tracking-wide text-sm">
+                            Download Brochure / Print Details
+                        </button>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script>if (typeof lucide !== 'undefined') { lucide.createIcons(); }</script>
+</Layout>

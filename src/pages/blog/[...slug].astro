@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+---
+
+<Layout title={post.data.title} description={post.data.description} image={post.data.image}>
+    
+    <!-- Navbar (Simplified for subpages) -->
+    <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <a href="/" class="flex items-center gap-3">
+                    <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl shadow-sm"><span class="text-[#FFD100] scale-125">P</span></div>
+                    <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
+                </a>
+                <a href="/" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] flex items-center gap-1"><i data-lucide="arrow-left" class="w-4 h-4"></i> Back Home</a>
+            </div>
+        </div>
+    </nav>
+
+    <article class="pt-32 pb-24 bg-white">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="mb-8 text-center">
+                <span class="inline-block bg-[#001489]/5 text-[#001489] font-bold tracking-widest uppercase text-xs px-3 py-1 rounded-full mb-4">{post.data.category}</span>
+                <h1 class="text-4xl md:text-5xl font-black text-[#001489] mb-4">{post.data.title}</h1>
+                <h2 class="font-telugu text-2xl font-bold text-gray-500">{post.data.title_te}</h2>
+                <div class="flex justify-center gap-4 mt-6 text-sm text-gray-400 font-semibold uppercase tracking-wider">
+                    <span>{post.data.pubDate.toLocaleDateString()}</span>
+                </div>
+            </div>
+            
+            <img src={post.data.image} alt={post.data.title} class="w-full h-[400px] object-cover rounded-xl shadow-2xl mb-12" />
+            
+            <div class="prose prose-lg prose-blue max-w-none text-gray-600 prose-headings:font-black prose-headings:text-[#001489] prose-img:rounded-xl">
+                <Content />
+            </div>
+            
+            <div class="mt-16 pt-8 border-t border-gray-100 text-center">
+                <h3 class="font-bold text-[#001489] text-xl mb-4">Want to know more?</h3>
+                 <a href="https://wa.me/919999999999" target="_blank" class="inline-flex items-center gap-2 bg-[#25D366] text-white px-6 py-3 rounded-full font-bold shadow-lg hover:bg-green-600 transition-all">
+                    <i data-lucide="message-circle" class="w-5 h-5"></i>
+                    Chat on WhatsApp
+                </a>
+            </div>
+        </div>
+    </article>
+    <script>if (typeof lucide !== 'undefined') { lucide.createIcons(); }</script>
+</Layout>
