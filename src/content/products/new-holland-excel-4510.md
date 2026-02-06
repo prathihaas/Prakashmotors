@@ -2,7 +2,7 @@
 title: "New Holland Excel 4510"
 title_te: "న్యూ హాలండ్ ఎక్సెల్ 4510"
 category: "Tractors"
-image: "/images/products/new-holland-excel-4510.jpg"
+image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/c852241c5693443381ffb76ca7dd56af?v=bd80a446&t=size500"
 features: ["45 HP Engine", "Excel Ergonomics", "7-Speed PTO", "Side Shift", "Modern Styling"]
 isRecommended: false
 whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%20Excel%204510"
@@ -19,3 +19,4 @@ Like its bigger brothers, it features the 7-speed Eptraa PTO, making it incredib
 
 ## Cat-Eye Styling
 The sleek new hood design isn't just for looks; it offers better visibility at night with improved headlamp positioning and aerodynamics.
+
