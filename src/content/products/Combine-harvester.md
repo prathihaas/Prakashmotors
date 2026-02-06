@@ -2,7 +2,7 @@
 title: "New Holland TC5.30 Combine Harvester"
 title_te: "న్యూ హాలండ్ TC5.30 హార్వెస్టర్"
 category: "Harvester"
-image: "/images/products/new-holland-tc5-30.jpg"
+image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/beaedd64753e46fdb465d9d01f908e20?v=285add5c&t=size1100"
 features: ["130 HP Engine", "Rotary Separator", "Multi-Crop Capability", "Double Drum Threshing", "High Grain Purity"]
 isRecommended: true
 whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%20TC5.30%20Harvester"
