@@ -2,7 +2,7 @@
 title: "New Holland 5620 TX Plus Trem-IV"
 title_te: "న్యూ హాలండ్ 5620 TX ప్లస్ Trem-IV"
 category: "Tractors"
-image: "/images/products/new-holland-5620-tx-plus.jpg"
+image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/0abec337fab246e0873b9ab8e6d7ecd1?v=c1706b5b&t=size500"
 features: ["65 HP CRDI", "3 Drive Modes", "Skywatch Telematics", "Trem-IV Compliant", "Heavy Duty"]
 isRecommended: true
 whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%205620%20TX%20Plus"
@@ -19,3 +19,4 @@ Monitor your tractor remotely. Track its location, fuel usage, and health alerts
 
 ## Trem-IV Compliance
 Meets the latest emission standards, ensuring that your tractor is environmentally friendly while delivering massive torque for heavy implements like harvesters.
+
