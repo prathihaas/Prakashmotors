@@ -2,7 +2,7 @@
 title: "Silver Track"
 title_te: "సిల్వర్ ట్రాక్ హార్వెస్టర్"
 category: "Harvester"
-image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800"
+image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800](https://silverpumps.com/wp-content/uploads/2024/09/100-HP-paddy-harvester-100x100.png"
 features: ["King of wet fields", "Durable track system", "Wet Land Special", "Low Maintenance", "High Ground Clearance"]
 isRecommended: true
 whatsapp_message: "https://wa.me/919999999999?text=Interested%20in%20Silver%20Track"
