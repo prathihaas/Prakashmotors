@@ -9,7 +9,7 @@ whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holla
 ---
 # The Reliable Workhorse
 
-The **New Holland 3032 NX** is a 35 HP tractor that has earned a reputation for reliability and low maintenance costs, making it a favorite for small to medium landholdings.
+The **New Holland 3032 TX** is a 35 HP tractor that has earned a reputation for reliability and low maintenance costs, making it a favorite for small to medium landholdings.
 
 ## Lift-O-Matic Technology
 This feature allows the operator to lift and return the implement to the same depth with the touch of a single button, ensuring uniform cultivation.
@@ -19,4 +19,5 @@ Equipped with Oil Immersed Multi-Disc Brakes, the 3032 NX ensures safety and lon
 
 ## Economical Operation
 Designed for the budget-conscious farmer, this model offers excellent fuel mileage without compromising on the power needed for rotavators and cultivators.
+
 
