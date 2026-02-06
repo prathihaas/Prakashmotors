@@ -1,38 +1,21 @@
 ---
 title: "New Holland 3600-2 TX All Rounder Plus"
 title_te: "న్యూ హాలండ్ 3600-2 TX ఆల్ రౌండర్ ప్లస్"
-description: "A 50 HP versatile tractor suitable for every farming need, from ploughing to transport."
 category: "Tractors"
-pubDate: 2026-02-06
 image: "/images/products/new-holland-3600-2-tx.jpg"
-price: "₹8.40 – 9.60 Lakhs"
-engine_hp: 50
-fuel_type: "Diesel"
-transmission: "Constant Mesh / Synchro Shuttle (Optional)"
+features: ["50 HP Torque", "2000kg Lift", "High Speed Gearbox", "Heavy Duty Axle", "Synchro Shuttle Optional"]
+isRecommended: true
+whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%203600-2%20TX%20All%20Rounder"
 ---
+# The Legacy of Power
 
-## Overview
+The **New Holland 3600-2 TX All Rounder Plus** is one of India's most iconic tractors. As a 50 HP machine, it is designed to handle everything from wet land puddling to heavy commercial transport.
 
-The **New Holland 3600-2 TX All Rounder Plus** is true to its name—a 50 HP tractor that performs exceptionally well across all applications. It is one of the highest-selling models in India.
+## Heavy Lifting Capacity
+With a lift capacity of 2000 kg (assisted by RAM), this tractor can easily lift heavy seed drills and mounted harrows that smaller tractors struggle with.
 
-## Key Features
+## Speed for Transport
+The high-speed transmission gear ratios are optimized for haulage, allowing you to transport produce to the market faster, saving time and fuel.
 
-- 50 HP high-torque engine
-- 2000 kg lift capacity (Assist RAM)
-- High-speed transmission for haulage
-- Heavy-duty front axle
-
-## Suitable Crops
-
-- Paddy
-- Sugarcane
-- Wheat
-- Potato
-
-## Why Buy from Prakash Motors?
-
-- Authorised dealer support
-- Fast service & genuine spares
-- Easy finance & insurance assistance
-
-> 📞 Contact us today for the **best on-road price in Nizamabad**
+## Robust Build
+Featuring a heavy-duty front axle and rear housing, the 3600-2 is built to withstand the abuse of hard soil and heavy loads for years.

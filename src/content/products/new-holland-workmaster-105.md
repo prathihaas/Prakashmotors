@@ -1,37 +1,21 @@
 ---
 title: "New Holland Workmaster 105"
 title_te: "న్యూ హాలండ్ వర్క్‌మాస్టర్ 105 ట్రాక్టర్"
-description: "A massive 106 HP tractor for large-scale farming and heavy implements."
 category: "Tractors"
-pubDate: 2026-02-06
 image: "/images/products/new-holland-workmaster-105.jpg"
-price: "₹28.00 – 30.00 Lakhs"
-engine_hp: 106
-fuel_type: "Diesel"
-transmission: "Power Shuttle"
+features: ["106 HP Engine", "AC Cabin", "Power Shuttle", "4WD Heavy Duty", "High Hydraulic Flow"]
+isRecommended: true
+whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%20Workmaster%20105"
 ---
+# The Mega Machine
 
-## Overview
+The **New Holland Workmaster 105** is not just a tractor; it's a powerhouse for large-scale commercial agriculture. With over 100 HP, it tackles jobs others can't.
 
-The **New Holland Workmaster 105** is the ultimate machine for large landholders. With over 100 HP, it can run the heaviest implements like large balers, laser levelers, and reversible ploughs.
+## Climate Controlled Cabin
+Farming doesn't stop for the weather. The factory-fitted AC cabin protects the operator from dust, heat, and noise, allowing for 24/7 operation.
 
-## Key Features
+## Massive Implement Capability
+Designed to pull the heaviest loads, including large square balers, laser levelers, and reversible ploughs, making it ideal for contractors.
 
-- 106 HP 4-cylinder engine
-- AC Cabin for operator comfort
-- 4WD heavy-duty drivetrain
-- High capacity hydraulic pump
-
-## Suitable Crops
-
-- Large scale commercial farming
-- Fodder handling
-- Land reclamation
-
-## Why Buy from Prakash Motors?
-
-- Authorised dealer support
-- Fast service & genuine spares
-- Easy finance & insurance assistance
-
-> 📞 Contact us today for the **best on-road price in Nizamabad**
+## Power Shuttle Transmission
+Change direction instantly without clutching. This heavy-duty transmission is built to withstand the constant back-and-forth nature of heavy loader work.
