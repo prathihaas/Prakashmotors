@@ -2,7 +2,7 @@
 title: "Sugarcane Harvester"
 title_te: "చెరకు హార్వెస్టర్"
 category: "Harvester"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/New_Holland_sugar_cane_harvester_Piracicaba_Brazil.jpg/640px-New_Holland_sugar_cane_harvester_Piracicaba_Brazil.jpg"
+image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/4a567b1c318446358752e06ff6c2fb69?v=3b332ca7"
 features: ["Minimize wastage", "Maximize tonnage", "Series: 4000 & 8000", "High Capacity", "Clean Cane Technology"]
 isRecommended: false
 whatsapp_message: "https://wa.me/919999999999?text=Interested%20in%20Sugarcane%20Harvester"
