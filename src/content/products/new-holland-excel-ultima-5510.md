@@ -2,7 +2,7 @@
 title: "New Holland Excel Ultima 5510"
 title_te: "న్యూ హాలండ్ ఎక్సెల్ అల్టిమా 5510"
 category: "Tractors"
-image: "/images/products/new-holland-excel-ultima-5510.jpg"
+image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/84e7abb04afe4fc6ae67f40e4f693e80?v=f0893171&t=size500"
 features: ["50 HP Ultima", "12F+12R Shuttle", "Bucket Seat", "2500kg Lift", "Loader Ready"]
 isRecommended: true
 whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%20Excel%20Ultima%205510"
@@ -19,3 +19,4 @@ Features a premium bucket seat with armrests and a spacious platform, treating t
 
 ## Heavy Duty Hydraulics
 With a massive 2500 kg lift capacity (assisted), it handles heavy mounted implements with ease, expanding the range of work you can accept.
+
