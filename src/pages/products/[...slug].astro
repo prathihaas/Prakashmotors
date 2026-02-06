@@ -14,7 +14,12 @@ const { product } = Astro.props;
 const { Content } = await product.render();
 ---
 
-<Layout title={product.data.title} description={`New Holland ${product.data.title} - ${product.data.title_te}`} image={product.data.image}>
+<Layout 
+  title={product.data.title} 
+  description={product.data.description || `New Holland ${product.data.title}`} 
+  image={product.data.image}
+>
+
     
     <!-- Navbar -->
     <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
