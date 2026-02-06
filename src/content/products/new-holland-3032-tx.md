@@ -1,11 +1,11 @@
 ---
-title: "New Holland 3032 NX"
-title_te: "న్యూ హాలండ్ 3032 NX ట్రాక్టర్"
+title: "New Holland 3032 TX"
+title_te: "న్యూ హాలండ్ 3032 TX ట్రాక్టర్"
 category: "Tractors"
-image: "/images/products/new-holland-3032-nx.jpg"
+image: "/images/products/new-holland-3032-Tx.jpg"
 features: ["35 HP Engine", "Lift-O-Matic", "Oil Immersed Brakes", "Low Maintenance", "Fuel Efficient"]
 isRecommended: true
-whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%203032%20NX"
+whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%203032%20TX"
 ---
 # The Reliable Workhorse
 
@@ -19,3 +19,4 @@ Equipped with Oil Immersed Multi-Disc Brakes, the 3032 NX ensures safety and lon
 
 ## Economical Operation
 Designed for the budget-conscious farmer, this model offers excellent fuel mileage without compromising on the power needed for rotavators and cultivators.
+
