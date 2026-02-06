@@ -7,6 +7,7 @@ features: ["35 HP Engine", "Lift-O-Matic", "Oil Immersed Brakes", "Low Maintenan
 isRecommended: true
 whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%203032%20TX"
 ---
+
 # The Reliable Workhorse
 
 The **New Holland 3032 TX** is a 35 HP tractor that has earned a reputation for reliability and low maintenance costs, making it a favorite for small to medium landholdings.
@@ -19,6 +20,7 @@ Equipped with Oil Immersed Multi-Disc Brakes, the 3032 NX ensures safety and lon
 
 ## Economical Operation
 Designed for the budget-conscious farmer, this model offers excellent fuel mileage without compromising on the power needed for rotavators and cultivators.
+
 
 
 
