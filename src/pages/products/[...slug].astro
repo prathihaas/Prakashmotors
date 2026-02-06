@@ -46,8 +46,16 @@ const { Content } = await product.render();
                    
                    <div class="bg-gray-50 p-8 rounded-xl border border-gray-100 mb-8">
                        <h3 class="font-bold text-[#001489] uppercase tracking-wider text-sm mb-6 border-b border-gray-200 pb-2">Key Specifications</h3>
-                       <ul class="space-y-4">
-                           {product.data.features.map(feature => (
+{product.data.features && (
+  <ul class="space-y-4">
+    {product.data.features.map(feature => (
+      <li class="flex items-start gap-3 text-gray-700 font-medium">
+        <i data-lucide="check-circle" class="w-5 h-5 text-[#001489] shrink-0 mt-0.5"></i>
+        {feature}
+      </li>
+    ))}
+  </ul>
+)}
                                <li class="flex items-start gap-3 text-gray-700 font-medium">
                                    <i data-lucide="check-circle" class="w-5 h-5 text-[#001489] shrink-0 mt-0.5"></i>
                                    {feature}
