@@ -1,9 +1,14 @@
 ---
-title: "New Holland 3230 TX "
+title: "New Holland 3230 TX"
 title_te: "న్యూ హాలండ్ 3230 TX సూపర్ ట్రాక్టర్"
 category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/4ed012d6c096494eaf4d5f5fca2b0f3c?v=a4fb85ca&t=size1100"
-features: ["42 HP Engine", "Digital Dashboard", "Multisensing Hydraulics", "Super Deluxe Seat", "Eco PTO Mode"]
+features:
+  - "42 HP Engine"
+  - "Digital Dashboard"
+  - "Multisensing Hydraulics"
+  - "Super Deluxe Seat"
+  - "Eco PTO Mode"
 isRecommended: true
 whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%203230%20TX%20Super"
 ---
@@ -19,4 +24,5 @@ A modern digital dashboard provides real-time information on tractor performance
 
 ## Fuel Saving Mode
 The Economy PTO mode allows you to run light implements at lower engine RPMs, saving significant amounts of diesel over time.
+
 
