@@ -1,139 +1,233 @@
 # Deployment Guide - Prakash Motors Website
 
-## Quick Deploy Options
+## 🚀 Current Deployment: Vercel
 
-### Option 1: GitHub Pages (Recommended)
+This website is **deployed on Vercel** with automatic deployments enabled.
 
-This website is configured to automatically deploy to GitHub Pages when changes are pushed to the `main` branch.
+### ✅ How Automatic Deployment Works
 
-#### Setup Instructions
+1. **Push code** to your GitHub repository
+2. **Vercel detects** the changes automatically
+3. **Builds** your site with `npm run build`
+4. **Deploys** to production
+5. **Live** in ~1-2 minutes! ✨
 
-1. **Enable GitHub Pages in Repository Settings**
-   - Go to: `Settings` → `Pages`
-   - Under "Source", select: **GitHub Actions**
-   - Save the settings
+**No manual deployment needed!** Just push to your main branch.
 
-2. **Merge Changes to Main Branch**
-   - Merge your feature branch to `main`
-   - The GitHub Actions workflow will automatically trigger
-   - Build the Astro site
-   - Deploy to GitHub Pages
+---
 
-3. **Access the Live Site**
-   - If using repository path: `https://prathihaas.github.io/Prakashmotors`
-   - If using custom domain: Configure in Settings → Pages → Custom domain
-   - Deployment typically takes 2-3 minutes
+## 📝 Making Updates to Your Live Site
 
-#### For Custom Domain
+```bash
+# 1. Make your changes to the code
+# 2. Commit your changes
+git add .
+git commit -m "Description of your changes"
 
-If you have a custom domain:
+# 3. Push to GitHub
+git push origin main
 
-1. Add CNAME file or configure in GitHub Pages settings
-2. Keep the default `astro.config.mjs` (no base path)
-3. Current config works perfectly for custom domains or root deployments
+# 4. That's it! Vercel automatically deploys 🎉
+```
 
-#### For GitHub Pages with Repository Path
+Check your Vercel dashboard to see the deployment progress.
 
-If deploying to `https://username.github.io/Prakashmotors`:
+---
 
-1. Uncomment these lines in `astro.config.mjs`:
-   ```javascript
-   site: 'https://prathihaas.github.io',
-   base: '/Prakashmotors',
-   ```
-2. Rebuild and deploy
+## 🔧 Vercel Configuration
 
-### Option 2: Netlify (Alternative)
+Your site is configured with:
 
-1. **Connect Repository**
-   - Go to [Netlify](https://netlify.com)
-   - Click "New site from Git"
-   - Connect your GitHub repository
+- **Build Command**: `npm run build`
+- **Output Directory**: `dist`
+- **Install Command**: `npm install`
+- **Framework**: Astro (auto-detected)
+- **Node Version**: 20
 
-2. **Configure Build Settings**
-   - Build command: `npm run build`
-   - Publish directory: `dist`
-   - Node version: 20
+Configuration is stored in: `vercel.json`
 
-3. **Deploy**
-   - Click "Deploy site"
-   - Netlify will automatically deploy on every push to main
+---
 
-### Option 3: Vercel (Alternative)
+## 🌐 Your Live Site
 
-1. **Import Project**
-   - Go to [Vercel](https://vercel.com)
-   - Click "New Project"
-   - Import your GitHub repository
+**Vercel Dashboard**: https://vercel.com/dashboard
 
-2. **Configure**
-   - Framework Preset: Astro
-   - Build command: `npm run build`
-   - Output directory: `dist`
+Your project URL will be:
+- Production: `your-project-name.vercel.app`
+- Preview deployments: Unique URL for each PR
 
-3. **Deploy**
-   - Click "Deploy"
-   - Vercel will automatically deploy on every push
+### Adding a Custom Domain
 
-## Manual Deployment
+1. Go to your project in **Vercel Dashboard**
+2. Click **Settings** → **Domains**
+3. Add your custom domain (e.g., `prakashmotors.com`)
+4. Follow DNS configuration instructions
+5. Vercel automatically handles SSL certificates!
 
-To manually trigger a GitHub Pages deployment:
+---
 
-1. Go to the **Actions** tab in GitHub
-2. Select the **Deploy to GitHub Pages** workflow
-3. Click **Run workflow**
-4. Select the `main` branch
-5. Click **Run workflow**
+## 🔄 Deployment Types
 
-## Local Testing
+### Production Deployments
+- **Triggered by**: Push to `main` branch
+- **URL**: Your production domain
+- **Environment**: Production
 
-Before deploying, always test locally:
+### Preview Deployments
+- **Triggered by**: Pull requests and other branches
+- **URL**: Unique preview URL (e.g., `project-git-branch.vercel.app`)
+- **Great for**: Testing changes before merging
+
+---
+
+## 📊 Monitoring Your Deployments
+
+### Vercel Dashboard
+1. Go to https://vercel.com/dashboard
+2. Select your project
+3. View:
+   - Deployment history
+   - Build logs
+   - Performance metrics
+   - Analytics
+
+### GitHub Integration
+- Vercel bot comments on your PRs
+- Deployment status checks on commits
+- Preview URLs in PR descriptions
+
+---
+
+## 🛠️ Advanced Configuration
+
+### Environment Variables
+
+If you need to add environment variables:
+
+1. Go to **Vercel Dashboard**
+2. Select your project
+3. **Settings** → **Environment Variables**
+4. Add variables for different environments:
+   - Production
+   - Preview
+   - Development
+
+After adding variables, redeploy for changes to take effect.
+
+### Build Settings
+
+To modify build settings:
+
+1. Edit `vercel.json` in your repository
+2. Or use Vercel Dashboard → **Settings** → **Build & Development Settings**
+
+---
+
+## 🔙 Rollbacks
+
+If you need to rollback to a previous version:
+
+1. Go to **Vercel Dashboard**
+2. Navigate to **Deployments**
+3. Find the stable deployment you want
+4. Click **•••** (three dots)
+5. Select **Promote to Production**
+
+---
+
+## 🧪 Local Testing
+
+Before pushing changes, always test locally:
 
 ```bash
 # Install dependencies
 npm install
 
-# Development server
+# Run development server
 npm run dev
+# Open http://localhost:4321
 
-# Build the site
+# Build for production
 npm run build
 
-# Preview the built site
+# Preview production build
 npm run preview
 ```
 
-## Deployment Status
+---
 
-Check deployment status in the **Actions** tab of the GitHub repository.
+## 🐛 Troubleshooting
 
-## Troubleshooting
+### Build Fails on Vercel
 
-### GitHub Pages Issues
+1. **Check build logs** in Vercel dashboard under Deployments
+2. **Test locally**: Run `npm run build` on your machine
+3. **Common issues**:
+   - Missing dependencies: Run `npm install`
+   - Node version mismatch: Vercel uses Node 20
+   - Environment variables: Check if any are missing
 
-- **404 Error**: Ensure GitHub Pages is enabled and set to use GitHub Actions
-- **Build Fails**: Check the Actions log for error details
-- **Assets Not Loading**: 
-  - If using custom domain: no changes needed
-  - If using repository path: uncomment `site` and `base` in `astro.config.mjs`
+### Site Not Updating
 
-### General Issues
+1. **Check deployment status** in Vercel dashboard
+2. **Verify git push**: Make sure changes are pushed to correct branch
+3. **Clear cache**: In Vercel dashboard, redeploy with cache cleared
+4. **Hard refresh browser**: Ctrl+Shift+R (Windows) or Cmd+Shift+R (Mac)
 
-- **Node Version**: Ensure you're using Node.js 18 or higher
-- **Dependencies**: Run `npm install` to ensure all dependencies are installed
-- **Cache Issues**: Try `npm ci` for a clean install
+### 404 Errors
 
-## Configuration Files
+1. **Check routes**: Ensure pages exist in `src/pages/`
+2. **Verify build output**: Check `dist/` folder after build
+3. **Review Astro config**: Ensure no base path conflicts
 
-- `.github/workflows/deploy.yml` - GitHub Actions workflow
-- `astro.config.mjs` - Site URL and base path configuration
-- `package.json` - Build scripts and dependencies
+---
 
-## Support
+## 📚 Alternative Hosting Options
 
-For issues:
-1. Check the Actions tab for build logs
-2. Review this guide for configuration options
-3. Ensure all dependencies are installed
-4. Try a clean build: `rm -rf node_modules dist && npm install && npm run build`
+While you're currently on Vercel, here are alternatives:
 
+### Netlify
+
+1. Connect GitHub repository at https://netlify.com
+2. Build settings:
+   - Build command: `npm run build`
+   - Publish directory: `dist`
+3. Deploy automatically on push
+
+### GitHub Pages
+
+1. Add `.github/workflows/deploy.yml` workflow
+2. Enable GitHub Pages in repository settings
+3. Choose "GitHub Actions" as source
+
+### Cloudflare Pages
+
+1. Connect repository at https://pages.cloudflare.com
+2. Build settings same as Netlify
+3. Benefit from Cloudflare's CDN
+
+---
+
+## 📞 Support Resources
+
+- **Vercel Docs**: https://vercel.com/docs
+- **Astro Docs**: https://docs.astro.build/en/guides/deploy/vercel/
+- **Vercel Support**: Available in dashboard
+
+---
+
+## ✅ Quick Reference
+
+| Action | Command |
+|--------|---------|
+| Install dependencies | `npm install` |
+| Run dev server | `npm run dev` |
+| Build for production | `npm run build` |
+| Preview build | `npm run preview` |
+| Deploy | `git push` (automatic via Vercel) |
+
+---
+
+**Status**: ✅ **Deployed on Vercel** with automatic deployments active
+
+**Your live site updates automatically whenever you push to the main branch!**

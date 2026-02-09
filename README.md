@@ -63,15 +63,29 @@ npm run preview
 
 ## 🚀 Deployment
 
-The site automatically deploys to GitHub Pages when changes are pushed to the `main` branch.
+The site is **deployed on Vercel** with automatic deployments enabled.
+
+**Live Site**: Check your Vercel dashboard for the production URL
+
+### How it Works
+
+1. Push code to GitHub
+2. Vercel automatically builds and deploys
+3. Site is live in ~1-2 minutes
 
 For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ### Quick Deploy
 
-1. Merge your changes to `main` branch
-2. GitHub Actions will automatically build and deploy
-3. Site will be live at your configured URL
+Simply push your changes to the main branch:
+
+```bash
+git add .
+git commit -m "Your changes"
+git push origin main
+```
+
+Vercel handles the rest automatically! ✨
 
 ## 📁 Project Structure
 
@@ -89,11 +103,9 @@ Prakashmotors/
 │       │   └── [...slug].astro  # Dynamic product routes
 │       └── blog/         # Blog pages
 │           └── [...slug].astro  # Dynamic blog routes
-├── .github/
-│   └── workflows/
-│       └── deploy.yml    # Deployment workflow
 ├── public/               # Static assets
 ├── astro.config.mjs      # Astro configuration
+├── vercel.json           # Vercel deployment config
 ├── tailwind.config.mjs   # Tailwind configuration
 └── package.json          # Dependencies
 ```
