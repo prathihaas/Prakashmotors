@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/f88b69657e624374a7e7e784a03cc7ba?v=68c68cb7&t=size500"
 features: ["47 HP Excel Design", "Synchro Shuttle", "Flat Deck Platform", "Independent PTO", "4WD Optional"]
 isRecommended: false
-whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%20Excel%204710"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Excel%204710"
 ---
 # Style Meets Substance
 
@@ -19,4 +19,5 @@ The completely flat platform with a suspended pedal system provides car-like leg
 
 ## Independent PTO Clutch
 A separate clutch lever for the PTO ensures that you can stop the tractor movement without stopping the implement, ideal for baling and threshing.
+
 
