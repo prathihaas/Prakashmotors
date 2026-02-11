@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/60b9654ccd5c44718066f67d98cdefd2?v=b6147281&t=size500"
 features: ["17 HP Engine", "4WD Technology", "Narrow Track Width", "Side-Shift Gear", "Compact Design"]
 isRecommended: true
-whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%20Simba%2020"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Simba%2020"
 ---
 # The Compact Powerhouse
 
@@ -19,4 +19,5 @@ With its narrow track width, this machine can easily navigate between rows of co
 
 ## Driver Comfort
 Despite its small size, it features a side-shift gear lever and a comfortable platform, ensuring the operator can work long hours with minimal fatigue.
+
 
