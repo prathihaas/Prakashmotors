@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/895d027c50304042877e261249643f44?v=03fcd0b5&t=size1100"
 features: ["29 HP Engine", "Semi-Constant Mesh", "High Lift Capacity", "Adjustable Rim", "Versatile Utility"]
 isRecommended: false
-whatsapp_message: "https://wa.me/917981913360?text=Interested%20in%20New%20Holland%20Simba%2030"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Simba%2030"
 ---
 # The Versatile All-Rounder
 
@@ -19,4 +19,5 @@ The adjustable rim allows farmers to change the track width, making it adaptable
 
 ## Heavy Lifting
 It boasts a high lift capacity for its class, allowing it to handle heavier implements and haulage trolleys with ease.
+
 
