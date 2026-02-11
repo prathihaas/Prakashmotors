@@ -5,7 +5,7 @@ category: "Harvester"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/4a567b1c318446358752e06ff6c2fb69?v=3b332ca7"
 features: ["Minimize wastage", "Maximize tonnage", "Series: 4000 & 8000", "High Capacity", "Clean Cane Technology"]
 isRecommended: false
-whatsapp_message: "https://wa.me/919999999999?text=Interested%20in%20Sugarcane%20Harvester"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20Sugarcane%20Harvester"
 ---
 # Revolutionizing Sugarcane Farming
 
