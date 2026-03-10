@@ -1,0 +1,12 @@
+{
+  "redirects": [
+    { "source": "/about-us", "destination": "/#contact", "permanent": true },
+    { "source": "/about-us/", "destination": "/#contact", "permanent": true },
+    { "source": "/combine-harvester", "destination": "/products", "permanent": true },
+    { "source": "/combine-harvester/", "destination": "/products", "permanent": true },
+    { "source": "/tractors", "destination": "/products", "permanent": true },
+    { "source": "/tractors/", "destination": "/products", "permanent": true },
+    { "source": "/contact-us", "destination": "/#contact", "permanent": true },
+    { "source": "/contact", "destination": "/#contact", "permanent": true }
+  ]
+}
