@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d0be6f47c71949239213c5774c77f204?v=ecc9f922&t=size1100"
 features: ["50 HP FPT", "7-Speed Eptraa PTO", "Double Clutch", "Asli Hero", "1800kg Lift"]
 isRecommended: true
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203600-2%20Excel"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203600-2%20Excel%20%5BSource%3A%20PM-Product%5D"
 ---
 # The 'Asli Hero'
 

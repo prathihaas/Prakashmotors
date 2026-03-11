@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/c852241c5693443381ffb76ca7dd56af?v=bd80a446&t=size500"
 features: ["45 HP Engine", "Excel Ergonomics", "7-Speed PTO", "Side Shift", "Modern Styling"]
 isRecommended: false
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Excel%204510"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Excel%204510%20%5BSource%3A%20PM-Product%5D"
 ---
 # Modern Farming Defined
 

@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/84e7abb04afe4fc6ae67f40e4f693e80?v=f0893171&t=size500"
 features: ["50 HP Ultima", "12F+12R Shuttle", "Bucket Seat", "2500kg Lift", "Loader Ready"]
 isRecommended: true
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Excel%20Ultima%205510"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Excel%20Ultima%205510%20%5BSource%3A%20PM-Product%5D"
 ---
 # The Ultimate Performer
 

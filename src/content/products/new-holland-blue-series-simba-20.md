@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/60b9654ccd5c44718066f67d98cdefd2?v=b6147281&t=size500"
 features: ["17 HP Engine", "4WD Technology", "Narrow Track Width", "Side-Shift Gear", "Compact Design"]
 isRecommended: true
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Simba%2020"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Simba%2020%20%5BSource%3A%20PM-Product%5D"
 ---
 # The Compact Powerhouse
 

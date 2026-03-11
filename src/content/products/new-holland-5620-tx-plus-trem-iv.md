@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/0abec337fab246e0873b9ab8e6d7ecd1?v=c1706b5b&t=size500"
 features: ["65 HP CRDI", "3 Drive Modes", "Skywatch Telematics", "Trem-IV Compliant", "Heavy Duty"]
 isRecommended: true
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%205620%20TX%20Plus"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%205620%20TX%20Plus%20%5BSource%3A%20PM-Product%5D"
 ---
 # The Intelligent Giant
 
