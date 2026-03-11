@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7ecf4885e29e487585887e166b18e762?v=e2dea611&t=size1100"
 features: ["35 HP Engine", "Lift-O-Matic", "Oil Immersed Brakes", "Low Maintenance", "Fuel Efficient"]
 isRecommended: true
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203032%20TX%20%5BSource%3A%20PM-Product%5D"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203032%20TX%20%5BW-PM%5D"
 ---
 
 # The Reliable Workhorse

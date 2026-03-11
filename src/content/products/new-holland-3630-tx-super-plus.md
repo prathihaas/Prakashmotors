@@ -12,7 +12,7 @@ features:
   - "Double Clutch"
   - "ROPS Safety"
 isRecommended: true
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203630%20TX%20Super%20Plus%20%5BSource%3A%20PM-Product%5D"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203630%20TX%20Super%20Plus%20%5BW-PM%5D"
 ---
 
 # The Technology Leader

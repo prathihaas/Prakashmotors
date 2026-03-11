@@ -10,7 +10,7 @@ features:
   - "Super Deluxe Seat"
   - "Eco PTO Mode"
 isRecommended: true
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203230%20TX%20Super%20%5BSource%3A%20PM-Product%5D"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203230%20TX%20Super%20%5BW-PM%5D"
 ---
 # The Super Performer
 

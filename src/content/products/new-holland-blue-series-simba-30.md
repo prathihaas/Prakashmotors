@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/895d027c50304042877e261249643f44?v=03fcd0b5&t=size1100"
 features: ["29 HP Engine", "Semi-Constant Mesh", "High Lift Capacity", "Adjustable Rim", "Versatile Utility"]
 isRecommended: false
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Simba%2030%20%5BSource%3A%20PM-Product%5D"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Simba%2030%20%5BW-PM%5D"
 ---
 # The Versatile All-Rounder
 

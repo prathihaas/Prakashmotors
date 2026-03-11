@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/1e3ae654e8894fb080154874833663bc?v=e001ebac&t=size1200"
 features: ["106 HP Engine", "AC Cabin", "Power Shuttle", "4WD Heavy Duty", "High Hydraulic Flow"]
 isRecommended: true
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Workmaster%20105%20%5BSource%3A%20PM-Product%5D"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Workmaster%20105%20%5BW-PM%5D"
 ---
 # The Mega Machine
 

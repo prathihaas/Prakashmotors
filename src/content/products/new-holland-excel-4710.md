@@ -5,7 +5,7 @@ category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/f88b69657e624374a7e7e784a03cc7ba?v=68c68cb7&t=size500"
 features: ["47 HP Excel Design", "Synchro Shuttle", "Flat Deck Platform", "Independent PTO", "4WD Optional"]
 isRecommended: false
-whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Excel%204710%20%5BSource%3A%20PM-Product%5D"
+whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Excel%204710%20%5BW-PM%5D"
 ---
 # Style Meets Substance
 
