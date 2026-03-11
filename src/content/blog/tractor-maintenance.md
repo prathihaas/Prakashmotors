@@ -1,11 +1,21 @@
 ---
 title: "5 Tips for Tractor Maintenance"
 title_te: "ట్రాక్టర్ నిర్వహణకు 5 చిట్కాలు"
-pubDate: 2024-10-12
-description: "Regular maintenance ensures long life for your New Holland tractor. Check oil levels daily."
-image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&q=80&w=800"
+date: "2024-10-12"
+author: "Prakash Motors Team"
 category: "Maintenance"
+tags:
+  - "tractor maintenance"
+  - "New Holland"
+  - "Telangana"
+  - "farming tips"
+featured_image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&q=80&w=800"
+excerpt: "Regular maintenance ensures long life for your New Holland tractor. Check oil levels daily."
+seo_title: "Tractor Maintenance Tips for Telangana Farmers | Prakash Motors"
+seo_description: "Essential tractor maintenance tips to keep your New Holland running all season. Service guidance from Prakash Motors, Nizamabad."
+readTime: "5 min read"
 ---
+
 # 5 Tips for Tractor Maintenance
 
 Maintaining your New Holland tractor is essential for long-term performance, especially in the tough soil conditions of Telangana.

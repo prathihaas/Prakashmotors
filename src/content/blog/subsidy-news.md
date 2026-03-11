@@ -1,11 +1,22 @@
 ---
 title: "Telangana Tractor Subsidies 2024"
 title_te: "ట్రాక్టర్ సబ్సిడీ వివరాలు"
-pubDate: 2024-08-15
-description: "New government schemes for farmers in Nizamabad district. How to apply for subsidies."
-image: "https://images.unsplash.com/photo-1532629345422-7515f3d16335?auto=format&fit=crop&q=80&w=800"
+date: "2024-08-15"
+author: "Prakash Motors Team"
 category: "Finance"
+tags:
+  - "subsidy"
+  - "tractor"
+  - "Telangana"
+  - "farmers"
+  - "Nizamabad"
+featured_image: "https://images.unsplash.com/photo-1532629345422-7515f3d16335?auto=format&fit=crop&q=80&w=800"
+excerpt: "New government schemes for farmers in Nizamabad district. How to apply for subsidies."
+seo_title: "Tractor Subsidy News Telangana 2024 | Prakash Motors Nizamabad"
+seo_description: "Latest tractor subsidy news for Telangana farmers. Eligibility, amounts, and how to apply at Prakash Motors in Nizamabad."
+readTime: "5 min read"
 ---
+
 # Government Subsidies for Farm Machinery
 
 The Telangana government has announced new subsidies for farm mechanization under the **Rythu Bandhu** related schemes.

@@ -1,10 +1,14 @@
 ---
 title: "Telangana Tractor Subsidy 2026 — How to Apply (Complete Guide for Nizamabad Farmers)"
 title_te: "తెలంగాణ ట్రాక్టర్ సబ్సిడీ 2026 — దరఖాస్తు ఎలా చేయాలి (నిజామాబాద్ రైతులకు పూర్తి గైడ్)"
-pubDate: 2026-03-10
-description: "Step-by-step guide to applying for the Telangana government tractor subsidy scheme in 2026. Who is eligible, what documents you need, and how much subsidy you can get in Nizamabad district."
-image: "https://images.unsplash.com/photo-1532629345422-7515f3d16335?auto=format&fit=crop&q=80&w=800"
+date: "2026-03-10"
+author: "Prakash Motors Team"
 category: "Finance"
+featured_image: "https://images.unsplash.com/photo-1532629345422-7515f3d16335?auto=format&fit=crop&q=80&w=800"
+excerpt: "Step-by-step guide to applying for the Telangana government tractor subsidy scheme in 2026. Who is eligible, what documents you need, and how much subsidy"
+seo_title: "Telangana Tractor Subsidy 2026 — How to Apply (Complete"
+seo_description: "Step-by-step guide to applying for the Telangana government tractor subsidy scheme in 2026. Who is eligible, what documents you need, and how much subsidy"
+readTime: "6 min read"
 ---
 
 # Telangana Tractor Subsidy 2026 — How to Apply (Complete Guide for Nizamabad Farmers)
