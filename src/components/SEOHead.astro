@@ -4,12 +4,13 @@ const {
   title = "Prakash Motors | Authorized New Holland Dealer in Nizamabad, Telangana",
   description = "Prakash Motors is an authorized New Holland dealer in Nizamabad, Telangana 503001. Buy tractors, farm equipment, and get expert service and genuine parts.",
   canonical = Astro.url.href,
-  image = "/og-image.svg",
+  image = "/og-image.jpg",
 } = Astro.props;
 ---
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 
 <!-- Open Graph -->
 <meta property="og:type" content="website" />
@@ -17,6 +18,9 @@ const {
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonical} />
 <meta property="og:image" content={new URL(image, Astro.site).toString()} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/jpeg" />
 <meta property="og:site_name" content="Prakash Motors" />
 <meta property="og:locale" content="en_IN" />
 
@@ -46,7 +50,7 @@ const {
   "brand": { "@type": "Brand", "name": "New Holland" },
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Nizamabad",
+    "streetAddress": "Opposite New Bus Stand",
     "addressLocality": "Nizamabad",
     "addressRegion": "Telangana",
     "postalCode": "503001",
