@@ -1,5 +1,5 @@
 ---
-
+title: "New Holland Excel 4710"
 seo_title: "New Holland Excel 4710 Tractor Price in Nizamabad | Prakash Motors"
 title_te: "న్యూ హాలండ్ ఎక్సెల్ 4710 ట్రాక్టర్"
 category: "Tractors"

@@ -1,5 +1,5 @@
 ---
-
+title: "New Holland Blue Series Simba 20"
 seo_title: "New Holland Blue Series Simba 20 Price in Nizamabad | Prakash Motors"
 title_te: "న్యూ హాలండ్ బ్లూ సిరీస్ సింబా 20 ట్రాక్టర్"
 category: "Tractors"

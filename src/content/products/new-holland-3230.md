@@ -1,5 +1,5 @@
 ---
-
+title: "New Holland 3230 TX"
 seo_title: "New Holland 3230 TX Price in Nizamabad | Prakash Motors"
 title_te: "న్యూ హాలండ్ 3230 TX సూపర్ ట్రాక్టర్"
 category: "Tractors"

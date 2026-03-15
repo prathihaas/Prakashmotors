@@ -1,5 +1,5 @@
 ---
-
+title: "New Holland 3600-2 Excel"
 seo_title: "New Holland 3600-2 Excel Price in Nizamabad | Prakash Motors"
 title_te: "న్యూ హాలండ్ 3600-2 ఎక్సెల్"
 category: "Tractors"
