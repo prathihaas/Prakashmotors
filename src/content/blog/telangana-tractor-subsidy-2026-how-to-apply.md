@@ -5,9 +5,9 @@ date: "2026-03-10"
 author: "Prakash Motors Team"
 category: "Finance"
 featured_image: "https://images.unsplash.com/photo-1532629345422-7515f3d16335?auto=format&fit=crop&q=80&w=800"
-excerpt: "Step-by-step guide to applying for the Telangana government tractor subsidy scheme in 2026. Who is eligible, what documents you need, and how much subsidy"
-seo_title: "Telangana Tractor Subsidy 2026 — How to Apply (Complete"
-seo_description: "Step-by-step guide to applying for the Telangana government tractor subsidy scheme in 2026. Who is eligible, what documents you need, and how much subsidy"
+excerpt: "Step-by-step guide to applying for the Telangana government tractor subsidy scheme in 2026. Who is eligible, what documents you need, and how much you can save."
+seo_title: "Telangana Tractor Subsidy 2026 — Complete Application Guide | Prakash Motors Nizamabad"
+seo_description: "Complete guide to Telangana tractor subsidy 2026. Eligibility, required documents, subsidy amount, and how to apply online. Get expert help from Prakash Motors, authorized New Holland dealer in Nizamabad."
 readTime: "6 min read"
 ---
 

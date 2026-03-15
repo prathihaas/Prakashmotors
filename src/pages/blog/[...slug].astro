@@ -19,9 +19,28 @@ const {
 } = post.data;
 
 const displayDate = date.toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' });
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": seo_title || title,
+  "description": seo_description || excerpt,
+  "image": featured_image || "https://www.prakashmotors.in/og-image.jpg",
+  "author": { "@type": "Person", "name": author || "Prakash Motors Team" },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Prakash Motors",
+    "logo": { "@type": "ImageObject", "url": "https://www.prakashmotors.in/logo.png" }
+  },
+  "datePublished": date.toISOString(),
+  "dateModified": date.toISOString(),
+  "url": Astro.url.href,
+  "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }
+};
 ---
 
 <Layout title={seo_title} description={seo_description} image={featured_image}>
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 
   <!-- Navbar -->
   <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">

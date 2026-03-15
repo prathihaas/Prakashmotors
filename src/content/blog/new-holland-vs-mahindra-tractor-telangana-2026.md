@@ -5,9 +5,9 @@ date: "2026-03-10"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 featured_image: "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&q=80&w=800"
-excerpt: "An honest comparison of New Holland and Mahindra tractors for paddy, cotton, and turmeric farming in Nizamabad, Telangana. Power, price, service, and"
-seo_title: "New Holland vs Mahindra Tractor 2026 — Which is Best for"
-seo_description: "An honest comparison of New Holland and Mahindra tractors for paddy, cotton, and turmeric farming in Nizamabad, Telangana. Power, price, service, and"
+excerpt: "An honest comparison of New Holland and Mahindra tractors for paddy, cotton, and turmeric farming in Nizamabad, Telangana. Power, price, service, and our verdict."
+seo_title: "New Holland vs Mahindra Tractor 2026 — Best for Telangana Farmers | Prakash Motors"
+seo_description: "New Holland vs Mahindra tractor comparison for Telangana farmers. Compare power, price, service and fuel efficiency for paddy, cotton & turmeric. Buy from Prakash Motors Nizamabad."
 readTime: "6 min read"
 ---
 
