@@ -23,6 +23,7 @@ const blog = defineCollection({
 const products = defineCollection({
   schema: z.object({
     title: z.string(),
+    seo_title: z.string().optional(),
     title_te: z.string(),
     category: z.string(),
     image: z.string(),

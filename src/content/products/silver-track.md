@@ -1,5 +1,6 @@
 ---
-title: "Silver Track"
+
+seo_title: "Silver Track Combine Harvester Price in Nizamabad | Prakash Motors"
 title_te: "సిల్వర్ ట్రాక్ హార్వెస్టర్"
 category: "Harvester"
 image: "https://5.imimg.com/data5/SELLER/Default/2026/1/577771425/WM/WO/KM/48488483/100-hp-silver-track-combine-harvester-1000x1000.jpg"

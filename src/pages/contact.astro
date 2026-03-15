@@ -1,0 +1,126 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const title = "Contact Prakash Motors | Authorized New Holland Dealer Nizamabad";
+const description = "Contact Prakash Motors in Nizamabad, Telangana. Call +91-9030857333 or WhatsApp for tractor prices, service bookings, and farm equipment enquiries.";
+---
+
+<Layout title={title} description={description}>
+
+  <!-- Navbar -->
+  <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center h-20">
+        <a href="/" class="flex items-center gap-3">
+          <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl shadow-sm"><span class="text-[#FFD100] scale-125">P</span></div>
+          <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
+        </a>
+        <a href="/" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] flex items-center gap-1">
+          <i data-lucide="arrow-left" class="w-4 h-4"></i> Back to Home
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="pt-28 pb-24 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Page Header -->
+      <div class="text-center mb-14">
+        <h1 class="text-4xl md:text-5xl font-black text-[#001489] uppercase mb-3">Contact Prakash Motors</h1>
+        <p class="font-telugu text-2xl font-bold text-gray-500 mb-4">ప్రకాష్ మోటార్స్ సంప్రదించండి</p>
+        <p class="text-lg text-gray-500 max-w-xl mx-auto">Authorized New Holland Dealer in Nizamabad, Telangana. Reach us for tractor prices, farm equipment demos, and service support.</p>
+      </div>
+
+      <!-- Contact Cards Grid -->
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-14">
+
+        <!-- WhatsApp -->
+        <a
+          href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20contact%20Prakash%20Motors%2C%20Nizamabad."
+          target="_blank" rel="noopener noreferrer"
+          class="group bg-[#001489] p-8 rounded-2xl text-center hover:bg-[#000E5C] transition-all duration-300 transform hover:-translate-y-1 shadow-lg"
+        >
+          <div class="w-12 h-12 mx-auto bg-white/10 text-white rounded-full flex items-center justify-center mb-4">
+            <i data-lucide="message-square" class="w-6 h-6"></i>
+          </div>
+          <p class="font-bold text-lg text-white">WhatsApp</p>
+          <p class="text-white/70 text-sm mt-1">+91 90308 57333</p>
+          <p class="font-telugu text-white/60 text-xs mt-1">వాట్సాప్ పంపండి</p>
+        </a>
+
+        <!-- Phone -->
+        <a
+          href="tel:+919030857333"
+          class="group bg-white border-2 border-[#001489] p-8 rounded-2xl text-center hover:bg-[#001489] hover:text-white transition-all duration-300 transform hover:-translate-y-1 shadow-lg"
+        >
+          <div class="w-12 h-12 mx-auto bg-[#001489]/10 group-hover:bg-white/10 text-[#001489] group-hover:text-white rounded-full flex items-center justify-center mb-4">
+            <i data-lucide="phone" class="w-6 h-6"></i>
+          </div>
+          <p class="font-bold text-lg text-[#001489] group-hover:text-white">Call Now</p>
+          <p class="text-gray-500 group-hover:text-white/70 text-sm mt-1">+91 90308 57333</p>
+          <p class="font-telugu text-gray-400 group-hover:text-white/60 text-xs mt-1">ఇప్పుడే కాల్ చేయండి</p>
+        </a>
+
+        <!-- Directions -->
+        <a
+          href="https://maps.app.goo.gl/NizamabadPrakashMotors"
+          target="_blank" rel="noopener noreferrer"
+          class="group bg-white border-2 border-[#001489] p-8 rounded-2xl text-center hover:bg-[#001489] hover:text-white transition-all duration-300 transform hover:-translate-y-1 shadow-lg"
+        >
+          <div class="w-12 h-12 mx-auto bg-[#001489]/10 group-hover:bg-white/10 text-[#001489] group-hover:text-white rounded-full flex items-center justify-center mb-4">
+            <i data-lucide="map-pin" class="w-6 h-6"></i>
+          </div>
+          <p class="font-bold text-lg text-[#001489] group-hover:text-white">Get Directions</p>
+          <p class="text-gray-500 group-hover:text-white/70 text-sm mt-1">Open in Maps</p>
+          <p class="font-telugu text-gray-400 group-hover:text-white/60 text-xs mt-1">దారి చూపించండి</p>
+        </a>
+
+      </div>
+
+      <!-- Address + Hours -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-14">
+        <div class="bg-gray-50 rounded-2xl p-8 border border-gray-100">
+          <h2 class="text-xl font-black text-[#001489] uppercase mb-4">Showroom Address</h2>
+          <p class="font-bold text-gray-800 text-lg">Prakash Motors</p>
+          <p class="text-gray-600 mt-1">Opposite New Bus Stand,</p>
+          <p class="text-gray-600">Nizamabad, Telangana – 503001</p>
+          <p class="font-telugu text-gray-500 mt-3">అపోజిట్ న్యూ బస్ స్టాండ్,</p>
+          <p class="font-telugu text-gray-500">నిజామాబాద్, తెలంగాణ – 503001</p>
+        </div>
+        <div class="bg-gray-50 rounded-2xl p-8 border border-gray-100">
+          <h2 class="text-xl font-black text-[#001489] uppercase mb-4">Business Hours</h2>
+          <div class="space-y-2 text-gray-700">
+            <div class="flex justify-between">
+              <span class="font-medium">Monday – Saturday</span>
+              <span class="font-bold text-[#001489]">9:00 AM – 7:00 PM</span>
+            </div>
+            <div class="flex justify-between">
+              <span class="font-medium">Sunday</span>
+              <span class="text-gray-400">Closed</span>
+            </div>
+          </div>
+          <p class="font-telugu text-gray-500 mt-4 text-sm">సోమవారం – శనివారం: ఉదయం 9 – సాయంత్రం 7</p>
+        </div>
+      </div>
+
+      <!-- What to Expect CTA -->
+      <div class="bg-[#001489] rounded-2xl p-10 text-center text-white">
+        <h2 class="text-2xl font-black uppercase mb-2">Visit Our Showroom Today</h2>
+        <p class="font-telugu text-lg font-bold text-white/70 mb-4">నేడే మా షోరూమ్‌ను సందర్శించండి</p>
+        <p class="text-white/80 max-w-lg mx-auto mb-8">See the full range of New Holland tractors and farm equipment. Get live demo, check on-road price, and arrange easy EMI financing — all in one visit.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="/#products" class="bg-[#FFD100] text-[#001489] font-black px-8 py-3 rounded-xl hover:bg-yellow-300 transition uppercase tracking-wide">
+            View All Machinery
+          </a>
+          <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20book%20a%20farm%20equipment%20demo%20at%20Prakash%20Motors." target="_blank" class="bg-white/10 text-white font-bold px-8 py-3 rounded-xl hover:bg-white/20 transition border border-white/30">
+            Book a Demo
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <script>if (typeof lucide !== 'undefined') { lucide.createIcons(); }</script>
+</Layout>

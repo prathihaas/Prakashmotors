@@ -15,7 +15,7 @@ const { Content } = await product.render();
 ---
 
 <Layout 
-  title={product.data.title} 
+  title={product.data.seo_title || product.data.title} 
   description={product.data.description || `New Holland ${product.data.title}`} 
   image={product.data.image}
 >

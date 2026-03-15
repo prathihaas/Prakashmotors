@@ -1,5 +1,6 @@
 ---
-title: "New Holland 3032 TX"
+
+seo_title: "New Holland 3032 TX Tractor Price in Nizamabad | Prakash Motors"
 title_te: "న్యూ హాలండ్ 3032 TX ట్రాక్టర్"
 category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7ecf4885e29e487585887e166b18e762?v=e2dea611&t=size1100"

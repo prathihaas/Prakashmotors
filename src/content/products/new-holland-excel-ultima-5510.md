@@ -1,5 +1,6 @@
 ---
-title: "New Holland Excel Ultima 5510"
+
+seo_title: "New Holland Excel Ultima 5510 Price in Nizamabad | Prakash Motors"
 title_te: "న్యూ హాలండ్ ఎక్సెల్ అల్టిమా 5510"
 category: "Tractors"
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/84e7abb04afe4fc6ae67f40e4f693e80?v=f0893171&t=size500"
