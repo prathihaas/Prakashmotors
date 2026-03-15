@@ -10,7 +10,7 @@ tags:
   - "Telangana"
   - "farmers"
   - "Nizamabad"
-featured_image: "https://images.unsplash.com/photo-1532629345422-7515f3d16335?auto=format&fit=crop&q=80&w=800"
+featured_image: "/images/blog/telangana-tractor-subsidy-2026.jpg"
 excerpt: "New government schemes for farmers in Nizamabad district. How to apply for subsidies."
 seo_title: "Tractor Subsidy News Telangana 2024 | Prakash Motors Nizamabad"
 seo_description: "Latest tractor subsidy news for Telangana farmers. Eligibility, amounts, and how to apply at Prakash Motors in Nizamabad."

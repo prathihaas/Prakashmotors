@@ -10,7 +10,7 @@ tags:
   - "Telangana"
   - "New Holland"
   - "Silver Track"
-featured_image: "https://images.unsplash.com/photo-1595123550441-d377e017de6a?auto=format&fit=crop&q=80&w=800"
+featured_image: "/images/blog/paddy-harvesting.jpg"
 excerpt: "Using Silver Track harvesters during the right moisture window prevents grain loss."
 seo_title: "Best Time for Paddy Harvesting in Telangana | Prakash Motors"
 seo_description: "Learn when to harvest paddy in Telangana for maximum yield. Expert guidance from Prakash Motors, New Holland dealer in Nizamabad."

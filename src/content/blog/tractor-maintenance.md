@@ -9,7 +9,7 @@ tags:
   - "New Holland"
   - "Telangana"
   - "farming tips"
-featured_image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&q=80&w=800"
+featured_image: "/images/blog/tractor-maintenance.jpg"
 excerpt: "Regular maintenance ensures long life for your New Holland tractor. Check oil levels daily."
 seo_title: "Tractor Maintenance Tips for Telangana Farmers | Prakash Motors"
 seo_description: "Essential tractor maintenance tips to keep your New Holland running all season. Service guidance from Prakash Motors, Nizamabad."
