@@ -12,6 +12,24 @@ export async function getStaticPaths() {
 
 const { product } = Astro.props;
 const { Content } = await product.render();
+const productSchema = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": product.data.title,
+  "image": product.data.image,
+  "brand": { "@type": "Brand", "name": "New Holland" },
+  "category": product.data.category,
+  "offers": {
+    "@type": "Offer",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "LocalBusiness",
+      "name": "Prakash Motors",
+      "url": "https://www.prakashmotors.in"
+    }
+  }
+};
 ---
 
 <Layout 
@@ -19,6 +37,9 @@ const { Content } = await product.render();
   description={product.data.description || `New Holland ${product.data.title}`} 
   image={product.data.image}
 >
+
+  <!-- Product JSON-LD schema for rich results -->
+  <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
 
     
     <!-- Navbar -->
