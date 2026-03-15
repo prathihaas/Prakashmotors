@@ -1,4 +1,4 @@
-﻿---
+---
 // SEOHead.astro - Prakash Motors (New Holland)
 const {
   title = "Prakash Motors | Authorized New Holland Dealer in Nizamabad, Telangana",
@@ -6,6 +6,37 @@ const {
   canonical = Astro.url.href,
   image = "/og-image.jpg",
 } = Astro.props;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Prakash Motors",
+  "url": "https://www.prakashmotors.in",
+  "logo": "https://www.prakashmotors.in/logo.png",
+  "image": "https://www.prakashmotors.in/og-image.jpg",
+  "description": "Authorized New Holland dealer in Nizamabad, Telangana. Tractors, farm equipment, genuine parts, and expert agricultural service.",
+  "telephone": "+91-9030857333",
+  "brand": { "@type": "Brand", "name": "New Holland" },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Opposite New Bus Stand",
+    "addressLocality": "Nizamabad",
+    "addressRegion": "Telangana",
+    "postalCode": "503001",
+    "addressCountry": "IN"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": 18.6725, "longitude": 78.0941 },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "opens": "09:00",
+    "closes": "19:00"
+  }],
+  "sameAs": [
+    "https://www.facebook.com/prakashmotors",
+    "https://www.instagram.com/prakashmotors"
+  ]
+};
 ---
 <title>{title}</title>
 <meta name="description" content={description} />
@@ -36,32 +67,5 @@ const {
 <meta name="geo.position" content="18.6725;78.0941" />
 <meta name="ICBM" content="18.6725, 78.0941" />
 
-<!-- JSON-LD Structured Data -->
-<script type="application/ld+json">
-{JSON.stringify({
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "Prakash Motors",
-  "url": "https://www.prakashmotors.in",
-  "logo": "https://www.prakashmotors.in/logo.png",
-  "image": "https://www.prakashmotors.in/og-image.jpg",
-  "description": "Authorized New Holland dealer in Nizamabad, Telangana. Tractors, farm equipment, genuine parts, and expert agricultural service.",
-  "telephone": "+91-9030857333",
-  "brand": { "@type": "Brand", "name": "New Holland" },
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Opposite New Bus Stand",
-    "addressLocality": "Nizamabad",
-    "addressRegion": "Telangana",
-    "postalCode": "503001",
-    "addressCountry": "IN"
-  },
-  "geo": { "@type": "GeoCoordinates", "latitude": 18.6725, "longitude": 78.0941 },
-  "openingHoursSpecification": [{
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
-    "opens": "09:00", "closes": "19:00"
-  }],
-  "sameAs": ["https://www.facebook.com/prakashmotors","https://www.instagram.com/prakashmotors"]
-})}
-</script>
+<!-- JSON-LD Structured Data — set:html renders parsed JSON, not literal expression -->
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />
