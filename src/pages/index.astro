@@ -4,7 +4,9 @@ import { getCollection } from 'astro:content';
 
 // Fetch Data
 const allProducts = await getCollection('products');
-const recentPosts = (await getCollection('blog'))
+const allBlogPosts = await getCollection('blog', ({ data }) => !data.draft);
+const allBlogCount = allBlogPosts.length;
+const recentPosts = allBlogPosts
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .slice(0, 3);
 ---
@@ -37,7 +39,7 @@ const recentPosts = (await getCollection('blog'))
                 <div class="flex items-center gap-6">
                     <div class="hidden md:flex gap-6 font-bold text-sm text-[#001489] tracking-wide">
                         <a href="/#products" class="hover:text-[#000E5C] transition">PRODUCTS</a>
-                        <a href="/#blog" class="hover:text-[#000E5C] transition">BLOG</a>
+                        <a href="/blog" class="hover:text-[#000E5C] transition">BLOG</a>
                         <a href="/about" class="hover:text-[#000E5C] transition">ABOUT</a>
                 <a href="/contact" class="hover:text-[#000E5C] transition">CONTACT</a>
                     </div>
@@ -160,6 +162,14 @@ const recentPosts = (await getCollection('blog'))
                         </a>
                     </article>
                 ))}
+            </div>
+            <!-- View All Blog Posts -->
+            <div class="text-center mt-12">
+                <a href="/blog" class="inline-flex items-center gap-3 bg-[#001489] text-white px-10 py-4 font-black text-sm uppercase tracking-widest hover:bg-[#000E5C] transition-all shadow-lg rounded-sm group">
+                    View All {`${allBlogCount}`} Articles
+                    <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
+                </a>
+                <p class="text-xs text-gray-400 mt-3 font-telugu">అన్ని గైడ్‌లు చూడండి</p>
             </div>
         </div>
     </section>
