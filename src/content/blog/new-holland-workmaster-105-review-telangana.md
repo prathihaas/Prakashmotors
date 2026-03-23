@@ -1,7 +1,7 @@
 ---
 title: "New Holland Workmaster 105 Review — 105HP Powerhouse in Telangana"
 title_te: "న్యూ హాలండ్ వర్క్‌మాస్టర్ 105 సమీక్ష — తెలంగాణలో 105HP శక్తి"
-date: "2026-03-18"
+"2026-03-02"
 author: "Prakash Motors Team"
 category: "Review"
 tags:

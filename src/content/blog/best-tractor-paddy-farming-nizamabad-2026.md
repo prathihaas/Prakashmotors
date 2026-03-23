@@ -1,7 +1,7 @@
 ---
 title: "Best Tractor for Paddy Farming in Nizamabad 2026 — Expert Guide"
 title_te: "నిజామాబాద్‌లో వరి సాగుకు అత్యుత్తమ ట్రాక్టర్ 2026 — నిపుణుల గైడ్"
-date: "2026-03-18"
+"2026-02-10"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:

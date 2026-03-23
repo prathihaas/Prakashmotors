@@ -1,7 +1,7 @@
 ---
 title: "New Holland 3630 TX Plus — Full Review for Nizamabad Farmers 2026"
 title_te: "న్యూ హాలండ్ 3630 TX ప్లస్ — నిజామాబాద్ రైతులకు పూర్తి సమీక్ష 2026"
-date: "2026-03-18"
+"2026-02-19"
 author: "Prakash Motors Team"
 category: "Review"
 tags:

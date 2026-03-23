@@ -1,7 +1,7 @@
 ---
 title: "Telangana Tractor Subsidy 2026 — Complete Guide for Farmers"
 title_te: "తెలంగాణ ట్రాక్టర్ సబ్సిడీ 2026 — రైతులకు సంపూర్ణ గైడ్"
-date: "2026-03-18"
+"2026-03-09"
 author: "Prakash Motors Team"
 category: "News"
 tags:

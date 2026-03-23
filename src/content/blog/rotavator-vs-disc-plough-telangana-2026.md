@@ -1,7 +1,7 @@
 ---
 title: "Rotavator vs Disc Plough — Which is Better for Telangana Soil?"
 title_te: "రొటావేటర్ vs డిస్క్ నాగలి — తెలంగాణ మట్టికి ఏది మంచిది?"
-date: "2026-03-18"
+"2026-03-06"
 author: "Prakash Motors Team"
 category: "Tips"
 tags:

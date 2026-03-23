@@ -1,7 +1,7 @@
 ---
 title: "PM Kisan Tractor Subsidy Scheme 2026 — Eligibility & Application"
 title_te: "PM కిసాన్ ట్రాక్టర్ సబ్సిడీ పథకం 2026 — అర్హత మరియు దరఖాస్తు"
-date: "2026-03-18"
+"2026-03-03"
 author: "Prakash Motors Team"
 category: "News"
 tags:

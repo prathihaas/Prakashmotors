@@ -1,7 +1,7 @@
 ---
 title: "New Holland Excel 4510 vs 4710 — Which One to Buy? 2026"
 title_te: "న్యూ హాలండ్ Excel 4510 vs 4710 — ఏది కొనాలి? 2026"
-date: "2026-03-18"
+"2026-02-25"
 author: "Prakash Motors Team"
 category: "Comparison"
 tags:

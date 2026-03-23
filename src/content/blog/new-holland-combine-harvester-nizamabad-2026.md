@@ -1,7 +1,7 @@
 ---
 title: "New Holland Combine Harvester in Nizamabad — Is It Worth Buying?"
 title_te: "నిజామాబాద్‌లో న్యూ హాలండ్ కంబైన్ హార్వెస్టర్ — కొనుగోలు సార్థకమా?"
-date: "2026-03-18"
+"2026-02-24"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:

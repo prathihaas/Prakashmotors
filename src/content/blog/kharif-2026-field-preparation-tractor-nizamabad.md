@@ -1,7 +1,7 @@
 ---
 title: "Kharif 2026 Field Preparation — Tractor Guide for Nizamabad"
 title_te: "ఖరీఫ్ 2026 పొలం తయారీ — నిజామాబాద్‌కు ట్రాక్టర్ గైడ్"
-date: "2026-03-18"
+"2026-02-15"
 author: "Prakash Motors Team"
 category: "Tips"
 tags:

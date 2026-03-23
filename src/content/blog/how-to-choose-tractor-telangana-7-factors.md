@@ -1,7 +1,7 @@
 ---
 title: "How to Choose a Tractor in Telangana — 7 Key Factors 2026"
 title_te: "తెలంగాణలో ట్రాక్టర్ ఎలా ఎంచుకోవాలి — 7 ముఖ్యమైన అంశాలు 2026"
-date: "2026-03-18"
+"2026-02-13"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:
