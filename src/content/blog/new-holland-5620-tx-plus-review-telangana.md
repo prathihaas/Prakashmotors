@@ -1,7 +1,7 @@
 ---
 title: "New Holland 5620 TX Plus TREM IV Review — Is 75HP Worth It?"
 title_te: "న్యూ హాలండ్ 5620 TX Plus TREM IV సమీక్ష — 75HP విలువైనదేనా?"
-"2026-02-21"
+date: "2026-02-21"
 author: "Prakash Motors Team"
 category: "Review"
 tags:

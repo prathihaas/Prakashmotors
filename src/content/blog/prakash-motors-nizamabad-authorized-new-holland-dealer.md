@@ -1,7 +1,7 @@
 ---
 title: "Prakash Motors Nizamabad — Your Trusted New Holland Dealer"
 title_te: "ప్రకాష్ మోటార్స్ నిజామాబాద్ — మీ విశ్వసనీయ న్యూ హాలండ్ డీలర్"
-"2026-03-05"
+date: "2026-03-05"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:

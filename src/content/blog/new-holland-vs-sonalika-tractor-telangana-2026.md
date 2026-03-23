@@ -1,7 +1,7 @@
 ---
 title: "New Holland vs Sonalika Tractor 2026 — Telangana Honest Comparison"
 title_te: "న్యూ హాలండ్ vs సోనాలికా ట్రాక్టర్ 2026 — తెలంగాణ నిజాయితీ పోలిక"
-"2026-02-27"
+date: "2026-02-27"
 author: "Prakash Motors Team"
 category: "Comparison"
 tags:

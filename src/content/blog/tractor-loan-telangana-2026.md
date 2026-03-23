@@ -1,7 +1,7 @@
 ---
 title: "Tractor Loan in Telangana 2026 — Banks, EMI & How to Apply"
 title_te: "తెలంగాణలో ట్రాక్టర్ లోన్ 2026 — బ్యాంకులు, EMI మరియు దరఖాస్తు ప్రక్రియ"
-"2026-03-14"
+date: "2026-03-14"
 author: "Prakash Motors Team"
 category: "Finance"
 tags:

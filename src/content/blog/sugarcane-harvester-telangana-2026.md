@@ -1,7 +1,7 @@
 ---
 title: "Sugarcane Harvester for Telangana Farmers 2026 — Full Guide"
 title_te: "తెలంగాణ రైతులకు చెరకు హార్వెస్టర్ 2026 — పూర్తి గైడ్"
-"2026-03-08"
+date: "2026-03-08"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:

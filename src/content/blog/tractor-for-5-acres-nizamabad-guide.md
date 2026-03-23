@@ -1,7 +1,7 @@
 ---
 title: "What Tractor to Buy for 5 Acres in Nizamabad — 2026 Guide"
 title_te: "నిజామాబాద్‌లో 5 ఎకరాలకు ఏ ట్రాక్టర్ కొనాలి — 2026 గైడ్"
-"2026-03-11"
+date: "2026-03-11"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:

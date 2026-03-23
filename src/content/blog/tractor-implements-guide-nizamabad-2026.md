@@ -1,7 +1,7 @@
 ---
 title: "Best Tractor Implements for New Holland in Nizamabad 2026"
 title_te: "నిజామాబాద్‌లో న్యూ హాలండ్ ట్రాక్టర్‌కు అత్యుత్తమ పరికరాలు 2026"
-"2026-03-12"
+date: "2026-03-12"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:

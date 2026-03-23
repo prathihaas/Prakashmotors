@@ -1,7 +1,7 @@
 ---
 title: "New Holland 3600-2 Excel Review — 55HP Workhorse for Nizamabad"
 title_te: "న్యూ హాలండ్ 3600-2 Excel సమీక్ష — నిజామాబాద్‌కు 55HP వర్క్‌హార్స్"
-"2026-02-18"
+date: "2026-02-18"
 author: "Prakash Motors Team"
 category: "Review"
 tags:
