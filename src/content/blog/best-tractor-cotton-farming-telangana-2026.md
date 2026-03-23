@@ -1,7 +1,7 @@
 ---
 title: "Best Tractor for Cotton Farming in Telangana 2026 | Prakash Motors"
 title_te: "తెలంగాణలో పత్తి సాగుకు అత్యుత్తమ ట్రాక్టర్ 2026 | ప్రకాష్ మోటార్స్"
-"2026-02-09"
+"2026-02-09"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:

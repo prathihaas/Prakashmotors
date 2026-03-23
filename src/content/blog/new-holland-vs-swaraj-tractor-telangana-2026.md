@@ -1,7 +1,7 @@
 ---
 title: "New Holland vs Swaraj Tractor 2026 — Which is Better in Telangana?"
 title_te: "న్యూ హాలండ్ vs స్వరాజ్ ట్రాక్టర్ 2026 — తెలంగాణలో ఏది మంచిది?"
-"2026-02-28"
+"2026-02-28"
 author: "Prakash Motors Team"
 category: "Comparison"
 tags:

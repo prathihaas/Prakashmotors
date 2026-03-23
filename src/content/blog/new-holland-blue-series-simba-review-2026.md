@@ -1,7 +1,7 @@
 ---
 title: "New Holland Blue Series Simba 20 & 30 Review — Precision Power 2026"
 title_te: "న్యూ హాలండ్ బ్లూ సీరీస్ సింబా 20 & 30 సమీక్ష — ప్రిసిషన్ పవర్ 2026"
-"2026-02-22"
+"2026-02-22"
 author: "Prakash Motors Team"
 category: "Review"
 tags:

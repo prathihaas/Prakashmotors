@@ -1,7 +1,7 @@
 ---
 title: "Best Tractor for Turmeric Farming in Nizamabad 2026 — Full Guide"
 title_te: "నిజామాబాద్‌లో పసుపు సాగుకు అత్యుత్తమ ట్రాక్టర్ 2026 — పూర్తి గైడ్"
-"2026-02-12"
+"2026-02-12"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:

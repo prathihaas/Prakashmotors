@@ -1,7 +1,7 @@
 ---
 title: "Tractor Resale Value in Telangana 2026 — New Holland Holds Best"
 title_te: "తెలంగాణలో ట్రాక్టర్ రీసేల్ విలువ 2026 — న్యూ హాలండ్ అత్యుత్తమంగా నిలుస్తుంది"
-"2026-03-17"
+"2026-03-17"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:

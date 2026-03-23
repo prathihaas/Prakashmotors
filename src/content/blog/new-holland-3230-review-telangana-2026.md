@@ -1,7 +1,7 @@
 ---
 title: "New Holland 3230 Review — Best 42HP Tractor for Telangana 2026"
 title_te: "న్యూ హాలండ్ 3230 సమీక్ష — తెలంగాణకు అత్యుత్తమ 42HP ట్రాక్టర్ 2026"
-"2026-02-16"
+"2026-02-16"
 author: "Prakash Motors Team"
 category: "Review"
 tags:
