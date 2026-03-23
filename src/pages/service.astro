@@ -1,0 +1,344 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const title = "New Holland Tractor Service Nizamabad | Prakash Motors";
+const description = "Authorized New Holland tractor service in Nizamabad. AMC plans, genuine parts, factory-trained technicians, on-farm service. Call Prakash Motors — +91 9030857333.";
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "AutoRepair",
+  "name": "Prakash Motors — Authorized New Holland Tractor Service Center, Nizamabad",
+  "url": "https://www.prakashmotors.in/service",
+  "telephone": "+91-9030857333",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Opposite New Bus Stand",
+    "addressLocality": "Nizamabad",
+    "addressRegion": "Telangana",
+    "postalCode": "503001",
+    "addressCountry": "IN"
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "opens": "09:00",
+    "closes": "19:00"
+  }],
+  "brand": { "@type": "Brand", "name": "New Holland Agriculture" },
+  "parentOrganization": { "@type": "AutoDealer", "name": "Prakash Motors", "url": "https://www.prakashmotors.in" }
+};
+---
+
+<Layout title={title} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(serviceSchema)} />
+
+  <!-- Navbar (matches existing site pattern) -->
+  <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center h-20">
+        <a href="/" class="flex items-center gap-3">
+          <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl shadow-sm"><span class="text-[#FFD100] scale-125">P</span></div>
+          <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
+        </a>
+        <a href="/" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] flex items-center gap-1">
+          ← Back to Home
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="pt-28 pb-24 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Hero -->
+      <div class="mb-12">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#001489]/10 text-[#001489] mb-4">
+          <span class="text-xs font-bold uppercase tracking-wider">Authorized New Holland Service</span>
+        </div>
+        <h1 class="text-4xl md:text-5xl font-black text-[#001489] uppercase mb-3 leading-tight">New Holland Tractor Service <br class="hidden md:block">in Nizamabad</h1>
+        <p class="font-telugu text-2xl font-bold text-gray-500 mb-4">అధీకృత న్యూ హాలండ్ ట్రాక్టర్ సర్వీస్ — నిజామాబాద్</p>
+        <p class="text-lg text-gray-600 max-w-3xl mb-8">Prakash Motors is the only authorized New Holland Agriculture service center in Nizamabad district. Our factory-trained technicians, genuine NH spare parts, and on-farm service capability keep your tractor productive through every season — paddy, cotton, soybean, and beyond.</p>
+        <div class="flex flex-col sm:flex-row gap-4">
+          <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20book%20a%20New%20Holland%20tractor%20service.%20%5BW-PM%5D" target="_blank"
+             class="inline-flex items-center justify-center gap-2 bg-[#25D366] text-white px-7 py-3 rounded-xl font-bold text-lg hover:bg-green-600 transition shadow-lg">
+            📱 Book Service via WhatsApp
+          </a>
+          <a href="tel:+919030857333"
+             class="inline-flex items-center justify-center gap-2 bg-[#001489] text-white px-7 py-3 rounded-xl font-bold text-lg hover:bg-[#000E5C] transition shadow-lg">
+            📞 Call: 9030857333
+          </a>
+        </div>
+      </div>
+
+      <!-- Why Authorized Service -->
+      <div class="bg-[#001489]/5 border border-[#001489]/15 rounded-2xl p-8 mb-12">
+        <h2 class="text-2xl font-black text-[#001489] uppercase mb-2">Why Authorized Service Matters for Your Tractor</h2>
+        <p class="text-gray-600 mb-6">A tractor is a working asset — downtime means lost income. Unauthorized mechanics using non-genuine parts can cause catastrophic engine or hydraulic failure precisely when you need your tractor most. Here's why farmers across Nizamabad trust Prakash Motors for their New Holland service.</p>
+        <div class="grid md:grid-cols-2 gap-5">
+          <div class="flex items-start gap-3">
+            <span class="text-[#001489] font-bold text-lg mt-1">✓</span>
+            <div><strong>Genuine New Holland Parts</strong> — original NH components manufactured to exact tolerances. Counterfeit parts fail under field loads and void your warranty.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-[#001489] font-bold text-lg mt-1">✓</span>
+            <div><strong>Factory-Trained Technicians</strong> — certified by New Holland Agriculture India. They know every model from the compact 3032 TX to the high-horsepower 5630 TX.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-[#001489] font-bold text-lg mt-1">✓</span>
+            <div><strong>Warranty Protection</strong> — NH tractors carry a 2-year warranty. Servicing outside the authorized network voids this coverage, potentially costing lakhs in uninsured repairs.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-[#001489] font-bold text-lg mt-1">✓</span>
+            <div><strong>On-Farm Emergency Service</strong> — our technicians can come to your field during critical harvest seasons so you never lose a working day.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-[#001489] font-bold text-lg mt-1">✓</span>
+            <div><strong>Computerized Diagnostics</strong> — New Holland Electronic Service Tool (EST) for accurate fault diagnosis on modern NH models with electronic controls.</div>
+          </div>
+          <div class="flex items-start gap-3">
+            <span class="text-[#001489] font-bold text-lg mt-1">✓</span>
+            <div><strong>Transparent Billing</strong> — itemized invoice with part numbers and MRP. No inflated parts markup, no surprise labour charges.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- NH Tractor Service Schedule -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] uppercase mb-2">New Holland Tractor Service Schedule</h2>
+        <p class="text-gray-600 mb-4">New Holland Agriculture recommends service intervals based on engine hours — not calendar months. For farmers who use their tractor daily, this means servicing more frequently. Missing a service interval under heavy load leads to accelerated engine and transmission wear.</p>
+        <div class="overflow-x-auto rounded-xl border border-[#001489]/20">
+          <table class="w-full border-collapse">
+            <thead>
+              <tr class="bg-[#001489] text-white">
+                <th class="p-3 text-left text-sm font-bold">Service Type</th>
+                <th class="p-3 text-left text-sm font-bold">Interval (Hours)</th>
+                <th class="p-3 text-left text-sm font-bold">Key Jobs</th>
+                <th class="p-3 text-left text-sm font-bold">Est. Cost</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="border-b border-gray-100">
+                <td class="p-3 font-semibold">1st Warranty Service</td>
+                <td class="p-3">50–100 hours</td>
+                <td class="p-3 text-sm">Engine oil, oil filter, fuel filter pre-check</td>
+                <td class="p-3 text-green-600 font-bold">As per warranty</td>
+              </tr>
+              <tr class="border-b border-gray-100 bg-gray-50">
+                <td class="p-3 font-semibold">Regular Service</td>
+                <td class="p-3">Every 250 hours</td>
+                <td class="p-3 text-sm">Engine oil + filter, air filter, fuel filter, belt check</td>
+                <td class="p-3">₹4,000–₹7,000</td>
+              </tr>
+              <tr class="border-b border-gray-100">
+                <td class="p-3 font-semibold">Mid Service</td>
+                <td class="p-3">Every 500 hours</td>
+                <td class="p-3 text-sm">All 250-hr items + hydraulic filter, coolant check, PTO inspection</td>
+                <td class="p-3">₹8,000–₹14,000</td>
+              </tr>
+              <tr class="border-b border-gray-100 bg-gray-50">
+                <td class="p-3 font-semibold">Full Service</td>
+                <td class="p-3">Every 1,000 hours</td>
+                <td class="p-3 text-sm">All 500-hr items + transmission fluid, valve clearance, injector check</td>
+                <td class="p-3">₹18,000–₹30,000</td>
+              </tr>
+              <tr>
+                <td class="p-3 font-semibold">Major Overhaul</td>
+                <td class="p-3">Every 3,000–5,000 hours</td>
+                <td class="p-3 text-sm">Engine top overhaul, piston rings, liners, bearings</td>
+                <td class="p-3">Quotation basis</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-sm text-gray-500 mt-2">* Costs include genuine NH parts at MRP + labour. Prices vary by model (HP rating). Obtain a quote before service.</p>
+      </div>
+
+      <!-- Services Offered -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] uppercase mb-2">Tractor Services We Provide</h2>
+        <p class="text-gray-600 mb-4">Our service bay is equipped for the full New Holland tractor lineup — from compact 32 HP models to high-power 106 HP workhorses.</p>
+        <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-3">
+          {[
+            "Engine oil & filter change",
+            "Hydraulic system fluid & filter",
+            "Fuel filter replacement",
+            "Air filter cleaning / replacement",
+            "Cooling system & radiator flush",
+            "Transmission & gear oil service",
+            "Power Take-Off (PTO) inspection",
+            "Tyre pressure & condition check",
+            "Electrical system & battery check",
+            "Injector testing & calibration",
+            "Valve clearance adjustment",
+            "Belt & hose inspection",
+            "Brake adjustment & linkage",
+            "3-point linkage & hitch service",
+            "Computerized fault diagnostics (EST)",
+            "Combine harvester servicing",
+            "Implement & attachment repairs",
+            "Genuine NH spare parts supply",
+            "Annual Maintenance Contract (AMC)",
+            "On-farm emergency service call",
+          ].map(service => (
+            <div class="flex items-center gap-2 bg-gray-50 rounded-lg p-3 text-sm font-medium text-gray-700">
+              <span class="text-[#001489] flex-shrink-0">●</span> {service}
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- NH Models We Service -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] uppercase mb-2">New Holland Models We Service</h2>
+        <p class="text-gray-600 mb-4">Authorized to service all New Holland Agriculture models sold in India, including:</p>
+        <div class="flex flex-wrap gap-2">
+          {[
+            "New Holland 3032 TX", "New Holland 3230", "New Holland 3600-2 Excel",
+            "New Holland 3630 TX Plus", "New Holland 5620", "New Holland 5630 TX",
+            "New Holland Workmaster 105", "New Holland Simba", "New Holland TC5 Harvester",
+          ].map(model => (
+            <span class="bg-[#001489]/5 border border-[#001489]/20 text-[#001489] px-3 py-1 rounded-full text-sm font-bold">{model}</span>
+          ))}
+        </div>
+      </div>
+
+      <!-- On-Farm Service -->
+      <div class="bg-[#FFD100] rounded-2xl p-8 mb-12">
+        <h2 class="text-2xl font-black text-[#001489] uppercase mb-3">On-Farm Service — We Come to Your Field</h2>
+        <p class="text-[#001489]/80 mb-4">During paddy transplanting, cotton harvesting, or soybean season — you cannot afford to tow your tractor to town. Our mobile service team comes to your farm with tools, diagnostic equipment, and genuine spare parts to get you working again fast.</p>
+        <ul class="text-[#001489]/80 space-y-2 mb-6">
+          <li class="flex items-center gap-2"><span class="font-bold">→</span> Breakdown response for Nizamabad district and surrounding areas</li>
+          <li class="flex items-center gap-2"><span class="font-bold">→</span> Routine service at your farm — no need to lose a day transporting the tractor</li>
+          <li class="flex items-center gap-2"><span class="font-bold">→</span> Pre-season checks before Kharif and Rabi to avoid harvest-time breakdowns</li>
+        </ul>
+        <a href="https://wa.me/919030857333?text=Hi%2C%20I%20need%20on-farm%20tractor%20service%20in%20my%20field.%20%5BW-PM%5D" target="_blank"
+           class="inline-flex items-center gap-2 bg-[#001489] text-white px-6 py-3 rounded-xl font-bold hover:bg-[#000E5C] transition">
+          WhatsApp for On-Farm Service →
+        </a>
+      </div>
+
+      <!-- Genuine Parts -->
+      <div class="bg-gray-50 rounded-2xl p-8 mb-12 border border-gray-100">
+        <h2 class="text-2xl font-black text-[#001489] uppercase mb-3">Genuine New Holland Spare Parts Warehouse</h2>
+        <p class="text-gray-600 mb-4">We maintain a large inventory of genuine NH spare parts at our Nizamabad workshop — so you're never waiting days for a common part. Fast availability means minimal downtime for your tractor.</p>
+        <div class="grid sm:grid-cols-2 gap-3">
+          {[
+            "Engine oil filters (all NH models)",
+            "Fuel filters & water separators",
+            "Air filter elements (outer & inner)",
+            "Hydraulic filters",
+            "Radiator hoses & clamps",
+            "V-belts & timing belts",
+            "Brake pads & lining kits",
+            "Clutch plates & pressure plates",
+            "Injectors & injection pump seals",
+            "Electrical components & switches",
+          ].map(part => (
+            <div class="flex items-center gap-2 text-gray-700 text-sm">
+              <span class="text-[#001489] font-bold">✓</span> {part}
+            </div>
+          ))}
+        </div>
+        <p class="text-sm text-gray-500 mt-4">Parts not in stock can be sourced from New Holland India within 2–5 working days. WhatsApp us your part number for availability check.</p>
+      </div>
+
+      <!-- AMC -->
+      <div class="bg-[#001489] text-white rounded-2xl p-8 mb-12">
+        <h2 class="text-2xl font-black uppercase mb-3">Annual Maintenance Contract (AMC) for Tractors</h2>
+        <p class="text-white/80 mb-4">A tractor AMC with Prakash Motors gives you predictable annual maintenance costs and priority service throughout the season. Never worry about unexpected repair bills during critical farming periods.</p>
+        <div class="grid sm:grid-cols-3 gap-4 mb-6">
+          <div class="bg-white/10 rounded-xl p-5 text-center">
+            <p class="font-black text-lg">Basic AMC</p>
+            <p class="text-3xl font-black text-[#FFD100] mt-2">₹8,999</p>
+            <p class="text-white/60 text-sm mt-1">per year</p>
+            <ul class="text-white/70 text-xs mt-3 space-y-1 text-left">
+              <li>✓ 2 scheduled services</li>
+              <li>✓ Genuine parts at MRP</li>
+              <li>✓ Priority workshop slot</li>
+            </ul>
+          </div>
+          <div class="bg-white/10 rounded-xl p-5 text-center border-2 border-[#FFD100]">
+            <p class="font-black text-lg">Standard AMC</p>
+            <p class="text-3xl font-black text-[#FFD100] mt-2">₹14,999</p>
+            <p class="text-white/60 text-sm mt-1">per year</p>
+            <ul class="text-white/70 text-xs mt-3 space-y-1 text-left">
+              <li>✓ 4 scheduled services</li>
+              <li>✓ 5% discount on parts</li>
+              <li>✓ 1 on-farm visit</li>
+            </ul>
+          </div>
+          <div class="bg-white/10 rounded-xl p-5 text-center">
+            <p class="font-black text-lg">Premium AMC</p>
+            <p class="text-3xl font-black text-[#FFD100] mt-2">₹22,999</p>
+            <p class="text-white/60 text-sm mt-1">per year</p>
+            <ul class="text-white/70 text-xs mt-3 space-y-1 text-left">
+              <li>✓ Unlimited services</li>
+              <li>✓ 10% discount on parts</li>
+              <li>✓ 3 on-farm visits</li>
+            </ul>
+          </div>
+        </div>
+        <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20know%20about%20New%20Holland%20tractor%20AMC%20plans.%20%5BW-PM%5D" target="_blank"
+           class="inline-flex items-center gap-2 bg-[#FFD100] text-[#001489] px-6 py-3 rounded-xl font-bold hover:bg-yellow-300 transition">
+          WhatsApp for AMC Details →
+        </a>
+      </div>
+
+      <!-- Location & Hours -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+        <div class="bg-gray-50 rounded-2xl p-8 border border-gray-100">
+          <h2 class="text-lg font-black text-[#001489] uppercase tracking-wide mb-4">Service Center Address</h2>
+          <p class="font-bold text-gray-800">Prakash Motors</p>
+          <p class="text-gray-600 mt-1">Opposite New Bus Stand,</p>
+          <p class="text-gray-600">Nizamabad, Telangana – 503001</p>
+          <p class="font-telugu text-gray-500 mt-3">న్యూ బస్ స్టాండ్맞은편, నిజామాబాద్, తెలంగాణ</p>
+          <a href="https://www.google.com/maps/search/Prakash+Motors+Nizamabad+New+Holland" target="_blank"
+             class="inline-flex items-center gap-1 text-[#001489] font-semibold text-sm mt-3 hover:underline">
+            Get Directions →
+          </a>
+        </div>
+        <div class="bg-gray-50 rounded-2xl p-8 border border-gray-100">
+          <h2 class="text-lg font-black text-[#001489] uppercase tracking-wide mb-4">Working Hours</h2>
+          <div class="space-y-3 text-gray-700">
+            <div class="flex justify-between">
+              <span class="font-medium">Mon – Sat</span>
+              <span class="font-bold text-[#001489]">9:00 AM – 7:00 PM</span>
+            </div>
+            <div class="flex justify-between">
+              <span class="font-medium">Sunday</span>
+              <span class="text-gray-400">Closed (Emergency: WhatsApp)</span>
+            </div>
+          </div>
+          <p class="font-telugu text-gray-500 mt-4 text-sm">సోమ – శని: ఉదయం 9 – సాయంత్రం 7</p>
+        </div>
+      </div>
+
+      <!-- Areas Served -->
+      <div class="mb-12">
+        <h2 class="text-xl font-black text-[#001489] uppercase mb-4">Districts & Areas We Serve</h2>
+        <p class="text-gray-600 mb-4">Prakash Motors provides tractor service, spare parts, and on-farm support across Nizamabad and neighbouring districts:</p>
+        <div class="flex flex-wrap gap-3">
+          {["Nizamabad", "Kamareddy", "Armoor", "Bodhan", "Banswada", "Yellareddy", "Nirmal", "Siddipet", "Jagtial", "Karimnagar", "Rajanna Sircilla", "Mancherial"].map(area => (
+            <span class="bg-[#001489]/5 border border-[#001489]/20 text-[#001489] font-bold px-4 py-2 rounded-lg text-sm">{area}</span>
+          ))}
+        </div>
+      </div>
+
+      <!-- Final CTA -->
+      <div class="bg-[#001489] rounded-2xl p-10 text-center text-white">
+        <h2 class="text-2xl font-black uppercase mb-2">Book Your Tractor Service Now</h2>
+        <p class="font-telugu text-lg font-bold text-white/70 mb-4">మీ ట్రాక్టర్ సర్వీస్ ఇప్పుడే బుక్ చేయండి</p>
+        <p class="text-white/80 max-w-lg mx-auto mb-8">Keep your New Holland working at full capacity. Schedule your next service or call us for an emergency repair — Prakash Motors is here when you need us most.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20book%20a%20New%20Holland%20tractor%20service%20at%20Prakash%20Motors.%20%5BW-PM%5D" target="_blank"
+             class="bg-[#FFD100] text-[#001489] font-black px-8 py-3 rounded-xl hover:bg-yellow-300 transition uppercase tracking-wide">WhatsApp to Book</a>
+          <a href="tel:+919030857333"
+             class="bg-white/10 text-white font-bold px-8 py-3 rounded-xl hover:bg-white/20 transition border border-white/30">Call 9030857333</a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <script>if (typeof lucide !== 'undefined') { lucide.createIcons(); }</script>
+</Layout>
