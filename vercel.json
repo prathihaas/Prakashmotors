@@ -1,5 +1,6 @@
 {
   "redirects": [
+    { "source": "/:path*", "has": [{"type": "host", "value": "prakashmotors.in"}], "destination": "https://www.prakashmotors.in/:path*", "permanent": true },
     { "source": "/about-us", "destination": "/#contact", "permanent": true },
     { "source": "/about-us/", "destination": "/#contact", "permanent": true },
     { "source": "/combine-harvester", "destination": "/products", "permanent": true },

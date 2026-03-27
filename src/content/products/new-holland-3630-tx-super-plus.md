@@ -1,8 +1,8 @@
 ---
 title: "New Holland 3630 TX Super Plus+"
-seo_title: "New Holland 3630 TX Super Plus+ Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland 3630 TX Super Plus Price Nizamabad 2026 — EMI & Offer | Prakash Motors"
 title_te: "న్యూ హాలండ్ 3630 TX సూపర్ ప్లస్+ ట్రాక్టర్"
-description: "A powerful 50 HP tractor with FPT engine, ideal for Indian farming conditions."
+description: "New Holland 3630 TX Super Plus price in Nizamabad 2026. 50 HP FPT engine, 12+3 gears, ROPS. EMI from ₹14,000/month. Call Prakash Motors: 9030857333."
 category: "Tractors"
 pubDate: 2026-02-06
 image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500"
