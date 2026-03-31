@@ -21,6 +21,7 @@ const blog = defineCollection({
 });
 
 const products = defineCollection({
+  type: 'content',
   schema: z.object({
     title: z.string(),
     seo_title: z.string().optional(),
