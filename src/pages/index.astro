@@ -9,6 +9,62 @@ const allBlogCount = allBlogPosts.length;
 const recentPosts = allBlogPosts
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .slice(0, 3);
+
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Prakash Motors — Authorized New Holland Dealer Nizamabad",
+      "url": "https://www.prakashmotors.in",
+      "telephone": "+91-9030857333",
+      "image": "https://www.prakashmotors.in/og-image.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Opposite New Bus Stand",
+        "addressLocality": "Nizamabad",
+        "addressRegion": "Telangana",
+        "postalCode": "503001",
+        "addressCountry": "IN"
+      },
+      "geo": { "@type": "GeoCoordinates", "latitude": 18.6725, "longitude": 78.0941 },
+      "openingHoursSpecification": [{
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+        "opens": "09:00",
+        "closes": "19:00"
+      }],
+      "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.7", "reviewCount": "148" },
+      "priceRange": "₹₹₹",
+      "areaServed": ["Nizamabad", "Kamareddy", "Armoor", "Bodhan", "Banswada", "Yellareddy"]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Which New Holland tractors are available at Prakash Motors Nizamabad?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Prakash Motors stocks New Holland 3230, 3630 TX Super Plus, 3630 TX Special Edition, 3600-2 Excel, Excel 4510, Excel 4710, Excel Ultima 5510, Workmaster 105, and combine harvesters. Visit our showroom opposite New Bus Stand, Nizamabad or call 9030857333." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the price of New Holland 3630 tractor in Nizamabad?",
+          "acceptedAnswer": { "@type": "Answer", "text": "The New Holland 3630 TX Super Plus is priced between ₹8.5–10 lakh ex-showroom in Nizamabad. EMI options start from ₹14,000/month. Call Prakash Motors on 9030857333 for today's offer price and financing." }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Prakash Motors an authorized New Holland dealer?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Prakash Motors is an authorized New Holland Agriculture dealer in Nizamabad, Telangana, serving Nizamabad, Kamareddy, Armoor, Bodhan and Banswada since 2003." }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Prakash Motors offer tractor EMI or loan?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes. Prakash Motors offers tractor financing through leading banks with up to 7-year loan tenure. WhatsApp us on 9030857333 for EMI calculation on any New Holland model." }
+        }
+      ]
+    }
+  ]
+};
 ---
 
 <Layout title="New Holland Tractor Showroom Nizamabad | Authorized Dealer — Prakash Motors" description="Prakash Motors — Authorized New Holland tractor showroom in Nizamabad. Best price on 3630, 3230, Excel & harvesters. Easy EMI. WhatsApp 9030857333 for today's offer.">
@@ -265,61 +321,7 @@ const recentPosts = allBlogPosts
     <div class="pb-20 sm:pb-0"></div>
 
     <!-- FAQ + LocalBusiness Schema -->
-    <script type="application/ld+json">{JSON.stringify({
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "LocalBusiness",
-          "name": "Prakash Motors — Authorized New Holland Dealer Nizamabad",
-          "url": "https://www.prakashmotors.in",
-          "telephone": "+91-9030857333",
-          "image": "https://www.prakashmotors.in/og-image.jpg",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Opposite New Bus Stand",
-            "addressLocality": "Nizamabad",
-            "addressRegion": "Telangana",
-            "postalCode": "503001",
-            "addressCountry": "IN"
-          },
-          "geo": { "@type": "GeoCoordinates", "latitude": 18.6725, "longitude": 78.0941 },
-          "openingHoursSpecification": [{
-            "@type": "OpeningHoursSpecification",
-            "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
-            "opens": "09:00",
-            "closes": "19:00"
-          }],
-          "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.7", "reviewCount": "148" },
-          "priceRange": "₹₹₹",
-          "areaServed": ["Nizamabad", "Kamareddy", "Armoor", "Bodhan", "Banswada", "Yellareddy"]
-        },
-        {
-          "@type": "FAQPage",
-          "mainEntity": [
-            {
-              "@type": "Question",
-              "name": "Which New Holland tractors are available at Prakash Motors Nizamabad?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Prakash Motors stocks New Holland 3230, 3630 TX Super Plus, 3630 TX Special Edition, 3600-2 Excel, Excel 4510, Excel 4710, Excel Ultima 5510, Workmaster 105, and combine harvesters. Visit our showroom opposite New Bus Stand, Nizamabad or call 9030857333." }
-            },
-            {
-              "@type": "Question",
-              "name": "What is the price of New Holland 3630 tractor in Nizamabad?",
-              "acceptedAnswer": { "@type": "Answer", "text": "The New Holland 3630 TX Super Plus is priced between ₹8.5–10 lakh ex-showroom in Nizamabad. EMI options start from ₹14,000/month. Call Prakash Motors on 9030857333 for today's offer price and financing." }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Prakash Motors an authorized New Holland dealer?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Yes. Prakash Motors is an authorized New Holland Agriculture dealer in Nizamabad, Telangana, serving Nizamabad, Kamareddy, Armoor, Bodhan and Banswada since 2003." }
-            },
-            {
-              "@type": "Question",
-              "name": "Does Prakash Motors offer tractor EMI or loan?",
-              "acceptedAnswer": { "@type": "Answer", "text": "Yes. Prakash Motors offers tractor financing through leading banks with up to 7-year loan tenure. WhatsApp us on 9030857333 for EMI calculation on any New Holland model." }
-            }
-          ]
-        }
-      ]
-    })}</script>
+    <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
 
     <script>lucide.createIcons();</script>
 </Layout>

@@ -39,7 +39,7 @@ const articleSchema = {
 };
 ---
 
-<Layout title={seo_title} description={seo_description} image={featured_image}>
+<Layout title={seo_title} description={seo_description} image={featured_image} ogType="article">
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 
   <!-- Navbar -->
