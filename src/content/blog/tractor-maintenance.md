@@ -1,8 +1,10 @@
 ---
-title: "5 Tips for Tractor Maintenance"
-title_te: "ట్రాక్టర్ నిర్వహణకు 5 చిట్కాలు"
+title: "5 Tractor Maintenance Tips That Save Nizamabad Farmers ₹20,000/Year"
+title_te: "ట్రాక్టర్ నిర్వహణకు 5 చిట్కాలు — ఏటా ₹20,000 ఆదా చేయండి"
 date: "2024-10-12"
 author: "Prakash Motors Team"
+description: "These 5 New Holland tractor maintenance tips take just 10 minutes daily — but prevent costly breakdowns and extend your tractor life by 5+ years. Used by top Telangana farmers."
+image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&q=80&w=800"
 category: "Maintenance"
 tags:
   - "tractor maintenance"

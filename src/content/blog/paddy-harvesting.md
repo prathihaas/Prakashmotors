@@ -1,8 +1,10 @@
 ---
-title: "Best Time for Paddy Harvesting"
-title_te: "వరి కోతకు సరైన సమయం"
+title: "Best Time for Paddy Harvesting in Telangana — Stop Losing ₹10,000/Acre"
+title_te: "వరి కోతకు సరైన సమయం — ఎకరాకు ₹10,000 నష్టం తప్పించుకోండి"
 date: "2024-09-28"
 author: "Prakash Motors Team"
+description: "Harvest paddy at the wrong time and lose 15-20% of your yield. Learn the exact moisture window for Telangana conditions and how Silver Track harvesters prevent grain loss."
+image: "https://images.unsplash.com/photo-1595123550441-d377e017de6a?auto=format&fit=crop&q=80&w=800"
 category: "Harvesting"
 tags:
   - "paddy"

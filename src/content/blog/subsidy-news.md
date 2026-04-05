@@ -1,8 +1,10 @@
 ---
-title: "Telangana Tractor Subsidies 2024"
-title_te: "ట్రాక్టర్ సబ్సిడీ వివరాలు"
+title: "Telangana Tractor Subsidy 2024 — Up to ₹1.5 Lakh Off. How to Apply"
+title_te: "తెలంగాణ ట్రాక్టర్ సబ్సిడీ 2024 — ₹1.5 లక్షల వరకు రాయితీ"
 date: "2024-08-15"
 author: "Prakash Motors Team"
+description: "Telangana government is offering up to ₹1.5 lakh subsidy on tractors for Nizamabad farmers. Check eligibility, required documents and step-by-step application process here."
+image: "https://images.unsplash.com/photo-1532629345422-7515f3d16335?auto=format&fit=crop&q=80&w=800"
 category: "Finance"
 tags:
   - "subsidy"
