@@ -9,7 +9,7 @@ tags:
   - "tractor price banswada"
   - "kamareddy district tractor"
   - "new holland subsidy telangana"
-featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
+featured_image: "/images/blog/new-holland-tractors-banswada-2026.jpg"
 excerpt: "Banswada mandal in Kamareddy district is a major cotton and paddy growing zone. New Holland tractors — available through Prakash Motors Nizamabad, just 60km away — offer the power and durability that Banswada farmers need. This guide covers model recommendations, government subsidy eligibility, and financing plans for 2026."
 seo_title: "New Holland Tractors Banswada 2026 | Farm Guide"
 seo_description: "New Holland tractors for Banswada farmers (Kamareddy dist) — NH 3230 & 3630, subsidy eligible, EMI from ₹11,000/month. Dealer at Nizamabad. Call 9030857333."

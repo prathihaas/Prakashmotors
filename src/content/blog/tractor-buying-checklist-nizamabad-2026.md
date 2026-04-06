@@ -9,7 +9,7 @@ tags:
   - "tractor purchase guide 2026"
   - "New Holland tractor checklist"
   - "tractor buying tips Telangana"
-featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
+featured_image: "/images/blog/tractor-buying-checklist-nizamabad-2026.jpg"
 excerpt: "Before you sign a tractor purchase agreement in Nizamabad, run through this comprehensive checklist — covering pre-purchase farm assessment, showroom evaluation, finance comparison, and post-purchase steps. New Holland from Prakash Motors ticks every box on this list."
 seo_title: "Tractor Buying Checklist Nizamabad Farmers 2026"
 seo_description: "Complete tractor buying checklist for Nizamabad farmers 2026. Pre-purchase, showroom, finance & post-purchase steps. New Holland ☎ 9030857333 Prakash Motors."

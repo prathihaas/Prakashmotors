@@ -9,7 +9,7 @@ tags:
   - "tractor dealer nizamabad"
   - "new holland price telangana"
   - "bodhan farming tractor"
-featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
+featured_image: "/images/blog/new-holland-tractors-bodhan-2026.jpg"
 excerpt: "Bodhan mandal farmers looking for New Holland tractors can find all models and best prices at Prakash Motors, Nizamabad — just 30km away. This guide covers model recommendations, EMI plans, and why New Holland is the top choice for paddy, cotton, and turmeric cultivation in the Bodhan belt."
 seo_title: "New Holland Tractors Bodhan 2026 | Price & Models"
 seo_description: "New Holland tractors for Bodhan farmers — models NH 3230 to NH 6010, EMI from ₹12,000/month, subsidy eligible. Visit Prakash Motors Nizamabad. Call 9030857333."

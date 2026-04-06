@@ -9,7 +9,7 @@ tags:
   - "tractor maintenance Telangana"
   - "tractor after-sales support"
   - "Prakash Motors service"
-featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
+featured_image: "/images/blog/new-holland-tractor-service-nizamabad-2026.jpg"
 excerpt: "Buying a tractor is only the first step — after-sales service determines your real cost of ownership. Prakash Motors provides comprehensive New Holland tractor service in Nizamabad including scheduled maintenance, warranty repairs, genuine parts, and seasonal service camps in rural mandals across the district."
 seo_title: "New Holland Tractor Service Nizamabad 2026"
 seo_description: "New Holland tractor service & after-sales support in Nizamabad 2026. Scheduled maintenance, genuine parts, warranty repairs. ☎ 9030857333 Prakash Motors."
