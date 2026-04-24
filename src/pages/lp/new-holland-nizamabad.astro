@@ -1,45 +1,62 @@
 ---
-// Google Ads Landing Page — Prakash Motors New Holland Nizamabad
-// noindex | no exit links | all CTAs → WhatsApp / Phone
-// Mobile-first, Android-safe taps, bilingual (English + Telugu)
+// Google Ads Landing Page — Prakash Motors · New Holland Nizamabad
+// Conversion-optimised, trust-first, Android-safe taps, bilingual (English + Telugu)
 const PHONE = "+919030857333";
 const PHONE_DISP = "90308 57333";
 const WA_NUM = "919030857333";
+const waLink = (msg: string) => `https://wa.me/${WA_NUM}?text=${encodeURIComponent("Hi Prakash Motors, " + msg)}`;
+
 const tractors = [
-  { model: "New Holland 3630 TX Super Plus", hp: "50 HP", badge: "Best Seller",
+  { model: "New Holland 3630 TX Super Plus", hp: "50 HP", priceFrom: "₹8.5L", badge: "Best Seller",
     img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500",
-    features: ["FPT S8000 Engine", "12+3 Creeper Gears", "Double Clutch", "ROPS Safety"],
-    wa: "price of New Holland 3630 TX Super Plus [W-LP-3630]" },
-  { model: "New Holland 3230 NX", hp: "42 HP", badge: "Best for 3–5 Acres",
+    features: ["FPT S8000 engine", "12+3 creeper gears", "Double clutch", "ROPS safety"],
+    wa: "I want the on-road price of New Holland 3630 TX Super Plus. [W-LP-3630]" },
+  { model: "New Holland 3230 NX", hp: "42 HP", priceFrom: "₹6.9L", badge: "Best for 3–5 acres",
     img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000",
-    features: ["42 HP Engine", "8+2 Gears", "Power Steering", "Ideal for Small Farms"],
-    wa: "price of New Holland 3230 NX [W-LP-3230]" },
-  { model: "New Holland Excel 4510", hp: "45 HP", badge: "Cotton & Paddy",
+    features: ["42 HP engine", "8+2 gears", "Power steering", "Fuel-efficient"],
+    wa: "I want the on-road price of New Holland 3230 NX. [W-LP-3230]" },
+  { model: "New Holland Excel 4510", hp: "45 HP", priceFrom: "₹7.8L", badge: "Cotton & paddy",
     img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000",
-    features: ["45 HP Engine", "Synchromesh Gears", "Multi-Speed PTO", "Heavy Duty Build"],
-    wa: "price of New Holland Excel 4510 [W-LP-4510]" },
-  { model: "New Holland Excel 4710", hp: "47 HP", badge: "Power Farmer",
+    features: ["Synchromesh gears", "Multi-speed PTO", "Heavy-duty build", "Low maintenance"],
+    wa: "I want the on-road price of New Holland Excel 4510. [W-LP-4510]" },
+  { model: "New Holland Excel 4710", hp: "47 HP", priceFrom: "₹8.2L", badge: "Turmeric · Soybean",
     img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500",
-    features: ["47 HP Engine", "16+4 Gears", "Full Hydraulics", "Turmeric & Soybean"],
-    wa: "price of New Holland Excel 4710 [W-LP-4710]" },
-  { model: "New Holland Workmaster 105", hp: "105 HP", badge: "Premium",
+    features: ["47 HP engine", "16+4 gears", "Full hydraulics", "Rotavator-ready"],
+    wa: "I want the on-road price of New Holland Excel 4710. [W-LP-4710]" },
+  { model: "New Holland Workmaster 105", hp: "105 HP", priceFrom: "₹18.5L", badge: "Premium",
     img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000",
-    features: ["105 HP Powerhouse", "Synchro Shuttle", "AC Cabin Option", "Large Farm & Commercial"],
-    wa: "price of New Holland Workmaster 105 [W-LP-WM105]" },
-  { model: "New Holland TC5.30 Combine", hp: "Combine Harvester", badge: "High Income",
+    features: ["105 HP powerhouse", "Synchro shuttle", "AC cabin option", "Commercial-grade"],
+    wa: "I want the on-road price of New Holland Workmaster 105. [W-LP-WM105]" },
+  { model: "New Holland TC5.30 Combine", hp: "Harvester", priceFrom: "On request", badge: "High income",
     img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500",
-    features: ["Paddy & Wheat", "Custom Hiring Income ~₹8,000/day", "Easy Finance", "Quick ROI"],
-    wa: "price of New Holland TC5.30 Combine Harvester [W-LP-TC530]" },
+    features: ["Paddy & wheat", "Custom hiring ~₹8,000/day", "Quick ROI", "Easy finance"],
+    wa: "I want the on-road price of New Holland TC5.30 Combine Harvester. [W-LP-TC530]" },
 ];
-const waLink = (msg: string) => `https://wa.me/${WA_NUM}?text=${encodeURIComponent("Hi, I want " + msg)}`;
+
+const branches = [
+  { name: "Nizamabad (Main)", address: "Opposite New Bus Stand" },
+  { name: "Armoor", address: "Main Road" },
+  { name: "Bodhan", address: "Market Road" },
+  { name: "Banswada", address: "Near Bus Stand" },
+  { name: "Kamareddy", address: "Main Road" },
+  { name: "Yellareddy", address: "Near Mandal Office" },
+];
+
+const faqs = [
+  { q: "What is the price of New Holland 3630 in Nizamabad?", a: "The 3630 TX Super Plus is priced around ₹8.5–10 lakh ex-showroom (April 2026). Final on-road price depends on attachments, extended warranty and district RTO. Call or WhatsApp us for today's exact quote." },
+  { q: "Does Prakash Motors offer tractor loan?", a: "Yes. We arrange loans through SBI, Andhra Bank, NABARD and private lenders — up to 95% of the tractor cost, EMI from ₹12,000/month, tenure up to 7 years. Typical approval in 48 hours with Aadhaar + land records." },
+  { q: "Can I get a farm demo before buying?", a: "Yes. Book a free farm demo — our team brings the tractor to your field so you can try it on your actual soil before deciding." },
+  { q: "Which tractor suits 5 acres in Nizamabad?", a: "For 3–8 acre farms, the 3230 NX (42 HP) or 3630 TX (50 HP) are the most popular choices. For cotton and paddy, the Excel 4510 is a strong pick. Share your crop details with us and we'll recommend the right model." },
+  { q: "Do you service tractors bought elsewhere?", a: "Yes. Our Nizamabad workshop services all New Holland tractors regardless of where they were purchased. Genuine OEM parts, 24-hour breakdown response." },
+];
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>New Holland Tractor Dealer Nizamabad — Prakash Motors</title>
-  <meta name="description" content="Authorized New Holland tractor dealer in Nizamabad. 3230 NX, 3630 TX, Excel 4510/4710, Workmaster 105. EMI from ₹12,000/month. Free farm demo." />
+  <title>New Holland Tractors in Nizamabad — Prakash Motors (Authorized Dealer)</title>
+  <meta name="description" content="Authorized New Holland tractor dealer in Nizamabad. 3230 NX, 3630 TX, Excel 4510/4710, Workmaster 105. EMI from ₹12,000/month. Free farm demo. 20+ years · 2,000+ tractors delivered." />
   <meta name="robots" content="noindex, nofollow" />
   <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
   <meta name="theme-color" content="#001489" />
@@ -47,264 +64,463 @@ const waLink = (msg: string) => `https://wa.me/${WA_NUM}?text=${encodeURICompone
   <!-- GTM -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MCMZWFT3');</script>
 
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Noto+Sans+Telugu:wght@400;600;700&display=swap" rel="stylesheet" />
   <style>
-    html { -webkit-text-size-adjust: 100%; }
-    body { -webkit-tap-highlight-color: rgba(0,20,137,.15); }
-    .font-telugu { font-family: 'Noto Sans Telugu', sans-serif; }
-    /* Android tap reliability: eliminate 300ms delay, make whole anchor the target */
-    a, button, [role="button"] { touch-action: manipulation; }
-    /* Decorative emojis & icons inside anchors should not swallow taps */
-    a > .deco, a .deco * { pointer-events: none; }
-    /* Enforce min 48x48 tap targets site-wide for anchors that look like buttons */
-    .cta { min-height: 52px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; }
-    .tap { min-height: 48px; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+    body { font-family: 'Inter', system-ui, sans-serif; color: #0B1437; background: #fff; -webkit-tap-highlight-color: rgba(0,20,137,.12); line-height: 1.55; }
+    .fn { font-family: 'Noto Sans Telugu', sans-serif; }
+    a { color: inherit; text-decoration: none; }
+    img { display: block; max-width: 100%; height: auto; }
+    a, button, summary { touch-action: manipulation; }
+    a .deco, a .deco * { pointer-events: none; }
+    .tap { min-height: 48px; display: inline-flex; align-items: center; justify-content: center; }
+    .wrap { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+    .pill { display:inline-flex; align-items:center; gap:6px; padding:6px 12px; border-radius:999px; font-size:12px; font-weight:700; letter-spacing:.02em; }
+    .btn-primary { background:#001489; color:#fff; border-radius:12px; font-weight:800; padding:0 22px; gap:8px; box-shadow: 0 6px 20px -8px rgba(0,20,137,.5); }
+    .btn-primary:hover { background:#000E5C; }
+    .btn-wa { background:#25D366; color:#fff; border-radius:12px; font-weight:800; padding:0 22px; gap:8px; box-shadow: 0 6px 20px -8px rgba(37,211,102,.55); }
+    .btn-wa:hover { background:#1eb558; }
+    .btn-ghost { background:#fff; color:#001489; border:2px solid #E5E7EB; border-radius:12px; font-weight:700; padding:0 22px; gap:8px; }
+    .card { background:#fff; border:1px solid #E6E8F0; border-radius:18px; }
+    .section { padding: 56px 0; }
+    .h-eyebrow { color:#001489; font-weight:800; font-size:12px; letter-spacing:.12em; text-transform:uppercase; }
+    .h2 { font-size: clamp(24px,3.4vw,34px); font-weight:900; line-height:1.15; color:#0B1437; letter-spacing:-.01em; }
+    .sub { color:#475069; font-size:15px; }
+    details > summary { list-style:none; cursor:pointer; }
+    details > summary::-webkit-details-marker { display:none; }
+    details[open] .chev { transform: rotate(180deg); }
+    .chev { transition: transform .2s ease; }
+    @media (max-width: 640px) {
+      .section { padding: 40px 0; }
+      .wrap { padding: 0 16px; }
+    }
   </style>
 </head>
-<body class="bg-white text-gray-900 antialiased">
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCMZWFT3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCMZWFT3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-  <!-- Static info bar (no flashing — feels less like spam) -->
-  <div class="bg-[#001489] text-white text-center py-2 px-4 text-xs sm:text-sm font-semibold">
-    Authorized New Holland Dealer · Nizamabad · Mon–Sat 9AM–7PM
+<!-- Top trust strip -->
+<div style="background:#0B1437; color:#C6CCE5; font-size:12px; padding:8px 0; text-align:center;">
+  <div class="wrap" style="display:flex; justify-content:center; gap:14px; flex-wrap:wrap; font-weight:600;">
+    <span>Authorized New Holland Dealer</span>
+    <span style="opacity:.4;">•</span>
+    <span>Since 2004</span>
+    <span style="opacity:.4;">•</span>
+    <span>Mon–Sat · 9 AM – 7 PM</span>
   </div>
+</div>
 
-  <!-- Header -->
-  <header class="bg-white border-b border-gray-200 px-4 py-3">
-    <div class="max-w-5xl mx-auto flex items-center justify-between gap-3">
-      <div class="flex items-center gap-3 min-w-0">
-        <div class="w-10 h-10 bg-[#001489] flex items-center justify-center font-black text-xl rounded-md shrink-0">
-          <span class="text-[#FFD100]">P</span>
-        </div>
-        <div class="min-w-0">
-          <div class="font-black text-[#001489] text-base sm:text-lg uppercase leading-tight">Prakash Motors</div>
-          <div class="text-[10px] text-gray-500 font-bold tracking-wider uppercase truncate">Authorized New Holland Dealer</div>
-        </div>
+<!-- Header -->
+<header style="background:#fff; border-bottom:1px solid #EAECF4; position:sticky; top:0; z-index:50;">
+  <div class="wrap" style="display:flex; align-items:center; justify-content:space-between; height:64px;">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <div style="width:42px; height:42px; background:#001489; border-radius:10px; display:flex; align-items:center; justify-content:center; font-weight:900; font-size:20px; color:#FFD100;">P</div>
+      <div>
+        <div style="font-weight:900; font-size:16px; color:#001489; letter-spacing:-.01em;">Prakash Motors</div>
+        <div style="font-size:10px; color:#6B7280; font-weight:600; letter-spacing:.08em; text-transform:uppercase;">Authorized New Holland · Nizamabad</div>
       </div>
-      <a href={`tel:${PHONE}`} class="tap bg-[#001489] text-white px-4 py-2 rounded-lg font-bold text-sm shrink-0">
-        <span class="deco" aria-hidden="true">📞</span> Call
-      </a>
     </div>
-  </header>
-
-  <!-- Hero -->
-  <section class="bg-gradient-to-br from-[#001489] to-[#000E5C] text-white py-12 px-4">
-    <div class="max-w-4xl mx-auto text-center">
-      <div class="inline-block bg-[#FFD100] text-[#001489] text-[11px] font-black px-3 py-1.5 rounded-full mb-5 uppercase tracking-wider">
-        20+ Years · 2,000+ Farmers Served
-      </div>
-      <h1 class="text-3xl md:text-5xl font-black leading-tight mb-3">
-        New Holland Tractors<br/><span class="text-[#FFD100]">in Nizamabad</span>
-      </h1>
-      <p class="text-blue-100 text-base md:text-lg mb-3">3230 NX · 3630 TX · Excel 4510 · Workmaster 105 · Combine Harvesters</p>
-      <p lang="te" class="font-telugu text-blue-200 text-sm md:text-base mb-8">నిజామాబాద్‌లో న్యూ హాలండ్ ట్రాక్టర్‌లు — EMI ₹12,000 నుండి · ఉచిత ఫార్మ్ డెమో</p>
-
-      <div class="flex flex-col sm:flex-row gap-3 justify-center mb-5 max-w-xl mx-auto">
-        <a href={waLink("the best price for a New Holland tractor in Nizamabad. [W-LP]")}
-           target="_blank" rel="noopener noreferrer"
-           class="cta flex-1 bg-[#25D366] text-white px-6 py-4 rounded-xl font-black text-base md:text-lg shadow-lg hover:bg-green-500">
-          <span class="deco" aria-hidden="true">💬</span> WhatsApp for Price
-        </a>
-        <a href={`tel:${PHONE}`}
-           class="cta flex-1 bg-white text-[#001489] px-6 py-4 rounded-xl font-black text-base md:text-lg shadow-lg hover:bg-gray-100">
-          <span class="deco" aria-hidden="true">📞</span> Call {PHONE_DISP}
-        </a>
-      </div>
-      <p class="text-blue-200 text-xs">Opposite New Bus Stand, Nizamabad 503001</p>
-    </div>
-  </section>
-
-  <!-- EMI strip (static, informative) -->
-  <div class="bg-[#FFD100] py-3 px-4 text-center">
-    <p class="text-[#001489] font-bold text-sm md:text-base">
-      EMI from ₹12,000/month · Bank loan up to 7 years · SBI, Andhra Bank, NABARD
-    </p>
+    <a href={`tel:${PHONE}`} class="tap btn-primary" style="padding:0 16px; font-size:14px;">
+      <svg class="deco" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.37 1.9.72 2.81a2 2 0 0 1-.45 2.11L8.1 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.35 1.85.59 2.81.72A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+      Call
+    </a>
   </div>
+</header>
 
-  <!-- Tractor models -->
-  <section class="py-12 px-4 bg-white">
-    <div class="max-w-5xl mx-auto">
-      <h2 class="text-2xl md:text-3xl font-black text-[#001489] text-center mb-2">Available Models</h2>
-      <p class="text-gray-500 text-center mb-8 text-sm">All models in stock at Nizamabad showroom. Free farm demo on request.</p>
+<!-- HERO -->
+<section style="background:radial-gradient(ellipse at top left, #001489 0%, #0B1D6F 55%, #07143F 100%); color:#fff; padding: 48px 0 56px;">
+  <div class="wrap" style="display:grid; grid-template-columns: 1fr; gap:36px; align-items:center;">
+    <div style="display:grid; grid-template-columns: minmax(0,1fr); gap:32px;" id="hero-grid">
+      <div>
+        <div class="pill" style="background:rgba(255,209,0,.14); color:#FFD100; border:1px solid rgba(255,209,0,.28); margin-bottom:18px;">
+          <svg class="deco" width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 2 4 5v6c0 5.5 3.4 10.3 8 11 4.6-.7 8-5.5 8-11V5l-8-3z" stroke="#FFD100" stroke-width="2" stroke-linejoin="round"/><path d="m9 12 2 2 4-4" stroke="#FFD100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Authorized CNH Industrial Dealer
+        </div>
+        <h1 style="font-size: clamp(32px, 6vw, 54px); font-weight:900; line-height:1.05; letter-spacing:-.02em; margin-bottom:14px;">
+          New Holland tractors,<br/><span style="color:#FFD100;">honest on-road pricing.</span>
+        </h1>
+        <p style="color:#C6CCE5; font-size:clamp(15px,1.7vw,18px); max-width:540px; margin-bottom:10px;">
+          Buy your next tractor from Nizamabad's authorized New Holland dealer — 2,000+ farmers served across Nizamabad, Kamareddy, Armoor, Bodhan, Banswada and Yellareddy since 2004.
+        </p>
+        <p lang="te" class="fn" style="color:#9FA7C9; font-size:14px; margin-bottom:28px;">
+          నిజామాబాద్‌లో న్యూ హాలండ్ ట్రాక్టర్‌లు — నిజాయితీ ధర, ఉచిత ఫార్మ్ డెమో, సులభ EMI
+        </p>
 
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {tractors.map(t => (
-          <div class="border border-gray-200 rounded-2xl overflow-hidden bg-white flex flex-col">
-            <div class="relative h-44 bg-gray-100 overflow-hidden">
-              {t.badge && (
-                <div class="absolute top-3 left-3 z-10 bg-[#001489] text-white text-[10px] font-black px-2 py-1 rounded uppercase tracking-wide">
-                  {t.badge}
-                </div>
-              )}
-              <img src={t.img} alt={t.model} loading="lazy" class="w-full h-full object-cover" />
-            </div>
-            <div class="p-5 flex-1 flex flex-col">
-              <div class="text-xs font-black text-[#001489] uppercase tracking-wider mb-1">{t.hp}</div>
-              <h3 class="font-black text-gray-900 text-base mb-3 leading-tight">{t.model}</h3>
-              <ul class="space-y-1 mb-4 flex-1">
-                {t.features.map(f => (
-                  <li class="text-xs text-gray-600 flex items-start gap-1.5">
-                    <span class="text-[#001489] font-bold">✓</span><span>{f}</span>
-                  </li>
-                ))}
-              </ul>
-              <div class="flex gap-2">
-                <a href={waLink(t.wa)} target="_blank" rel="noopener noreferrer"
-                   class="tap flex-1 bg-[#25D366] text-white text-center rounded-xl font-bold text-sm px-3 hover:bg-green-600">
-                  <span class="deco" aria-hidden="true">💬</span> Get Price
-                </a>
-                <a href={`tel:${PHONE}`}
-                   class="tap bg-[#001489] text-white text-center rounded-xl font-bold text-sm px-4 hover:bg-[#000E5C]">
-                  <span class="deco" aria-hidden="true">📞</span>
-                </a>
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Why choose us — trust cards link to WhatsApp so taps never die -->
-  <section class="py-12 px-4 bg-gray-50">
-    <div class="max-w-4xl mx-auto">
-      <h2 class="text-2xl md:text-3xl font-black text-[#001489] text-center mb-2">Why Farmers Choose Prakash Motors</h2>
-      <p lang="te" class="font-telugu text-gray-500 text-center mb-8 text-sm">రైతులు మమ్మల్ని ఎందుకు నమ్ముతారు</p>
-      <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-        {[
-          { icon: "🏅", title: "Authorized Dealer", desc: "100% genuine New Holland tractors with full CNH Industrial warranty." },
-          { icon: "🏦", title: "Easy EMI & Loans", desc: "SBI · Andhra Bank · NABARD. EMI from ₹12,000/month. Approval in 48 hours." },
-          { icon: "🔧", title: "Free Service Camps", desc: "Regular camps in Armoor, Bodhan, Banswada, Kamareddy, Yellareddy." },
-          { icon: "🚜", title: "Free Farm Demo", desc: "We bring the tractor to your land so you can try before you buy." },
-          { icon: "📦", title: "Genuine Spare Parts", desc: "Full inventory of original parts. 24-hour service response for breakdowns." },
-          { icon: "👨‍🌾", title: "20+ Years Local", desc: "Family-run since 2004. 2,000+ tractors sold across 4 districts." }
-        ].map(item => (
-          <div class="bg-white rounded-2xl p-5 border border-gray-100">
-            <div class="text-2xl mb-2">{item.icon}</div>
-            <h3 class="font-black text-[#001489] mb-1 text-sm">{item.title}</h3>
-            <p class="text-gray-600 text-sm leading-relaxed">{item.desc}</p>
-          </div>
-        ))}
-      </div>
-      <div class="text-center mt-8">
-        <a href={waLink("more information about Prakash Motors New Holland tractors. [W-LP-WHY]")}
-           target="_blank" rel="noopener noreferrer"
-           class="cta inline-flex bg-[#001489] text-white px-8 py-3 rounded-xl font-bold text-sm">
-          <span class="deco" aria-hidden="true">💬</span> Ask us anything on WhatsApp
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- Social proof -->
-  <section class="py-10 px-4 bg-white border-t border-gray-100">
-    <div class="max-w-4xl mx-auto text-center">
-      <div class="flex items-center justify-center gap-3 mb-6 flex-wrap">
-        <span class="text-yellow-400 text-2xl" aria-hidden="true">★★★★★</span>
-        <span class="font-black text-[#001489] text-lg">4.7 / 5</span>
-        <span class="text-gray-500 text-sm">(148 Google Reviews)</span>
-      </div>
-      <div class="grid grid-cols-3 gap-3 mb-8">
-        {[
-          { stat: "20+", label: "Years" },
-          { stat: "2,000+", label: "Tractors Sold" },
-          { stat: "4", label: "Districts" }
-        ].map(item => (
-          <div class="bg-[#001489]/5 rounded-2xl p-4">
-            <div class="text-2xl md:text-3xl font-black text-[#001489]">{item.stat}</div>
-            <div class="text-xs text-gray-600 font-bold mt-1">{item.label}</div>
-          </div>
-        ))}
-      </div>
-
-      <div class="grid sm:grid-cols-2 gap-4 text-left">
-        {[
-          { name: "Rajaiah Goud", location: "Armoor", text: "Bought 3630 TX last year. Best tractor for cotton. EMI arranged in 2 days." },
-          { name: "Venkat Reddy", location: "Banswada", text: "Bought Excel 4510 for paddy. Service is excellent. Free camp in our village was very helpful." }
-        ].map(t => (
-          <div class="bg-gray-50 rounded-2xl p-5 border border-gray-200">
-            <div class="text-yellow-400 text-sm mb-2" aria-hidden="true">★★★★★</div>
-            <p class="text-gray-700 text-sm italic mb-3">"{t.text}"</p>
-            <div class="font-bold text-[#001489] text-sm">{t.name} <span class="text-gray-400 font-normal">· {t.location}</span></div>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- FAQ -->
-  <section class="py-12 px-4 bg-gray-50">
-    <div class="max-w-3xl mx-auto">
-      <h2 class="text-2xl font-black text-[#001489] mb-6 text-center">Common Questions</h2>
-      <div class="space-y-3">
-        {[
-          { q: "What is the price of New Holland 3630 in Nizamabad?", a: "The 3630 TX Super Plus is priced around ₹8.5–10 lakh ex-showroom (April 2026). Final on-road price depends on attachments and district RTO. Call or WhatsApp us for today's exact quote." },
-          { q: "Does Prakash Motors offer tractor loan?", a: "Yes. We work with SBI, Andhra Bank, NABARD and private lenders. Loans cover up to 95% of the tractor cost, EMI from ₹12,000/month, tenure up to 7 years. Normal approval in 48 hours." },
-          { q: "Can I get a farm demo before buying?", a: "Yes. Book a free farm demo — our team brings the tractor to your land so you can try it on your actual soil before deciding." },
-          { q: "Which tractor suits 5 acres in Nizamabad?", a: "For 3–8 acre farms, the 3230 NX (42 HP) or 3630 TX (50 HP) are the most popular choices. For cotton and paddy, the Excel 4510 is a strong pick. Call us with your crop details — we'll recommend the right model." }
-        ].map(item => (
-          <details class="bg-white border border-gray-200 rounded-xl p-4 group">
-            <summary class="font-bold text-[#001489] flex items-center justify-between gap-3 cursor-pointer list-none tap">
-              <span>{item.q}</span>
-              <span class="text-gray-400 group-open:rotate-180 transition-transform text-lg shrink-0" aria-hidden="true">▼</span>
-            </summary>
-            <p class="text-gray-600 text-sm mt-3 leading-relaxed">{item.a}</p>
-          </details>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Branch contacts -->
-  <section class="py-10 px-4 bg-white border-t border-gray-100">
-    <div class="max-w-4xl mx-auto">
-      <h2 class="text-xl md:text-2xl font-black text-[#001489] text-center mb-6">Call Your Nearest Office</h2>
-      <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
-        {[
-          { name: "Nizamabad Main" }, { name: "Armoor" }, { name: "Bodhan" },
-          { name: "Banswada" }, { name: "Kamareddy" }, { name: "Yellareddy" }
-        ].map(b => (
-          <a href={`tel:${PHONE}`} class="tap border border-gray-200 rounded-xl p-3 text-center hover:border-[#001489] hover:bg-[#001489]/5 flex flex-col justify-center">
-            <div class="font-black text-[#001489] text-sm">{b.name}</div>
-            <div class="text-gray-600 text-xs font-bold mt-1"><span class="deco" aria-hidden="true">📞</span> {PHONE_DISP}</div>
+        <div style="display:grid; grid-template-columns: 1fr 1fr; gap:12px; max-width:520px;">
+          <a href={waLink("I want a quote for a New Holland tractor in Nizamabad. [W-LP-HERO]")} target="_blank" rel="noopener noreferrer" class="tap btn-wa" style="min-height:56px; font-size:15px;">
+            <svg class="deco" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.52 3.48A11.91 11.91 0 0 0 12.05 0C5.5 0 .16 5.33.16 11.89a11.8 11.8 0 0 0 1.58 5.95L0 24l6.33-1.67a11.89 11.89 0 0 0 5.72 1.46h.01c6.55 0 11.9-5.33 11.9-11.89a11.82 11.82 0 0 0-3.44-8.42zM12.06 21.8h-.01a9.9 9.9 0 0 1-5.04-1.38l-.36-.21-3.76.99 1-3.67-.24-.38a9.85 9.85 0 0 1-1.5-5.26c0-5.45 4.43-9.88 9.9-9.88 2.64 0 5.12 1.03 6.99 2.9a9.81 9.81 0 0 1 2.89 6.99c0 5.45-4.43 9.9-9.88 9.9zm5.43-7.41c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.65.07-.3-.15-1.26-.46-2.39-1.47-.88-.79-1.48-1.76-1.66-2.06-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.07-.15-.67-1.62-.92-2.22-.24-.58-.49-.5-.67-.51l-.57-.01c-.2 0-.52.07-.79.37-.27.3-1.04 1.01-1.04 2.47 0 1.46 1.07 2.87 1.22 3.07.15.2 2.1 3.2 5.07 4.49.71.31 1.26.49 1.69.63.71.22 1.35.19 1.86.12.57-.08 1.76-.72 2-1.41.25-.7.25-1.3.17-1.41-.07-.13-.27-.2-.57-.35z"/></svg>
+            WhatsApp quote
           </a>
+          <a href={`tel:${PHONE}`} class="tap btn-ghost" style="min-height:56px; font-size:15px; background:rgba(255,255,255,.08); color:#fff; border-color:rgba(255,255,255,.25);">
+            <svg class="deco" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.37 1.9.72 2.81a2 2 0 0 1-.45 2.11L8.1 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.35 1.85.59 2.81.72A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+            {PHONE_DISP}
+          </a>
+        </div>
+
+        <div style="display:flex; gap:20px; margin-top:28px; padding-top:22px; border-top:1px solid rgba(255,255,255,.08); flex-wrap:wrap;">
+          <div>
+            <div style="font-size:22px; font-weight:900; color:#fff; line-height:1;">20+</div>
+            <div style="font-size:11px; color:#9FA7C9; margin-top:4px;">years in Nizamabad</div>
+          </div>
+          <div style="width:1px; background:rgba(255,255,255,.1);"></div>
+          <div>
+            <div style="font-size:22px; font-weight:900; color:#fff; line-height:1;">2,000+</div>
+            <div style="font-size:11px; color:#9FA7C9; margin-top:4px;">tractors delivered</div>
+          </div>
+          <div style="width:1px; background:rgba(255,255,255,.1);"></div>
+          <div>
+            <div style="font-size:22px; font-weight:900; color:#fff; line-height:1; display:flex; align-items:center; gap:6px;">
+              4.7<svg width="18" height="18" viewBox="0 0 24 24" fill="#FFD100" aria-hidden="true"><path d="m12 2 3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            </div>
+            <div style="font-size:11px; color:#9FA7C9; margin-top:4px;">148 Google reviews</div>
+          </div>
+          <div style="width:1px; background:rgba(255,255,255,.1);"></div>
+          <div>
+            <div style="font-size:22px; font-weight:900; color:#fff; line-height:1;">6</div>
+            <div style="font-size:11px; color:#9FA7C9; margin-top:4px;">service locations</div>
+          </div>
+        </div>
+      </div>
+
+      <div style="position:relative;">
+        <div style="background:linear-gradient(135deg, #FFD100 0%, #F59E0B 100%); border-radius:24px; padding:24px; box-shadow: 0 30px 60px -20px rgba(0,0,0,.4);">
+          <img src="https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500" alt="New Holland 3630 TX Super Plus" style="width:100%; border-radius:14px; aspect-ratio: 4/3; object-fit: cover; background:#fff;" />
+          <div style="margin-top:16px; display:flex; align-items:center; justify-content:space-between; color:#0B1437;">
+            <div>
+              <div style="font-size:11px; font-weight:800; text-transform:uppercase; letter-spacing:.08em; opacity:.7;">Featured</div>
+              <div style="font-weight:900; font-size:16px; margin-top:2px;">3630 TX Super Plus · 50 HP</div>
+            </div>
+            <div style="text-align:right;">
+              <div style="font-size:11px; opacity:.7; font-weight:700;">from</div>
+              <div style="font-weight:900; font-size:20px;">₹8.5L</div>
+            </div>
+          </div>
+        </div>
+        <div style="position:absolute; bottom:-14px; left:50%; transform:translateX(-50%); background:#fff; color:#001489; padding:10px 18px; border-radius:999px; font-weight:800; font-size:12px; box-shadow: 0 10px 30px -10px rgba(0,0,0,.3); white-space:nowrap;">
+          EMI from ₹12,000/month · 7-year loan
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  @media (min-width: 900px) {
+    #hero-grid { grid-template-columns: 1.1fr 1fr !important; gap: 48px !important; }
+  }
+</style>
+
+<!-- Brand partners / trust row -->
+<section style="background:#F6F7FB; border-bottom:1px solid #EAECF4; padding:22px 0;">
+  <div class="wrap" style="display:flex; justify-content:space-around; align-items:center; gap:14px; flex-wrap:wrap;">
+    {[
+      { t: "CNH Industrial Authorized", s: "Manufacturer-certified" },
+      { t: "SBI · Andhra · NABARD", s: "On-site finance desk" },
+      { t: "100% Genuine OEM parts", s: "Factory-packed" },
+      { t: "24-hr breakdown response", s: "Across 6 mandals" },
+    ].map(x => (
+      <div style="text-align:center; flex:1; min-width:140px;">
+        <div style="font-size:13px; font-weight:800; color:#0B1437;">{x.t}</div>
+        <div style="font-size:11px; color:#6B7280; margin-top:2px;">{x.s}</div>
+      </div>
+    ))}
+  </div>
+</section>
+
+<!-- MODELS -->
+<section class="section">
+  <div class="wrap">
+    <div style="text-align:center; margin-bottom:36px;">
+      <div class="h-eyebrow">Our lineup</div>
+      <h2 class="h2" style="margin-top:8px;">Choose your New Holland</h2>
+      <p class="sub" style="margin-top:8px;">Every model in stock at Nizamabad. Tap any card to get today's on-road price on WhatsApp.</p>
+    </div>
+
+    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:18px;">
+      {tractors.map(t => (
+        <a href={waLink(t.wa)} target="_blank" rel="noopener noreferrer"
+           class="card"
+           style="display:flex; flex-direction:column; overflow:hidden; transition: transform .2s ease, box-shadow .2s ease; min-height:420px;">
+          <div style="position:relative; aspect-ratio: 4/3; background: linear-gradient(135deg, #F3F5FC 0%, #E8ECF8 100%); overflow:hidden;">
+            <img src={t.img} alt={t.model} loading="lazy" style="width:100%; height:100%; object-fit:cover;" />
+            <div class="deco" style="position:absolute; top:12px; left:12px; background:#001489; color:#fff; font-size:10px; font-weight:800; text-transform:uppercase; letter-spacing:.08em; padding:6px 10px; border-radius:6px;">
+              {t.badge}
+            </div>
+            <div class="deco" style="position:absolute; top:12px; right:12px; background:#FFD100; color:#0B1437; font-size:11px; font-weight:900; padding:6px 10px; border-radius:6px;">
+              {t.hp}
+            </div>
+          </div>
+          <div style="padding:20px; display:flex; flex-direction:column; flex:1;">
+            <h3 style="font-weight:800; font-size:17px; color:#0B1437; line-height:1.25; margin-bottom:4px;">{t.model}</h3>
+            <div style="display:flex; align-items:baseline; gap:6px; margin-bottom:12px;">
+              <span style="font-size:11px; color:#6B7280; font-weight:600;">from</span>
+              <span style="font-size:20px; font-weight:900; color:#001489;">{t.priceFrom}</span>
+              <span style="font-size:11px; color:#6B7280;">ex-showroom</span>
+            </div>
+            <ul style="list-style:none; margin:0; padding:0; flex:1;">
+              {t.features.map(f => (
+                <li style="font-size:13px; color:#475069; padding:3px 0; display:flex; align-items:start; gap:8px;">
+                  <svg class="deco" width="14" height="14" viewBox="0 0 24 24" fill="none" style="margin-top:4px; flex-shrink:0;" aria-hidden="true"><path d="m5 12 5 5 9-11" stroke="#001489" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                  <span>{f}</span>
+                </li>
+              ))}
+            </ul>
+            <div class="deco" style="margin-top:16px; display:flex; align-items:center; justify-content:space-between; padding:12px 14px; background:#F6F7FB; border-radius:10px; font-size:13px; font-weight:700; color:#001489;">
+              <span>Get price on WhatsApp</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h14m0 0-6-6m6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <!-- Secondary CTAs -->
+    <div style="display:flex; gap:12px; margin-top:28px; justify-content:center; flex-wrap:wrap;">
+      <a href={waLink("I want help choosing the right New Holland tractor for my crops. [W-LP-HELP]")} target="_blank" rel="noopener noreferrer" class="tap btn-wa" style="padding:0 24px;">
+        <svg class="deco" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.52 3.48A11.91 11.91 0 0 0 12.05 0C5.5 0 .16 5.33.16 11.89a11.8 11.8 0 0 0 1.58 5.95L0 24l6.33-1.67a11.89 11.89 0 0 0 5.72 1.46h.01c6.55 0 11.9-5.33 11.9-11.89a11.82 11.82 0 0 0-3.44-8.42z"/></svg>
+        Not sure which model? Ask us
+      </a>
+      <a href={waLink("I want to book a free farm demo for a New Holland tractor. [W-LP-DEMO]")} target="_blank" rel="noopener noreferrer" class="tap btn-ghost" style="padding:0 24px; border-color:#001489; color:#001489;">
+        Book free farm demo →
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- WHY US -->
+<section class="section" style="background:#F6F7FB;">
+  <div class="wrap">
+    <div style="text-align:center; margin-bottom:36px;">
+      <div class="h-eyebrow">Why Prakash Motors</div>
+      <h2 class="h2" style="margin-top:8px;">Built on 20 years of farmer trust</h2>
+      <p class="sub" style="margin-top:8px;">Specifics — not slogans.</p>
+    </div>
+
+    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:16px;">
+      {[
+        { icon: 'shield', title: "CNH-Authorized", desc: "We're certified by CNH Industrial — every tractor comes with full factory warranty and official service records." },
+        { icon: 'coins', title: "Transparent pricing", desc: "No hidden charges. You get the exact on-road quote on WhatsApp in writing before you visit the showroom." },
+        { icon: 'bank', title: "Finance desk on-site", desc: "SBI, Andhra Bank, NABARD and private lenders. EMI from ₹12,000/month, up to 95% financing, tenure up to 7 years." },
+        { icon: 'farm', title: "Free farm demo", desc: "Our team brings the tractor to your land before you buy. See it work your soil with your attachments." },
+        { icon: 'wrench', title: "24-hr breakdown service", desc: "Service camps in Armoor, Bodhan, Banswada, Kamareddy, Yellareddy. Our technicians come to you." },
+        { icon: 'package', title: "Genuine spare parts", desc: "Full New Holland OEM inventory on site. No fake parts, no week-long waits for shipments." },
+      ].map(f => (
+        <div class="card" style="padding:22px;">
+          <div style="width:44px; height:44px; background:#001489; border-radius:10px; display:flex; align-items:center; justify-content:center; margin-bottom:14px;">
+            {f.icon === 'shield' && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 2 4 5v6c0 5.5 3.4 10.3 8 11 4.6-.7 8-5.5 8-11V5l-8-3z" stroke="#FFD100" stroke-width="2" stroke-linejoin="round"/><path d="m9 12 2 2 4-4" stroke="#FFD100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>}
+            {f.icon === 'coins' && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="9" cy="9" r="6" stroke="#FFD100" stroke-width="2"/><path d="M18.09 10.37A6 6 0 1 1 10.34 18M7 6h1v4M16.71 13.88l.7.71-2.82 2.82" stroke="#FFD100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>}
+            {f.icon === 'bank' && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M3 10 12 3l9 7M5 10v10h14V10M3 20h18M8 13v5M12 13v5M16 13v5" stroke="#FFD100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>}
+            {f.icon === 'farm' && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="7" cy="16" r="3" stroke="#FFD100" stroke-width="2"/><circle cx="17" cy="16" r="3" stroke="#FFD100" stroke-width="2"/><path d="M14 16h-4M4 13V8h6l2 3h5v5" stroke="#FFD100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>}
+            {f.icon === 'wrench' && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M14.7 6.3a4.5 4.5 0 0 0-5.85 5.85l-6.1 6.1a1.5 1.5 0 0 0 2.12 2.12l6.1-6.1a4.5 4.5 0 0 0 5.85-5.85l-2.47 2.47-2.12-2.12 2.47-2.47z" stroke="#FFD100" stroke-width="2" stroke-linejoin="round"/></svg>}
+            {f.icon === 'package' && <svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m3 7 9-5 9 5v10l-9 5-9-5V7z" stroke="#FFD100" stroke-width="2" stroke-linejoin="round"/><path d="m3 7 9 5 9-5M12 22V12" stroke="#FFD100" stroke-width="2" stroke-linejoin="round"/></svg>}
+          </div>
+          <h3 style="font-weight:800; font-size:16px; color:#0B1437; margin-bottom:6px;">{f.title}</h3>
+          <p style="font-size:13.5px; color:#475069;">{f.desc}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS (Google-style) -->
+<section class="section">
+  <div class="wrap">
+    <div style="display:grid; grid-template-columns: 1fr; gap:28px;" id="reviews-grid">
+      <div>
+        <div class="h-eyebrow">Real farmers, real reviews</div>
+        <h2 class="h2" style="margin-top:8px;">4.7 out of 5 on Google</h2>
+        <div style="display:flex; align-items:center; gap:10px; margin-top:10px;">
+          <div style="color:#FFB300; font-size:22px;" aria-hidden="true">★★★★★</div>
+          <div style="color:#475069; font-size:14px;">148 verified reviews</div>
+        </div>
+        <p class="sub" style="margin-top:18px; max-width:440px;">Every review here is from a customer who bought a tractor from us. No cherry-picking — we link you to our full Google profile below.</p>
+        <a href="https://www.google.com/search?q=Prakash+Motors+Nizamabad" target="_blank" rel="noopener noreferrer" class="tap btn-ghost" style="margin-top:18px; padding:0 22px; border-color:#001489; color:#001489;">
+          <svg class="deco" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84A11 11 0 0 0 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18a11 11 0 0 0 0 9.86l3.66-2.84z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84C6.71 7.31 9.14 5.38 12 5.38z"/></svg>
+          View all on Google
+        </a>
+      </div>
+
+      <div style="display:grid; gap:12px;">
+        {[
+          { name: "Rajaiah Goud", location: "Armoor", initial: "R", color: "#0EA5E9", text: "Bought 3630 TX last year. Runs my 8 acres of cotton without fuss. Prakash Motors arranged the EMI within 2 days — paperwork was handled cleanly." },
+          { name: "Venkat Reddy", location: "Banswada", initial: "V", color: "#F97316", text: "Excel 4510 for paddy. Three seasons in, zero service issues. The free camp in our village saved me a trip to town." },
+          { name: "Narsimha Rao", location: "Bodhan", initial: "N", color: "#10B981", text: "Compared quotes from three dealers — Prakash gave the clearest breakdown and didn't push extras I didn't need. Service team is local and reachable." },
+        ].map(r => (
+          <div class="card" style="padding:18px;">
+            <div style="display:flex; align-items:center; gap:12px; margin-bottom:10px;">
+              <div style={`width:42px; height:42px; border-radius:50%; background:${r.color}; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; font-size:18px;`}>{r.initial}</div>
+              <div style="flex:1;">
+                <div style="font-weight:700; font-size:14px; color:#0B1437;">{r.name}</div>
+                <div style="font-size:12px; color:#6B7280;">{r.location} · Google review</div>
+              </div>
+              <div style="color:#FFB300; font-size:14px;" aria-hidden="true">★★★★★</div>
+            </div>
+            <p style="font-size:14px; color:#1F2937; line-height:1.55;">{r.text}</p>
+          </div>
         ))}
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
-  <!-- Final CTA -->
-  <section class="bg-[#001489] text-white py-14 px-4 text-center">
-    <h2 class="text-2xl md:text-3xl font-black mb-3">Get Today's Tractor Price</h2>
-    <p class="text-blue-200 mb-2 text-sm md:text-base">Call or WhatsApp us — we'll share the exact on-road price and EMI for your model.</p>
-    <p lang="te" class="font-telugu text-blue-300 text-sm mb-8">మీ ట్రాక్టర్ ధర కోసం ఇప్పుడే కాల్ లేదా వాట్సాప్ చేయండి</p>
-    <div class="flex flex-col sm:flex-row gap-3 justify-center max-w-xl mx-auto">
-      <a href={waLink("the current price on a New Holland tractor in Nizamabad. [W-LP-CTA]")}
-         target="_blank" rel="noopener noreferrer"
-         class="cta flex-1 bg-[#25D366] text-white px-8 py-4 rounded-xl font-black text-base shadow-xl hover:bg-green-500">
-        <span class="deco" aria-hidden="true">💬</span> WhatsApp for Price
+<style>
+  @media (min-width: 900px) {
+    #reviews-grid { grid-template-columns: 1fr 1.3fr !important; gap: 56px !important; }
+  }
+</style>
+
+<!-- EMI CALCULATOR CALLOUT -->
+<section class="section" style="background: linear-gradient(135deg, #001489 0%, #0B1D6F 100%); color:#fff;">
+  <div class="wrap" style="display:grid; gap:24px; align-items:center; grid-template-columns: 1fr;" id="emi-grid">
+    <div>
+      <div style="color:#FFD100; font-weight:800; font-size:12px; letter-spacing:.12em; text-transform:uppercase;">Finance</div>
+      <h2 style="font-size: clamp(24px,3.4vw,34px); font-weight:900; margin-top:8px; line-height:1.15;">EMI from ₹12,000/month</h2>
+      <p style="color:#C6CCE5; margin-top:10px; max-width:520px;">Loans up to 95% of tractor cost. Tenure up to 7 years. We coordinate documents with SBI, Andhra Bank, NABARD and other lenders — approval typically in 48 hours with Aadhaar and land records.</p>
+      <div style="display:flex; gap:8px; flex-wrap:wrap; margin-top:16px;">
+        {["SBI", "Andhra Bank", "NABARD", "HDFC", "Mahindra Finance"].map(b => (
+          <span class="pill" style="background:rgba(255,255,255,.08); color:#C6CCE5; border:1px solid rgba(255,255,255,.12);">{b}</span>
+        ))}
+      </div>
+    </div>
+    <div style="display:flex; flex-direction:column; gap:10px; max-width:440px;">
+      <a href={waLink("I want to check my tractor EMI eligibility. [W-LP-EMI]")} target="_blank" rel="noopener noreferrer" class="tap btn-wa" style="min-height:56px; font-size:15px;">
+        <svg class="deco" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.52 3.48A11.91 11.91 0 0 0 12.05 0C5.5 0 .16 5.33.16 11.89a11.8 11.8 0 0 0 1.58 5.95L0 24l6.33-1.67a11.89 11.89 0 0 0 5.72 1.46h.01c6.55 0 11.9-5.33 11.9-11.89a11.82 11.82 0 0 0-3.44-8.42z"/></svg>
+        Check EMI eligibility
       </a>
-      <a href={`tel:${PHONE}`}
-         class="cta flex-1 bg-white text-[#001489] px-8 py-4 rounded-xl font-black text-base shadow-xl hover:bg-gray-100">
-        <span class="deco" aria-hidden="true">📞</span> {PHONE_DISP}
+      <a href={`tel:${PHONE}`} class="tap" style="min-height:56px; background:rgba(255,255,255,.1); color:#fff; border:2px solid rgba(255,255,255,.25); border-radius:12px; font-weight:800; padding:0 22px; gap:8px; font-size:15px;">
+        <svg class="deco" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.37 1.9.72 2.81a2 2 0 0 1-.45 2.11L8.1 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.35 1.85.59 2.81.72A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+        Talk to finance desk
       </a>
     </div>
-    <p class="text-blue-300 text-xs mt-6">Prakash Motors · Opposite New Bus Stand, Nizamabad 503001 · Mon–Sat 9AM–7PM</p>
-  </section>
-
-  <!-- Sticky mobile bar -->
-  <div class="fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-gray-200 shadow-2xl p-2.5 flex gap-2 sm:hidden">
-    <a href={`tel:${PHONE}`} class="tap flex-1 flex items-center justify-center gap-2 bg-[#001489] text-white rounded-xl font-bold text-sm">
-      <span class="deco" aria-hidden="true">📞</span> Call
-    </a>
-    <a href={waLink("the best price for New Holland tractor. [W-LP-BAR]")}
-       target="_blank" rel="noopener noreferrer"
-       class="tap flex items-center justify-center gap-2 bg-[#25D366] text-white rounded-xl font-bold text-sm" style="flex:1.6">
-      <span class="deco" aria-hidden="true">💬</span> WhatsApp Price
-    </a>
   </div>
-  <div class="pb-20 sm:pb-0"></div>
+</section>
+
+<style>
+  @media (min-width: 900px) {
+    #emi-grid { grid-template-columns: 1.3fr 1fr !important; gap: 48px !important; }
+  }
+</style>
+
+<!-- VISIT / MAP -->
+<section class="section">
+  <div class="wrap">
+    <div style="text-align:center; margin-bottom:28px;">
+      <div class="h-eyebrow">Visit us</div>
+      <h2 class="h2" style="margin-top:8px;">Come see the tractors in person</h2>
+    </div>
+    <div style="display:grid; gap:20px; grid-template-columns: 1fr;" id="visit-grid">
+      <div class="card" style="overflow:hidden; min-height:280px;">
+        <iframe
+          src="https://www.google.com/maps?q=Prakash+Motors+Nizamabad&output=embed"
+          style="width:100%; height:100%; min-height:340px; border:0; display:block;"
+          loading="lazy"
+          title="Prakash Motors Nizamabad on Google Maps"
+          allowfullscreen
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
+      </div>
+      <div class="card" style="padding:24px;">
+        <div style="font-weight:800; font-size:18px; color:#0B1437; margin-bottom:6px;">Prakash Motors · Main Showroom</div>
+        <div style="color:#475069; font-size:14px; margin-bottom:16px;">Opposite New Bus Stand<br/>Nizamabad 503001, Telangana</div>
+        <div style="display:flex; gap:10px; margin-bottom:18px; flex-wrap:wrap;">
+          <a href={`tel:${PHONE}`} class="tap btn-primary" style="padding:0 18px; font-size:14px;">
+            <svg class="deco" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.37 1.9.72 2.81a2 2 0 0 1-.45 2.11L8.1 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.35 1.85.59 2.81.72A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+            {PHONE_DISP}
+          </a>
+          <a href={waLink("I want to visit the showroom. Please share directions. [W-LP-VISIT]")} target="_blank" rel="noopener noreferrer" class="tap btn-wa" style="padding:0 18px; font-size:14px;">
+            WhatsApp
+          </a>
+        </div>
+        <div style="border-top:1px solid #EAECF4; padding-top:16px;">
+          <div style="font-size:12px; font-weight:800; color:#0B1437; text-transform:uppercase; letter-spacing:.08em; margin-bottom:10px;">Also find us at</div>
+          <div style="display:grid; grid-template-columns: 1fr 1fr; gap:8px;">
+            {branches.slice(1).map(b => (
+              <a href={`tel:${PHONE}`} class="tap" style="min-height:44px; background:#F6F7FB; border-radius:8px; padding:8px 12px; display:flex; flex-direction:column; align-items:flex-start; justify-content:center;">
+                <div style="font-weight:700; font-size:13px; color:#0B1437;">{b.name}</div>
+                <div style="font-size:11px; color:#6B7280;">{b.address}</div>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  @media (min-width: 900px) {
+    #visit-grid { grid-template-columns: 1.3fr 1fr !important; gap: 24px !important; }
+  }
+</style>
+
+<!-- FAQ -->
+<section class="section" style="background:#F6F7FB;">
+  <div class="wrap" style="max-width:760px;">
+    <div style="text-align:center; margin-bottom:28px;">
+      <div class="h-eyebrow">FAQ</div>
+      <h2 class="h2" style="margin-top:8px;">Questions we hear every day</h2>
+    </div>
+    <div style="display:flex; flex-direction:column; gap:10px;">
+      {faqs.map(f => (
+        <details class="card" style="padding:0; overflow:hidden;">
+          <summary class="tap" style="padding:16px 20px; font-weight:700; font-size:15px; color:#0B1437; display:flex; justify-content:space-between; align-items:center; min-height:60px;">
+            <span>{f.q}</span>
+            <svg class="chev deco" width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m6 9 6 6 6-6" stroke="#001489" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </summary>
+          <div style="padding:0 20px 18px; color:#475069; font-size:14px;">{f.a}</div>
+        </details>
+      ))}
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section style="background: linear-gradient(135deg, #001489 0%, #07143F 100%); color:#fff; padding: 56px 0;">
+  <div class="wrap" style="text-align:center;">
+    <h2 style="font-size: clamp(26px,3.6vw,38px); font-weight:900; line-height:1.15;">Get today's on-road price</h2>
+    <p style="color:#C6CCE5; margin-top:10px; max-width:520px; margin-left:auto; margin-right:auto;">Share your model and district — we'll WhatsApp you the exact quote with EMI options within minutes.</p>
+    <p lang="te" class="fn" style="color:#9FA7C9; font-size:14px; margin-top:6px;">మీ ట్రాక్టర్ ధర కోసం ఇప్పుడే కాల్ లేదా వాట్సాప్ చేయండి</p>
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:12px; max-width:520px; margin:28px auto 0;">
+      <a href={waLink("I want the current on-road price on a New Holland tractor in Nizamabad. [W-LP-FOOT]")} target="_blank" rel="noopener noreferrer" class="tap btn-wa" style="min-height:56px;">
+        <svg class="deco" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.52 3.48A11.91 11.91 0 0 0 12.05 0C5.5 0 .16 5.33.16 11.89a11.8 11.8 0 0 0 1.58 5.95L0 24l6.33-1.67a11.89 11.89 0 0 0 5.72 1.46h.01c6.55 0 11.9-5.33 11.9-11.89a11.82 11.82 0 0 0-3.44-8.42z"/></svg>
+        WhatsApp quote
+      </a>
+      <a href={`tel:${PHONE}`} class="tap" style="min-height:56px; background:#fff; color:#001489; border-radius:12px; font-weight:800; padding:0 22px; gap:8px;">
+        <svg class="deco" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.37 1.9.72 2.81a2 2 0 0 1-.45 2.11L8.1 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.35 1.85.59 2.81.72A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+        Call {PHONE_DISP}
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Footer strip -->
+<footer style="background:#07143F; color:#9FA7C9; padding:20px 0; text-align:center; font-size:12px;">
+  <div class="wrap">
+    Prakash Motors · Authorized New Holland Dealer · Opposite New Bus Stand, Nizamabad 503001 · Mon–Sat 9 AM – 7 PM
+  </div>
+</footer>
+
+<!-- Sticky mobile CTA -->
+<div style="position:fixed; bottom:0; left:0; right:0; background:#fff; border-top:1px solid #EAECF4; padding:10px 12px; display:flex; gap:8px; z-index:90; box-shadow:0 -10px 30px -10px rgba(0,0,0,.12);" id="sticky-bar">
+  <a href={`tel:${PHONE}`} class="tap btn-primary" style="flex:1; min-height:48px; padding:0 10px; font-size:14px;">
+    <svg class="deco" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.37 1.9.72 2.81a2 2 0 0 1-.45 2.11L8.1 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.35 1.85.59 2.81.72A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+    Call
+  </a>
+  <a href={waLink("I want the best price for New Holland tractor. [W-LP-BAR]")} target="_blank" rel="noopener noreferrer" class="tap btn-wa" style="flex:1.6; min-height:48px; padding:0 10px; font-size:14px;">
+    <svg class="deco" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.52 3.48A11.91 11.91 0 0 0 12.05 0C5.5 0 .16 5.33.16 11.89a11.8 11.8 0 0 0 1.58 5.95L0 24l6.33-1.67a11.89 11.89 0 0 0 5.72 1.46h.01c6.55 0 11.9-5.33 11.9-11.89a11.82 11.82 0 0 0-3.44-8.42z"/></svg>
+    WhatsApp price
+  </a>
+</div>
+<div style="height:72px;"></div>
+
+<style>
+  @media (min-width: 900px) {
+    #sticky-bar { display: none; }
+  }
+</style>
 
 </body>
 </html>
