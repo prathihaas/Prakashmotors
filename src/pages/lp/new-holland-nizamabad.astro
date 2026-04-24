@@ -1,13 +1,45 @@
 ---
 // Google Ads Landing Page — Prakash Motors New Holland Nizamabad
 // noindex | no exit links | all CTAs → WhatsApp / Phone
+// Mobile-first, Android-safe taps, bilingual (English + Telugu)
+const PHONE = "+919030857333";
+const PHONE_DISP = "90308 57333";
+const WA_NUM = "919030857333";
+const tractors = [
+  { model: "New Holland 3630 TX Super Plus", hp: "50 HP", badge: "Best Seller",
+    img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500",
+    features: ["FPT S8000 Engine", "12+3 Creeper Gears", "Double Clutch", "ROPS Safety"],
+    wa: "price of New Holland 3630 TX Super Plus [W-LP-3630]" },
+  { model: "New Holland 3230 NX", hp: "42 HP", badge: "Best for 3–5 Acres",
+    img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000",
+    features: ["42 HP Engine", "8+2 Gears", "Power Steering", "Ideal for Small Farms"],
+    wa: "price of New Holland 3230 NX [W-LP-3230]" },
+  { model: "New Holland Excel 4510", hp: "45 HP", badge: "Cotton & Paddy",
+    img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000",
+    features: ["45 HP Engine", "Synchromesh Gears", "Multi-Speed PTO", "Heavy Duty Build"],
+    wa: "price of New Holland Excel 4510 [W-LP-4510]" },
+  { model: "New Holland Excel 4710", hp: "47 HP", badge: "Power Farmer",
+    img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500",
+    features: ["47 HP Engine", "16+4 Gears", "Full Hydraulics", "Turmeric & Soybean"],
+    wa: "price of New Holland Excel 4710 [W-LP-4710]" },
+  { model: "New Holland Workmaster 105", hp: "105 HP", badge: "Premium",
+    img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000",
+    features: ["105 HP Powerhouse", "Synchro Shuttle", "AC Cabin Option", "Large Farm & Commercial"],
+    wa: "price of New Holland Workmaster 105 [W-LP-WM105]" },
+  { model: "New Holland TC5.30 Combine", hp: "Combine Harvester", badge: "High Income",
+    img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500",
+    features: ["Paddy & Wheat", "Custom Hiring Income ~₹8,000/day", "Easy Finance", "Quick ROI"],
+    wa: "price of New Holland TC5.30 Combine Harvester [W-LP-TC530]" },
+];
+const waLink = (msg: string) => `https://wa.me/${WA_NUM}?text=${encodeURIComponent("Hi, I want " + msg)}`;
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>New Holland Tractor Dealer Nizamabad — Best Price 2026 | Prakash Motors</title>
+  <title>New Holland Tractor Dealer Nizamabad — Prakash Motors</title>
+  <meta name="description" content="Authorized New Holland tractor dealer in Nizamabad. 3230 NX, 3630 TX, Excel 4510/4710, Workmaster 105. EMI from ₹12,000/month. Free farm demo." />
   <meta name="robots" content="noindex, nofollow" />
   <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
   <meta name="theme-color" content="#001489" />
@@ -18,150 +50,115 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;600;700&display=swap" rel="stylesheet" />
   <style>
+    html { -webkit-text-size-adjust: 100%; }
+    body { -webkit-tap-highlight-color: rgba(0,20,137,.15); }
     .font-telugu { font-family: 'Noto Sans Telugu', sans-serif; }
-    @keyframes pulse-ring { 0%,100%{transform:scale(1);opacity:1} 50%{transform:scale(1.05);opacity:.9} }
-    .pulse-cta { animation: pulse-ring 2s ease-in-out infinite; }
-    @keyframes flash { 0%,100%{opacity:1} 50%{opacity:.7} }
-    .flash { animation: flash 1.5s ease-in-out infinite; }
+    /* Android tap reliability: eliminate 300ms delay, make whole anchor the target */
+    a, button, [role="button"] { touch-action: manipulation; }
+    /* Decorative emojis & icons inside anchors should not swallow taps */
+    a > .deco, a .deco * { pointer-events: none; }
+    /* Enforce min 48x48 tap targets site-wide for anchors that look like buttons */
+    .cta { min-height: 52px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; }
+    .tap { min-height: 48px; }
   </style>
 </head>
-<body class="bg-white text-gray-900">
+<body class="bg-white text-gray-900 antialiased">
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCMZWFT3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-  <!-- Urgency Banner -->
-  <div class="bg-[#001489] text-white text-center py-2 px-4 text-sm font-bold flash">
-    🚜 April 2026 Offer: ₹15,000 Off + Free First Service — Limited Stock!
+  <!-- Static info bar (no flashing — feels less like spam) -->
+  <div class="bg-[#001489] text-white text-center py-2 px-4 text-xs sm:text-sm font-semibold">
+    Authorized New Holland Dealer · Nizamabad · Mon–Sat 9AM–7PM
   </div>
 
   <!-- Header -->
-  <header class="bg-white border-b border-gray-200 px-4 py-4 flex items-center justify-between max-w-5xl mx-auto">
-    <div class="flex items-center gap-3">
-      <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl">
-        <span class="text-[#FFD100]">P</span>
+  <header class="bg-white border-b border-gray-200 px-4 py-3">
+    <div class="max-w-5xl mx-auto flex items-center justify-between gap-3">
+      <div class="flex items-center gap-3 min-w-0">
+        <div class="w-10 h-10 bg-[#001489] flex items-center justify-center font-black text-xl rounded-md shrink-0">
+          <span class="text-[#FFD100]">P</span>
+        </div>
+        <div class="min-w-0">
+          <div class="font-black text-[#001489] text-base sm:text-lg uppercase leading-tight">Prakash Motors</div>
+          <div class="text-[10px] text-gray-500 font-bold tracking-wider uppercase truncate">Authorized New Holland Dealer</div>
+        </div>
       </div>
-      <div>
-        <div class="font-black text-[#001489] text-lg uppercase leading-none">Prakash Motors</div>
-        <div class="text-[10px] text-gray-500 font-bold tracking-widest uppercase">Authorized New Holland Dealer · Nizamabad</div>
-      </div>
+      <a href={`tel:${PHONE}`} class="tap bg-[#001489] text-white px-4 py-2 rounded-lg font-bold text-sm shrink-0">
+        <span class="deco" aria-hidden="true">📞</span> Call
+      </a>
     </div>
-    <a href="tel:+919030857333" class="bg-[#001489] text-white px-5 py-2 rounded-lg font-bold text-sm hover:bg-[#000E5C] transition">
-      📞 Call Now
-    </a>
   </header>
 
   <!-- Hero -->
-  <section class="bg-gradient-to-br from-[#001489] to-[#000E5C] text-white py-14 px-4">
+  <section class="bg-gradient-to-br from-[#001489] to-[#000E5C] text-white py-12 px-4">
     <div class="max-w-4xl mx-auto text-center">
-      <div class="inline-block bg-[#FFD100] text-[#001489] text-xs font-black px-4 py-1.5 rounded-full mb-4 uppercase tracking-wider">
-        ✅ Authorized Dealer · 20+ Years · 2,000+ Happy Farmers
+      <div class="inline-block bg-[#FFD100] text-[#001489] text-[11px] font-black px-3 py-1.5 rounded-full mb-5 uppercase tracking-wider">
+        20+ Years · 2,000+ Farmers Served
       </div>
       <h1 class="text-3xl md:text-5xl font-black leading-tight mb-3">
-        New Holland Tractor<br>Best Price in Nizamabad
+        New Holland Tractors<br/><span class="text-[#FFD100]">in Nizamabad</span>
       </h1>
-      <p class="text-blue-200 text-lg mb-2">3230 · 3630 TX · Excel 4510 · Workmaster 105 · Harvesters</p>
-      <p class="font-telugu text-blue-300 text-base mb-8">నిజామాబాద్‌లో అత్యుత్తమ ధరకు న్యూ హాలండ్ ట్రాక్టర్‌లు</p>
+      <p class="text-blue-100 text-base md:text-lg mb-3">3230 NX · 3630 TX · Excel 4510 · Workmaster 105 · Combine Harvesters</p>
+      <p lang="te" class="font-telugu text-blue-200 text-sm md:text-base mb-8">నిజామాబాద్‌లో న్యూ హాలండ్ ట్రాక్టర్‌లు — EMI ₹12,000 నుండి · ఉచిత ఫార్మ్ డెమో</p>
 
-      <div class="flex flex-col sm:flex-row gap-4 justify-center mb-6">
-        <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20the%20best%20price%20for%20a%20New%20Holland%20tractor%20in%20Nizamabad.%20%5BW-LP%5D"
+      <div class="flex flex-col sm:flex-row gap-3 justify-center mb-5 max-w-xl mx-auto">
+        <a href={waLink("the best price for a New Holland tractor in Nizamabad. [W-LP]")}
            target="_blank" rel="noopener noreferrer"
-           class="pulse-cta inline-flex items-center justify-center gap-3 bg-[#25D366] text-white px-8 py-4 rounded-xl font-black text-lg hover:bg-green-500 transition shadow-2xl">
-          💬 WhatsApp — Get Price Now
+           class="cta flex-1 bg-[#25D366] text-white px-6 py-4 rounded-xl font-black text-base md:text-lg shadow-lg hover:bg-green-500">
+          <span class="deco" aria-hidden="true">💬</span> WhatsApp for Price
         </a>
-        <a href="tel:+919030857333"
-           class="inline-flex items-center justify-center gap-3 bg-white text-[#001489] px-8 py-4 rounded-xl font-black text-lg hover:bg-gray-100 transition shadow-xl">
-          📞 Call: 9030857333
+        <a href={`tel:${PHONE}`}
+           class="cta flex-1 bg-white text-[#001489] px-6 py-4 rounded-xl font-black text-base md:text-lg shadow-lg hover:bg-gray-100">
+          <span class="deco" aria-hidden="true">📞</span> Call {PHONE_DISP}
         </a>
       </div>
-      <p class="text-blue-300 text-xs">Mon–Sat 9AM–7PM · Opposite New Bus Stand, Nizamabad</p>
+      <p class="text-blue-200 text-xs">Opposite New Bus Stand, Nizamabad 503001</p>
     </div>
   </section>
 
-  <!-- EMI Strip -->
+  <!-- EMI strip (static, informative) -->
   <div class="bg-[#FFD100] py-3 px-4 text-center">
-    <p class="text-[#001489] font-black text-sm">EMI starts ₹12,000/month · Bank Loan up to 7 Years · Zero Paperwork Hassle</p>
+    <p class="text-[#001489] font-bold text-sm md:text-base">
+      EMI from ₹12,000/month · Bank loan up to 7 years · SBI, Andhra Bank, NABARD
+    </p>
   </div>
 
-  <!-- Tractor Models Grid -->
-  <section class="py-14 px-4 bg-white">
+  <!-- Tractor models -->
+  <section class="py-12 px-4 bg-white">
     <div class="max-w-5xl mx-auto">
-      <h2 class="text-2xl md:text-3xl font-black text-[#001489] text-center mb-2">Available New Holland Models in Nizamabad</h2>
-      <p class="text-gray-500 text-center mb-10 text-sm">All models in-stock. Book a free demo at your farm.</p>
+      <h2 class="text-2xl md:text-3xl font-black text-[#001489] text-center mb-2">Available Models</h2>
+      <p class="text-gray-500 text-center mb-8 text-sm">All models in stock at Nizamabad showroom. Free farm demo on request.</p>
 
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-
-        {[
-          {
-            model: "New Holland 3630 TX Super Plus",
-            hp: "50 HP",
-            img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500",
-            features: ["FPT S8000 Engine", "12+3 Creeper Gears", "Double Clutch", "ROPS Safety"],
-            badge: "Best Seller",
-            wa: "I%20want%20price%20of%20New%20Holland%203630%20TX%20Super%20Plus%20%5BW-LP-3630%5D"
-          },
-          {
-            model: "New Holland 3230 NX",
-            hp: "42 HP",
-            img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000",
-            features: ["42 HP Engine", "8+2 Gears", "Power Steering", "Ideal for Small Farms"],
-            badge: "Best for 3–5 Acres",
-            wa: "I%20want%20price%20of%20New%20Holland%203230%20NX%20%5BW-LP-3230%5D"
-          },
-          {
-            model: "New Holland Excel 4510",
-            hp: "45 HP",
-            img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000",
-            features: ["45 HP Engine", "Synchromesh Gears", "Multi-Speed PTO", "Heavy Duty Build"],
-            badge: "Cotton & Paddy",
-            wa: "I%20want%20price%20of%20New%20Holland%20Excel%204510%20%5BW-LP-4510%5D"
-          },
-          {
-            model: "New Holland Excel 4710",
-            hp: "47 HP",
-            img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500",
-            features: ["47 HP Engine", "16+4 Gears", "Full Hydraulics", "Turmeric & Soybean"],
-            badge: "Power Farmer",
-            wa: "I%20want%20price%20of%20New%20Holland%20Excel%204710%20%5BW-LP-4710%5D"
-          },
-          {
-            model: "New Holland Workmaster 105",
-            hp: "105 HP",
-            img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000",
-            features: ["105 HP Powerhouse", "Synchro Shuttle", "AC Cabin Option", "Large Farm & Commercial"],
-            badge: "Premium Model",
-            wa: "I%20want%20price%20of%20New%20Holland%20Workmaster%20105%20%5BW-LP-WM105%5D"
-          },
-          {
-            model: "New Holland TC5.30 Combine",
-            hp: "Combine Harvester",
-            img: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500",
-            features: ["Paddy & Wheat", "Custom Hiring Income ₹8,000/day", "Easy Finance", "Quick ROI"],
-            badge: "High Income",
-            wa: "I%20want%20price%20of%20New%20Holland%20TC5.30%20Combine%20Harvester%20%5BW-LP-TC530%5D"
-          }
-        ].map(tractor => (
-          <div class="border-2 border-gray-100 rounded-2xl overflow-hidden hover:border-[#001489] hover:shadow-xl transition-all group">
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {tractors.map(t => (
+          <div class="border border-gray-200 rounded-2xl overflow-hidden bg-white flex flex-col">
             <div class="relative h-44 bg-gray-100 overflow-hidden">
-              {tractor.badge && (
+              {t.badge && (
                 <div class="absolute top-3 left-3 z-10 bg-[#001489] text-white text-[10px] font-black px-2 py-1 rounded uppercase tracking-wide">
-                  {tractor.badge}
+                  {t.badge}
                 </div>
               )}
-              <img src={tractor.img} alt={tractor.model} class="w-full h-full object-cover group-hover:scale-105 transition duration-500" />
+              <img src={t.img} alt={t.model} loading="lazy" class="w-full h-full object-cover" />
             </div>
-            <div class="p-5">
-              <div class="text-xs font-black text-[#001489] uppercase tracking-wider mb-1">{tractor.hp}</div>
-              <h3 class="font-black text-gray-900 text-base mb-3 leading-tight">{tractor.model}</h3>
-              <ul class="space-y-1 mb-4">
-                {tractor.features.map(f => (
-                  <li class="text-xs text-gray-600 flex items-center gap-1.5">
-                    <span class="text-[#001489] font-bold">✓</span> {f}
+            <div class="p-5 flex-1 flex flex-col">
+              <div class="text-xs font-black text-[#001489] uppercase tracking-wider mb-1">{t.hp}</div>
+              <h3 class="font-black text-gray-900 text-base mb-3 leading-tight">{t.model}</h3>
+              <ul class="space-y-1 mb-4 flex-1">
+                {t.features.map(f => (
+                  <li class="text-xs text-gray-600 flex items-start gap-1.5">
+                    <span class="text-[#001489] font-bold">✓</span><span>{f}</span>
                   </li>
                 ))}
               </ul>
-              <a href={`https://wa.me/919030857333?text=Hi%2C%20${tractor.wa}`} target="_blank" rel="noopener noreferrer"
-                 class="block w-full bg-[#25D366] text-white text-center py-3 rounded-xl font-bold text-sm hover:bg-green-600 transition">
-                💬 Get Price on WhatsApp
-              </a>
+              <div class="flex gap-2">
+                <a href={waLink(t.wa)} target="_blank" rel="noopener noreferrer"
+                   class="tap flex-1 bg-[#25D366] text-white text-center rounded-xl font-bold text-sm px-3 hover:bg-green-600">
+                  <span class="deco" aria-hidden="true">💬</span> Get Price
+                </a>
+                <a href={`tel:${PHONE}`}
+                   class="tap bg-[#001489] text-white text-center rounded-xl font-bold text-sm px-4 hover:bg-[#000E5C]">
+                  <span class="deco" aria-hidden="true">📞</span>
+                </a>
+              </div>
             </div>
           </div>
         ))}
@@ -169,58 +166,65 @@
     </div>
   </section>
 
-  <!-- Why Prakash Motors -->
-  <section class="py-14 px-4 bg-gray-50">
+  <!-- Why choose us — trust cards link to WhatsApp so taps never die -->
+  <section class="py-12 px-4 bg-gray-50">
     <div class="max-w-4xl mx-auto">
-      <h2 class="text-2xl md:text-3xl font-black text-[#001489] text-center mb-10">Why 2,000+ Farmers Choose Prakash Motors</h2>
-      <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
+      <h2 class="text-2xl md:text-3xl font-black text-[#001489] text-center mb-2">Why Farmers Choose Prakash Motors</h2>
+      <p lang="te" class="font-telugu text-gray-500 text-center mb-8 text-sm">రైతులు మమ్మల్ని ఎందుకు నమ్ముతారు</p>
+      <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
         {[
-          { icon: "✅", title: "Authorized Dealer", desc: "100% genuine New Holland tractors with official warranty. Certified by CNH Industrial India." },
-          { icon: "💰", title: "Best Price Guaranteed", desc: "Lowest ex-showroom price in Nizamabad. Beat any competitor quote — we'll match or do better." },
-          { icon: "🏦", title: "Easy EMI & Loans", desc: "Loans from SBI, Andhra Bank, NABARD. EMI from ₹12,000/month. Quick approval in 48 hours." },
-          { icon: "🔧", title: "Free Service Camp", desc: "Regular free service camps in Armoor, Bodhan, Banswada, Kamareddy. Expert technicians at your doorstep." },
-          { icon: "🚜", title: "Farm Demo Available", desc: "Book a free demo at your farm before you buy. See the tractor work your land first." },
-          { icon: "📦", title: "Genuine Spare Parts", desc: "Full spare parts inventory. No fake parts, no delay. Service within 24 hours for all breakdowns." }
+          { icon: "🏅", title: "Authorized Dealer", desc: "100% genuine New Holland tractors with full CNH Industrial warranty." },
+          { icon: "🏦", title: "Easy EMI & Loans", desc: "SBI · Andhra Bank · NABARD. EMI from ₹12,000/month. Approval in 48 hours." },
+          { icon: "🔧", title: "Free Service Camps", desc: "Regular camps in Armoor, Bodhan, Banswada, Kamareddy, Yellareddy." },
+          { icon: "🚜", title: "Free Farm Demo", desc: "We bring the tractor to your land so you can try before you buy." },
+          { icon: "📦", title: "Genuine Spare Parts", desc: "Full inventory of original parts. 24-hour service response for breakdowns." },
+          { icon: "👨‍🌾", title: "20+ Years Local", desc: "Family-run since 2004. 2,000+ tractors sold across 4 districts." }
         ].map(item => (
-          <div class="bg-white rounded-2xl p-6 border border-gray-100 hover:border-[#001489] hover:shadow-lg transition">
-            <div class="text-3xl mb-3">{item.icon}</div>
-            <h3 class="font-black text-[#001489] mb-2">{item.title}</h3>
+          <div class="bg-white rounded-2xl p-5 border border-gray-100">
+            <div class="text-2xl mb-2">{item.icon}</div>
+            <h3 class="font-black text-[#001489] mb-1 text-sm">{item.title}</h3>
             <p class="text-gray-600 text-sm leading-relaxed">{item.desc}</p>
           </div>
         ))}
       </div>
+      <div class="text-center mt-8">
+        <a href={waLink("more information about Prakash Motors New Holland tractors. [W-LP-WHY]")}
+           target="_blank" rel="noopener noreferrer"
+           class="cta inline-flex bg-[#001489] text-white px-8 py-3 rounded-xl font-bold text-sm">
+          <span class="deco" aria-hidden="true">💬</span> Ask us anything on WhatsApp
+        </a>
+      </div>
     </div>
   </section>
 
-  <!-- Social Proof -->
-  <section class="py-12 px-4 bg-white border-t border-gray-100">
+  <!-- Social proof -->
+  <section class="py-10 px-4 bg-white border-t border-gray-100">
     <div class="max-w-4xl mx-auto text-center">
-      <div class="flex items-center justify-center gap-3 mb-6">
-        <span class="text-yellow-400 text-3xl">★★★★★</span>
-        <span class="font-black text-[#001489] text-xl">4.7 / 5</span>
+      <div class="flex items-center justify-center gap-3 mb-6 flex-wrap">
+        <span class="text-yellow-400 text-2xl" aria-hidden="true">★★★★★</span>
+        <span class="font-black text-[#001489] text-lg">4.7 / 5</span>
         <span class="text-gray-500 text-sm">(148 Google Reviews)</span>
       </div>
-      <div class="grid sm:grid-cols-3 gap-4 mb-10">
+      <div class="grid grid-cols-3 gap-3 mb-8">
         {[
-          { stat: "20+", label: "Years Serving Farmers" },
+          { stat: "20+", label: "Years" },
           { stat: "2,000+", label: "Tractors Sold" },
-          { stat: "4", label: "Districts Covered" }
+          { stat: "4", label: "Districts" }
         ].map(item => (
-          <div class="bg-[#001489]/5 rounded-2xl p-6">
-            <div class="text-3xl font-black text-[#001489]">{item.stat}</div>
-            <div class="text-sm text-gray-600 font-bold mt-1">{item.label}</div>
+          <div class="bg-[#001489]/5 rounded-2xl p-4">
+            <div class="text-2xl md:text-3xl font-black text-[#001489]">{item.stat}</div>
+            <div class="text-xs text-gray-600 font-bold mt-1">{item.label}</div>
           </div>
         ))}
       </div>
 
-      <!-- Testimonials -->
-      <div class="grid sm:grid-cols-2 gap-4 text-left mb-10">
+      <div class="grid sm:grid-cols-2 gap-4 text-left">
         {[
-          { name: "Rajaiah Goud", location: "Armoor", text: "Bought 3630 TX last year. Best tractor for cotton. Prakash Motors gave EMI within 2 days." },
-          { name: "Venkat Reddy", location: "Banswada", text: "Bought the Excel 4510 for paddy. Service is excellent. Free camp in our village was helpful." }
+          { name: "Rajaiah Goud", location: "Armoor", text: "Bought 3630 TX last year. Best tractor for cotton. EMI arranged in 2 days." },
+          { name: "Venkat Reddy", location: "Banswada", text: "Bought Excel 4510 for paddy. Service is excellent. Free camp in our village was very helpful." }
         ].map(t => (
           <div class="bg-gray-50 rounded-2xl p-5 border border-gray-200">
-            <div class="text-yellow-400 text-sm mb-2">★★★★★</div>
+            <div class="text-yellow-400 text-sm mb-2" aria-hidden="true">★★★★★</div>
             <p class="text-gray-700 text-sm italic mb-3">"{t.text}"</p>
             <div class="font-bold text-[#001489] text-sm">{t.name} <span class="text-gray-400 font-normal">· {t.location}</span></div>
           </div>
@@ -232,18 +236,18 @@
   <!-- FAQ -->
   <section class="py-12 px-4 bg-gray-50">
     <div class="max-w-3xl mx-auto">
-      <h2 class="text-2xl font-black text-[#001489] mb-8 text-center">Frequently Asked Questions</h2>
-      <div class="space-y-4">
+      <h2 class="text-2xl font-black text-[#001489] mb-6 text-center">Common Questions</h2>
+      <div class="space-y-3">
         {[
-          { q: "What is the price of New Holland 3630 in Nizamabad?", a: "The New Holland 3630 TX Super Plus is priced between ₹8.5–10 lakh ex-showroom in Nizamabad (April 2026). Call 9030857333 for today's exact offer price and on-road cost." },
-          { q: "Does Prakash Motors offer tractor loan?", a: "Yes. We offer loans through SBI, Andhra Bank, NABARD and other banks. Loan up to 95% of the cost, EMI starts ₹12,000/month, tenure up to 7 years. WhatsApp 9030857333 for free EMI calculation." },
-          { q: "Can I get a farm demo before buying?", a: "Yes! Book a free farm demo — we bring the tractor to your land so you can try it before you decide. Call or WhatsApp us to schedule." },
-          { q: "Which tractor is best for 5 acres in Nizamabad?", a: "The New Holland 3230 NX (42 HP) or 3630 TX Super Plus (50 HP) are ideal for 3–8 acre farms in Nizamabad. For cotton and paddy, the Excel 4510 is popular. Call us and describe your crops — we'll recommend the right model." }
+          { q: "What is the price of New Holland 3630 in Nizamabad?", a: "The 3630 TX Super Plus is priced around ₹8.5–10 lakh ex-showroom (April 2026). Final on-road price depends on attachments and district RTO. Call or WhatsApp us for today's exact quote." },
+          { q: "Does Prakash Motors offer tractor loan?", a: "Yes. We work with SBI, Andhra Bank, NABARD and private lenders. Loans cover up to 95% of the tractor cost, EMI from ₹12,000/month, tenure up to 7 years. Normal approval in 48 hours." },
+          { q: "Can I get a farm demo before buying?", a: "Yes. Book a free farm demo — our team brings the tractor to your land so you can try it on your actual soil before deciding." },
+          { q: "Which tractor suits 5 acres in Nizamabad?", a: "For 3–8 acre farms, the 3230 NX (42 HP) or 3630 TX (50 HP) are the most popular choices. For cotton and paddy, the Excel 4510 is a strong pick. Call us with your crop details — we'll recommend the right model." }
         ].map(item => (
-          <details class="bg-white border border-gray-200 rounded-xl p-5 group cursor-pointer">
-            <summary class="font-bold text-[#001489] flex items-center justify-between">
-              {item.q}
-              <span class="text-gray-400 group-open:rotate-180 transition-transform text-lg">▼</span>
+          <details class="bg-white border border-gray-200 rounded-xl p-4 group">
+            <summary class="font-bold text-[#001489] flex items-center justify-between gap-3 cursor-pointer list-none tap">
+              <span>{item.q}</span>
+              <span class="text-gray-400 group-open:rotate-180 transition-transform text-lg shrink-0" aria-hidden="true">▼</span>
             </summary>
             <p class="text-gray-600 text-sm mt-3 leading-relaxed">{item.a}</p>
           </details>
@@ -252,22 +256,18 @@
     </div>
   </section>
 
-  <!-- Branch Contacts -->
-  <section class="py-12 px-4 bg-white border-t border-gray-100">
+  <!-- Branch contacts -->
+  <section class="py-10 px-4 bg-white border-t border-gray-100">
     <div class="max-w-4xl mx-auto">
-      <h2 class="text-2xl font-black text-[#001489] text-center mb-8">Our Offices — Call Your Nearest Branch</h2>
-      <div class="grid grid-cols-2 sm:grid-cols-3 gap-4">
+      <h2 class="text-xl md:text-2xl font-black text-[#001489] text-center mb-6">Call Your Nearest Office</h2>
+      <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
         {[
-          { name: "Nizamabad Main", phone: "9030857333" },
-          { name: "Armoor", phone: "9030857333" },
-          { name: "Bodhan", phone: "9030857333" },
-          { name: "Banswada", phone: "9030857333" },
-          { name: "Kamareddy", phone: "9030857333" },
-          { name: "Yellareddy", phone: "9030857333" }
-        ].map(branch => (
-          <a href={`tel:${branch.phone}`} class="border-2 border-gray-200 rounded-xl p-4 text-center hover:border-[#001489] hover:bg-[#001489]/5 transition group">
-            <div class="font-black text-[#001489] text-sm mb-1">{branch.name}</div>
-            <div class="text-gray-600 text-xs font-bold group-hover:text-[#001489]">📞 {branch.phone}</div>
+          { name: "Nizamabad Main" }, { name: "Armoor" }, { name: "Bodhan" },
+          { name: "Banswada" }, { name: "Kamareddy" }, { name: "Yellareddy" }
+        ].map(b => (
+          <a href={`tel:${PHONE}`} class="tap border border-gray-200 rounded-xl p-3 text-center hover:border-[#001489] hover:bg-[#001489]/5 flex flex-col justify-center">
+            <div class="font-black text-[#001489] text-sm">{b.name}</div>
+            <div class="text-gray-600 text-xs font-bold mt-1"><span class="deco" aria-hidden="true">📞</span> {PHONE_DISP}</div>
           </a>
         ))}
       </div>
@@ -275,31 +275,33 @@
   </section>
 
   <!-- Final CTA -->
-  <section class="bg-[#001489] text-white py-16 px-4 text-center">
-    <h2 class="text-3xl font-black mb-3">Get the Best New Holland Tractor Price Today</h2>
-    <p class="text-blue-200 mb-2">April 2026 offer — limited stock. Don't miss ₹15,000 cashback + free first service.</p>
-    <p class="font-telugu text-blue-300 mb-8">ఈ నెల ఆఫర్ మిస్ చేయవద్దు — ₹15,000 తగ్గింపు!</p>
-    <div class="flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20the%20April%202026%20offer%20on%20New%20Holland%20tractor%20in%20Nizamabad.%20%5BW-LP-CTA%5D"
+  <section class="bg-[#001489] text-white py-14 px-4 text-center">
+    <h2 class="text-2xl md:text-3xl font-black mb-3">Get Today's Tractor Price</h2>
+    <p class="text-blue-200 mb-2 text-sm md:text-base">Call or WhatsApp us — we'll share the exact on-road price and EMI for your model.</p>
+    <p lang="te" class="font-telugu text-blue-300 text-sm mb-8">మీ ట్రాక్టర్ ధర కోసం ఇప్పుడే కాల్ లేదా వాట్సాప్ చేయండి</p>
+    <div class="flex flex-col sm:flex-row gap-3 justify-center max-w-xl mx-auto">
+      <a href={waLink("the current price on a New Holland tractor in Nizamabad. [W-LP-CTA]")}
          target="_blank" rel="noopener noreferrer"
-         class="inline-flex items-center justify-center gap-3 bg-[#25D366] text-white px-10 py-4 rounded-xl font-black text-lg hover:bg-green-500 transition shadow-2xl pulse-cta">
-        💬 WhatsApp for April Offer
+         class="cta flex-1 bg-[#25D366] text-white px-8 py-4 rounded-xl font-black text-base shadow-xl hover:bg-green-500">
+        <span class="deco" aria-hidden="true">💬</span> WhatsApp for Price
       </a>
-      <a href="tel:+919030857333"
-         class="inline-flex items-center justify-center gap-3 bg-white text-[#001489] px-10 py-4 rounded-xl font-black text-lg hover:bg-gray-100 transition shadow-xl">
-        📞 Call 9030857333
+      <a href={`tel:${PHONE}`}
+         class="cta flex-1 bg-white text-[#001489] px-8 py-4 rounded-xl font-black text-base shadow-xl hover:bg-gray-100">
+        <span class="deco" aria-hidden="true">📞</span> {PHONE_DISP}
       </a>
     </div>
     <p class="text-blue-300 text-xs mt-6">Prakash Motors · Opposite New Bus Stand, Nizamabad 503001 · Mon–Sat 9AM–7PM</p>
   </section>
 
-  <!-- Sticky Mobile Bar -->
-  <div class="fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-gray-200 shadow-2xl p-3 flex gap-3 sm:hidden">
-    <a href="tel:+919030857333" class="flex-1 flex items-center justify-center gap-2 bg-[#001489] text-white py-3 rounded-xl font-bold text-sm">📞 Call</a>
-    <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20the%20best%20price%20for%20New%20Holland%20tractor%20in%20Nizamabad.%20%5BW-LP-BAR%5D"
+  <!-- Sticky mobile bar -->
+  <div class="fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-gray-200 shadow-2xl p-2.5 flex gap-2 sm:hidden">
+    <a href={`tel:${PHONE}`} class="tap flex-1 flex items-center justify-center gap-2 bg-[#001489] text-white rounded-xl font-bold text-sm">
+      <span class="deco" aria-hidden="true">📞</span> Call
+    </a>
+    <a href={waLink("the best price for New Holland tractor. [W-LP-BAR]")}
        target="_blank" rel="noopener noreferrer"
-       class="flex items-center justify-center gap-2 bg-[#25D366] text-white py-3 px-5 rounded-xl font-bold text-sm" style="flex:2">
-      💬 WhatsApp Price
+       class="tap flex items-center justify-center gap-2 bg-[#25D366] text-white rounded-xl font-bold text-sm" style="flex:1.6">
+      <span class="deco" aria-hidden="true">💬</span> WhatsApp Price
     </a>
   </div>
   <div class="pb-20 sm:pb-0"></div>
