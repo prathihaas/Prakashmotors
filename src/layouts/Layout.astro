@@ -33,24 +33,6 @@ const {
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-MCMZWFT3');</script>
     <!-- End Google Tag Manager -->
-    <!-- Google Ads conversion labels (GA4 + AW-11180528203 handled by GTM; AW-11164538299 hosts the configured conversion actions) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11164538299"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'AW-11164538299');
-      document.addEventListener('click', function(e){
-        var a = e.target && e.target.closest && e.target.closest('a');
-        if (!a) return;
-        var href = a.getAttribute('href') || '';
-        if (href.indexOf('wa.me') !== -1 || href.indexOf('whatsapp.com') !== -1 || href.indexOf('api.whatsapp.com') !== -1) {
-          gtag('event', 'conversion', { send_to: 'AW-11164538299/7ZwlCN-t9LsYELur1csp' });
-        } else if (href.indexOf('tel:') === 0) {
-          gtag('event', 'conversion', { send_to: 'AW-11164538299/xR52CLmX6LsYELur1csp' });
-        }
-      }, false);
-    </script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500;600;700&display=swap" rel="stylesheet" />
