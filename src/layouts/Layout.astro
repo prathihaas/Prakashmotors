@@ -33,15 +33,35 @@ const {
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-MCMZWFT3');</script>
     <!-- End Google Tag Manager -->
-    <!-- GA4 -->
+    <!-- GA4 + Google Ads -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-33PS2563HD"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-33PS2563HD', { allow_google_signals: true, allow_ad_personalization_signals: true });
+      gtag('config', 'AW-11164538299');
+      gtag('config', 'AW-11180528203'); // legacy AW account also referenced in GTM
+
+      // Sitewide WhatsApp + phone click conversion attribution.
+      // Fires GA4 events + specific Google Ads conversion labels so the existing
+      // conversion actions (WhatsApp Chat Click, Website Phone calls) finally count.
+      document.addEventListener('click', function(e){
+        var a = e.target && e.target.closest && e.target.closest('a');
+        if (!a) return;
+        var href = a.getAttribute('href') || '';
+        if (href.indexOf('wa.me') !== -1 || href.indexOf('whatsapp.com') !== -1 || href.indexOf('api.whatsapp.com') !== -1) {
+          gtag('event', 'whatsapp_click', { event_category: 'engagement', event_label: 'Prakash Motors site' });
+          // Specific Google Ads conversion: [6568089311] WhatsApp Chat Click
+          gtag('event', 'conversion', { send_to: 'AW-11164538299/7ZwlCN-t9LsYELur1csp' });
+        } else if (href.indexOf('tel:') === 0) {
+          gtag('event', 'phone_click', { event_category: 'engagement', event_label: 'Prakash Motors site' });
+          // Specific Google Ads conversion: [6567889849] Website Phone calls
+          gtag('event', 'conversion', { send_to: 'AW-11164538299/xR52CLmX6LsYELur1csp' });
+        }
+      }, false);
     </script>
-    <!-- End GA4 -->
+    <!-- End GA4 + Google Ads -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500;600;700&display=swap" rel="stylesheet" />
