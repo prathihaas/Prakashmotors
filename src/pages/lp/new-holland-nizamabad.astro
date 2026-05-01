@@ -76,7 +76,16 @@ const faqs = [
     img { display: block; max-width: 100%; height: auto; }
     a, button, summary { touch-action: manipulation; }
     a .deco, a .deco * { pointer-events: none; }
+    .no-tap, .no-tap * { pointer-events: none; user-select: none; }
     .tap { min-height: 48px; display: inline-flex; align-items: center; justify-content: center; }
+    /* Beautiful card hover/active feedback so users know they're clickable */
+    a.card { transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; cursor: pointer; }
+    a.card:hover { transform: translateY(-3px); box-shadow: 0 18px 40px -18px rgba(0,20,137,.35); border-color: #C7CEFC; }
+    a.card:active { transform: translateY(-1px); }
+    a.card:focus-visible { outline: 3px solid #FFD100; outline-offset: 3px; }
+    /* Toast for desktop tel: fallback */
+    #tel-toast { position: fixed; left: 50%; bottom: 96px; transform: translateX(-50%) translateY(20px); background: #0B1437; color: #FFD100; padding: 12px 18px; border-radius: 12px; font-size: 14px; font-weight: 700; opacity: 0; transition: opacity .2s ease, transform .2s ease; z-index: 9999; pointer-events: none; box-shadow: 0 12px 30px -8px rgba(0,0,0,.4); }
+    #tel-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
     .wrap { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
     .pill { display:inline-flex; align-items:center; gap:6px; padding:6px 12px; border-radius:999px; font-size:12px; font-weight:700; letter-spacing:.02em; }
     .btn-primary { background:#001489; color:#fff; border-radius:12px; font-weight:800; padding:0 22px; gap:8px; box-shadow: 0 6px 20px -8px rgba(0,20,137,.5); }
@@ -102,8 +111,8 @@ const faqs = [
 <body>
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCMZWFT3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-<!-- Top trust strip -->
-<div style="background:#0B1437; color:#C6CCE5; font-size:12px; padding:8px 0; text-align:center;">
+<!-- Top trust strip (informational, non-tappable to avoid dead clicks) -->
+<div class="no-tap" style="background:#0B1437; color:#C6CCE5; font-size:12px; padding:8px 0; text-align:center;">
   <div class="wrap" style="display:flex; justify-content:center; gap:14px; flex-wrap:wrap; font-weight:600;">
     <span>Authorized New Holland Dealer</span>
     <span style="opacity:.4;">•</span>
@@ -145,7 +154,7 @@ const faqs = [
         <p style="color:#C6CCE5; font-size:clamp(15px,1.7vw,18px); max-width:540px; margin-bottom:10px;">
           Buy your next tractor from Nizamabad's authorized New Holland dealer — 2,000+ farmers served across Nizamabad, Kamareddy, Armoor, Bodhan, Banswada and Yellareddy since 2004.
         </p>
-        <p lang="te" class="fn" style="color:#9FA7C9; font-size:14px; margin-bottom:28px;">
+        <p lang="te" class="fn no-tap" style="color:#9FA7C9; font-size:14px; margin-bottom:28px;">
           నిజామాబాద్‌లో న్యూ హాలండ్ ట్రాక్టర్‌లు — నిజాయితీ ధర, ఉచిత ఫార్మ్ డెమో, సులభ EMI
         </p>
 
@@ -185,12 +194,12 @@ const faqs = [
         </div>
       </div>
 
-      <div style="position:relative;">
-        <div style="background:linear-gradient(135deg, #FFD100 0%, #F59E0B 100%); border-radius:24px; padding:24px; box-shadow: 0 30px 60px -20px rgba(0,0,0,.4);">
+      <a href={waLink("Please share today's best price for New Holland 3630 TX Super Plus 50 HP in Nizamabad. [W-LP-HERO-FEAT]")} target="_blank" rel="noopener noreferrer" aria-label="Get New Holland 3630 TX Super Plus price on WhatsApp" style="position:relative; display:block; text-decoration:none; transition: transform .2s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'">
+        <div class="no-tap" style="background:linear-gradient(135deg, #FFD100 0%, #F59E0B 100%); border-radius:24px; padding:24px; box-shadow: 0 30px 60px -20px rgba(0,0,0,.4);">
           <img src="https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500" alt="New Holland 3630 TX Super Plus" style="width:100%; border-radius:14px; aspect-ratio: 4/3; object-fit: cover; background:#fff;" />
           <div style="margin-top:16px; display:flex; align-items:center; justify-content:space-between; color:#0B1437;">
             <div>
-              <div style="font-size:11px; font-weight:800; text-transform:uppercase; letter-spacing:.08em; opacity:.7;">Featured</div>
+              <div style="font-size:11px; font-weight:800; text-transform:uppercase; letter-spacing:.08em; opacity:.7;">Featured · Tap for price</div>
               <div style="font-weight:900; font-size:16px; margin-top:2px;">3630 TX Super Plus · 50 HP</div>
             </div>
             <div style="text-align:right;">
@@ -199,7 +208,7 @@ const faqs = [
             </div>
           </div>
         </div>
-        <div style="position:absolute; bottom:-14px; left:50%; transform:translateX(-50%); background:#fff; color:#001489; padding:10px 18px; border-radius:999px; font-weight:800; font-size:12px; box-shadow: 0 10px 30px -10px rgba(0,0,0,.3); white-space:nowrap;">
+        <div class="no-tap" style="position:absolute; bottom:-14px; left:50%; transform:translateX(-50%); background:#fff; color:#001489; padding:10px 18px; border-radius:999px; font-weight:800; font-size:12px; box-shadow: 0 10px 30px -10px rgba(0,0,0,.3); white-space:nowrap;">
           EMI from ₹12,000/month · 7-year loan
         </div>
       </div>
@@ -521,6 +530,44 @@ const faqs = [
     #sticky-bar { display: none; }
   }
 </style>
+
+<!-- Toast for desktop tel: fallback -->
+<div id="tel-toast" role="status" aria-live="polite"></div>
+
+<!-- Desktop tel: fallback — copies the number to clipboard so dead clicks become wins -->
+<script>
+  (function () {
+    var toast = document.getElementById('tel-toast');
+    var t;
+    function show(msg) {
+      if (!toast) return;
+      toast.textContent = msg;
+      toast.classList.add('show');
+      clearTimeout(t);
+      t = setTimeout(function () { toast.classList.remove('show'); }, 3000);
+    }
+    var isMobile = /Mobi|Android|iPhone|iPad|iPod|Windows Phone/i.test(navigator.userAgent);
+    document.addEventListener('click', function (e) {
+      var a = e.target && e.target.closest && e.target.closest('a[href^="tel:"]');
+      if (!a) return;
+      if (isMobile) return;
+      e.preventDefault();
+      var num = a.getAttribute('href').replace('tel:', '').replace(/\s+/g, '');
+      try {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(num);
+          show('📞 Number copied: ' + num);
+        } else {
+          show('📞 Call us: ' + num);
+        }
+      } catch (err) {
+        show('📞 Call us: ' + num);
+      }
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ event: 'tel_click_desktop', phone: num });
+    }, false);
+  })();
+</script>
 
 </body>
 </html>
