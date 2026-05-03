@@ -2,42 +2,43 @@ import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
+// Static lastmod dates per content category — avoids spurious crawl triggers on every build
+const LASTMOD = {
+  home:     "2026-05-01",
+  blog:     "2026-05-01",
+  products: "2026-04-15",
+  static:   "2026-03-01",
+};
+
 export default defineConfig({
   site: "https://www.prakashmotors.in",
   integrations: [
     tailwind(),
-        sitemap({
-      filter: (page) => !page.includes('/404'),
+    sitemap({
+      filter: (page) =>
+        !page.includes('/404') && !page.includes('/lp/'),
       serialize: (item) => {
         const url = item.url;
-        const now = new Date().toISOString();
 
-        // Homepage — crawl daily, maximum priority
         if (url === 'https://www.prakashmotors.in/' || url === 'https://www.prakashmotors.in') {
-          return { ...item, priority: 1.0, changefreq: 'daily', lastmod: now };
+          return { ...item, priority: 1.0, changefreq: 'daily', lastmod: LASTMOD.home };
         }
-        // Blog listing page — crawl weekly (new posts land here)
         if (url.endsWith('/blog') || url.endsWith('/blog/')) {
-          return { ...item, priority: 0.9, changefreq: 'weekly', lastmod: now };
+          return { ...item, priority: 0.9, changefreq: 'weekly', lastmod: LASTMOD.blog };
         }
-        // Individual blog posts — high value, crawl weekly
         if (url.includes('/blog/')) {
-          return { ...item, priority: 0.8, changefreq: 'weekly', lastmod: now };
+          return { ...item, priority: 0.8, changefreq: 'monthly', lastmod: LASTMOD.blog };
         }
-        // Product / car / service pages — important but stable
         if (url.includes('/products/') || url.includes('/cars/') || url.includes('/services/')) {
-          return { ...item, priority: 0.8, changefreq: 'monthly', lastmod: now };
+          return { ...item, priority: 0.8, changefreq: 'monthly', lastmod: LASTMOD.products };
         }
-        // Locations / branches — useful for local SEO
         if (url.includes('/locations') || url.includes('/branches')) {
-          return { ...item, priority: 0.7, changefreq: 'monthly', lastmod: now };
+          return { ...item, priority: 0.7, changefreq: 'monthly', lastmod: LASTMOD.products };
         }
-        // Contact page — static, low change frequency
         if (url.includes('/contact')) {
-          return { ...item, priority: 0.6, changefreq: 'yearly', lastmod: now };
+          return { ...item, priority: 0.6, changefreq: 'yearly', lastmod: LASTMOD.static };
         }
-        // All other pages — moderate priority
-        return { ...item, priority: 0.6, changefreq: 'monthly', lastmod: now };
+        return { ...item, priority: 0.6, changefreq: 'monthly', lastmod: LASTMOD.static };
       },
     }),
   ],

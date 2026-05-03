@@ -1,3 +1,33 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
+Disallow: /lp/
+
+# AI search crawlers — allow full indexing for AI citations
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
 Sitemap: https://www.prakashmotors.in/sitemap-index.xml

@@ -1,12 +1,45 @@
 {
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains; preload"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(self), payment=()"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://unpkg.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://cnhi-p-001-delivery.sitecorecontenthub.cloud https://images.unsplash.com https://www.google-analytics.com https://www.googletagmanager.com https://www.google.com; connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://region1.google-analytics.com https://stats.g.doubleclick.net; frame-src https://www.google.com https://www.googletagmanager.com; object-src 'none'; base-uri 'self'"
+        }
+      ]
+    }
+  ],
   "redirects": [
     { "source": "/:path*", "has": [{"type": "host", "value": "prakashmotors.in"}], "destination": "https://www.prakashmotors.in/:path*", "permanent": true },
-    { "source": "/about-us", "destination": "/#contact", "permanent": true },
-    { "source": "/about-us/", "destination": "/#contact", "permanent": true },
-    { "source": "/combine-harvester", "destination": "/products", "permanent": true },
-    { "source": "/combine-harvester/", "destination": "/products", "permanent": true },
-    { "source": "/tractors", "destination": "/products", "permanent": true },
-    { "source": "/tractors/", "destination": "/products", "permanent": true },
-    { "source": "/contact-us", "destination": "/contact", "permanent": true }
+    { "source": "/about-us", "destination": "/about", "permanent": true },
+    { "source": "/about-us/", "destination": "/about", "permanent": true },
+    { "source": "/contact-us", "destination": "/contact", "permanent": true },
+    { "source": "/contact-us/", "destination": "/contact", "permanent": true },
+    { "source": "/combine-harvester", "destination": "/products/Combine-harvester", "permanent": true },
+    { "source": "/combine-harvester/", "destination": "/products/Combine-harvester", "permanent": true },
+    { "source": "/tractors", "destination": "/", "permanent": true },
+    { "source": "/tractors/", "destination": "/", "permanent": true },
+    { "source": "/tractors/:slug*", "destination": "/products/:slug*", "permanent": true }
   ]
 }
