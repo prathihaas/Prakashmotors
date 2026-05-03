@@ -1,11 +1,21 @@
 ---
 import Layout from "../layouts/Layout.astro";
 
-const title = "About Prakash Motors | Authorized New Holland Dealer Nizamabad Since 2005";
-const description = "Prakash Motors is Nizamabad's authorized New Holland agriculture equipment dealer. Serving farmers across Nizamabad, Kamareddy, Jagtial and Karimnagar districts with tractors, harvesters and genuine service.";
+const title = "About Prakash Motors | Authorized New Holland Dealer Nizamabad Since 2003";
+const description = "Prakash Motors is Nizamabad's authorized New Holland agriculture equipment dealer. Serving farmers across Nizamabad, Kamareddy, Jagtial and Karimnagar districts with tractors, harvesters and genuine service since 2003.";
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashmotors.in/" },
+    { "@type": "ListItem", "position": 2, "name": "About Us", "item": "https://www.prakashmotors.in/about" }
+  ]
+};
 ---
 
-<Layout title={title} description={description}>
+<Layout title={title} description={description} noOrgSchema={true}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
   <!-- Navbar -->
   <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
@@ -15,9 +25,12 @@ const description = "Prakash Motors is Nizamabad's authorized New Holland agricu
           <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl shadow-sm"><span class="text-[#FFD100] scale-125">P</span></div>
           <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
         </a>
-        <a href="/" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] flex items-center gap-1">
-          <i data-lucide="arrow-left" class="w-4 h-4"></i> Back to Home
-        </a>
+        <div class="flex items-center gap-4">
+          <a href="/service" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] transition">SERVICE</a>
+          <a href="/" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] flex items-center gap-1">
+            <i data-lucide="arrow-left" class="w-4 h-4"></i> Back to Home
+          </a>
+        </div>
       </div>
     </div>
   </nav>

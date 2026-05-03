@@ -3,9 +3,19 @@ import Layout from '../layouts/Layout.astro';
 
 const title = "Contact Prakash Motors | Authorized New Holland Dealer Nizamabad";
 const description = "Contact Prakash Motors in Nizamabad, Telangana. Call +91-9030857333 or WhatsApp for tractor prices, service bookings, and farm equipment enquiries.";
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashmotors.in/" },
+    { "@type": "ListItem", "position": 2, "name": "Contact", "item": "https://www.prakashmotors.in/contact" }
+  ]
+};
 ---
 
 <Layout title={title} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
   <!-- Navbar -->
   <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
@@ -16,6 +26,7 @@ const description = "Contact Prakash Motors in Nizamabad, Telangana. Call +91-90
           <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
         </a>
         <div class="flex items-center gap-6">
+          <a href="/service" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] transition">SERVICE</a>
           <a href="/about" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] transition">ABOUT</a>
           <a href="/" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] flex items-center gap-1">
             <i data-lucide="arrow-left" class="w-4 h-4"></i> Back to Home

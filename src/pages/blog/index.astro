@@ -8,7 +8,7 @@ const sortedPosts = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.
 const categories = ['All', ...new Set(sortedPosts.map(p => p.data.category))];
 ---
 
-<Layout title="Tractor Guides & Farming Tips | Prakash Motors Nizamabad" description="Expert tractor buying guides, New Holland reviews, Telangana subsidy news and farming tips from Prakash Motors — authorized New Holland dealer in Nizamabad.">
+<Layout title="Tractor Guides & Farming Tips | Prakash Motors Nizamabad" description="Expert tractor buying guides, New Holland reviews, Telangana subsidy news and farming tips from Prakash Motors — authorized New Holland dealer in Nizamabad." noOrgSchema={true}>
 
   <!-- Fixed WhatsApp -->
   <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20know%20about%20New%20Holland%20tractors.%20%5BW-PM%5D" target="_blank" class="fixed bottom-6 right-6 z-50 flex items-center gap-3 bg-[#25D366] text-white px-5 py-3 rounded-full shadow-lg hover:bg-green-600 transition-all duration-300 hover:scale-105 group ring-4 ring-white">
@@ -30,6 +30,7 @@ const categories = ['All', ...new Set(sortedPosts.map(p => p.data.category))];
         <div class="flex items-center gap-6">
           <div class="hidden md:flex gap-6 font-bold text-sm text-[#001489] tracking-wide">
             <a href="/#products" class="hover:text-[#000E5C] transition">PRODUCTS</a>
+            <a href="/service" class="hover:text-[#000E5C] transition">SERVICE</a>
             <a href="/blog" class="text-[#001489] border-b-2 border-[#FFD100]">BLOG</a>
             <a href="/about" class="hover:text-[#000E5C] transition">ABOUT</a>
             <a href="/contact" class="hover:text-[#000E5C] transition">CONTACT</a>

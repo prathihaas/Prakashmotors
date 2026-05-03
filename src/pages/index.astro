@@ -14,11 +14,19 @@ const localBusinessSchema = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "LocalBusiness",
-      "name": "Prakash Motors — Authorized New Holland Dealer Nizamabad",
+      "@type": "Store",
+      "@id": "https://www.prakashmotors.in/#organization",
+      "additionalType": "https://schema.org/AutoDealer",
+      "name": "Prakash Motors",
       "url": "https://www.prakashmotors.in",
       "telephone": "+91-9030857333",
+      "foundingDate": "2003",
       "image": "https://www.prakashmotors.in/og-image.jpg",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.prakashmotors.in/favicon.jpg"
+      },
+      "brand": { "@type": "Brand", "name": "New Holland Agriculture" },
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Opposite New Bus Stand",
@@ -34,9 +42,19 @@ const localBusinessSchema = {
         "opens": "09:00",
         "closes": "19:00"
       }],
-      "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.7", "reviewCount": "148" },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "reviewCount": "148",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
       "priceRange": "₹₹₹",
-      "areaServed": ["Nizamabad", "Kamareddy", "Armoor", "Bodhan", "Banswada", "Yellareddy"]
+      "areaServed": ["Nizamabad", "Kamareddy", "Armoor", "Bodhan", "Banswada", "Yellareddy", "Balkonda", "Bheemgal", "Telangana"],
+      "sameAs": [
+        "https://www.facebook.com/prakashmotors",
+        "https://www.instagram.com/prakashmotors"
+      ]
     },
     {
       "@type": "FAQPage",
@@ -67,7 +85,7 @@ const localBusinessSchema = {
 };
 ---
 
-<Layout title="New Holland Tractor Dealer Nizamabad | Prakash Motors | Best Price 2026" description="Prakash Motors — Nizamabad's #1 New Holland dealer. Tractors, Harvesters & Farm Equipment at best price. EMI from ₹3,999/mo. Free demo available. Call ☎ +91 9030857333 today.">
+<Layout title="New Holland Tractor Dealer Nizamabad | Prakash Motors | Best Price 2026" description="Prakash Motors — Nizamabad's #1 New Holland dealer. Tractors, Harvesters & Farm Equipment at best price. EMI from ₹3,999/mo. Free demo available. Call ☎ +91 9030857333 today." noOrgSchema={true}>
     
     <!-- Fixed WhatsApp -->
     <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20know%20about%20New%20Holland%20tractors%20and%20harvesters.%20%5BW-PM%5D" target="_blank" class="fixed bottom-6 right-6 z-50 flex items-center gap-3 bg-[#25D366] text-white px-5 py-3 rounded-full shadow-lg hover:bg-green-600 transition-all duration-300 hover:scale-105 animate-float group ring-4 ring-white border border-green-500/10">
@@ -95,9 +113,10 @@ const localBusinessSchema = {
                 <div class="flex items-center gap-6">
                     <div class="hidden md:flex gap-6 font-bold text-sm text-[#001489] tracking-wide">
                         <a href="/#products" class="hover:text-[#000E5C] transition">PRODUCTS</a>
+                        <a href="/service" class="hover:text-[#000E5C] transition">SERVICE</a>
                         <a href="/blog" class="hover:text-[#000E5C] transition">BLOG</a>
                         <a href="/about" class="hover:text-[#000E5C] transition">ABOUT</a>
-                <a href="/contact" class="hover:text-[#000E5C] transition">CONTACT</a>
+                        <a href="/contact" class="hover:text-[#000E5C] transition">CONTACT</a>
                     </div>
                     <a href="tel:+919030857333" class="flex items-center gap-3 bg-white text-[#001489] border-2 border-[#001489] px-6 py-2 rounded-full font-bold hover:bg-[#001489] hover:text-white transition-colors duration-300 shadow-sm active:scale-95 group">
                         <i data-lucide="phone" class="w-5 h-5 group-hover:fill-current"></i>
@@ -153,7 +172,7 @@ const localBusinessSchema = {
                 <div class="relative hidden lg:block">
                     <div class="relative w-full aspect-[4/3]">
                          <div class="group relative w-full h-full overflow-hidden rounded-sm shadow-2xl">
-                             <img src="https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000" class="object-cover w-full h-full transform group-hover:scale-105 transition duration-1000" alt="New Holland Tractor">
+                             <img src="https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5390d7391c714509b5311e7f33cc1b3c?v=407996ce&t=Size1000" class="object-cover w-full h-full transform group-hover:scale-105 transition duration-1000" alt="New Holland Tractor Nizamabad — Prakash Motors Authorized Dealer" fetchpriority="high" loading="eager">
                              <div class="absolute inset-0 bg-[#001489]/10 mix-blend-multiply"></div>
                          </div>
                     </div>
@@ -176,7 +195,7 @@ const localBusinessSchema = {
                     <div class={`product-card group bg-white border border-gray-200 hover:border-[#001489]/50 shadow-sm hover:shadow-lg relative flex flex-col h-full rounded-none ${product.data.isRecommended ? 'border-2 border-[#001489]' : ''}`}>
                         <a href={`/products/${product.slug}`} class="block h-64 overflow-hidden bg-gray-100 relative shrink-0">
                             {product.data.isRecommended && <div class="absolute top-0 right-0 bg-[#001489] text-white text-[10px] font-bold px-3 py-1.5 uppercase tracking-wider z-10">Recommended</div>}
-                            <img src={product.data.image} alt={product.data.title} class="w-full h-full object-cover group-hover:scale-110 transition duration-700" />
+                            <img src={product.data.image} alt={product.data.title} class="w-full h-full object-cover group-hover:scale-110 transition duration-700" loading="lazy" />
                         </a>
                         <div class="p-8 flex-1 flex flex-col">
                             <a href={`/products/${product.slug}`} class="text-2xl font-black text-[#001489] uppercase mb-1 hover:underline block">{product.data.title}</a>
@@ -305,12 +324,39 @@ const localBusinessSchema = {
     </section>
 
     <footer class="bg-[#001489] text-white py-12 border-t border-white/10 mt-auto">
-        <div class="max-w-7xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-6">
-             <div class="text-center md:text-left">
-                <span class="text-2xl font-black uppercase tracking-tighter">Prakash Motors</span>
-                <p class="text-sm text-blue-200 mt-2">Authorized New Holland Dealer, Nizamabad.</p>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <span class="text-2xl font-black uppercase tracking-tighter">Prakash Motors</span>
+                    <p class="text-sm text-blue-200 mt-2">Authorized New Holland Agriculture Dealer, Nizamabad, Telangana. Serving farmers since 2003.</p>
+                    <a href="tel:+919030857333" class="inline-flex items-center gap-2 mt-3 text-[#FFD100] font-bold hover:text-yellow-300 transition">
+                        <i data-lucide="phone" class="w-4 h-4"></i> +91 9030857333
+                    </a>
+                </div>
+                <div>
+                    <p class="text-xs font-bold uppercase tracking-widest text-blue-300 mb-3">Quick Links</p>
+                    <ul class="space-y-2 text-sm text-blue-200">
+                        <li><a href="/#products" class="hover:text-white transition">Products</a></li>
+                        <li><a href="/service" class="hover:text-white transition">Service & AMC</a></li>
+                        <li><a href="/blog" class="hover:text-white transition">Blog & Guides</a></li>
+                        <li><a href="/about" class="hover:text-white transition">About Us</a></li>
+                        <li><a href="/contact" class="hover:text-white transition">Contact</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <p class="text-xs font-bold uppercase tracking-widest text-blue-300 mb-3">Visit Us</p>
+                    <address class="text-sm text-blue-200 not-italic leading-relaxed">
+                        Opposite New Bus Stand,<br>
+                        Nizamabad, Telangana 503001
+                    </address>
+                    <p class="text-sm text-blue-200 mt-2">Mon–Sat: 9 AM – 7 PM</p>
+                    <div class="flex gap-3 mt-3">
+                        <a href="https://www.facebook.com/prakashmotors" target="_blank" rel="noopener noreferrer" class="text-blue-300 hover:text-white transition text-xs font-bold">Facebook</a>
+                        <a href="https://www.instagram.com/prakashmotors" target="_blank" rel="noopener noreferrer" class="text-blue-300 hover:text-white transition text-xs font-bold">Instagram</a>
+                    </div>
+                </div>
             </div>
-            <div class="text-center text-xs text-blue-400">© 2026 Prakash Motors. All rights reserved.</div>
+            <div class="border-t border-white/10 pt-6 text-center text-xs text-blue-400">© 2026 Prakash Motors. All rights reserved. | Authorized New Holland Agriculture Dealer</div>
         </div>
     </footer>
     <!-- Mobile Sticky Bottom Bar -->

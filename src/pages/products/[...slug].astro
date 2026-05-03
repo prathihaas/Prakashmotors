@@ -12,34 +12,52 @@ export async function getStaticPaths() {
 
 const { product } = Astro.props;
 const { Content } = await product.render();
+const productUrl = `https://www.prakashmotors.in/products/${product.slug}`;
 const productSchema = {
   "@context": "https://schema.org",
-  "@type": "Product",
+  "@type": ["Product", "Vehicle"],
+  "@id": `${productUrl}#product`,
   "name": product.data.title,
+  "description": product.data.description || `New Holland ${product.data.title} — available at Prakash Motors, Nizamabad.`,
   "image": product.data.image,
-  "brand": { "@type": "Brand", "name": "New Holland" },
+  "brand": { "@type": "Brand", "name": "New Holland Agriculture" },
   "category": product.data.category,
+  "manufacturer": { "@type": "Organization", "name": "CNH Industrial / New Holland Agriculture" },
   "offers": {
     "@type": "Offer",
     "availability": "https://schema.org/InStock",
     "itemCondition": "https://schema.org/NewCondition",
+    "url": productUrl,
     "seller": {
-      "@type": "AutoDealer",
+      "@type": "Store",
+      "@id": "https://www.prakashmotors.in/#organization",
       "name": "Prakash Motors",
       "url": "https://www.prakashmotors.in"
     }
   }
 };
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashmotors.in/" },
+    { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://www.prakashmotors.in/#products" },
+    { "@type": "ListItem", "position": 3, "name": product.data.title, "item": productUrl }
+  ]
+};
 ---
 
-<Layout 
-  title={product.data.seo_title || product.data.title} 
-  description={product.data.description || `New Holland ${product.data.title}`} 
+<Layout
+  title={product.data.seo_title || product.data.title}
+  description={product.data.description || `New Holland ${product.data.title} — buy at best price from Prakash Motors, authorized New Holland dealer in Nizamabad. Call +91 9030857333.`}
   image={product.data.image}
+  noOrgSchema={true}
 >
 
-  <!-- Product JSON-LD schema for rich results -->
+  <!-- Product + Breadcrumb JSON-LD schema -->
   <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
     
     <!-- Navbar -->

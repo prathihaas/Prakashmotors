@@ -20,27 +20,44 @@ const {
 
 const displayDate = date.toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' });
 
+const isPersonAuthor = author && author !== "Prakash Motors Team" && !author.toLowerCase().includes("prakash");
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
+  "@id": `${Astro.url.href}#article`,
   "headline": seo_title || title,
   "description": seo_description || excerpt,
   "image": featured_image || "https://www.prakashmotors.in/og-image.jpg",
-  "author": { "@type": "Person", "name": author || "Prakash Motors Team" },
+  "author": isPersonAuthor
+    ? { "@type": "Person", "name": author }
+    : { "@type": "Organization", "@id": "https://www.prakashmotors.in/#organization", "name": "Prakash Motors" },
   "publisher": {
     "@type": "Organization",
+    "@id": "https://www.prakashmotors.in/#organization",
     "name": "Prakash Motors",
-    "logo": { "@type": "ImageObject", "url": "https://www.prakashmotors.in/logo.png" }
+    "logo": { "@type": "ImageObject", "url": "https://www.prakashmotors.in/favicon.jpg" }
   },
   "datePublished": date.toISOString(),
   "dateModified": date.toISOString(),
   "url": Astro.url.href,
-  "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }
+  "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href },
+  "isPartOf": { "@id": "https://www.prakashmotors.in/#website" }
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashmotors.in/" },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.prakashmotors.in/blog" },
+    { "@type": "ListItem", "position": 3, "name": title, "item": Astro.url.href }
+  ]
 };
 ---
 
-<Layout title={seo_title} description={seo_description} image={featured_image} ogType="article">
+<Layout title={seo_title} description={seo_description} image={featured_image} ogType="article" noOrgSchema={true}>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
   <!-- Navbar -->
   <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
