@@ -3,7 +3,7 @@ title: "New Holland 3630 TX Special Edition"
 seo_title: "New Holland 3630 TX Special Edition Price in Nizamabad | Prakash Motors"
 title_te: "న్యూ హాలండ్ 3630 TX స్పెషల్ ఎడిషన్"
 category: "Tractors"
-image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9fe2f82fec694104bc2b0602ed8583e9?v=f140b8a9&t=size500"
+image: "/images/products/new-holland-3630-tx-special-edition.jpg"
 features: ["50 HP Special", "6-Year Warranty", "Rotavator Special", "Premium Styling", "Telematics Ready"]
 isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203630%20Special%20Edition%20%5BW-PM%5D"

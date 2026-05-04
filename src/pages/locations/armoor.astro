@@ -1,0 +1,214 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+const title = "New Holland Tractor Dealer in Armoor | Prakash Motors Nizamabad";
+const description = "Buy New Holland tractors in Armoor, Nizamabad district. Prakash Motors serves Armoor farmers with tractors for paddy, cotton and soybean farming. Call +91-9030857333.";
+
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": "Store",
+  "@id": "https://www.prakashmotors.in/locations/armoor#localbusiness",
+  "name": "Prakash Motors — New Holland Dealer serving Armoor",
+  "additionalType": "https://schema.org/AutoDealer",
+  "image": "https://www.prakashmotors.in/og-image.jpg",
+  "url": "https://www.prakashmotors.in/locations/armoor",
+  "telephone": "+91-9030857333",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Opposite New Bus Stand",
+    "addressLocality": "Nizamabad",
+    "addressRegion": "Telangana",
+    "postalCode": "503001",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 18.6725,
+    "longitude": 78.0941
+  },
+  "openingHoursSpecification": [
+    { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "19:00" }
+  ],
+  "areaServed": [
+    { "@type": "City", "name": "Armoor" },
+    { "@type": "City", "name": "Nizamabad" },
+    { "@type": "AdministrativeArea", "name": "Armoor Mandal" }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "New Holland Tractors for Armoor Farmers",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "New Holland 3032 TX", "description": "35 HP compact tractor ideal for small and medium farms in Armoor" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "New Holland 3230 TX", "description": "42 HP tractor for paddy and cotton farming" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "New Holland 3630 TX Super Plus", "description": "50 HP tractor for mixed Kharif-Rabi farming in Armoor" } }
+    ]
+  },
+  "parentOrganization": {
+    "@type": "Store",
+    "@id": "https://www.prakashmotors.in/#organization"
+  }
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashmotors.in/" },
+    { "@type": "ListItem", "position": 2, "name": "Locations", "item": "https://www.prakashmotors.in/locations/armoor" },
+    { "@type": "ListItem", "position": 3, "name": "Armoor", "item": "https://www.prakashmotors.in/locations/armoor" }
+  ]
+};
+---
+
+<Layout title={title} description={description} noOrgSchema={true}>
+  <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
+  <!-- Navbar -->
+  <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center h-20">
+        <a href="/" class="flex items-center gap-3">
+          <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl shadow-sm"><span class="text-[#FFD100] scale-125">P</span></div>
+          <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
+        </a>
+        <div class="flex items-center gap-6">
+          <div class="hidden md:flex gap-6 font-bold text-sm text-[#001489] tracking-wide">
+            <a href="/#products" class="hover:text-[#000E5C] transition">PRODUCTS</a>
+            <a href="/service" class="hover:text-[#000E5C] transition">SERVICE</a>
+            <a href="/blog" class="hover:text-[#000E5C] transition">BLOG</a>
+            <a href="/about" class="hover:text-[#000E5C] transition">ABOUT</a>
+            <a href="/contact" class="hover:text-[#000E5C] transition">CONTACT</a>
+          </div>
+          <a href="tel:+919030857333" class="flex items-center gap-2 bg-[#001489] text-white px-5 py-2 rounded-full font-bold hover:bg-[#000E5C] transition shadow-sm">
+            <i data-lucide="phone" class="w-4 h-4"></i>
+            <span class="text-sm">9030857333</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="pt-28 pb-24 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Breadcrumb -->
+      <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+        <ol class="flex items-center gap-2">
+          <li><a href="/" class="hover:text-[#001489]">Home</a></li>
+          <li class="text-gray-300">/</li>
+          <li class="text-[#001489] font-semibold">Armoor</li>
+        </ol>
+      </nav>
+
+      <!-- Page Header -->
+      <div class="mb-12">
+        <div class="inline-block bg-[#001489]/10 text-[#001489] text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-4">Serving Armoor Farmers</div>
+        <h1 class="text-4xl md:text-5xl font-black text-[#001489] mb-4 leading-tight">New Holland Tractors in Armoor</h1>
+        <p class="font-noto text-xl text-gray-500 mb-4">ఆర్మూర్ రైతులకు న్యూ హాలండ్ ట్రాక్టర్లు</p>
+        <p class="text-lg text-gray-600 max-w-3xl">Prakash Motors, Nizamabad's authorized New Holland dealer, serves Armoor farmers with tractors, combine harvesters and genuine spare parts. Our showroom is 25 km from Armoor on the Armoor–Nizamabad highway.</p>
+      </div>
+
+      <!-- Distance / Access Banner -->
+      <div class="bg-[#001489]/5 border border-[#001489]/10 rounded-2xl p-6 mb-12 flex flex-col sm:flex-row gap-6 items-center">
+        <div class="text-center sm:text-left">
+          <div class="text-3xl font-black text-[#001489]">25 km</div>
+          <div class="text-sm text-gray-500 font-semibold">Armoor → Prakash Motors</div>
+        </div>
+        <div class="hidden sm:block w-px h-12 bg-[#001489]/20"></div>
+        <div class="text-center sm:text-left">
+          <div class="text-3xl font-black text-[#001489]">Same Day</div>
+          <div class="text-sm text-gray-500 font-semibold">Delivery Available</div>
+        </div>
+        <div class="hidden sm:block w-px h-12 bg-[#001489]/20"></div>
+        <div class="text-center sm:text-left">
+          <div class="text-3xl font-black text-[#001489]">Free</div>
+          <div class="text-sm text-gray-500 font-semibold">Demo at Your Farm</div>
+        </div>
+        <div class="hidden sm:block flex-1"></div>
+        <a href="https://wa.me/919030857333?text=Hi%2C%20I%27m%20from%20Armoor%20and%20want%20to%20enquire%20about%20New%20Holland%20tractors.%20%5BW-PM%5D" target="_blank" class="bg-[#25D366] text-white px-6 py-3 rounded-full font-bold hover:bg-green-600 transition whitespace-nowrap">
+          WhatsApp Us
+        </a>
+      </div>
+
+      <!-- About Armoor Farming -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] mb-4">Armoor Farming — Crops and Tractor Needs</h2>
+        <p class="text-gray-700 mb-4">Armoor mandal is a major agricultural belt in Nizamabad district. Farmers here grow <strong>paddy, cotton, soybean and maize</strong> across both Kharif and Rabi seasons. The area's red loamy soil allows for good drainage, making it suitable for a wide range of crops and farming operations.</p>
+        <p class="text-gray-700 mb-4">For paddy cultivation, Armoor farmers typically need tractors in the 35–50 HP range for puddling, transplanting and rotavating. The New Holland 3032 TX (35 HP) and 3230 TX (42 HP) are both popular in this region because of their reliability, low maintenance cost and wide service network through Prakash Motors.</p>
+        <p class="text-gray-700">Cotton farmers in Armoor benefit from the New Holland Excel series tractors, which offer higher ground clearance for inter-culture work between cotton rows. The 4WD capability on select models also helps in the sandy patches near the Godavari tributaries.</p>
+      </div>
+
+      <!-- Products Section -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] mb-6">Top Tractors for Armoor Farmers</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+          {[
+            { name: "New Holland 3032 TX", hp: "35 HP", use: "Small & Medium Farms", href: "/products/new-holland-3032-tx" },
+            { name: "New Holland 3230 TX", hp: "42 HP", use: "Paddy + Cotton Farming", href: "/products/new-holland-3230" },
+            { name: "New Holland 3630 TX Super Plus", hp: "50 HP", use: "All-Season Farming", href: "/products/new-holland-3630-tx-super-plus" },
+          ].map(p => (
+            <a href={p.href} class="group bg-white border border-gray-200 rounded-2xl p-6 hover:border-[#001489] hover:shadow-lg transition-all">
+              <div class="text-xs font-bold text-[#001489] bg-[#001489]/10 px-2 py-1 rounded-full inline-block mb-3">{p.hp}</div>
+              <h3 class="font-black text-gray-900 mb-1 group-hover:text-[#001489] transition">{p.name}</h3>
+              <p class="text-sm text-gray-500">{p.use}</p>
+              <span class="mt-4 text-xs font-bold text-[#001489] flex items-center gap-1">View Details <i data-lucide="arrow-right" class="w-3 h-3"></i></span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- FAQ -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] mb-6">Armoor Farmers Ask Us</h2>
+        <div class="space-y-4">
+          {[
+            { q: "Do you deliver tractors to Armoor?", a: "Yes. We deliver New Holland tractors directly to Armoor and all nearby villages. Call +91-9030857333 for delivery enquiries." },
+            { q: "Which New Holland tractor is best for paddy cultivation in Armoor?", a: "The New Holland 3032 TX (35 HP) handles most paddy operations well for 3–5 acre farms. For larger farms or commercial farming, the 3630 TX Super Plus (50 HP) is the better choice." },
+            { q: "Can I get a tractor demo at my farm in Armoor?", a: "Yes, we provide free field demonstrations in Armoor. WhatsApp your location to +91-9030857333 and our team will arrange a visit." },
+            { q: "Is service available in Armoor?", a: "Our main workshop is in Nizamabad (25 km away). For breakdowns in Armoor, our service team can reach you within 3–4 hours during working days." },
+          ].map(faq => (
+            <details class="bg-gray-50 rounded-xl p-6 border border-gray-100">
+              <summary class="font-bold text-gray-900 cursor-pointer">{faq.q}</summary>
+              <p class="text-gray-600 mt-3 leading-relaxed">{faq.a}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+
+      <!-- CTA -->
+      <div class="bg-[#001489] rounded-3xl p-10 text-center text-white">
+        <h2 class="text-3xl font-black mb-3">Buy a New Holland Tractor Near Armoor</h2>
+        <p class="font-noto text-lg opacity-70 mb-2">ఆర్మూర్ దగ్గర న్యూ హాలండ్ ట్రాక్టర్ కొనాలంటే</p>
+        <p class="text-lg opacity-80 mb-8">Visit Prakash Motors, Nizamabad — just 25 km from Armoor. Get price, EMI options and live tractor demo in one visit.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="https://wa.me/919030857333?text=Hi%2C%20I%27m%20from%20Armoor%20and%20want%20to%20enquire%20about%20New%20Holland%20tractors.%20%5BW-PM%5D" target="_blank"
+             class="flex items-center justify-center gap-2 bg-[#25D366] text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-green-600 transition shadow-xl">
+            <i data-lucide="message-circle" class="w-5 h-5"></i> WhatsApp Us
+          </a>
+          <a href="tel:+919030857333" class="flex items-center justify-center gap-2 bg-white text-[#001489] px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition shadow-xl">
+            <i data-lucide="phone" class="w-5 h-5"></i> +91 9030857333
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-50 border-t border-gray-200 py-8 mt-16">
+    <div class="max-w-7xl mx-auto px-4 text-center">
+      <p class="text-sm text-gray-500">© 2026 Prakash Motors, Nizamabad. Authorized New Holland Dealer | Telangana 503001</p>
+      <div class="flex justify-center gap-6 mt-3 text-xs text-[#001489] font-bold">
+        <a href="/">Home</a>
+        <a href="/#products">Products</a>
+        <a href="/service">Service</a>
+        <a href="/blog">Blog</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>if (typeof lucide !== 'undefined') { lucide.createIcons(); }</script>
+</Layout>

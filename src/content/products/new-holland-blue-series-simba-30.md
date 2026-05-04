@@ -3,7 +3,7 @@ title: "New Holland Blue Series Simba 30"
 seo_title: "New Holland Blue Series Simba 30 Price in Nizamabad | Prakash Motors"
 title_te: "న్యూ హాలండ్ బ్లూ సిరీస్ సింబా 30 ట్రాక్టర్"
 category: "Tractors"
-image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/895d027c50304042877e261249643f44?v=03fcd0b5&t=size1100"
+image: "/images/products/new-holland-blue-series-simba-30.jpg"
 features: ["29 HP Engine", "Semi-Constant Mesh", "High Lift Capacity", "Adjustable Rim", "Versatile Utility"]
 isRecommended: false
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Simba%2030%20%5BW-PM%5D"

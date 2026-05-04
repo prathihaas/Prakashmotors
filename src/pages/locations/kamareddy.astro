@@ -1,0 +1,229 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+const title = "New Holland Tractor Dealer in Kamareddy | Prakash Motors Nizamabad";
+const description = "Buy New Holland tractors in Kamareddy district. Prakash Motors, Nizamabad is the nearest authorized dealer serving Kamareddy farmers with tractors, harvesters and service. Call +91-9030857333.";
+
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": "Store",
+  "@id": "https://www.prakashmotors.in/locations/kamareddy#localbusiness",
+  "name": "Prakash Motors — New Holland Dealer serving Kamareddy District",
+  "additionalType": "https://schema.org/AutoDealer",
+  "image": "https://www.prakashmotors.in/og-image.jpg",
+  "url": "https://www.prakashmotors.in/locations/kamareddy",
+  "telephone": "+91-9030857333",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Opposite New Bus Stand",
+    "addressLocality": "Nizamabad",
+    "addressRegion": "Telangana",
+    "postalCode": "503001",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 18.6725,
+    "longitude": 78.0941
+  },
+  "openingHoursSpecification": [
+    { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "19:00" }
+  ],
+  "areaServed": [
+    { "@type": "City", "name": "Kamareddy" },
+    { "@type": "AdministrativeArea", "name": "Kamareddy District" },
+    { "@type": "City", "name": "Nizamabad" },
+    { "@type": "City", "name": "Banswada" },
+    { "@type": "City", "name": "Yellareddy" }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "New Holland Tractors for Kamareddy District Farmers",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "New Holland 3630 TX Super Plus", "description": "50 HP FPT engine tractor for Kamareddy district farming" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "New Holland 5620 TX Plus Trem-IV", "description": "65 HP CRDI tractor for large farms in Kamareddy" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "New Holland 3600-2 Excel", "description": "50 HP Asli Hero for mixed farming" } }
+    ]
+  },
+  "parentOrganization": {
+    "@type": "Store",
+    "@id": "https://www.prakashmotors.in/#organization"
+  }
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashmotors.in/" },
+    { "@type": "ListItem", "position": 2, "name": "Locations", "item": "https://www.prakashmotors.in/locations/kamareddy" },
+    { "@type": "ListItem", "position": 3, "name": "Kamareddy", "item": "https://www.prakashmotors.in/locations/kamareddy" }
+  ]
+};
+---
+
+<Layout title={title} description={description} noOrgSchema={true}>
+  <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
+  <!-- Navbar -->
+  <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center h-20">
+        <a href="/" class="flex items-center gap-3">
+          <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl shadow-sm"><span class="text-[#FFD100] scale-125">P</span></div>
+          <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
+        </a>
+        <div class="flex items-center gap-6">
+          <div class="hidden md:flex gap-6 font-bold text-sm text-[#001489] tracking-wide">
+            <a href="/#products" class="hover:text-[#000E5C] transition">PRODUCTS</a>
+            <a href="/service" class="hover:text-[#000E5C] transition">SERVICE</a>
+            <a href="/blog" class="hover:text-[#000E5C] transition">BLOG</a>
+            <a href="/about" class="hover:text-[#000E5C] transition">ABOUT</a>
+            <a href="/contact" class="hover:text-[#000E5C] transition">CONTACT</a>
+          </div>
+          <a href="tel:+919030857333" class="flex items-center gap-2 bg-[#001489] text-white px-5 py-2 rounded-full font-bold hover:bg-[#000E5C] transition shadow-sm">
+            <i data-lucide="phone" class="w-4 h-4"></i>
+            <span class="text-sm">9030857333</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="pt-28 pb-24 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Breadcrumb -->
+      <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+        <ol class="flex items-center gap-2">
+          <li><a href="/" class="hover:text-[#001489]">Home</a></li>
+          <li class="text-gray-300">/</li>
+          <li class="text-[#001489] font-semibold">Kamareddy</li>
+        </ol>
+      </nav>
+
+      <!-- Page Header -->
+      <div class="mb-12">
+        <div class="inline-block bg-[#001489]/10 text-[#001489] text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-4">Serving Kamareddy District</div>
+        <h1 class="text-4xl md:text-5xl font-black text-[#001489] mb-4 leading-tight">New Holland Tractors in Kamareddy District</h1>
+        <p class="font-noto text-xl text-gray-500 mb-4">కామారెడ్డి జిల్లా రైతులకు న్యూ హాలండ్ ట్రాక్టర్లు</p>
+        <p class="text-lg text-gray-600 max-w-3xl">Prakash Motors in Nizamabad is the nearest authorized New Holland dealer to Kamareddy. We supply tractors, combine harvesters, spare parts and service to Kamareddy city and all mandals in the district — Banswada, Yellareddy, Bheemgal, Balkonda, Nandipet and beyond.</p>
+      </div>
+
+      <!-- Distance / Access Banner -->
+      <div class="bg-[#001489]/5 border border-[#001489]/10 rounded-2xl p-6 mb-12 flex flex-col sm:flex-row gap-6 items-center">
+        <div class="text-center sm:text-left">
+          <div class="text-3xl font-black text-[#001489]">60 km</div>
+          <div class="text-sm text-gray-500 font-semibold">Kamareddy → Prakash Motors</div>
+        </div>
+        <div class="hidden sm:block w-px h-12 bg-[#001489]/20"></div>
+        <div class="text-center sm:text-left">
+          <div class="text-3xl font-black text-[#001489]">23+</div>
+          <div class="text-sm text-gray-500 font-semibold">Years of Service</div>
+        </div>
+        <div class="hidden sm:block w-px h-12 bg-[#001489]/20"></div>
+        <div class="text-center sm:text-left">
+          <div class="text-3xl font-black text-[#001489]">2000+</div>
+          <div class="text-sm text-gray-500 font-semibold">Farmers Served</div>
+        </div>
+        <div class="hidden sm:block flex-1"></div>
+        <a href="https://wa.me/919030857333?text=Hi%2C%20I%27m%20from%20Kamareddy%20and%20want%20to%20enquire%20about%20New%20Holland%20tractors.%20%5BW-PM%5D" target="_blank" class="bg-[#25D366] text-white px-6 py-3 rounded-full font-bold hover:bg-green-600 transition whitespace-nowrap">
+          WhatsApp Us
+        </a>
+      </div>
+
+      <!-- About Kamareddy Farming -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] mb-4">Kamareddy District — Agriculture and Tractor Demand</h2>
+        <p class="text-gray-700 mb-4">Kamareddy district, created in 2016 from former Nizamabad district, covers over 7,000 sq km of mixed agricultural terrain. The district grows <strong>paddy, maize, turmeric, red sorghum, cotton and a growing horticulture sector</strong>. With around 4 lakh farmer households, Kamareddy is one of the highest-volume tractor markets in northern Telangana.</p>
+        <p class="text-gray-700 mb-4">Kamareddy city itself and the major mandals — Banswada, Yellareddy, Bheemgal, Balkonda, Nandipet, Bichkunda — all have varied soil types. Red and black cotton soils are common in different zones, requiring tractors with versatile torque characteristics. New Holland's FPT engine line handles both soil types effectively without major adjustments.</p>
+        <p class="text-gray-700">Prakash Motors has been serving Kamareddy district customers since our founding in 2003. Many of the 2,000+ farmers we've served over two decades are from mandals now part of Kamareddy district. We have an established delivery and service reach across the entire district.</p>
+      </div>
+
+      <!-- Products Section -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] mb-6">Top Tractors for Kamareddy District</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+          {[
+            { name: "New Holland 3630 TX Super Plus", hp: "50 HP", use: "Most Popular in Kamareddy", href: "/products/new-holland-3630-tx-super-plus" },
+            { name: "New Holland 3600-2 Excel", hp: "50 HP", use: "Reliable + Economic", href: "/products/new-holland-3600-2-excel" },
+            { name: "New Holland 5620 TX Plus", hp: "65 HP", use: "Large Farms + Commercial", href: "/products/new-holland-5620-tx-plus-trem-iv" },
+          ].map(p => (
+            <a href={p.href} class="group bg-white border border-gray-200 rounded-2xl p-6 hover:border-[#001489] hover:shadow-lg transition-all">
+              <div class="text-xs font-bold text-[#001489] bg-[#001489]/10 px-2 py-1 rounded-full inline-block mb-3">{p.hp}</div>
+              <h3 class="font-black text-gray-900 mb-1 group-hover:text-[#001489] transition">{p.name}</h3>
+              <p class="text-sm text-gray-500">{p.use}</p>
+              <span class="mt-4 text-xs font-bold text-[#001489] flex items-center gap-1">View Details <i data-lucide="arrow-right" class="w-3 h-3"></i></span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- Mandals we serve -->
+      <div class="mb-12 bg-[#001489]/5 rounded-2xl p-8">
+        <h2 class="text-2xl font-black text-[#001489] mb-4">Mandals We Serve in Kamareddy District</h2>
+        <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+          {["Kamareddy", "Banswada", "Yellareddy", "Bheemgal", "Balkonda", "Nandipet", "Bichkunda", "Sadasivanagar", "Kotgir", "Renjal", "Pitlam", "Machareddy"].map(m => (
+            <div class="bg-white rounded-lg px-4 py-2 text-sm font-semibold text-gray-700 border border-gray-100 flex items-center gap-2">
+              <div class="w-1.5 h-1.5 rounded-full bg-[#001489]"></div>
+              {m}
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- FAQ -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] mb-6">Kamareddy Farmers Ask Us</h2>
+        <div class="space-y-4">
+          {[
+            { q: "Is there a New Holland dealer in Kamareddy city?", a: "Prakash Motors in Nizamabad is the authorized New Holland dealer closest to Kamareddy city, approximately 60 km away. We deliver to Kamareddy and all district mandals." },
+            { q: "How do I buy a tractor from Prakash Motors if I live in Kamareddy?", a: "Call or WhatsApp us at +91-9030857333. We can share specs and pricing on WhatsApp, arrange a delivery demo to your farm, and assist with tractor loan paperwork. You don't need to make the trip until you've decided." },
+            { q: "Do you sell New Holland spare parts in Kamareddy district?", a: "Yes. We stock genuine New Holland spare parts and can courier or deliver urgent parts to Kamareddy. For large orders, we can arrange same-day delivery." },
+            { q: "Can farmers from Kamareddy avail SMAM subsidy through Prakash Motors?", a: "Yes. As an authorized New Holland dealer, we can provide the quotation and documentation required for SMAM scheme applications. We have helped many Kamareddy district farmers successfully claim their subsidy." },
+          ].map(faq => (
+            <details class="bg-gray-50 rounded-xl p-6 border border-gray-100">
+              <summary class="font-bold text-gray-900 cursor-pointer">{faq.q}</summary>
+              <p class="text-gray-600 mt-3 leading-relaxed">{faq.a}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+
+      <!-- CTA -->
+      <div class="bg-[#001489] rounded-3xl p-10 text-center text-white">
+        <h2 class="text-3xl font-black mb-3">Your Nearest New Holland Dealer for Kamareddy</h2>
+        <p class="font-noto text-lg opacity-70 mb-2">కామారెడ్డి జిల్లా రైతులకు మేము సేవలు అందిస్తున్నాం</p>
+        <p class="text-lg opacity-80 mb-8">Prakash Motors, Nizamabad — 23 years of serving Kamareddy district farmers. Get price, EMI, and farm demo today.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="https://wa.me/919030857333?text=Hi%2C%20I%27m%20from%20Kamareddy%20and%20want%20to%20enquire%20about%20New%20Holland%20tractors.%20%5BW-PM%5D" target="_blank"
+             class="flex items-center justify-center gap-2 bg-[#25D366] text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-green-600 transition shadow-xl">
+            <i data-lucide="message-circle" class="w-5 h-5"></i> WhatsApp Us
+          </a>
+          <a href="tel:+919030857333" class="flex items-center justify-center gap-2 bg-white text-[#001489] px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition shadow-xl">
+            <i data-lucide="phone" class="w-5 h-5"></i> +91 9030857333
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-50 border-t border-gray-200 py-8 mt-16">
+    <div class="max-w-7xl mx-auto px-4 text-center">
+      <p class="text-sm text-gray-500">© 2026 Prakash Motors, Nizamabad. Authorized New Holland Dealer | Telangana 503001</p>
+      <div class="flex justify-center gap-6 mt-3 text-xs text-[#001489] font-bold">
+        <a href="/">Home</a>
+        <a href="/#products">Products</a>
+        <a href="/service">Service</a>
+        <a href="/blog">Blog</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>if (typeof lucide !== 'undefined') { lucide.createIcons(); }</script>
+</Layout>

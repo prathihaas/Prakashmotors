@@ -45,7 +45,19 @@
 
 ---
 
-## ⚠️ MANUAL ACTIONS REQUIRED
+## ✅ BATCH 2 COMPLETED (2026-05-03)
+
+### MEDIUM — Fixed ✅
+- [x] **Self-host product images** — all 16 product images downloaded to `public/images/products/[slug].jpg` and frontmatter updated
+- [x] **Expand thin blog posts** — paddy-harvesting, subsidy-news (updated to 2025), tractor-maintenance all expanded to 1,000+ words
+- [x] CSP updated — CNHI CDN removed from img-src (no longer needed)
+
+### LOW — Fixed ✅
+- [x] **Location pages created**: `/locations/bodhan`, `/locations/armoor`, `/locations/banswada`, `/locations/kamareddy` — all with LocalBusiness schema + FAQ + product recommendations
+
+---
+
+## ⚠️ MANUAL ACTIONS STILL REQUIRED
 
 ### HIGH Priority
 - [ ] **Create `public/og-image.jpg`** (1200×630px)
@@ -59,25 +71,10 @@
   - Action: Get real short URL from Google Maps business listing → update in `src/pages/contact.astro`
 
 ### MEDIUM Priority
-- [ ] **Self-host product images** (improves LCP, removes CDN dependency)
-  - Source: `cnhi-p-001-delivery.sitecorecontenthub.cloud` URLs in product .md files
-  - Target: `public/images/products/[slug].jpg`
-  - Update: `image:` field in each product `.md` frontmatter
-  - 16 product files to update
-
-- [ ] **Expand thin blog posts**
-  - `src/content/blog/paddy-harvesting.md` — expand to 800+ words
-  - `src/content/blog/subsidy-news.md` — expand or set `draft: true`
-  - `src/content/blog/tractor-maintenance.md` — expand to 800+ words
-
 - [ ] **Fix Google Reviews link** in index.astro (currently goes to generic Google Maps search)
   - Update both review CTA links to actual Google Business Profile review URL
 
 ### LOW Priority
-- [ ] **Add location pages** for high-volume mandals:
-  - `/locations/bodhan`, `/locations/armoor`, `/locations/banswada`, `/locations/kamareddy`
-  - Each should have LocalBusiness schema with specific area + products available
-
 - [ ] **Assign category thumbnails** to blogs without `featured_image`
   - Use Canva thumbnail system (already set up for sister sites)
 
@@ -94,9 +91,9 @@
 | Technical | 8 | 0 |
 | Schema | 12 | 0 |
 | On-Page | 6 | 2 (OG image, Maps URL) |
-| Content | 2 | 3 (thin posts) |
-| Performance | 3 | 1 (self-host images) |
+| Content | 5 | 0 |
+| Performance | 4 | 0 |
 | AI Readiness | 3 | 0 |
-| Local SEO | 0 | 2 (location pages, GBP URL) |
-| Images | 1 | 2 (OG image, self-host) |
-| **Total** | **35** | **10** |
+| Local SEO | 4 | 1 (GBP URL) |
+| Images | 2 | 1 (OG image) |
+| **Total** | **44** | **4** |

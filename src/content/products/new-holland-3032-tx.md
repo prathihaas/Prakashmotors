@@ -3,7 +3,7 @@ title: "New Holland 3032 TX"
 seo_title: "New Holland 3032 TX Tractor Price in Nizamabad | Prakash Motors"
 title_te: "న్యూ హాలండ్ 3032 TX ట్రాక్టర్"
 category: "Tractors"
-image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7ecf4885e29e487585887e166b18e762?v=e2dea611&t=size1100"
+image: "/images/products/new-holland-3032-tx.jpg"
 features: ["35 HP Engine", "Lift-O-Matic", "Oil Immersed Brakes", "Low Maintenance", "Fuel Efficient"]
 isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203032%20TX%20%5BW-PM%5D"

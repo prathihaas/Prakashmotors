@@ -1,0 +1,214 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+const title = "New Holland Tractor Dealer in Bodhan | Prakash Motors Nizamabad";
+const description = "Buy New Holland tractors in Bodhan, Nizamabad district. Prakash Motors serves Bodhan farmers with tractors for sugarcane, paddy and cotton farming. Call +91-9030857333.";
+
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": "Store",
+  "@id": "https://www.prakashmotors.in/locations/bodhan#localbusiness",
+  "name": "Prakash Motors — New Holland Dealer serving Bodhan",
+  "additionalType": "https://schema.org/AutoDealer",
+  "image": "https://www.prakashmotors.in/og-image.jpg",
+  "url": "https://www.prakashmotors.in/locations/bodhan",
+  "telephone": "+91-9030857333",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Opposite New Bus Stand",
+    "addressLocality": "Nizamabad",
+    "addressRegion": "Telangana",
+    "postalCode": "503001",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 18.6725,
+    "longitude": 78.0941
+  },
+  "openingHoursSpecification": [
+    { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "19:00" }
+  ],
+  "areaServed": [
+    { "@type": "City", "name": "Bodhan" },
+    { "@type": "City", "name": "Nizamabad" },
+    { "@type": "AdministrativeArea", "name": "Bodhan Mandal" }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "New Holland Tractors for Bodhan Farmers",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "New Holland 3630 TX Super Plus", "description": "50 HP tractor ideal for sugarcane and paddy in Bodhan" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "New Holland 3600-2 Excel", "description": "50 HP tractor for mixed farming in Nizamabad district" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Product", "name": "New Holland Excel Ultima 5510", "description": "50 HP tractor with loader capability" } }
+    ]
+  },
+  "parentOrganization": {
+    "@type": "Store",
+    "@id": "https://www.prakashmotors.in/#organization"
+  }
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.prakashmotors.in/" },
+    { "@type": "ListItem", "position": 2, "name": "Locations", "item": "https://www.prakashmotors.in/locations/bodhan" },
+    { "@type": "ListItem", "position": 3, "name": "Bodhan", "item": "https://www.prakashmotors.in/locations/bodhan" }
+  ]
+};
+---
+
+<Layout title={title} description={description} noOrgSchema={true}>
+  <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
+  <!-- Navbar -->
+  <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center h-20">
+        <a href="/" class="flex items-center gap-3">
+          <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl shadow-sm"><span class="text-[#FFD100] scale-125">P</span></div>
+          <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
+        </a>
+        <div class="flex items-center gap-6">
+          <div class="hidden md:flex gap-6 font-bold text-sm text-[#001489] tracking-wide">
+            <a href="/#products" class="hover:text-[#000E5C] transition">PRODUCTS</a>
+            <a href="/service" class="hover:text-[#000E5C] transition">SERVICE</a>
+            <a href="/blog" class="hover:text-[#000E5C] transition">BLOG</a>
+            <a href="/about" class="hover:text-[#000E5C] transition">ABOUT</a>
+            <a href="/contact" class="hover:text-[#000E5C] transition">CONTACT</a>
+          </div>
+          <a href="tel:+919030857333" class="flex items-center gap-2 bg-[#001489] text-white px-5 py-2 rounded-full font-bold hover:bg-[#000E5C] transition shadow-sm">
+            <i data-lucide="phone" class="w-4 h-4"></i>
+            <span class="text-sm">9030857333</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="pt-28 pb-24 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Breadcrumb -->
+      <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+        <ol class="flex items-center gap-2">
+          <li><a href="/" class="hover:text-[#001489]">Home</a></li>
+          <li class="text-gray-300">/</li>
+          <li class="text-[#001489] font-semibold">Bodhan</li>
+        </ol>
+      </nav>
+
+      <!-- Page Header -->
+      <div class="mb-12">
+        <div class="inline-block bg-[#001489]/10 text-[#001489] text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-4">Serving Bodhan Farmers</div>
+        <h1 class="text-4xl md:text-5xl font-black text-[#001489] mb-4 leading-tight">New Holland Tractors in Bodhan</h1>
+        <p class="font-noto text-xl text-gray-500 mb-4">బోధన్ రైతులకు న్యూ హాలండ్ ట్రాక్టర్లు</p>
+        <p class="text-lg text-gray-600 max-w-3xl">Prakash Motors, Nizamabad's authorized New Holland dealer, supplies tractors, harvesters and spare parts to Bodhan farmers. Our showroom is just 38 km from Bodhan on the Nizamabad–Bidar highway.</p>
+      </div>
+
+      <!-- Distance / Access Banner -->
+      <div class="bg-[#001489]/5 border border-[#001489]/10 rounded-2xl p-6 mb-12 flex flex-col sm:flex-row gap-6 items-center">
+        <div class="text-center sm:text-left">
+          <div class="text-3xl font-black text-[#001489]">38 km</div>
+          <div class="text-sm text-gray-500 font-semibold">Bodhan → Prakash Motors</div>
+        </div>
+        <div class="hidden sm:block w-px h-12 bg-[#001489]/20"></div>
+        <div class="text-center sm:text-left">
+          <div class="text-3xl font-black text-[#001489]">Same Day</div>
+          <div class="text-sm text-gray-500 font-semibold">Delivery Available</div>
+        </div>
+        <div class="hidden sm:block w-px h-12 bg-[#001489]/20"></div>
+        <div class="text-center sm:text-left">
+          <div class="text-3xl font-black text-[#001489]">Free</div>
+          <div class="text-sm text-gray-500 font-semibold">Demo at Your Farm</div>
+        </div>
+        <div class="hidden sm:block flex-1"></div>
+        <a href="https://wa.me/919030857333?text=Hi%2C%20I%27m%20from%20Bodhan%20and%20want%20to%20enquire%20about%20New%20Holland%20tractors.%20%5BW-PM%5D" target="_blank" class="bg-[#25D366] text-white px-6 py-3 rounded-full font-bold hover:bg-green-600 transition whitespace-nowrap">
+          WhatsApp Us
+        </a>
+      </div>
+
+      <!-- About Bodhan Farming -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] mb-4">Bodhan Farming — What Our Tractors Do Here</h2>
+        <p class="text-gray-700 mb-4">Bodhan mandal is one of Nizamabad district's most important agricultural zones. The area sits on the banks of the Godavari basin and grows primarily <strong>sugarcane, paddy, maize and cotton</strong>. The black cotton soil (reg soil) in many parts of Bodhan requires tractors with high torque at low RPM — exactly the strength of New Holland's FPT S8000 engine series.</p>
+        <p class="text-gray-700 mb-4">Sugarcane fields near Bodhan demand heavy-duty tractors that can handle inter-culture operations, earthing-up and transportation of cane bundles. The New Holland 3630 TX Super Plus+ and 5620 TX Plus are the most popular models in this area because of their PTO performance and ground clearance.</p>
+        <p class="text-gray-700">Paddy farmers in Bodhan especially near the Godavari canal command area benefit from the Silver Track combine harvester during Kharif, when wet field conditions stop most wheel harvesters.</p>
+      </div>
+
+      <!-- Products Section -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] mb-6">Top Tractors for Bodhan Farmers</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+          {[
+            { name: "New Holland 3630 TX Super Plus", hp: "50 HP", use: "Sugarcane + Paddy", href: "/products/new-holland-3630-tx-super-plus" },
+            { name: "New Holland 3600-2 Excel", hp: "50 HP", use: "Mixed Farming + Rotavator", href: "/products/new-holland-3600-2-excel" },
+            { name: "New Holland 5620 TX Plus", hp: "65 HP", use: "Heavy-duty + Commercial", href: "/products/new-holland-5620-tx-plus-trem-iv" },
+          ].map(p => (
+            <a href={p.href} class="group bg-white border border-gray-200 rounded-2xl p-6 hover:border-[#001489] hover:shadow-lg transition-all">
+              <div class="text-xs font-bold text-[#001489] bg-[#001489]/10 px-2 py-1 rounded-full inline-block mb-3">{p.hp}</div>
+              <h3 class="font-black text-gray-900 mb-1 group-hover:text-[#001489] transition">{p.name}</h3>
+              <p class="text-sm text-gray-500">{p.use}</p>
+              <span class="mt-4 text-xs font-bold text-[#001489] flex items-center gap-1">View Details <i data-lucide="arrow-right" class="w-3 h-3"></i></span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- FAQ -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-black text-[#001489] mb-6">Bodhan Farmers Ask Us</h2>
+        <div class="space-y-4">
+          {[
+            { q: "Do you deliver tractors to Bodhan?", a: "Yes. We deliver New Holland tractors to Bodhan and all surrounding villages. Call +91-9030857333 to arrange delivery to your farm." },
+            { q: "Can I get a tractor demo in Bodhan?", a: "Absolutely. We offer free farm demonstrations for all New Holland tractor models. WhatsApp us your address and we will bring the machine to you." },
+            { q: "Is there a service center in Bodhan?", a: "Our main service center is in Nizamabad (38 km away). For urgent field breakdowns, we dispatch a service technician to Bodhan within 4-6 hours." },
+            { q: "What is the best tractor for sugarcane farming in Bodhan?", a: "For sugarcane inter-culture and haulage, the New Holland 3630 TX Super Plus (50 HP) and 5620 TX Plus (65 HP) are ideal. Both offer high PTO torque and are suitable for the black cotton soil common in Bodhan." },
+          ].map(faq => (
+            <details class="bg-gray-50 rounded-xl p-6 border border-gray-100">
+              <summary class="font-bold text-gray-900 cursor-pointer">{faq.q}</summary>
+              <p class="text-gray-600 mt-3 leading-relaxed">{faq.a}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+
+      <!-- CTA -->
+      <div class="bg-[#001489] rounded-3xl p-10 text-center text-white">
+        <h2 class="text-3xl font-black mb-3">Buy a New Holland Tractor Near Bodhan</h2>
+        <p class="font-noto text-lg opacity-70 mb-2">బోధన్ దగ్గర న్యూ హాలండ్ ట్రాక్టర్ కొనాలంటే</p>
+        <p class="text-lg opacity-80 mb-8">Visit Prakash Motors, Nizamabad — just 38 km from Bodhan. Get price, EMI options and tractor demo in one visit.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="https://wa.me/919030857333?text=Hi%2C%20I%27m%20from%20Bodhan%20and%20want%20to%20enquire%20about%20New%20Holland%20tractors.%20%5BW-PM%5D" target="_blank"
+             class="flex items-center justify-center gap-2 bg-[#25D366] text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-green-600 transition shadow-xl">
+            <i data-lucide="message-circle" class="w-5 h-5"></i> WhatsApp Us
+          </a>
+          <a href="tel:+919030857333" class="flex items-center justify-center gap-2 bg-white text-[#001489] px-8 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition shadow-xl">
+            <i data-lucide="phone" class="w-5 h-5"></i> +91 9030857333
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-50 border-t border-gray-200 py-8 mt-16">
+    <div class="max-w-7xl mx-auto px-4 text-center">
+      <p class="text-sm text-gray-500">© 2026 Prakash Motors, Nizamabad. Authorized New Holland Dealer | Telangana 503001</p>
+      <div class="flex justify-center gap-6 mt-3 text-xs text-[#001489] font-bold">
+        <a href="/">Home</a>
+        <a href="/#products">Products</a>
+        <a href="/service">Service</a>
+        <a href="/blog">Blog</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>if (typeof lucide !== 'undefined') { lucide.createIcons(); }</script>
+</Layout>

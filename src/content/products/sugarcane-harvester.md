@@ -3,7 +3,7 @@ title: "Sugarcane Harvester"
 seo_title: "Sugarcane Harvester Price in Nizamabad | Prakash Motors"
 title_te: "చెరకు హార్వెస్టర్"
 category: "Harvester"
-image: "https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/4a567b1c318446358752e06ff6c2fb69?v=3b332ca7"
+image: "/images/products/sugarcane-harvester.jpg"
 features: ["Minimize wastage", "Maximize tonnage", "Series: 4000 & 8000", "High Capacity", "Clean Cane Technology"]
 isRecommended: false
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20Sugarcane%20Harvester%20%5BW-PM%5D"
