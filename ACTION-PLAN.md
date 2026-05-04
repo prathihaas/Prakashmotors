@@ -66,13 +66,10 @@
   - Logo/tractor image overlay
   - Place at: `Prakashmotors/public/og-image.jpg`
 
-- [ ] **Fix Google Maps URL in contact.astro**
-  - Current: `maps.app.goo.gl/NizamabadPrakashMotors` (placeholder)
-  - Action: Get real short URL from Google Maps business listing → update in `src/pages/contact.astro`
+- [x] **Fix Google Maps URL in contact.astro** — updated to `https://g.page/r/CU6CrRar3bvuEBM`
 
 ### MEDIUM Priority
-- [ ] **Fix Google Reviews link** in index.astro (currently goes to generic Google Maps search)
-  - Update both review CTA links to actual Google Business Profile review URL
+- [x] **Fix Google Reviews link** in index.astro — both CTAs updated to `https://g.page/r/CU6CrRar3bvuEBM/review`
 
 ### LOW Priority
 - [ ] **Assign category thumbnails** to blogs without `featured_image`
