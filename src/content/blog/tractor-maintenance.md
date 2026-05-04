@@ -16,6 +16,7 @@ excerpt: "Regular maintenance ensures long life for your New Holland tractor. Ch
 seo_title: "Tractor Maintenance Tips for Telangana Farmers | Prakash Motors"
 seo_description: "Essential tractor maintenance tips to keep your New Holland running all season. Service guidance from Prakash Motors, Nizamabad."
 readTime: "5 min read"
+draft: true
 ---
 
 # 5 Tractor Maintenance Tips That Save Nizamabad Farmers ₹20,000/Year

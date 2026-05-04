@@ -17,6 +17,7 @@ excerpt: "Telangana farmers in Nizamabad district can get up to ₹1.5 lakh off 
 seo_title: "Tractor Subsidy Telangana 2025 | How to Apply | Prakash Motors Nizamabad"
 seo_description: "Latest tractor subsidy news for Telangana farmers in 2025. SMAM scheme, eligibility, amounts, documents needed, and how to apply at Prakash Motors in Nizamabad."
 readTime: "6 min read"
+draft: true
 ---
 
 # Telangana Tractor Subsidy 2025: Up to ₹1.5 Lakh Off for Nizamabad Farmers
