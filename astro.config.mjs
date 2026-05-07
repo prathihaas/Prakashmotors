@@ -12,6 +12,7 @@ const LASTMOD = {
 
 export default defineConfig({
   site: "https://www.prakashmotors.in",
+  trailingSlash: "never",
   integrations: [
     tailwind(),
     sitemap({
