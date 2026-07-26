@@ -9,9 +9,9 @@ tags:
   - "kubota tractor telangana"
   - "new holland kubota comparison 2026"
 featured_image: "/images/blog/tractor-comparison-2026.jpg"
-excerpt: "New Holland vs Kubota tractor comparison for Telangana farmers 2026. Price, hydraulics, service network, resale value — which brand wins in Nizamabad conditions?"
-seo_title: "New Holland vs Kubota Tractor Telangana 2026 | Prakash Motors"
-seo_description: "New Holland vs Kubota tractor comparison for Telangana farmers 2026. Price, hydraulics, service network, resale value. Which brand wins in Nizamabad conditions?"
+excerpt: "New Holland vs Kubota tractor comparison for Telangana farmers 2026. Price, hydraulics, service network, resale value — which brand wins in Nizamabad"
+seo_title: "New Holland vs Kubota Tractor Telangana 2026"
+seo_description: "New Holland vs Kubota tractor comparison for Telangana farmers 2026. Price, hydraulics, service network, resale value. Which brand wins in Nizamabad"
 readTime: "8 min read"
 ---
 

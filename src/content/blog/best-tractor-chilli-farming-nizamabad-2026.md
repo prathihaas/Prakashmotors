@@ -10,8 +10,8 @@ tags:
   - "mirchi cultivation tractor"
   - "new holland chilli"
 featured_image: "/images/blog/farming-tips-2026.jpg"
-excerpt: "Chilli farming in Nizamabad's Armoor-Bheemgal belt needs 45-50HP for deep ridge-furrow bed preparation. Compare NH Blue Series Simba vs NH 3630 TX Plus for mirchi cultivation with implement guide and pricing."
-seo_title: "Best Tractor for Chilli Farming Nizamabad 2026 | Prakash Motors"
+excerpt: "Chilli farming in Nizamabad's Armoor-Bheemgal belt needs 45-50HP for deep ridge-furrow bed preparation. Compare NH Blue Series Simba vs NH 3630 TX Plus"
+seo_title: "Best Tractor for Chilli Farming Nizamabad 2026"
 seo_description: "Best tractor for chilli farming in Nizamabad 2026. HP guide, implements needed, model comparison for Armoor-Bheemgal chilli belt. Prakash Motors NH dealer."
 readTime: "7 min read"
 ---

@@ -12,12 +12,10 @@ tags:
   - "tractor review 2026"
 featured_image: "/images/blog/tractor-review-2026.jpg"
 excerpt: "Full review of New Holland Workmaster 105 — 105HP tractor performance, specs, and whether the investment makes sense for Telangana's large farms in 2026."
-seo_title: "New Holland Workmaster 105 Review Telangana 2026 | Prakash Motors"
+seo_title: "New Holland Workmaster 105 Review Telangana 2026"
 seo_description: "Review of New Holland Workmaster 105HP tractor for Telangana farmers. Specs, field performance, fuel economy and who should invest in this powerhouse."
 readTime: "8 min read"
 ---
-
-# New Holland Workmaster 105 Review — 105HP Powerhouse in Telangana
 
 *తెలంగాణలో పెద్ద పొలాలకు న్యూ హాలండ్ వర్క్‌మాస్టర్ 105 — పూర్తి సమీక్ష*
 

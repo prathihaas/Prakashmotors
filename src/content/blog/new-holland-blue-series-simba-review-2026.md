@@ -11,13 +11,11 @@ tags:
   - "55HP 75HP tractor"
   - "New Holland premium tractor"
 featured_image: "/images/blog/tractor-review-2026.jpg"
-excerpt: "Full 2026 review of New Holland Blue Series Simba 20 (55HP) and Simba 30 (75HP). Premium features, field performance, and who should invest in the Blue Series."
-seo_title: "New Holland Blue Series Simba 20 30 Review 2026 | Prakash Motors"
-seo_description: "Review of New Holland Blue Series Simba 20 (55HP) and Simba 30 (75HP) for Telangana farmers 2026. Premium specs, field performance and value for money analysis."
+excerpt: "Full 2026 review of New Holland Blue Series Simba 20 (55HP) and Simba 30 (75HP). Premium features, field performance, and who should invest in the Blue"
+seo_title: "New Holland Blue Series Simba 20 30 Review 2026"
+seo_description: "Review of New Holland Blue Series Simba 20 (55HP) and Simba 30 (75HP) for Telangana farmers 2026. Premium specs, field performance and value for money"
 readTime: "9 min read"
 ---
-
-# New Holland Blue Series Simba 20 & 30 Review — Precision Power 2026
 
 *న్యూ హాలండ్ బ్లూ సీరీస్ సింబా 20 మరియు 30 — 2026 పూర్తి సమీక్ష*
 

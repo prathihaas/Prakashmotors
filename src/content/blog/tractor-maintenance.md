@@ -13,13 +13,11 @@ tags:
   - "farming tips"
 featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
 excerpt: "Regular maintenance ensures long life for your New Holland tractor. Check oil levels daily."
-seo_title: "Tractor Maintenance Tips for Telangana Farmers | Prakash Motors"
+seo_title: "Tractor Maintenance Tips for Telangana Farmers"
 seo_description: "Essential tractor maintenance tips to keep your New Holland running all season. Service guidance from Prakash Motors, Nizamabad."
 readTime: "5 min read"
 draft: true
 ---
-
-# 5 Tractor Maintenance Tips That Save Nizamabad Farmers ₹20,000/Year
 
 A tractor breakdown during harvest is not just a repair bill. It's lost work days, delayed threshing, and crops left standing in the field. Emergency repairs on a New Holland tractor typically run between ₹5,000 and ₹30,000 per incident. Add two or three breakdowns a year, plus the cost of missed sowing windows, and poorly maintained tractors easily cost Nizamabad farmers ₹20,000 or more annually.
 

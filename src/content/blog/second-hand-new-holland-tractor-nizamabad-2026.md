@@ -10,8 +10,8 @@ tags:
   - "used tractor telangana 2026"
   - "buy used tractor nizamabad"
 featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
-excerpt: "Buying a second hand New Holland tractor in Nizamabad 2026? Complete buyer's guide covering price ranges, what to inspect, where to find verified used NH tractors, financing, and red flags to avoid."
-seo_title: "Second Hand New Holland Tractor Nizamabad 2026 | Buyer's Guide"
+excerpt: "Buying a second hand New Holland tractor in Nizamabad 2026? Complete buyer's guide covering price ranges, what to inspect, where to find verified used NH"
+seo_title: "Second Hand New Holland Tractor Nizamabad 2026"
 seo_description: "Buying a second hand New Holland tractor in Nizamabad 2026? Complete guide — price guide, what to check, where to buy, financing options for used NH tractors."
 readTime: "8 min read"
 ---

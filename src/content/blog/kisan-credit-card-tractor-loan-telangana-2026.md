@@ -10,9 +10,9 @@ tags:
   - "farm equipment loan KCC"
   - "tractor loan telangana 2026"
 featured_image: "/images/blog/tractor-loan-guide-2026.jpg"
-excerpt: "How to use your Kisan Credit Card (KCC) to buy a tractor in Telangana 2026. Interest rates as low as 7%, eligibility, bank list in Nizamabad, documents required, and step-by-step process from Prakash Motors."
-seo_title: "Kisan Credit Card Tractor Loan Telangana 2026 | Prakash Motors"
-seo_description: "How to use Kisan Credit Card (KCC) for tractor purchase in Telangana 2026. Interest rates, eligibility, bank list in Nizamabad and step-by-step guide from Prakash Motors."
+excerpt: "How to use your Kisan Credit Card (KCC) to buy a tractor in Telangana 2026. Interest rates as low as 7%, eligibility, bank list in Nizamabad, documents"
+seo_title: "Kisan Credit Card Tractor Loan Telangana 2026"
+seo_description: "How to use Kisan Credit Card (KCC) for tractor purchase in Telangana 2026. Interest rates, eligibility, bank list in Nizamabad and step-by-step guide from"
 readTime: "8 min read"
 ---
 

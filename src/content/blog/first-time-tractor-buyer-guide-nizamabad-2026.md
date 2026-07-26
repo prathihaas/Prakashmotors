@@ -10,7 +10,7 @@ tags:
   - "New Holland tractor 2026"
   - "tractor loan Telangana"
 featured_image: "/images/blog/first-time-tractor-buyer-guide-nizamabad-2026.jpg"
-excerpt: "Buying your first tractor in Nizamabad? This step-by-step guide covers everything — from choosing the right HP for your land, to evaluating features, arranging finance, and avoiding costly mistakes that first-time buyers make every season."
+excerpt: "Buying your first tractor in Nizamabad? This step-by-step guide covers everything — from choosing the right HP for your land, to evaluating features"
 seo_title: "First Time Tractor Buyer Guide Nizamabad 2026"
 seo_description: "Complete first-time tractor buyer guide for Nizamabad farmers 2026. HP selection, finance, subsidies & common mistakes to avoid. ☎ 9030857333 Prakash Motors."
 readTime: "7 min read"

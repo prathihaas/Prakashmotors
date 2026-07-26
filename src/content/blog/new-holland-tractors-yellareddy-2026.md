@@ -10,9 +10,9 @@ tags:
   - "tractor nizamabad district"
   - "yellareddy farming telangana"
 featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
-excerpt: "Best New Holland tractors for Yellareddy mandal farmers 2026. Cotton, maize, sunflower crops — recommended models, prices, EMI and subsidy guidance from Prakash Motors."
-seo_title: "New Holland Tractors Yellareddy 2026 | Prakash Motors Nizamabad"
-seo_description: "Best New Holland tractors for Yellareddy mandal farmers 2026. Cotton, maize, sunflower crops — recommended models, prices, EMI and subsidy guidance from Prakash Motors."
+excerpt: "Best New Holland tractors for Yellareddy mandal farmers 2026. Cotton, maize, sunflower crops — recommended models, prices, EMI and subsidy guidance from"
+seo_title: "New Holland Tractors Yellareddy 2026"
+seo_description: "Best New Holland tractors for Yellareddy mandal farmers 2026. Cotton, maize, sunflower crops — recommended models, prices, EMI and subsidy guidance from"
 readTime: "7 min read"
 ---
 

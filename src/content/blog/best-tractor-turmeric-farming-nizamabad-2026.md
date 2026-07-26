@@ -11,13 +11,11 @@ tags:
   - "New Holland turmeric"
   - "Telangana turmeric 2026"
 featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
-excerpt: "Expert guide for choosing the best tractor for turmeric farming in Nizamabad 2026. Covers bed preparation, earthing up, harvesting and implement recommendations."
-seo_title: "Best Tractor Turmeric Farming Nizamabad 2026 | Prakash Motors"
-seo_description: "Which tractor is best for turmeric farming in Nizamabad? 2026 full guide covering bed formation, earthing up, harvesting and New Holland model recommendations."
+excerpt: "Expert guide for choosing the best tractor for turmeric farming in Nizamabad 2026. Covers bed preparation, earthing up, harvesting and implement"
+seo_title: "Best Tractor Turmeric Farming Nizamabad 2026"
+seo_description: "Which tractor is best for turmeric farming in Nizamabad? 2026 full guide covering bed formation, earthing up, harvesting and New Holland model"
 readTime: "8 min read"
 ---
-
-# Best Tractor for Turmeric Farming in Nizamabad 2026 — Full Guide
 
 *నిజామాబాద్ జిల్లా పసుపు రైతులకు ట్రాక్టర్ ఎంపిక పూర్తి గైడ్*
 

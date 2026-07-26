@@ -10,9 +10,9 @@ tags:
   - "best tractor maize telangana"
   - "mokkajonna tractor"
 featured_image: "/images/blog/farming-tips-2026.jpg"
-excerpt: "Maize farming in Nizamabad's Yellareddy-Banswada belt is growing rapidly. Find the right New Holland tractor HP, key implements for sowing and cultivation, and model comparison for your maize farm in 2026."
-seo_title: "Best Tractor for Maize Farming Nizamabad 2026 | Prakash Motors"
-seo_description: "Best tractor for maize farming in Nizamabad 2026. HP guide, sowing & harvesting implements, model comparison for Yellareddy-Banswada maize belt. Prakash Motors."
+excerpt: "Maize farming in Nizamabad's Yellareddy-Banswada belt is growing rapidly. Find the right New Holland tractor HP, key implements for sowing and"
+seo_title: "Best Tractor for Maize Farming Nizamabad 2026"
+seo_description: "Best tractor for maize farming in Nizamabad 2026. HP guide, sowing & harvesting implements, model comparison for Yellareddy-Banswada maize belt. Prakash"
 readTime: "7 min read"
 ---
 

@@ -12,12 +12,10 @@ tags:
   - "tractor scheme Nizamabad"
 featured_image: "/images/blog/tractor-loan-guide-2026.jpg"
 excerpt: "Complete guide to Telangana tractor subsidy schemes in 2026. Central and state schemes, eligibility, subsidy amounts, application process and expert tips."
-seo_title: "Telangana Tractor Subsidy 2026 Complete Guide | Prakash Motors"
+seo_title: "Telangana Tractor Subsidy 2026 Complete Guide"
 seo_description: "Complete guide to tractor subsidies in Telangana 2026. SMAM, PM Kisan, state schemes, eligibility criteria, subsidy amounts and how to apply in Nizamabad."
 readTime: "10 min read"
 ---
-
-# Telangana Tractor Subsidy 2026 — Complete Guide for Farmers
 
 *తెలంగాణ రైతులకు ట్రాక్టర్ సబ్సిడీ 2026 — అన్ని పథకాల సమగ్ర వివరణ*
 

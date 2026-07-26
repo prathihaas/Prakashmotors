@@ -12,12 +12,10 @@ tags:
   - "agricultural machinery 2026"
 featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
 excerpt: "Is buying a New Holland combine harvester worth it for Nizamabad paddy farmers? 2026 analysis of TC5.30 specs, profitability, and who should invest."
-seo_title: "New Holland Combine Harvester Nizamabad 2026 — Price, Income & Review"
+seo_title: "New Holland Combine Harvester Nizamabad 2026 — Price"
 seo_description: "New Holland combine harvester price in Nizamabad 2026. TC5.30 specs, ₹18–25L range, custom hiring income ₹8,000/day. Call Prakash Motors: 9030857333."
 readTime: "9 min read"
 ---
-
-# New Holland Combine Harvester in Nizamabad — Is It Worth Buying?
 
 *నిజామాబాద్ జిల్లాలో న్యూ హాలండ్ కంబైన్ హార్వెస్టర్ కొనుగోలు లాభదాయకమా?*
 

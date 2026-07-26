@@ -11,13 +11,11 @@ tags:
   - "New Holland Telangana"
   - "tractor dealer near me"
 featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
-excerpt: "Prakash Motors is Nizamabad's authorized New Holland dealer. Learn about our services, products, service support, and why farmers across the district trust us."
-seo_title: "Prakash Motors Nizamabad Authorized New Holland Dealer | Tractor"
-seo_description: "Prakash Motors — authorized New Holland dealer in Nizamabad, Telangana. Complete tractor sales, service, parts and finance support for all Nizamabad district farmers."
+excerpt: "Prakash Motors is Nizamabad's authorized New Holland dealer. Learn about our services, products, service support, and why farmers across the district"
+seo_title: "Prakash Motors Nizamabad Authorized New Holland Dealer"
+seo_description: "Prakash Motors — authorized New Holland dealer in Nizamabad, Telangana. Complete tractor sales, service, parts and finance support for all Nizamabad"
 readTime: "7 min read"
 ---
-
-# Prakash Motors Nizamabad — Your Trusted New Holland Dealer
 
 *నిజామాబాద్‌లో మీ విశ్వసనీయ న్యూ హాలండ్ అధికారిక డీలర్ — ప్రకాష్ మోటార్స్*
 

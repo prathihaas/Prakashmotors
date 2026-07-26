@@ -12,12 +12,10 @@ tags:
   - "seasonal tractor care"
 featured_image: "/images/blog/farming-tips-2026.jpg"
 excerpt: "Complete seasonal tractor maintenance guide for Telangana farmers 2026. Pre-kharif, monsoon, post-harvest, and dry season care tips for New Holland tractors."
-seo_title: "Seasonal Tractor Maintenance Guide Telangana 2026 | Prakash Motors"
+seo_title: "Seasonal Tractor Maintenance Guide Telangana 2026"
 seo_description: "Seasonal tractor maintenance guide for Telangana farmers. Pre-kharif checks, monsoon care, post-harvest service, and storage tips for New Holland tractors."
 readTime: "9 min read"
 ---
-
-# Seasonal Tractor Maintenance Guide for Telangana Farmers 2026
 
 *తెలంగాణ వాతావరణ పరిస్థితులకు అనుగుణంగా ట్రాక్టర్ నిర్వహణ చేయడం ఎలా?*
 

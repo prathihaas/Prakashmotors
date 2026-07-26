@@ -12,12 +12,10 @@ tags:
   - "Telangana 55HP tractor"
 featured_image: "/images/blog/tractor-review-2026.jpg"
 excerpt: "Full review of New Holland 3600-2 Excel 55HP tractor for Nizamabad farmers 2026. Engine, hydraulics, field performance across paddy, cotton, and turmeric."
-seo_title: "New Holland 3600-2 Excel Review 55HP Nizamabad | Prakash Motors"
+seo_title: "New Holland 3600-2 Excel Review 55HP Nizamabad"
 seo_description: "New Holland 3600-2 Excel 55HP tractor review for Nizamabad farmers. Field performance, hydraulics, fuel economy and complete specs for Telangana conditions."
 readTime: "8 min read"
 ---
-
-# New Holland 3600-2 Excel Review — 55HP Workhorse for Nizamabad
 
 *నిజామాబాద్ జిల్లా రైతులకు న్యూ హాలండ్ 3600-2 Excel — పూర్తి సమీక్ష 2026*
 

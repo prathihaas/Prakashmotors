@@ -14,13 +14,11 @@ tags:
   - "Nizamabad"
 featured_image: "/images/blog/telangana-tractor-subsidy-2026.jpg"
 excerpt: "Telangana farmers in Nizamabad district can get up to ₹1.5 lakh off on tractors and farm machinery under SMAM scheme. Full eligibility and application guide."
-seo_title: "Tractor Subsidy Telangana 2025 | How to Apply | Prakash Motors Nizamabad"
-seo_description: "Latest tractor subsidy news for Telangana farmers in 2025. SMAM scheme, eligibility, amounts, documents needed, and how to apply at Prakash Motors in Nizamabad."
+seo_title: "Tractor Subsidy Telangana 2025 | How to Apply"
+seo_description: "Latest tractor subsidy news for Telangana farmers in 2025. SMAM scheme, eligibility, amounts, documents needed, and how to apply at Prakash Motors in"
 readTime: "6 min read"
 draft: true
 ---
-
-# Telangana Tractor Subsidy 2025: Up to ₹1.5 Lakh Off for Nizamabad Farmers
 
 Buying a tractor in Nizamabad district just got more affordable. Under the central government's SMAM scheme, eligible Telangana farmers can receive up to 50% subsidy, capped at ₹1.5 lakh, on new tractor purchases from empaneled dealers. For small and marginal farmers across Bodhan, Banswada, Armoor, and Balkonda mandals, this is real money back in your hands.
 

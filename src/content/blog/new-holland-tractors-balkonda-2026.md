@@ -10,9 +10,9 @@ tags:
   - "tractor nizamabad"
   - "balkonda farming telangana"
 featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
-excerpt: "Best New Holland tractors for Balkonda mandal. Black cotton soil, paddy-cotton rotation. Model guide, prices and EMI from Prakash Motors authorized NH dealer Nizamabad."
-seo_title: "New Holland Tractors Balkonda 2026 | Prakash Motors Nizamabad"
-seo_description: "Best New Holland tractors for Balkonda mandal. Black cotton soil, paddy-cotton rotation. Model guide, prices and EMI from Prakash Motors authorized NH dealer Nizamabad."
+excerpt: "Best New Holland tractors for Balkonda mandal. Black cotton soil, paddy-cotton rotation. Model guide, prices and EMI from Prakash Motors authorized NH"
+seo_title: "New Holland Tractors Balkonda 2026"
+seo_description: "Best New Holland tractors for Balkonda mandal. Black cotton soil, paddy-cotton rotation. Model guide, prices and EMI from Prakash Motors authorized NH"
 readTime: "7 min read"
 ---
 

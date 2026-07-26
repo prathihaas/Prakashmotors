@@ -11,13 +11,11 @@ tags:
   - "kharif tractor guide"
   - "monsoon farming Telangana"
 featured_image: "/images/blog/farming-tips-2026.jpg"
-excerpt: "Complete kharif 2026 field preparation guide for Nizamabad farmers. Tractor operations timeline, soil management, and crop-wise preparation tips for paddy and cotton."
-seo_title: "Kharif 2026 Field Preparation Tractor Guide Nizamabad | Prakash Motors"
-seo_description: "Kharif 2026 field preparation guide for Nizamabad farmers. Timeline, tractor operations, soil management for paddy, cotton and turmeric. Expert tips from Prakash Motors."
+excerpt: "Complete kharif 2026 field preparation guide for Nizamabad farmers. Tractor operations timeline, soil management, and crop-wise preparation tips for paddy"
+seo_title: "Kharif 2026 Field Preparation Tractor Guide Nizamabad"
+seo_description: "Kharif 2026 field preparation guide for Nizamabad farmers. Timeline, tractor operations, soil management for paddy, cotton and turmeric. Expert tips from"
 readTime: "8 min read"
 ---
-
-# Kharif 2026 Field Preparation — Tractor Guide for Nizamabad
 
 *నిజామాబాద్ జిల్లా రైతులకు ఖరీఫ్ 2026 పొలం తయారీ సమగ్ర గైడ్*
 

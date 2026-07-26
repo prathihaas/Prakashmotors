@@ -12,12 +12,10 @@ tags:
   - "Nizamabad farmer scheme"
 featured_image: "/images/blog/tractor-loan-guide-2026.jpg"
 excerpt: "Complete guide to PM Kisan Tractor Subsidy Scheme 2026. Eligibility criteria, subsidy amount, application process, and how Telangana farmers can apply."
-seo_title: "PM Kisan Tractor Subsidy 2026 Eligibility Apply | Prakash Motors"
+seo_title: "PM Kisan Tractor Subsidy 2026 Eligibility Apply"
 seo_description: "PM Kisan Tractor Subsidy 2026 — who is eligible, subsidy amount, how to apply in Telangana. Complete guide for Nizamabad farmers from Prakash Motors."
 readTime: "8 min read"
 ---
-
-# PM Kisan Tractor Subsidy Scheme 2026 — Eligibility & Application
 
 *PM కిసాన్ ట్రాక్టర్ సబ్సిడీ పథకం 2026 — తెలంగాణ రైతులు ఎలా దరఖాస్తు చేసుకోవాలి?*
 

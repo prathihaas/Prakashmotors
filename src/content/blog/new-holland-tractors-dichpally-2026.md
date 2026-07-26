@@ -11,7 +11,7 @@ tags:
   - "dichpally farming"
 featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
 excerpt: "Best New Holland tractors for Dichpally mandal farmers. Paddy, turmeric, maize farming guide — model recommendations, on-road price, EMI from Prakash Motors."
-seo_title: "New Holland Tractors Dichpally 2026 | Prakash Motors Nizamabad"
+seo_title: "New Holland Tractors Dichpally 2026"
 seo_description: "Best New Holland tractors for Dichpally mandal farmers. Paddy, turmeric, maize farming guide — model recommendations, on-road price, EMI from Prakash Motors."
 readTime: "7 min read"
 ---

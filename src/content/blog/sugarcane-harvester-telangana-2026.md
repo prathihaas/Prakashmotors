@@ -12,12 +12,10 @@ tags:
   - "cane harvester India"
 featured_image: "/images/blog/tractor-buying-guide-2026.jpg"
 excerpt: "Complete 2026 guide to sugarcane harvesters for Telangana farmers. Covers working principle, cost, profitability, and New Holland options from Prakash Motors."
-seo_title: "Sugarcane Harvester Telangana 2026 | Prakash Motors Nizamabad"
+seo_title: "Sugarcane Harvester Telangana 2026"
 seo_description: "Complete guide to sugarcane harvesters for Telangana farmers 2026. Working principle, cost analysis, subsidy options and where to buy in Nizamabad."
 readTime: "8 min read"
 ---
-
-# Sugarcane Harvester for Telangana Farmers 2026 — Full Guide
 
 *తెలంగాణ రైతులకు చెరకు హార్వెస్టర్ — 2026 సంపూర్ణ మార్గదర్శి*
 

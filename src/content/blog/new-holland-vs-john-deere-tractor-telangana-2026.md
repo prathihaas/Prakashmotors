@@ -10,7 +10,7 @@ tags:
   - "john deere tractor nizamabad"
   - "tractor comparison telangana"
 featured_image: "/images/blog/new-holland-vs-john-deere-tractor-telangana-2026.jpg"
-excerpt: "New Holland vs John Deere is the biggest tractor debate among Telangana farmers in 2026. Both are global brands — but for Nizamabad and surrounding districts, the numbers tell a clear story. This head-to-head comparison covers price, performance, fuel efficiency, service network, and long-term value."
+excerpt: "New Holland vs John Deere is the biggest tractor debate among Telangana farmers in 2026. Both are global brands — but for Nizamabad and surrounding"
 seo_title: "New Holland vs John Deere 2026: Telangana Farmer's Pick"
 seo_description: "New Holland vs John Deere for Telangana 2026: hydraulic capacity, real fuel use, ₹50K–₹2L price gap, parts cost. NH wins on local service. Field numbers."
 readTime: "8 min read"
