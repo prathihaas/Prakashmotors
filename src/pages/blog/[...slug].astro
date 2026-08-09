@@ -94,38 +94,19 @@ const faqSchema = faqPairs.length > 0 ? {
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 
-  <!-- Navbar -->
-  <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex justify-between items-center h-20">
-        <a href="/" class="flex items-center gap-3">
-          <div class="w-10 h-10 bg-[#001489] flex items-center justify-center text-white font-black text-xl shadow-sm">
-            <span class="text-[#FFD100] scale-125">P</span>
-          </div>
-          <span class="text-lg font-black text-[#001489] tracking-tighter uppercase leading-none">Prakash<br>Motors</span>
-        </a>
-        <div class="flex items-center gap-4">
-          <a href="/blog/" class="text-sm font-bold text-gray-500 hover:text-[#001489]">All Posts</a>
-          <a href="/" class="text-sm font-bold text-[#001489] hover:text-[#000E5C] flex items-center gap-1">
-            <i data-lucide="arrow-left" class="w-4 h-4"></i> Home
-          </a>
-        </div>
-      </div>
-    </div>
-  </nav>
 
-  <article class="pt-28 pb-24 bg-white">
+  <article class="pt-12 pb-24 bg-white">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
 
       <!-- Header -->
       <header class="mb-10 text-center">
         <div class="flex items-center justify-center gap-3 mb-5">
-          <span class="inline-block bg-[#001489]/8 text-[#001489] font-bold tracking-widest uppercase text-xs px-3 py-1 rounded-full">
+          <span class="inline-block bg-[#00205B]/8 text-[#00205B] font-bold tracking-widest uppercase text-xs px-3 py-1 rounded-full">
             {category}
           </span>
           {readTime && <span class="text-xs text-gray-400 font-semibold">{readTime}</span>}
         </div>
-        <h1 class="text-3xl md:text-5xl font-black text-[#001489] mb-4 leading-tight">{title}</h1>
+        <h1 class="text-3xl md:text-5xl font-black text-[#00205B] mb-4 leading-tight">{title}</h1>
         {title_te && <h2 class="font-telugu text-xl font-bold text-gray-400 mb-4">{title_te}</h2>}
         <p class="text-lg text-gray-500 max-w-2xl mx-auto leading-relaxed">{excerpt}</p>
         <div class="flex justify-center gap-6 mt-6 text-sm text-gray-400 font-semibold uppercase tracking-wider">
@@ -148,24 +129,24 @@ const faqSchema = faqPairs.length > 0 ? {
       {tags && tags.length > 0 && (
         <div class="flex flex-wrap gap-2 mb-10">
           {tags.map(tag => (
-            <span class="text-xs bg-[#001489]/5 text-[#001489] px-3 py-1 rounded-full font-semibold">{tag}</span>
+            <span class="text-xs bg-[#00205B]/5 text-[#00205B] px-3 py-1 rounded-full font-semibold">{tag}</span>
           ))}
         </div>
       )}
 
       <!-- Article body -->
       <div class="prose prose-lg prose-blue max-w-none text-gray-600
-        prose-headings:font-black prose-headings:text-[#001489]
-        prose-a:text-[#001489] prose-a:font-bold
+        prose-headings:font-black prose-headings:text-[#00205B]
+        prose-a:text-[#00205B] prose-a:font-bold
         prose-img:rounded-xl prose-img:shadow-md
-        prose-strong:text-[#001489]
-        prose-table:border prose-th:bg-[#001489] prose-th:text-white prose-th:p-3 prose-td:p-3 prose-td:border">
+        prose-strong:text-[#00205B]
+        prose-table:border prose-th:bg-[#00205B] prose-th:text-white prose-th:p-3 prose-td:p-3 prose-td:border">
         <Content />
       </div>
 
       <!-- CTA -->
-      <div class="mt-16 pt-10 border-t border-gray-100 text-center bg-[#001489]/3 rounded-2xl p-8">
-        <h3 class="font-black text-[#001489] text-2xl mb-2">Want to know more?</h3>
+      <div class="mt-16 pt-10 border-t border-gray-100 text-center bg-[#00205B]/3 rounded-2xl p-8">
+        <h3 class="font-black text-[#00205B] text-2xl mb-2">Want to know more?</h3>
         <p class="text-gray-500 mb-6">Talk to our experts at Prakash Motors, Nizamabad</p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
           <a href="https://wa.me/919030857333?text=Hi%2C%20I%20read%20your%20blog%20and%20want%20to%20know%20more%20about%20tractors.%20%5BW-PM%5D" target="_blank"
@@ -174,7 +155,7 @@ const faqSchema = faqPairs.length > 0 ? {
             Chat on WhatsApp
           </a>
           <a href="tel:+919030857333"
-             class="inline-flex items-center gap-2 bg-[#001489] text-white px-6 py-3 rounded-full font-bold shadow-lg hover:bg-[#000E5C] transition-all">
+             class="inline-flex items-center gap-2 bg-[#00205B] text-white px-6 py-3 rounded-full font-bold shadow-lg hover:bg-[#001640] transition-all">
             <i data-lucide="phone" class="w-5 h-5"></i>
             Call Now
           </a>

@@ -1,0 +1,98 @@
+---
+// Ft5 Statement — a navy slab that closes the page with the dealer's position,
+// then the NAP block. No four-column link farm.
+const links = [
+  { label: 'Tractors & Harvesters', href: '/#products' },
+  { label: 'Service & AMC', href: '/service/' },
+  { label: 'Guides', href: '/blog/' },
+  { label: 'About', href: '/about/' },
+  { label: 'Contact', href: '/contact/' },
+];
+const locations = [
+  { label: 'Armoor', href: '/locations/armoor/' },
+  { label: 'Bodhan', href: '/locations/bodhan/' },
+  { label: 'Banswada', href: '/locations/banswada/' },
+  { label: 'Kamareddy', href: '/locations/kamareddy/' },
+];
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-auto bg-nh-navy text-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14 lg:py-20">
+    <!-- Statement -->
+    <p class="max-w-3xl font-display text-2xl sm:text-3xl lg:text-4xl font-black uppercase leading-[1.1]">
+      Tractors bought here are
+      <span class="text-nh-yellow">serviced here</span> — for as long as you farm.
+    </p>
+    <p class="mt-4 max-w-2xl text-white/70 leading-relaxed">
+      Prakash Motors has been the authorised New Holland Agriculture dealer in Nizamabad since 2003,
+      with sales, genuine parts and workshop support across the district.
+    </p>
+
+    <div class="mt-10 flex flex-col sm:flex-row gap-3">
+      <a href="tel:+919030857333" class="nh-btn">Call 90308 57333</a>
+      <a
+        href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20know%20about%20New%20Holland%20tractors%20and%20harvesters.%20%5BW-PM%5D"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="nh-btn nh-btn--wa"
+      >WhatsApp the showroom</a>
+    </div>
+
+    <div class="mt-14 h-[3px] bg-nh-yellow w-24" aria-hidden="true"></div>
+
+    <div class="mt-8 grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
+      <div>
+        <p class="text-[11px] font-bold uppercase tracking-eyebrow text-nh-yellow">Showroom</p>
+        <address class="mt-3 not-italic text-sm leading-relaxed text-white/80">
+          Opposite New Bus Stand,<br />
+          Nizamabad, Telangana 503001
+        </address>
+        <p class="mt-3 text-sm text-white/80">Mon–Sat · 9 AM – 7 PM</p>
+      </div>
+
+      <div>
+        <p class="text-[11px] font-bold uppercase tracking-eyebrow text-nh-yellow">Sections</p>
+        <ul class="mt-3 space-y-2 text-sm">
+          {links.map((l) => (
+            <li>
+              <a href={l.href} class="text-white/80 hover:text-white transition-colors duration-150">{l.label}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <p class="text-[11px] font-bold uppercase tracking-eyebrow text-nh-yellow">Areas served</p>
+        <ul class="mt-3 space-y-2 text-sm">
+          {locations.map((l) => (
+            <li>
+              <a href={l.href} class="text-white/80 hover:text-white transition-colors duration-150">{l.label}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <p class="text-[11px] font-bold uppercase tracking-eyebrow text-nh-yellow">Follow</p>
+        <ul class="mt-3 space-y-2 text-sm">
+          <li><a href="https://www.facebook.com/prakashmotors" target="_blank" rel="noopener noreferrer" class="text-white/80 hover:text-white transition-colors duration-150">Facebook</a></li>
+          <li><a href="https://www.instagram.com/prakashmotors" target="_blank" rel="noopener noreferrer" class="text-white/80 hover:text-white transition-colors duration-150">Instagram</a></li>
+          <li><a href="https://share.google/YC7Yg9tpaUSP7iB8w" target="_blank" rel="noopener noreferrer" class="text-white/80 hover:text-white transition-colors duration-150">Google Maps</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="border-t border-white/15">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-xs text-white/60 space-y-2">
+      <p>
+        Part of the Prakash Group:
+        <a href="https://www.prakashhyundai.com" target="_blank" rel="noopener" class="underline underline-offset-2 hover:text-white">Prakash Hyundai — Cars in Nizamabad</a> ·
+        <a href="https://www.prakashautohonda.com" target="_blank" rel="noopener" class="underline underline-offset-2 hover:text-white">Prakash Auto Honda — Honda Bikes, Kamareddy</a> ·
+        <a href="https://www.sairamhonda.com" target="_blank" rel="noopener" class="underline underline-offset-2 hover:text-white">Sairam Honda — Honda Bikes, Nizamabad</a>
+      </p>
+      <p>© {year} Prakash Motors. Authorised New Holland Agriculture dealer. New Holland is a trademark of CNH Industrial N.V.</p>
+    </div>
+  </div>
+</footer>

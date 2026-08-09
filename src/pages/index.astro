@@ -10,6 +10,25 @@ const recentPosts = allBlogPosts
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .slice(0, 3);
 
+const WA_BASE = 'https://wa.me/919030857333';
+const PHONE_HREF = 'tel:+919030857333';
+const PHONE_DISPLAY = '90308 57333';
+
+// Figures already published on this site — not new claims.
+const atAGlance = [
+  { value: 'Since 2003', label: 'Authorised dealer', label_te: 'అధీకృత డీలర్' },
+  { value: '2,000+', label: 'Farmers served', label_te: 'రైతులు' },
+  { value: '4.7 / 5', label: '148 Google reviews', label_te: 'గూగుల్ రివ్యూలు' },
+  { value: '4', label: 'Districts covered', label_te: 'జిల్లాలు' },
+];
+
+const coverage = [
+  { label: 'Armoor', href: '/locations/armoor/' },
+  { label: 'Bodhan', href: '/locations/bodhan/' },
+  { label: 'Banswada', href: '/locations/banswada/' },
+  { label: 'Kamareddy', href: '/locations/kamareddy/' },
+];
+
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@graph": [
@@ -86,294 +105,316 @@ const localBusinessSchema = {
 ---
 
 <Layout title="New Holland Tractors Nizamabad | Best Price ☎ 9030857333" description="Prakash Motors — Nizamabad's #1 New Holland dealer. Tractors, harvesters & farm equipment at best price. EMI from ₹3,999/mo. Call +91 9030857333." noOrgSchema={true}>
-    
-    <!-- Fixed WhatsApp -->
-    <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20know%20about%20New%20Holland%20tractors%20and%20harvesters.%20%5BW-PM%5D" target="_blank" class="fixed bottom-6 right-6 z-50 flex items-center gap-3 bg-[#25D366] text-white px-5 py-3 rounded-full shadow-lg hover:bg-green-600 transition-all duration-300 hover:scale-105 animate-float group ring-4 ring-white border border-green-500/10">
-        <div class="relative">
-            <span class="absolute -top-1 -right-1 flex h-3 w-3"><span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span><span class="relative inline-flex rounded-full h-3 w-3 bg-red-500"></span></span>
-            <i data-lucide="message-circle" class="w-7 h-7 fill-current"></i>
-        </div>
-        <div class="flex flex-col text-left">
-            <span class="text-[10px] font-bold opacity-90 uppercase tracking-wider">Chat with us</span>
-            <span class="text-sm font-extrabold leading-tight">Get Price List<br><span class="font-telugu font-medium text-xs">ధరల పట్టిక పొందండి</span></span>
-        </div>
-    </a>
 
-    <!-- Navbar -->
-    <nav class="fixed w-full z-40 bg-white/95 backdrop-blur-md border-b border-[#001489]/5 transition-all duration-300">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between items-center h-20">
-                <a href="/" aria-label="Prakash Motors Nizamabad — home" class="flex items-center gap-3 group">
-                    <div class="w-11 h-11 bg-[#001489] flex items-center justify-center text-white font-black text-2xl shadow-sm group-hover:bg-[#000E5C] transition-colors"><span class="text-[#FFD100] scale-125">P</span></div>
-                    <div class="flex flex-col">
-                        <span class="text-xl font-black text-[#001489] tracking-tighter uppercase leading-none group-hover:text-[#000E5C] transition-colors">Prakash<br>Motors</span>
-                        <span class="text-[10px] text-gray-500 font-bold tracking-[0.2em] uppercase mt-1 border-t border-gray-200 pt-0.5">NIZAMABAD</span>
-                    </div>
-                </a>
-                <div class="flex items-center gap-6">
-                    <div class="hidden md:flex gap-6 font-bold text-sm text-[#001489] tracking-wide">
-                        <a href="/#products" class="hover:text-[#000E5C] transition">PRODUCTS</a>
-                        <a href="/service/" class="hover:text-[#000E5C] transition">SERVICE</a>
-                        <a href="/blog/" class="hover:text-[#000E5C] transition">BLOG</a>
-                        <a href="/about/" class="hover:text-[#000E5C] transition">ABOUT</a>
-                        <a href="/contact/" class="hover:text-[#000E5C] transition">CONTACT</a>
-                    </div>
-                    <a href="tel:+919030857333" class="flex items-center gap-3 bg-white text-[#001489] border-2 border-[#001489] px-6 py-2 rounded-full font-bold hover:bg-[#001489] hover:text-white transition-colors duration-300 shadow-sm active:scale-95 group">
-                        <i data-lucide="phone" class="w-5 h-5 group-hover:fill-current"></i>
-                        <div class="flex flex-col text-left leading-none">
-                            <span class="text-xs font-extrabold uppercase tracking-wide">Call Now</span>
-                            <span class="font-telugu text-xs font-semibold">కాల్ చేయండి</span>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </nav>
+    <main>
+    <!-- ============================================================
+         HERO — Workbench: a statement, the credentials, and the machine.
+         ============================================================ -->
+    <section class="border-b border-rule bg-paper2">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14 lg:py-20">
+            <div class="grid lg:grid-cols-[minmax(0,1.05fr)_minmax(0,1fr)] gap-10 lg:gap-16 items-center">
+                <div>
+                    <p class="nh-eyebrow">Authorised New Holland dealer · Nizamabad</p>
 
-    <!-- Hero Section -->
-    <section class="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden bg-white">
-        <div class="absolute inset-0 z-0">
-             <div class="absolute top-0 right-0 w-2/3 h-full bg-[#001489] opacity-[0.03]" style="clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 100%, 0 0);"></div>
-             <div class="absolute bottom-0 left-0 w-96 h-96 bg-[#001489]/5 rounded-full blur-3xl -translate-x-1/2 translate-y-1/2"></div>
-        </div>
-        <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
-                <div class="space-y-8 text-center lg:text-left">
-                    <a href="tel:+919030857333" class="inline-flex items-center gap-3 px-4 py-2 bg-[#001489]/5 text-[#001489] border border-[#001489]/10 mx-auto lg:mx-0 rounded-none hover:bg-[#001489]/10 transition">
-                        <span class="w-1.5 h-1.5 rounded-full bg-[#001489] animate-pulse"></span>
-                        <span class="text-xs font-bold tracking-widest uppercase">Authorized New Holland Dealer</span>
-                    </a>
-                    <div class="no-tap">
-                        <h1 class="text-5xl lg:text-7xl font-black text-[#001489] leading-tight tracking-tight mb-4">Authorized New Holland <br>Dealer in Nizamabad</h1>
-                        <h2 class="text-2xl lg:text-3xl font-bold text-gray-600 font-telugu mb-2">వ్యవసాయంలో మీ విజయ ప్రస్థానం</h2>
+                    <h1 class="mt-5 font-display font-black uppercase text-nh-navy leading-[1.04] tracking-tight text-[clamp(2.25rem,5.2vw,4rem)]">
+                        New Holland tractors<br />and harvesters,<br />
+                        <span class="text-nh-blue">bought and serviced in Nizamabad</span>
+                    </h1>
+
+                    <p class="mt-4 font-telugu text-lg sm:text-xl font-bold text-muted">
+                        వ్యవసాయంలో మీ విజయ ప్రస్థానం
+                    </p>
+
+                    <div class="mt-6 max-w-xl space-y-1">
+                        <span class="mb-4 block h-[3px] w-16 bg-nh-yellow" aria-hidden="true"></span>
+                        <p class="text-base sm:text-lg text-muted">
+                            Full New Holland range, genuine parts and a workshop that stays with the machine —
+                            from the showroom opposite New Bus Stand.
+                        </p>
+                        <p class="font-telugu text-base text-muted">
+                            నిజామాబాద్‌లో అత్యుత్తమ ట్రాక్టర్లు మరియు హార్వెస్టర్ల కోసం.
+                        </p>
                     </div>
-                    <div class="text-gray-600 max-w-xl mx-auto lg:mx-0 font-medium space-y-2 border-l-4 border-[#001489] pl-4">
-                        <p class="text-lg">Premium Tractors & Harvesters in Nizamabad.</p>
-                        <p class="text-lg font-telugu">నిజామాబాద్‌లో అత్యుత్తమ ట్రాక్టర్లు మరియు హార్వెస్టర్ల కోసం.</p>
-                    </div>
-                    <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-6">
-                        <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20know%20the%20price%20of%20New%20Holland%20tractor%20in%20Nizamabad.%20%5BW-HP%5D" target="_blank" rel="noopener noreferrer"
-                           class="bg-[#25D366] text-white px-8 py-4 font-bold text-lg hover:bg-green-600 transition-all shadow-lg flex items-center justify-center gap-3 rounded-sm">
-                            <i data-lucide="message-circle" class="w-6 h-6"></i>
-                            <div class="text-left leading-tight"><span class="block tracking-wide">Get Price on WhatsApp</span><span class="block font-telugu text-sm font-normal opacity-90">ధర WhatsApp లో పొందండి</span></div>
+
+                    <div class="mt-8 flex flex-col sm:flex-row gap-3">
+                        <a
+                            href={`${WA_BASE}?text=${encodeURIComponent('Hi, I want to know the price of New Holland tractor in Nizamabad. [W-HP]')}`}
+                            target="_blank" rel="noopener noreferrer" class="nh-btn nh-btn--wa">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5.1-1.3A10 10 0 1 0 12 2Zm5.5 14c-.2.7-1.4 1.3-2 1.4-.5.1-1.1.1-1.8-.1a13 13 0 0 1-5.7-4.6c-.4-.6-1-1.5-1-2.9s.7-2 1-2.3a1 1 0 0 1 .7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2 0 .4-.1.6l-.4.5c-.1.2-.3.3-.1.6a9.4 9.4 0 0 0 3.7 3c.3.2.5.1.6 0l.8-1c.2-.2.3-.2.6-.1l1.9.9c.3.1.5.2.5.4v.9Z"/></svg>
+                            Get price list
                         </a>
-                        <a href="tel:+919030857333"
-                           class="bg-white text-[#001489] border-2 border-[#001489] px-8 py-4 font-bold text-lg hover:bg-[#001489] hover:text-white transition-all shadow-lg flex items-center justify-center gap-3 rounded-sm">
-                            <i data-lucide="phone" class="w-6 h-6"></i>
-                            <div class="text-left leading-tight"><span class="block tracking-wide">Call: 9030857333</span><span class="block font-telugu text-sm font-normal">కాల్ చేయండి</span></div>
-                        </a>
-                    </div>
-                    <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-2">
-                        <a href="#products" class="text-[#001489] font-bold text-sm underline underline-offset-4 hover:text-[#000E5C] transition flex items-center gap-1">
-                            View All Models <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                        <a href={PHONE_HREF} class="nh-btn nh-btn--ghost">
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="square" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8.1 9.8a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.8 2.1Z"/></svg>
+                            Call {PHONE_DISPLAY}
                         </a>
                     </div>
                 </div>
-                <div class="relative hidden lg:block">
-                    <div class="relative w-full aspect-[4/3]">
-                         <div class="group relative w-full h-full overflow-hidden rounded-sm shadow-2xl">
-                             <img src="/images/hero.jpg" class="object-cover w-full h-full transform group-hover:scale-105 transition duration-1000" alt="New Holland Tractor Nizamabad — Prakash Motors Authorized Dealer" fetchpriority="high" loading="eager">
-                             <div class="absolute inset-0 bg-[#001489]/10 mix-blend-multiply"></div>
-                         </div>
-                    </div>
-                </div>
+
+                <figure class="relative">
+                    <img
+                        src="/images/hero.jpg"
+                        alt="New Holland tractor at Prakash Motors, the authorised New Holland dealer in Nizamabad"
+                        class="w-full aspect-[4/3] object-cover"
+                        width="960" height="720"
+                        fetchpriority="high" loading="eager" decoding="async" />
+                    <figcaption class="absolute left-0 bottom-0 bg-nh-navy text-white px-4 py-3 max-w-[85%]">
+                        <span class="block text-[10px] font-bold uppercase tracking-eyebrow text-nh-yellow">Showroom</span>
+                        <span class="block text-sm font-bold">Opposite New Bus Stand, Nizamabad</span>
+                    </figcaption>
+                </figure>
             </div>
         </div>
     </section>
 
-    <!-- Products Section (Dynamic) -->
-    <section id="products" class="py-24 bg-white">
+    <!-- ============================================================
+         AT A GLANCE — the spec strip
+         ============================================================ -->
+    <section class="bg-nh-navy text-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="mb-16">
-                <div class="flex items-center gap-4 mb-2"><div class="h-px bg-[#001489] w-12"></div><span class="text-[#001489] font-bold tracking-[0.2em] uppercase text-xs">Our Showroom</span></div>
-                <h2 class="text-4xl md:text-5xl font-black text-[#001489] uppercase mb-2">New Holland Tractors & Harvesters in Nizamabad</h2>
-                <p class="font-telugu text-xl text-gray-500 font-medium">మా వద్ద లభించు ఆధునిక యంత్రాలు</p>
-            </div>
-            
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {allProducts.map(product => (
-                    <div class={`product-card group bg-white border border-gray-200 hover:border-[#001489]/50 shadow-sm hover:shadow-lg relative flex flex-col h-full rounded-none ${product.data.isRecommended ? 'border-2 border-[#001489]' : ''}`}>
-                        <a href={`/products/${product.slug}`} class="block h-64 overflow-hidden bg-gray-100 relative shrink-0">
-                            {product.data.isRecommended && <div class="absolute top-0 right-0 bg-[#001489] text-white text-[10px] font-bold px-3 py-1.5 uppercase tracking-wider z-10">Recommended</div>}
-                            <img src={product.data.image} alt={product.data.title} class="w-full h-full object-cover group-hover:scale-110 transition duration-700" loading="lazy" />
-                        </a>
-                        <div class="p-8 flex-1 flex flex-col">
-                            <a href={`/products/${product.slug}`} class="text-2xl font-black text-[#001489] uppercase mb-1 hover:underline block">{product.data.title}</a>
-                            <p class="font-telugu text-lg font-bold text-gray-700 mb-4">{product.data.title_te}</p>
-                            <div class="space-y-4 mb-8 flex-1">
-                                <ul class="text-gray-600 text-sm leading-relaxed border-l-2 border-[#001489] pl-3 list-none">
-                                    {product.data.features.map(feature => (
-                                        <li class="mb-1">{feature}</li>
+            <dl class="grid grid-cols-2 lg:grid-cols-4 divide-y divide-white/15 lg:divide-y-0 lg:divide-x lg:divide-white/15">
+                {atAGlance.map((item) => (
+                    <div class="py-6 lg:py-8 lg:px-8 first:lg:pl-0 last:lg:pr-0 odd:pr-4 even:pl-4 lg:odd:pr-8 lg:even:pl-8">
+                        <dt class="sr-only">{item.label}</dt>
+                        <dd>
+                            <span class="block font-display text-2xl sm:text-3xl font-black text-nh-yellow leading-none">{item.value}</span>
+                            <span class="mt-2 block text-[11px] font-bold uppercase tracking-eyebrow text-white/70">{item.label}</span>
+                            <span class="mt-0.5 block font-telugu text-xs text-white/50">{item.label_te}</span>
+                        </dd>
+                    </div>
+                ))}
+            </dl>
+        </div>
+    </section>
+
+    <!-- ============================================================
+         MODEL INDEX — Workbench rows, not a card grid.
+         ============================================================ -->
+    <section id="products" class="py-16 lg:py-24 bg-paper">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p class="nh-eyebrow">Model index</p>
+            <h2 class="mt-4 font-display text-[clamp(1.75rem,3.4vw,2.75rem)] font-black uppercase text-nh-navy leading-tight max-w-3xl">
+                New Holland tractors &amp; harvesters in stock
+            </h2>
+            <p class="mt-2 font-telugu text-lg text-muted">మా వద్ద లభించు ఆధునిక యంత్రాలు</p>
+
+            <ul class="mt-10 border-t-2 border-nh-navy">
+                {allProducts.map((product) => (
+                    <li class="group border-b border-rule">
+                        <div class="grid gap-6 py-7 md:grid-cols-[minmax(0,220px)_minmax(0,1fr)_minmax(0,260px)] md:items-start">
+                            <a href={`/products/${product.slug}`} class="block overflow-hidden bg-paper2 aspect-[4/3] md:aspect-[4/3]">
+                                <img
+                                    src={product.data.image}
+                                    alt={`New Holland ${product.data.title} at Prakash Motors Nizamabad`}
+                                    class="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.04]"
+                                    loading="lazy" decoding="async" />
+                            </a>
+
+                            <div class="min-w-0">
+                                {product.data.isRecommended && (
+                                    <span class="inline-block mb-2 bg-nh-yellow text-nh-navyInk text-[10px] font-black uppercase tracking-eyebrow px-2 py-1">
+                                        Most asked for
+                                    </span>
+                                )}
+                                <h3 class="font-display text-xl sm:text-2xl font-black uppercase text-nh-navy leading-tight">
+                                    <a href={`/products/${product.slug}`} class="hover:text-nh-blue transition-colors duration-150">
+                                        {product.data.title}
+                                    </a>
+                                </h3>
+                                <p class="mt-1 font-telugu text-base font-bold text-muted">{product.data.title_te}</p>
+
+                                <ul class="mt-4 grid sm:grid-cols-2 gap-x-6 gap-y-1.5">
+                                    {product.data.features.map((feature) => (
+                                        <li class="flex gap-2 text-sm text-muted">
+                                            <span class="mt-[7px] h-[3px] w-3 shrink-0 bg-nh-yellow" aria-hidden="true"></span>
+                                            <span class="min-w-0">{feature}</span>
+                                        </li>
                                     ))}
                                 </ul>
                             </div>
-                            <div class="flex flex-col gap-2">
-                                <a href={product.data.whatsapp_message || 'https://wa.me/919030857333?text=Hi%2C%20I%20want%20a%20price%20quote%20for%20a%20New%20Holland%20tractor.%20%5BW-PM%5D'} target="_blank" rel="noopener noreferrer" class="w-full bg-[#001489] text-white py-4 font-bold hover:bg-[#000E5C] transition-colors flex items-center justify-center gap-3 uppercase tracking-wide text-sm rounded-sm">
-                                    <div class="text-left leading-none"><span class="block">Get Quote on WhatsApp</span><span class="block font-telugu text-[10px] font-normal mt-0.5 opacity-80">ధర అడగండి</span></div>
-                                    <i data-lucide="chevron-right" class="w-4 h-4"></i>
+
+                            <div class="flex flex-col gap-2 md:items-stretch">
+                                <a
+                                    href={product.data.whatsapp_message || `${WA_BASE}?text=${encodeURIComponent('Hi, I want a price quote for a New Holland tractor. [W-PM]')}`}
+                                    target="_blank" rel="noopener noreferrer"
+                                    class="nh-btn nh-btn--navy w-full">
+                                    Ask price
                                 </a>
-                                <a href={`/products/${product.slug}`} class="text-center text-[#001489] font-bold text-xs uppercase tracking-widest hover:underline py-2">View Full Details →</a>
+                                <a href={`/products/${product.slug}`} class="nh-btn nh-btn--ghost w-full">
+                                    Full specification
+                                </a>
                             </div>
                         </div>
-                    </div>
+                    </li>
                 ))}
+            </ul>
+        </div>
+    </section>
+
+    <!-- ============================================================
+         SERVICE — navy workbench slab
+         ============================================================ -->
+    <section class="bg-nh-navy text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-24">
+            <div class="grid lg:grid-cols-2 gap-10 lg:gap-16 items-start">
+                <div>
+                    <p class="nh-eyebrow !text-nh-yellow">Workshop</p>
+                    <h2 class="mt-4 font-display text-[clamp(1.75rem,3.4vw,2.75rem)] font-black uppercase leading-tight">
+                        A tractor is only as good as the workshop behind it
+                    </h2>
+                    <p class="mt-4 text-white/75 max-w-xl leading-relaxed">
+                        Genuine New Holland parts, trained technicians and field support across Nizamabad,
+                        Kamareddy, Armoor, Bodhan and Banswada.
+                    </p>
+                    <div class="mt-8 flex flex-col sm:flex-row gap-3">
+                        <a href="/service/" class="nh-btn">Service &amp; AMC</a>
+                        <a
+                            href={`${WA_BASE}?text=${encodeURIComponent('Hi, I want to book a service for my New Holland tractor. [W-SVC]')}`}
+                            target="_blank" rel="noopener noreferrer"
+                            class="nh-btn nh-btn--wa">
+                            Book on WhatsApp
+                        </a>
+                    </div>
+                </div>
+
+                <div>
+                    <p class="text-[11px] font-bold uppercase tracking-eyebrow text-nh-yellow">Coverage</p>
+                    <ul class="mt-4 border-t border-white/20">
+                        {coverage.map((c) => (
+                            <li class="border-b border-white/20">
+                                <a href={c.href} class="flex items-center justify-between gap-4 py-4 group/link">
+                                    <span class="font-display text-lg font-bold uppercase tracking-wide">{c.label}</span>
+                                    <span class="text-nh-yellow transition-transform duration-150 ease-out group-hover/link:translate-x-1" aria-hidden="true">
+                                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="square"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+                                    </span>
+                                </a>
+                            </li>
+                        ))}
+                    </ul>
+                    <p class="mt-4 text-xs text-white/50">Sales and service also available at the Nizamabad main showroom.</p>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- Blog Section (Dynamic) -->
-    <section id="blog" class="py-24 bg-gray-50">
+    <!-- ============================================================
+         GUIDES — editorial list
+         ============================================================ -->
+    <section id="blog" class="py-16 lg:py-24 bg-paper2">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-             <div class="mb-12">
-                <div class="flex items-center gap-4 mb-2"><div class="h-px bg-[#001489] w-12"></div><span class="text-[#001489] font-bold tracking-[0.2em] uppercase text-xs">Farming Insights</span></div>
-                <h2 class="text-4xl md:text-5xl font-black text-[#001489] uppercase mb-2">News & Tips</h2>
-                <p class="font-telugu text-xl text-gray-500 font-medium">వ్యవసాయ విశేషాలు మరియు చిట్కాలు</p>
+            <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
+                <div>
+                    <p class="nh-eyebrow">Field notes</p>
+                    <h2 class="mt-4 font-display text-[clamp(1.75rem,3.4vw,2.75rem)] font-black uppercase text-nh-navy leading-tight">
+                        Buying guides &amp; farming tips
+                    </h2>
+                    <p class="mt-2 font-telugu text-lg text-muted">వ్యవసాయ విశేషాలు మరియు చిట్కాలు</p>
+                </div>
+                <a href="/blog/" class="nh-btn nh-btn--ghost self-start sm:self-auto">
+                    All {allBlogCount} guides
+                </a>
             </div>
-            
-            <div class="grid md:grid-cols-3 gap-8">
-                {recentPosts.map(post => (
-                    <article class="bg-white group blog-card border border-gray-100 shadow-sm hover:shadow-lg transition-all cursor-pointer">
-                        <a href={`/blog/${post.slug}/`} class="block h-full">
-                            <div class="h-48 overflow-hidden relative">
-                                <img src={post.data.featured_image || "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&q=80"} alt={post.data.title} class="w-full h-full object-cover transition transform duration-500 group-hover:scale-105" />
-                                <div class="absolute bottom-0 left-0 bg-[#001489] text-white text-[10px] font-bold px-3 py-1 uppercase">{post.data.category}</div>
+
+            <ul class="mt-10 border-t-2 border-nh-navy">
+                {recentPosts.map((post) => (
+                    <li class="border-b border-rule">
+                        <a href={`/blog/${post.slug}/`} class="group grid gap-5 py-7 sm:grid-cols-[minmax(0,180px)_minmax(0,1fr)] items-start">
+                            <div class="overflow-hidden bg-paper3 aspect-[16/10]">
+                                <img
+                                    src={post.data.featured_image || '/images/hero.jpg'}
+                                    alt=""
+                                    class="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.04]"
+                                    loading="lazy" decoding="async" />
                             </div>
-                            <div class="p-6">
-                                <span class="text-xs text-gray-400 font-bold mb-2 block">{post.data.date.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}</span>
-                                <h3 class="text-lg font-bold text-[#001489] mb-1 leading-tight">{post.data.title}</h3>
-                                <h4 class="font-telugu text-base font-semibold text-gray-700 mb-3">{post.data.title_te}</h4>
-                                <p class="text-sm text-gray-500 line-clamp-2 mb-4">{post.data.excerpt}</p>
-                                <span class="text-[#001489] text-xs font-black uppercase tracking-wider flex items-center gap-1">Read More <i data-lucide="arrow-right" class="w-3 h-3"></i></span>
+                            <div class="min-w-0">
+                                <p class="flex flex-wrap items-center gap-x-3 gap-y-1 text-[11px] font-bold uppercase tracking-eyebrow">
+                                    <span class="text-nh-blue">{post.data.category}</span>
+                                    <span class="text-muted2">
+                                        {post.data.date.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+                                    </span>
+                                </p>
+                                <h3 class="mt-2 font-display text-lg sm:text-xl font-bold text-nh-navy leading-snug group-hover:text-nh-blue transition-colors duration-150">
+                                    {post.data.title}
+                                </h3>
+                                <p class="mt-1 font-telugu text-base font-semibold text-muted">{post.data.title_te}</p>
+                                <p class="mt-2 text-sm text-muted line-clamp-2">{post.data.excerpt}</p>
                             </div>
                         </a>
-                    </article>
+                    </li>
                 ))}
-            </div>
-            <!-- View All Blog Posts -->
-            <div class="text-center mt-12">
-                <a href="/blog/" class="inline-flex items-center gap-3 bg-[#001489] text-white px-10 py-4 font-black text-sm uppercase tracking-widest hover:bg-[#000E5C] transition-all shadow-lg rounded-sm group">
-                    View All {`${allBlogCount}`} Articles
-                    <i data-lucide="arrow-right" class="w-4 h-4 group-hover:translate-x-1 transition-transform"></i>
-                </a>
-                <p class="text-xs text-gray-400 mt-3 font-telugu">అన్ని గైడ్‌లు చూడండి</p>
-            </div>
+            </ul>
         </div>
     </section>
 
-    <!-- Contact Section -->
-    <section id="contact" class="py-20 bg-white text-[#001489] relative border-t border-gray-100">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h2 class="text-4xl font-black mb-2 uppercase">Visit Prakash Motors</h2>
-            <p class="font-telugu text-xl font-bold mb-4 text-gray-600">ప్రకాష్ మోటార్స్ సందర్శించండి</p>
-            <p class="text-lg text-gray-500 mb-12">Opposite New Bus Stand, Nizamabad, Telangana</p>
-            
-             <div class="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
-                <a href="tel:+919030857333" class="group bg-white p-8 border border-gray-200 hover:border-[#001489] shadow-sm hover:shadow-lg transition-all duration-300">
-                    <div class="w-12 h-12 mx-auto bg-[#001489]/5 text-[#001489] rounded-full flex items-center justify-center mb-4 group-hover:bg-[#001489] group-hover:text-white transition-colors"><i data-lucide="phone-call" class="w-6 h-6"></i></div>
-                    <p class="font-bold text-lg text-[#001489]">+919030857333</p>
-                </a>
-                <a href="https://share.google/YC7Yg9tpaUSP7iB8w" target="_blank" class="group bg-white p-8 border border-gray-200 hover:border-[#001489] shadow-sm hover:shadow-lg transition-all duration-300">
-                    <div class="w-12 h-12 mx-auto bg-[#001489]/5 text-[#001489] rounded-full flex items-center justify-center mb-4 group-hover:bg-[#001489] group-hover:text-white transition-colors"><i data-lucide="map" class="w-6 h-6"></i></div>
-                    <p class="font-bold text-lg text-[#001489]">Google Maps</p>
-                </a>
-                <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20contact%20Prakash%20Motors%2C%20Nizamabad.%20%5BW-PM%5D" target="_blank" class="group bg-[#001489] p-8 border border-[#001489] shadow-lg hover:bg-[#000E5C] transition-all duration-300 transform hover:-translate-y-1">
-                    <div class="w-12 h-12 mx-auto bg-white/10 text-white rounded-full flex items-center justify-center mb-4"><i data-lucide="message-square" class="w-6 h-6"></i></div>
-                    <p class="font-bold text-lg text-white">WhatsApp</p>
-                </a>
-            </div>
-        </div>
-    </section>
-
-    <!-- Customer Reviews Section -->
-    <section class="py-16 bg-gray-50 border-t border-gray-100">
-        <div class="max-w-5xl mx-auto px-4">
-            <div class="text-center mb-10">
-                <h2 class="text-3xl font-black text-[#001489] mb-2">Trusted by 2,000+ Farmers</h2>
-                <p class="text-gray-600 mb-4">Nizamabad's leading authorized New Holland dealer since 2003.</p>
-                <div class="flex items-center justify-center gap-3">
-                    <span class="text-yellow-400 text-2xl">★★★★★</span>
-                    <span class="text-gray-600 font-bold">Authorized &amp; Certified New Holland Dealer</span>
-                </div>
-            </div>
-            <div class="grid sm:grid-cols-3 gap-6 mb-10">
-                <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
-                    <div class="text-4xl font-black text-[#001489] mb-1">20+</div>
-                    <div class="text-sm font-bold text-gray-600 uppercase tracking-wider">Years of Service</div>
-                </div>
-                <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
-                    <div class="text-4xl font-black text-[#001489] mb-1">2,000+</div>
-                    <div class="text-sm font-bold text-gray-600 uppercase tracking-wider">Happy Farmers</div>
-                </div>
-                <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
-                    <div class="text-4xl font-black text-[#001489] mb-1">4</div>
-                    <div class="text-sm font-bold text-gray-600 uppercase tracking-wider">Districts Served</div>
-                </div>
-            </div>
-            <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="https://g.page/r/CU6CrRar3bvuEBM/review" target="_blank" rel="noopener noreferrer"
-                    class="inline-flex items-center gap-3 bg-white border-2 border-gray-200 text-gray-800 px-8 py-4 rounded-xl font-bold hover:border-[#001489] hover:bg-blue-50 transition shadow-sm">
-                    <svg class="w-6 h-6" viewBox="0 0 48 48"><path d="M43.6 20.1H42V20H24v8h11.3C33.7 32.7 29.3 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34.5 6.9 29.6 5 24 5 13 5 4 14 4 25s9 20 20 20c11 0 20-9 20-20 0-1.3-.1-2.6-.4-3.9z" fill="#FFC107"/><path d="M6.3 15.4l6.6 4.8C14.6 16.2 19 13 24 13c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34.5 7 29.6 5 24 5 16.3 5 9.7 9.2 6.3 15.4z" fill="#FF3D00"/><path d="M24 45c5.5 0 10.5-2.1 14.3-5.5l-6.6-5.6C29.7 35.8 27 37 24 37c-5.3 0-9.7-3.3-11.3-8H6.5C9.9 38.9 16.4 45 24 45z" fill="#4CAF50"/><path d="M43.6 20.1H42V20H24v8h11.3c-.8 2.2-2.2 4.1-4 5.5l6.6 5.6C37.8 37.9 44 33 44 25c0-1.3-.1-2.6-.4-3.9z" fill="#1976D2"/></svg>
-                    Read Google Reviews
-                </a>
-                <a href="https://g.page/r/CU6CrRar3bvuEBM/review" target="_blank" rel="noopener noreferrer"
-                    class="inline-flex items-center gap-3 bg-[#001489] text-white px-8 py-4 rounded-xl font-bold hover:bg-[#000E5C] transition shadow-lg">
-                    ✍ Write a Review
-                </a>
-            </div>
-        </div>
-    </section>
-
-    <footer class="bg-[#001489] text-white py-12 border-t border-white/10 mt-auto">
+    <!-- ============================================================
+         VISIT
+         ============================================================ -->
+    <section id="contact" class="py-16 lg:py-24 bg-paper">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="grid md:grid-cols-3 gap-8 mb-8">
-                <div>
-                    <span class="text-2xl font-black uppercase tracking-tighter">Prakash Motors</span>
-                    <p class="text-sm text-blue-200 mt-2">Authorized New Holland Agriculture Dealer, Nizamabad, Telangana. Serving farmers since 2003.</p>
-                    <a href="tel:+919030857333" class="inline-flex items-center gap-2 mt-3 text-[#FFD100] font-bold hover:text-yellow-300 transition">
-                        <i data-lucide="phone" class="w-4 h-4"></i> +91 9030857333
-                    </a>
-                </div>
-                <div>
-                    <p class="text-xs font-bold uppercase tracking-widest text-blue-300 mb-3">Quick Links</p>
-                    <ul class="space-y-2 text-sm text-blue-200">
-                        <li><a href="/#products" class="hover:text-white transition">Products</a></li>
-                        <li><a href="/service/" class="hover:text-white transition">Service & AMC</a></li>
-                        <li><a href="/blog/" class="hover:text-white transition">Blog & Guides</a></li>
-                        <li><a href="/about/" class="hover:text-white transition">About Us</a></li>
-                        <li><a href="/contact/" class="hover:text-white transition">Contact</a></li>
-                    </ul>
-                </div>
-                <div>
-                    <p class="text-xs font-bold uppercase tracking-widest text-blue-300 mb-3">Visit Us</p>
-                    <address class="text-sm text-blue-200 not-italic leading-relaxed">
-                        Opposite New Bus Stand,<br>
-                        Nizamabad, Telangana 503001
-                    </address>
-                    <p class="text-sm text-blue-200 mt-2">Mon–Sat: 9 AM – 7 PM</p>
-                    <div class="flex gap-3 mt-3">
-                        <a href="https://www.facebook.com/prakashmotors" target="_blank" rel="noopener noreferrer" class="text-blue-300 hover:text-white transition text-xs font-bold">Facebook</a>
-                        <a href="https://www.instagram.com/prakashmotors" target="_blank" rel="noopener noreferrer" class="text-blue-300 hover:text-white transition text-xs font-bold">Instagram</a>
-                    </div>
-                </div>
+            <p class="nh-eyebrow">Visit</p>
+            <h2 class="mt-4 font-display text-[clamp(1.75rem,3.4vw,2.75rem)] font-black uppercase text-nh-navy leading-tight">
+                Come and see the machine
+            </h2>
+            <p class="mt-2 font-telugu text-lg text-muted">ప్రకాష్ మోటార్స్ సందర్శించండి</p>
+            <p class="mt-3 text-muted">Opposite New Bus Stand, Nizamabad, Telangana 503001 · Mon–Sat, 9 AM – 7 PM</p>
+
+            <div class="mt-10 grid gap-px bg-rule sm:grid-cols-3 border border-rule">
+                <a href={PHONE_HREF} class="group bg-paper p-7 transition-colors duration-150 ease-out hover:bg-paper2">
+                    <span class="text-[11px] font-bold uppercase tracking-eyebrow text-muted2">Call</span>
+                    <span class="mt-2 block font-display text-xl font-black text-nh-navy">{PHONE_DISPLAY}</span>
+                    <span class="mt-3 inline-block h-[3px] w-8 bg-nh-yellow transition-all duration-150 ease-out group-hover:w-14" aria-hidden="true"></span>
+                </a>
+                <a href="https://share.google/YC7Yg9tpaUSP7iB8w" target="_blank" rel="noopener noreferrer" class="group bg-paper p-7 transition-colors duration-150 ease-out hover:bg-paper2">
+                    <span class="text-[11px] font-bold uppercase tracking-eyebrow text-muted2">Directions</span>
+                    <span class="mt-2 block font-display text-xl font-black text-nh-navy">Google Maps</span>
+                    <span class="mt-3 inline-block h-[3px] w-8 bg-nh-yellow transition-all duration-150 ease-out group-hover:w-14" aria-hidden="true"></span>
+                </a>
+                <a
+                    href={`${WA_BASE}?text=${encodeURIComponent('Hi, I want to contact Prakash Motors, Nizamabad. [W-PM]')}`}
+                    target="_blank" rel="noopener noreferrer"
+                    class="group bg-nh-navy p-7 transition-colors duration-150 ease-out hover:bg-nh-navyDeep">
+                    <span class="text-[11px] font-bold uppercase tracking-eyebrow text-nh-yellow">Message</span>
+                    <span class="mt-2 block font-display text-xl font-black text-white">WhatsApp</span>
+                    <span class="mt-3 inline-block h-[3px] w-8 bg-nh-yellow transition-all duration-150 ease-out group-hover:w-14" aria-hidden="true"></span>
+                </a>
             </div>
-            <div class="border-t border-white/10 pt-5 pb-3 text-center text-xs text-blue-300">
-              Part of the Prakash Group:
-              <a href="https://www.prakashhyundai.com" class="underline hover:text-white">Prakash Hyundai</a> ·
-              <a href="https://www.prakashautohonda.com" class="underline hover:text-white">Prakash Auto Honda</a> ·
-              <a href="https://www.sairamhonda.com" class="underline hover:text-white">Sairam Honda</a>
+
+            <div class="mt-8 flex flex-col sm:flex-row gap-3">
+                <a href="https://g.page/r/CU6CrRar3bvuEBM/review" target="_blank" rel="noopener noreferrer" class="nh-btn nh-btn--ghost">
+                    Read Google reviews
+                </a>
+                <a href="https://g.page/r/CU6CrRar3bvuEBM/review" target="_blank" rel="noopener noreferrer" class="nh-btn">
+                    Write a review
+                </a>
             </div>
-            <div class="pt-3 text-center text-xs text-blue-400">© 2026 Prakash Motors. All rights reserved. | Authorized New Holland Agriculture Dealer</div>
         </div>
-    </footer>
-    <!-- Mobile Sticky Bottom Bar -->
-    <div class="fixed bottom-0 left-0 right-0 z-50 bg-white border-t border-gray-200 shadow-2xl p-3 flex gap-3 sm:hidden">
-      <a href="tel:+919030857333" class="flex-1 flex items-center justify-center gap-2 bg-[#001489] text-white py-3 rounded-xl font-bold text-sm">📞 Call</a>
-      <a href="https://wa.me/919030857333?text=Hi%2C%20I%20want%20to%20know%20the%20price%20of%20New%20Holland%20tractor%20in%20Nizamabad.%20%5BW-HP-BAR%5D" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center gap-2 bg-[#25D366] text-white py-3 px-5 rounded-xl font-bold text-sm" style="flex:2">💬 WhatsApp Price</a>
+    </section>
+
+    </main>
+
+    <!-- Desktop WhatsApp anchor (square, brand-consistent) -->
+    <a
+        href={`${WA_BASE}?text=${encodeURIComponent('Hi, I want to know about New Holland tractors and harvesters. [W-PM]')}`}
+        target="_blank" rel="noopener noreferrer"
+        class="hidden sm:flex fixed bottom-6 right-6 z-50 items-center gap-3 bg-wa text-white px-5 py-3 shadow-lg transition-colors duration-150 ease-out hover:bg-waDeep">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5.1-1.3A10 10 0 1 0 12 2Zm5.5 14c-.2.7-1.4 1.3-2 1.4-.5.1-1.1.1-1.8-.1a13 13 0 0 1-5.7-4.6c-.4-.6-1-1.5-1-2.9s.7-2 1-2.3a1 1 0 0 1 .7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2 0 .4-.1.6l-.4.5c-.1.2-.3.3-.1.6a9.4 9.4 0 0 0 3.7 3c.3.2.5.1.6 0l.8-1c.2-.2.3-.2.6-.1l1.9.9c.3.1.5.2.5.4v.9Z"/></svg>
+        <span class="flex flex-col text-left leading-tight">
+            <span class="text-[10px] font-bold uppercase tracking-eyebrow opacity-90">Chat with us</span>
+            <span class="text-sm font-black">Get price list</span>
+        </span>
+    </a>
+
+    <!-- Mobile action bar -->
+    <div class="sm:hidden fixed bottom-0 left-0 right-0 z-50 grid grid-cols-[minmax(0,1fr)_minmax(0,1.6fr)] border-t-2 border-nh-navy bg-white">
+        <a href={PHONE_HREF} class="nh-btn nh-btn--navy !border-0 h-14">Call</a>
+        <a
+            href={`${WA_BASE}?text=${encodeURIComponent('Hi, I want to know the price of New Holland tractor in Nizamabad. [W-HP-BAR]')}`}
+            target="_blank" rel="noopener noreferrer"
+            class="nh-btn nh-btn--wa !border-0 h-14">
+            WhatsApp price
+        </a>
     </div>
-    <div class="pb-20 sm:pb-0"></div>
+    <div class="h-14 sm:hidden" aria-hidden="true"></div>
 
     <!-- FAQ + LocalBusiness Schema -->
     <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
-
-    <script>lucide.createIcons();</script>
 </Layout>

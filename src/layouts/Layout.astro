@@ -1,5 +1,8 @@
 ---
 import SEOHead from '../components/SEOHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/tokens.css';
 
 interface Props {
   title?: string;
@@ -26,7 +29,7 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
     <link rel="apple-touch-icon" href="/favicon.jpg" />
-    <meta name="theme-color" content="#001489" />
+    <meta name="theme-color" content="#00205B" />
     <SEOHead title={title} description={description} canonical={canonical} image={image} ogType={ogType} noOrgSchema={noOrgSchema} />
     <!-- Google Tag Manager -->
     <script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -37,7 +40,13 @@ const {
     <!-- End Google Tag Manager -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <!-- Lato is the New Holland brand face (agriculture.newholland.com serves Lato).
+         It was declared in tailwind.config before but never loaded, so the site
+         rendered system sans. -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Noto+Sans+Telugu:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
     <style>
       .font-telugu { font-family: 'Noto Sans Telugu', sans-serif; }
@@ -48,18 +57,19 @@ const {
       .no-tap, .no-tap * { pointer-events: none; user-select: none; }
 
       /* Blog: stop <strong> from looking like a link (was causing dead clicks) */
-      article.prose strong, .prose strong { color: #0B1437; font-weight: 800; }
+      article.prose strong, .prose strong { color: var(--color-navy); font-weight: 900; }
       article.prose strong:not(a strong), .prose strong:not(a strong) {
-        cursor: text; background: linear-gradient(transparent 60%, rgba(255,209,0,.35) 60%);
-        padding: 0 2px; border-radius: 2px;
+        cursor: text;
+        background: linear-gradient(transparent 62%, rgba(241, 181, 20, 0.4) 62%);
+        padding: 0 2px;
       }
 
       /* Toast for desktop tel: fallback */
       #tel-toast {
         position: fixed; left: 50%; bottom: 96px;
         transform: translateX(-50%) translateY(20px);
-        background: #0B1437; color: #FFD100;
-        padding: 12px 18px; border-radius: 12px;
+        background: var(--color-navy-ink); color: var(--color-yellow);
+        padding: 12px 18px; border-radius: var(--radius);
         font-size: 14px; font-weight: 700;
         opacity: 0; transition: opacity .2s ease, transform .2s ease;
         z-index: 9999; pointer-events: none;
@@ -68,12 +78,16 @@ const {
       #tel-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
     </style>
   </head>
-  <body class="bg-white text-gray-900 min-h-screen flex flex-col">
+  <body class="bg-paper text-ink min-h-screen flex flex-col">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCMZWFT3"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <slot />
+    <Header />
+    <div class="flex-1">
+      <slot />
+    </div>
+    <Footer />
 
     <!-- Global desktop tel: fallback (copies number on desktop browsers without dialler) -->
     <div id="tel-toast" role="status" aria-live="polite"></div>
