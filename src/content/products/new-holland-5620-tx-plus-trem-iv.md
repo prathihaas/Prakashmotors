@@ -1,6 +1,6 @@
 ---
 title: "New Holland 5620 TX Plus Trem-IV"
-seo_title: "New Holland 5620 TX Plus Trem-IV Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland 5620 Price in Nizamabad | TX Plus Trem-IV"
 title_te: "న్యూ హాలండ్ 5620 TX ప్లస్ Trem-IV"
 category: "Tractors"
 image: "/images/products/new-holland-5620-tx-plus-trem-iv.jpg"

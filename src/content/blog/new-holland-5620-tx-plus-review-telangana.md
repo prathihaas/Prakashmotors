@@ -235,6 +235,10 @@ We serve all of Nizamabad district — Bodhan, Banswada, Armoor, Balkonda, Bheem
 
 ---
 
+## See Full Specs & Price
+
+- [New Holland 5620 TX Plus Trem-IV — specs, features and price in Nizamabad](/products/new-holland-5620-tx-plus-trem-iv/)
+
 ## Also Read
 
 - [New Holland 3600-2 Excel Review — 55HP Workhorse for Nizamabad](/blog/new-holland-3600-2-excel-review-nizamabad)
