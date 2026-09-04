@@ -2,6 +2,7 @@
 title: "New Holland Tractor Mileage: Real Diesel Consumption by Model in Telangana"
 title_te: "న్యూ హాలండ్ ట్రాక్టర్ మైలేజ్: తెలంగాణలో మోడల్ వారీగా డీజిల్ వినియోగం"
 date: "2026-08-21"
+updated: "2026-09-04"
 author: "Prakash Motors Team"
 category: "Tips"
 tags:
@@ -11,9 +12,9 @@ tags:
   - "farming tips"
   - "Nizamabad"
 featured_image: "/images/blog/farming-tips-2026.jpg"
-excerpt: "Understand real-world New Holland tractor mileage and diesel consumption for popular models like the 3630 TX Super Plus and 4710 Excel. Get practical tips to improve fuel efficiency on your farm."
-seo_title: "New Holland Tractor Mileage: Diesel Consumption & Efficiency"
-seo_description: "Curious about New Holland tractor mileage? Discover real diesel consumption for top models and learn how to save fuel. Visit Prakash Motors Nizamabad."
+excerpt: "Discover real-world New Holland tractor mileage and diesel consumption for popular models like the 3630 TX Super Plus. Get practical tips to improve fuel efficiency and find ex-showroom prices."
+seo_title: "New Holland 3630 Mileage: Real Diesel Use & Prices"
+seo_description: "New Holland 3630 TX Super Plus (55 HP) approx. Rs 8.60-9.30 lakh ex-showroom. Call Prakash Motors Nizamabad for today's on-road quote."
 readTime: "8 min read"
 ---
 
