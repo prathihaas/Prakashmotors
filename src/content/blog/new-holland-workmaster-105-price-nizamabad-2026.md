@@ -72,7 +72,7 @@ We also accept Kisan Credit Card (KCC) loans, making the purchase process more a
 
 ### EMI Options for the Workmaster 105
 
-Calculating the exact EMI depends on the loan amount, interest rate, and tenure. Given the **new holland workmaster 105 price**, a significant down payment is usually required. For a Rs 25 lakh loan over 7 years at 9% interest, your EMI could be approximately Rs 40,000-45,000 per month. These are illustrative figures; contact us for precise calculations based on current rates and your eligibility. We can also guide you on general [tractor loan procedures in Telangana](/blog/tractor-loan-telangana-2026).
+Calculating the exact EMI depends on the loan amount, interest rate, and tenure. Given the **new holland workmaster 105 price**, a significant down payment is usually required. For a Rs 25 lakh loan over 7 years at 9% interest, your EMI could be approximately Rs 40,000-45,000 per month. These are illustrative figures; contact us for precise calculations based on current rates and your eligibility. We can also guide you on general [tractor loan procedures in Telangana](/blog/kcc-tractor-loan-telangana-2026).
 
 ## Frequently Asked Questions (FAQs)
 

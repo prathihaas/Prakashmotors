@@ -283,6 +283,126 @@
       "source": "/tractors/:slug*",
       "destination": "/products/:slug*",
       "permanent": true
+    },
+    {
+      "source": "/blog/new-holland-excel-4510-vs-4710-comparison/",
+      "destination": "/blog/new-holland-4710-excel-review-nizamabad-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tractor-black-cotton-soil-nizamabad-2026/",
+      "destination": "/blog/best-tractor-nizamabad-district-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tractor-loan-telangana-2026/",
+      "destination": "/blog/kcc-tractor-loan-telangana-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tractor-implements-guide-nizamabad-2026/",
+      "destination": "/blog/cultivator-price-telangana-2026-types-sizes-cost/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kharif-2026-field-preparation-tractor-nizamabad/",
+      "destination": "/blog/best-tractor-maize-farming-nizamabad-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/new-holland-tc530-combine-harvester-guide-2026/",
+      "destination": "/blog/new-holland-combine-harvester-nizamabad-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-tractor-paddy-farming-nizamabad-2026/",
+      "destination": "/blog/new-holland-vs-john-deere-paddy-farming-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/products/new-holland-tractor-service-nizamabad-2026",
+      "destination": "/blog/new-holland-tractor-service-nizamabad-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/products/new-holland-tractor-service-nizamabad-2026/",
+      "destination": "/blog/new-holland-tractor-service-nizamabad-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/new-holland-3630-vs-mahindra-575-nizamabad-2026/",
+      "destination": "/blog/new-holland-3630-vs-mahindra-575-di-telangana-farmer-comparison-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/products/new-3600-2-excel",
+      "destination": "/products/new-holland-3600-2-excel/",
+      "permanent": true
+    },
+    {
+      "source": "/products/new-3600-2-excel/",
+      "destination": "/products/new-holland-3600-2-excel/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tractor-resale-value-telangana-new-holland/",
+      "destination": "/blog/second-hand-new-holland-tractor-nizamabad-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/new-holland-blue-series-simba-review-2026/",
+      "destination": "/products/new-holland-blue-series-simba-20/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sugarcane-harvester-telangana-2026/",
+      "destination": "/blog/new-holland-sugarcane-harvester-nizamabad-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/products/new-holland-5620-tx-plus",
+      "destination": "/products/new-holland-5620-tx-plus-trem-iv/",
+      "permanent": true
+    },
+    {
+      "source": "/products/new-holland-5620-tx-plus/",
+      "destination": "/products/new-holland-5620-tx-plus-trem-iv/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-tractor-cotton-farming-telangana-2026/",
+      "destination": "/blog/best-tractor-maize-farming-nizamabad-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/new-holland-tractor-attachments-nizamabad-2026/",
+      "destination": "/blog/cultivator-price-telangana-2026-types-sizes-cost/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tractor-maintenance-seasonal-guide-telangana/",
+      "destination": "/blog/new-holland-tractor-service-nizamabad-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tractor-fuel-saving-guide-nizamabad-2026/",
+      "destination": "/blog/new-holland-tractor-mileage-diesel-consumption/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/telangana-tractor-subsidy-apply-online-prakash-motors",
+      "destination": "/blog/tractor-subsidy-telangana-apply-online-prakash-motors/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/telangana-tractor-subsidy-apply-online-prakash-motors/",
+      "destination": "/blog/tractor-subsidy-telangana-apply-online-prakash-motors/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/pm-kisan-tractor-scheme-2026/",
+      "destination": "/blog/telangana-tractor-subsidy-complete-guide-2026/",
+      "permanent": true
     }
   ]
 }

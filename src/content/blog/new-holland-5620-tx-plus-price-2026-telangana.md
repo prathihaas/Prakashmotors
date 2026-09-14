@@ -73,7 +73,7 @@ Buying a 65 HP tractor requires proper financial planning. At Prakash Motors, we
 * **KCC Loans Accepted:** If you have a Kisan Credit Card, you can use it to fund your tractor purchase. We assist with the paperwork required by the bank.
 * **Down payment assistance:** We structure the loan so your upfront out-of-pocket expense is minimized.
 
-For a detailed breakdown of how to apply for a tractor loan in Telangana, read our [Tractor Loan Guide for Telangana 2026](/blog/tractor-loan-telangana-2026).
+For a detailed breakdown of how to apply for a tractor loan in Telangana, read our [Tractor Loan Guide for Telangana 2026](/blog/kcc-tractor-loan-telangana-2026).
 
 ## Telangana Farm Mechanization Subsidy on the 5620
 

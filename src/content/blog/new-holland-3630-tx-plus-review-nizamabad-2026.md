@@ -149,5 +149,5 @@ Visit **Prakash Motors**, Nizamabad — your authorized New Holland dealer servi
 - [New Holland 3600-2 Excel Review — 55HP Workhorse for Nizamabad](/blog/new-holland-3600-2-excel-review-nizamabad)
 - [New Holland 3230 Review — Best 42HP Tractor for Telangana](/blog/new-holland-3230-review-telangana-2026)
 - [New Holland vs Mahindra Tractor 2026 — Which is Best for Telangana?](/blog/new-holland-vs-mahindra-tractor-telangana-2026)
-- [Best Tractor for Paddy Farming in Nizamabad 2026](/blog/best-tractor-paddy-farming-nizamabad-2026)
-- [Tractor Resale Value in Telangana — New Holland Guide](/blog/tractor-resale-value-telangana-new-holland)
+- [Best Tractor for Paddy Farming in Nizamabad 2026](/blog/new-holland-vs-john-deere-paddy-farming-2026)
+- [Tractor Resale Value in Telangana — New Holland Guide](/blog/second-hand-new-holland-tractor-nizamabad-2026)

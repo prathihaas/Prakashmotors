@@ -90,7 +90,7 @@ Farmers from **Bodhan, Armoor, Banswada, Bhainsa, and Kamareddy** regularly buy 
 
 ## Service & Spare Parts Availability
 
-At **Prakash Motors, Nizamabad** (Opposite New Bus Stand), we stock genuine New Holland parts and have a dedicated service bay. Our mechanics are trained on the 3600-2 Excel engine and transmission. We also offer **mobile service vans** for emergency breakdowns in rural areas. Check our service page: [New Holland Tractor Service Nizamabad](/products/new-holland-tractor-service-nizamabad-2026).
+At **Prakash Motors, Nizamabad** (Opposite New Bus Stand), we stock genuine New Holland parts and have a dedicated service bay. Our mechanics are trained on the 3600-2 Excel engine and transmission. We also offer **mobile service vans** for emergency breakdowns in rural areas. Check our service page: [New Holland Tractor Service Nizamabad](/blog/new-holland-tractor-service-nizamabad-2026).
 
 ## Frequently Asked Questions
 
@@ -120,4 +120,4 @@ If you need a **49 HP tractor with power steering, strong hydraulics, and good r
 
 ---
 
-*For more tractor comparisons, read: [New Holland 3630 vs Mahindra 575 Nizamabad](/blog/new-holland-3630-vs-mahindra-575-nizamabad-2026) and [Tractor Loan Telangana Guide](/blog/tractor-loan-telangana-2026).*
+*For more tractor comparisons, read: [New Holland 3630 vs Mahindra 575 Nizamabad](/blog/new-holland-3630-vs-mahindra-575-di-telangana-farmer-comparison-2026) and [Tractor Loan Telangana Guide](/blog/kcc-tractor-loan-telangana-2026).*

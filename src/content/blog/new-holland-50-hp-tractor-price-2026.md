@@ -85,7 +85,7 @@ Investing in a tractor is a significant decision, and we understand that financi
 *   **Easy EMI Options:** We have tie-ups with leading banks and financial institutions to provide competitive EMI plans. You can get EMIs starting from as low as Rs 3,999 per month, depending on the tractor model, down payment, and loan tenure. We'll help you find a plan that suits your budget.
 *   **Kisan Credit Card (KCC) Loans:** We accept KCC loans, a popular and convenient financing option for farmers. Our team can guide you through the process of utilizing your KCC for tractor purchase.
 
-For more details on tractor loans and subsidies in Telangana, you might find this article helpful: [Tractor Loan Telangana 2026](/blog/tractor-loan-telangana-2026).
+For more details on tractor loans and subsidies in Telangana, you might find this article helpful: [Tractor Loan Telangana 2026](/blog/kcc-tractor-loan-telangana-2026).
 
 ## Which 50 HP New Holland Tractor is Right for You?
 

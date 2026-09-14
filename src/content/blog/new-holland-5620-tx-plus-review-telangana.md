@@ -243,6 +243,6 @@ We serve all of Nizamabad district — Bodhan, Banswada, Armoor, Balkonda, Bheem
 
 - [New Holland 3600-2 Excel Review — 55HP Workhorse for Nizamabad](/blog/new-holland-3600-2-excel-review-nizamabad)
 - [New Holland Workmaster 105 Review — 105HP Powerhouse in Telangana](/blog/new-holland-workmaster-105-review-telangana)
-- [New Holland Blue Series Simba 20 and 30 Review 2026](/blog/new-holland-blue-series-simba-review-2026)
+- [New Holland Blue Series Simba 20 and 30 Review 2026](/products/new-holland-blue-series-simba-20)
 - [Combine Harvester — Hire vs Buy in Nizamabad](/blog/combine-harvester-hire-vs-buy-nizamabad-2026)
 - [Best Tractor for Nizamabad District 2026 — Complete Buyer Guide](/blog/best-tractor-nizamabad-district-2026)

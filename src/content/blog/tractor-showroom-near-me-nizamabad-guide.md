@@ -66,7 +66,7 @@ We offer flexible EMI plans starting from as low as Rs 3,999 per month, making i
 
 ### KCC Loans and Other Subsidies
 
-We accept Kisan Credit Card (KCC) loans, which are a popular and convenient option for many farmers. Additionally, we stay updated on government schemes and [Telangana farm mechanization subsidies](https://prakashmotors.com/blog/telangana-tractor-subsidy-complete-guide-2026) that might be applicable to your purchase. Often, specific implements or tractor models qualify for support, and we can guide you through the application process.
+We accept Kisan Credit Card (KCC) loans, which are a popular and convenient option for many farmers. Additionally, we stay updated on government schemes and [Telangana farm mechanization subsidies](https://www.prakashmotors.in/blog/telangana-tractor-subsidy-complete-guide-2026/) that might be applicable to your purchase. Often, specific implements or tractor models qualify for support, and we can guide you through the application process.
 
 ### On-Road Price vs. Ex-Showroom Price
 
@@ -88,7 +88,7 @@ Our service technicians are factory-trained and equipped with the latest tools t
 
 For over 20 years, Prakash Motors has been a cornerstone of the agricultural community in Nizamabad. We've built our reputation on trust, transparency, and a deep understanding of local farming requirements. When you visit our showroom, you’re not just buying a tractor; you’re gaining a reliable partner for your agricultural journey.
 
-We encourage you to visit us and compare New Holland models like the [New Holland 3600-2 Excel](https://prakashmotors.com/products/new-holland-3600-2-excel) or the [New Holland Excel 4710](https://prakashmotors.com/products/new-holland-excel-4710) with competitors such as Mahindra (e.g., 575 DI, Arjun), Sonalika, Swaraj (e.g., 744), John Deere (e.g., 5050D), or Kubota. We believe in letting our products and our service speak for themselves.
+We encourage you to visit us and compare New Holland models like the [New Holland 3600-2 Excel](https://www.prakashmotors.in/products/new-holland-3600-2-excel/) or the [New Holland Excel 4710](https://www.prakashmotors.in/products/new-holland-excel-4710/) with competitors such as Mahindra (e.g., 575 DI, Arjun), Sonalika, Swaraj (e.g., 744), John Deere (e.g., 5050D), or Kubota. We believe in letting our products and our service speak for themselves.
 
 ## Frequently Asked Questions
 
@@ -105,4 +105,4 @@ Genuine New Holland spare parts are available at Prakash Motors, your authorized
 The Telangana farm mechanization subsidy is available on select implements and sometimes specific tractor models. Prakash Motors can help you identify eligible products and assist with the necessary documentation and application process to avail these government benefits.
 
 
-Ready to find the perfect tractor for your farm? Or perhaps you just want to understand the current on-road price for a [New Holland 3630 TX Super Plus](https://prakashmotors.com/products/new-holland-3630-tx-super-plus)? Visit Prakash Motors today, opposite the New Bus Stand, Nizamabad. Our team is here to answer all your questions and provide a personalized quote. You can also call us directly at 9030857333 or connect with us on WhatsApp: https://wa.me/919030857333?text=Hi.
+Ready to find the perfect tractor for your farm? Or perhaps you just want to understand the current on-road price for a [New Holland 3630 TX Super Plus](https://www.prakashmotors.in/products/new-holland-3630-tx-super-plus/)? Visit Prakash Motors today, opposite the New Bus Stand, Nizamabad. Our team is here to answer all your questions and provide a personalized quote. You can also call us directly at 9030857333 or connect with us on WhatsApp: https://wa.me/919030857333?text=Hi.

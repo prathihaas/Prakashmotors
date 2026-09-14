@@ -195,7 +195,7 @@ The New Holland Workmaster 105 is genuinely impressive. It's not for every farme
 ## Also Read
 
 - [New Holland 5620 TX Plus TREM IV Review — Is 75HP Worth It?](/blog/new-holland-5620-tx-plus-review-telangana)
-- [New Holland Blue Series Simba 20 and 30 Review 2026](/blog/new-holland-blue-series-simba-review-2026)
+- [New Holland Blue Series Simba 20 and 30 Review 2026](/products/new-holland-blue-series-simba-20)
 - [Combine Harvester — Hire vs Buy in Nizamabad](/blog/combine-harvester-hire-vs-buy-nizamabad-2026)
-- [New Holland TC530 Combine Harvester Guide 2026](/blog/new-holland-tc530-combine-harvester-guide-2026)
+- [New Holland TC530 Combine Harvester Guide 2026](/blog/new-holland-combine-harvester-nizamabad-2026)
 - [Best Tractor for Nizamabad District 2026 — Complete Buyer Guide](/blog/best-tractor-nizamabad-district-2026)

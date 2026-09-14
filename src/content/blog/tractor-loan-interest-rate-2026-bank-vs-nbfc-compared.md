@@ -88,7 +88,7 @@ Lenders sometimes offer special rates during peak farming seasons or festivals. 
 
 ### Government Subsidies
 
-While not directly affecting the interest rate, schemes like the Telangana Farm Mechanization Subsidy can significantly reduce your overall cost by covering a portion of the tractor's price. You can learn more about this at our blog post on [/blog/telangana-tractor-subsidy-complete-guide-2026](https://www.prakashmotors.com/blog/telangana-tractor-subsidy-complete-guide-2026).
+While not directly affecting the interest rate, schemes like the Telangana Farm Mechanization Subsidy can significantly reduce your overall cost by covering a portion of the tractor's price. You can learn more about this at our blog post on [/blog/telangana-tractor-subsidy-complete-guide-2026](https://www.prakashmotors.in/blog/telangana-tractor-subsidy-complete-guide-2026/).
 
 ## Kisan Credit Card (KCC) Loans for Tractors
 
@@ -111,7 +111,7 @@ When you visit us, we'll help you:
 3.  **Assist with Documentation:** We guide you through the paperwork, ensuring a smooth application process.
 4.  **Get the Best Deal:** Our experience means we know how to secure competitive rates and favorable terms for our customers.
 
-Remember, the exact on-road price of your New Holland tractor depends on RTO registration and insurance costs, which vary. We provide transparent quotes for all these details. You can also check our specific product pages like [/products/new-holland-3630-tx-super-plus](https://www.prakashmotors.com/products/new-holland-3630-tx-super-plus) for more details on models.
+Remember, the exact on-road price of your New Holland tractor depends on RTO registration and insurance costs, which vary. We provide transparent quotes for all these details. You can also check our specific product pages like [/products/new-holland-3630-tx-super-plus](https://www.prakashmotors.in/products/new-holland-3630-tx-super-plus/) for more details on models.
 
 ## Frequently Asked Questions
 

@@ -85,7 +85,7 @@ Since 2003, Prakash Motors has been a trusted name for New Holland tractors in N
 *   **Bank Tie-ups:** We have strong ties with leading banks to help you secure tractor loans, including those compatible with subsidy schemes.
 *   **Transparent Pricing:** We provide clear, on-road price quotes, factoring in RTO, insurance, and potential subsidy benefits.
 
-For more detailed information on financing, you can visit our blog post on [Tractor Loan Telangana](/blog/tractor-loan-telangana-2026).
+For more detailed information on financing, you can visit our blog post on [Tractor Loan Telangana](/blog/kcc-tractor-loan-telangana-2026).
 
 ## Frequently Asked Questions
 

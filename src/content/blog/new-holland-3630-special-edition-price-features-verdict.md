@@ -84,7 +84,7 @@ Please note that the **new holland 3630 special edition price** of Rs 9.00 to 9.
 To get the exact, penny-perfect on-road price for your village today, we encourage you to contact us directly. Additionally, if you are planning to purchase agricultural implements, you may qualify for the [Telangana farm mechanization subsidy](/blog/telangana-tractor-subsidy-complete-guide-2026), which can significantly reduce the overall cost of your complete farming package.
 
 ### Financing Your Purchase: Easy EMIs and KCC Loans
-At Prakash Motors, we believe that high-quality machinery should be accessible to every hard-working farmer. We offer customized agricultural financing options with **EMIs starting from as low as Rs 3,999 per month**. We accept Kisan Credit Cards (KCC) and work closely with major public and private sector banks in Nizamabad to secure quick loan approvals with minimal paperwork. For a detailed breakdown of interest rates, down payments, and loan tenures, check out our comprehensive guide on [tractor loans in Telangana for 2026](/blog/tractor-loan-telangana-2026).
+At Prakash Motors, we believe that high-quality machinery should be accessible to every hard-working farmer. We offer customized agricultural financing options with **EMIs starting from as low as Rs 3,999 per month**. We accept Kisan Credit Cards (KCC) and work closely with major public and private sector banks in Nizamabad to secure quick loan approvals with minimal paperwork. For a detailed breakdown of interest rates, down payments, and loan tenures, check out our comprehensive guide on [tractor loans in Telangana for 2026](/blog/kcc-tractor-loan-telangana-2026).
 
 ---
 

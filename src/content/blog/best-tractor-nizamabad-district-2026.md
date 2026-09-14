@@ -151,6 +151,6 @@ A: New Holland recommends the first service at 50 hours, second at 250 hours, an
 
 - [Why New Holland is the Best Tractor for Telangana Farmers 2026](/blog/why-new-holland-best-telangana-farmers-2026)
 - [Tractor Buying Checklist for Nizamabad Farmers 2026](/blog/tractor-buying-checklist-nizamabad-2026)
-- [Tractor Loan in Telangana 2026 — Banks, EMI & How to Apply](/blog/tractor-loan-telangana-2026)
+- [Tractor Loan in Telangana 2026 — Banks, EMI & How to Apply](/blog/kcc-tractor-loan-telangana-2026)
 - [Telangana Tractor Subsidy 2026 — Complete Guide for Farmers](/blog/telangana-tractor-subsidy-complete-guide-2026)
 - [How to Choose a Tractor in Telangana — 7 Key Factors](/blog/how-to-choose-tractor-telangana-7-factors)

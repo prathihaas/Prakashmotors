@@ -51,7 +51,7 @@ At our Nizamabad showroom, the question we hear most often is about the real on-
 
 ### Understanding EMI and Tractor Loans
 
-We believe that owning a New Holland tractor should be accessible to every farmer. That's why we offer flexible financing options, including EMIs starting from Rs 3,999 per month. We also readily accept Kisan Credit Card (KCC) loans, making the purchase process smoother for many farmers. Our finance experts at the showroom can guide you through the documentation and application process, helping you secure the best loan terms. For detailed information on tractor loans, visit our dedicated page: [/blog/tractor-loan-telangana-2026].
+We believe that owning a New Holland tractor should be accessible to every farmer. That's why we offer flexible financing options, including EMIs starting from Rs 3,999 per month. We also readily accept Kisan Credit Card (KCC) loans, making the purchase process smoother for many farmers. Our finance experts at the showroom can guide you through the documentation and application process, helping you secure the best loan terms. For detailed information on tractor loans, visit our dedicated page: [/blog/kcc-tractor-loan-telangana-2026].
 
 ## New Holland Service and Parts Availability
 

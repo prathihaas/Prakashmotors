@@ -81,7 +81,7 @@ Investing in a 65 HP tractor like this New Holland model is a significant decisi
 
 ### New Holland 5630 EMI Options
 
-We offer competitive EMI plans to suit various budgets. While the exact EMI for the New Holland 5630 will depend on the loan amount, tenure, and interest rate, we frequently have options starting from as low as **Rs 3,999 per month** for smaller tractor models. For the 5630, the EMI would naturally be higher, but our finance team can structure a plan that works for you. We partner with leading banks and financial institutions to ensure you get the best possible rates. For general information about financing, you can read our [/blog/tractor-loan-telangana-2026] guide.
+We offer competitive EMI plans to suit various budgets. While the exact EMI for the New Holland 5630 will depend on the loan amount, tenure, and interest rate, we frequently have options starting from as low as **Rs 3,999 per month** for smaller tractor models. For the 5630, the EMI would naturally be higher, but our finance team can structure a plan that works for you. We partner with leading banks and financial institutions to ensure you get the best possible rates. For general information about financing, you can read our [/blog/kcc-tractor-loan-telangana-2026] guide.
 
 ### KCC Loans and Other Subsidies
 

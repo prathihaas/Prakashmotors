@@ -136,7 +136,7 @@ The effective KCC interest rate for crop loans is 7% per annum for farmers who r
 
 ## Also Read
 
-- [Tractor Loan Guide Telangana 2026](/blog/tractor-loan-telangana-2026)
+- [Tractor Loan Guide Telangana 2026](/blog/kcc-tractor-loan-telangana-2026)
 - [Tractor EMI Zero Down Payment Nizamabad](/blog/tractor-emi-zero-downpayment-nizamabad-2026)
 - [Tractor Subsidy Telangana 2026 — How to Apply](/blog/telangana-tractor-subsidy-2026-how-to-apply)
 - [First-Time Tractor Buyer Guide Nizamabad 2026](/blog/first-time-tractor-buyer-guide-nizamabad-2026)

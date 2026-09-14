@@ -92,7 +92,7 @@ We aren't a faceless corporate showroom. Prakash Motors has been operating oppos
 
 **మార్కెట్ లో tractor rates and subsidy rules మారుతూ ఉంటాయి**, so relying on an experienced local dealer saves you thousands. We handle the RTO paperwork, insurance, and even assist with your subsidy application documentation.
 
-If you want to understand how to combine your KCC loan with the best tractor financing, check out our detailed post on [/blog/tractor-loan-telangana-2026](/blog/tractor-loan-telangana-2026). For a broader view of the state schemes, our [/blog/telangana-tractor-subsidy-complete-guide-2026](/blog/telangana-tractor-subsidy-complete-guide-2026) breaks down the fine print. And if you are looking at heavy-duty options like the 106 HP Workmaster, visit [/products/new-holland-workmaster-105](/products/new-holland-workmaster-105).
+If you want to understand how to combine your KCC loan with the best tractor financing, check out our detailed post on [/blog/kcc-tractor-loan-telangana-2026](/blog/kcc-tractor-loan-telangana-2026). For a broader view of the state schemes, our [/blog/telangana-tractor-subsidy-complete-guide-2026](/blog/telangana-tractor-subsidy-complete-guide-2026) breaks down the fine print. And if you are looking at heavy-duty options like the 106 HP Workmaster, visit [/products/new-holland-workmaster-105](/products/new-holland-workmaster-105).
 
 ## Frequently Asked Questions
 

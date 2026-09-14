@@ -64,7 +64,7 @@ Depending on specific government policies in 2026, there might be additional loc
 
 ### Telangana Farm Mechanization Subsidy for Harvesters
 
-The Telangana government actively promotes farm mechanization. Subsidies can dramatically reduce your out-of-pocket expense for a new combine harvester. Eligibility criteria and the subsidy amount vary, but it's a critical component of affordability. We strongly encourage you to check out our detailed guide on the [Telangana Tractor Subsidy: Apply Online with Prakash Motors!](/blog/telangana-tractor-subsidy-apply-online-prakash-motors/) as the process is similar for harvesters. Many farmers from Bhainsa and Armoor have successfully availed these schemes through our guidance.
+The Telangana government actively promotes farm mechanization. Subsidies can dramatically reduce your out-of-pocket expense for a new combine harvester. Eligibility criteria and the subsidy amount vary, but it's a critical component of affordability. We strongly encourage you to check out our detailed guide on the [Telangana Tractor Subsidy: Apply Online with Prakash Motors!](/blog/tractor-subsidy-telangana-apply-online-prakash-motors/) as the process is similar for harvesters. Many farmers from Bhainsa and Armoor have successfully availed these schemes through our guidance.
 
 ## New Holland vs. Other Brands: A Local Perspective
 
@@ -79,7 +79,7 @@ Buying a combine harvester is a big investment, and financing is often necessary
 *   **EMI Options:** We offer flexible EMI plans, with installments starting from as low as Rs 3,999/month for our tractors, and competitive rates for harvesters. The exact EMI for a combine harvester will depend on the loan amount, tenure, and interest rate. We work with leading banks to get you the best deals.
 *   **KCC Loans Accepted:** Kisan Credit Card (KCC) loans are a popular and convenient option for farmers. We accept KCC loans and can assist you with the documentation required to avail them for your purchase.
 
-For more details on financial assistance, refer to our article on [Tractor Loan Telangana: How to Secure the Best Rates in 2026](/blog/tractor-loan-telangana-2026/).
+For more details on financial assistance, refer to our article on [Tractor Loan Telangana: How to Secure the Best Rates in 2026](/blog/kcc-tractor-loan-telangana-2026/).
 
 ## Why Choose Prakash Motors for Your Combine Harvester?
 

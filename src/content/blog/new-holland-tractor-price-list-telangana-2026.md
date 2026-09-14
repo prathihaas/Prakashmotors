@@ -26,7 +26,7 @@ Tractor prices in Telangana include several charges beyond the ex-showroom figur
 > - SMAM subsidy (25-50%) can be claimed before or at purchase — Prakash Motors handles the paperwork
 > - KCC-linked loans offer 7% interest vs standard tractor loans at 9-11%
 
-[INTERNAL-LINK: tractor loan options → /blog/tractor-loan-telangana-2026]
+[INTERNAL-LINK: tractor loan options → /blog/kcc-tractor-loan-telangana-2026]
 
 [IMAGE: New Holland tractor lineup at Prakash Motors Nizamabad showroom - search terms: New Holland tractor dealership India]
 
@@ -130,7 +130,7 @@ CNH Industrial typically revises prices 1-2 times per year, usually in January a
 ## Also Read
 
 - [Best Tractor for Nizamabad District 2026](/blog/best-tractor-nizamabad-district-2026)
-- [Tractor Loan Guide for Telangana Farmers 2026](/blog/tractor-loan-telangana-2026)
+- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026)
 - [Telangana Tractor Subsidy 2026 — How to Apply](/blog/telangana-tractor-subsidy-2026-how-to-apply)
 - [First-Time Tractor Buyer Guide Nizamabad 2026](/blog/first-time-tractor-buyer-guide-nizamabad-2026)
 

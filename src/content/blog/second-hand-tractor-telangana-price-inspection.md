@@ -114,7 +114,7 @@ Remember, a second hand tractor is like any used vehicle – it will have some w
 
 ## Financing Your Second Hand Tractor Purchase
 
-Even for a used tractor, financing options are available. Many banks offer loans for second hand farm machinery. We at Prakash Motors can guide you through the process. We also accept Kisan Credit Card (KCC) loans, making the purchase more accessible. EMI options for new tractors start from as low as Rs 3,999/month, and similar schemes can often be arranged for quality used machines. Understanding the loan process is critical, and we've covered it in detail in our guide on [/blog/tractor-loan-telangana-2026](/blog/tractor-loan-telangana-2026).
+Even for a used tractor, financing options are available. Many banks offer loans for second hand farm machinery. We at Prakash Motors can guide you through the process. We also accept Kisan Credit Card (KCC) loans, making the purchase more accessible. EMI options for new tractors start from as low as Rs 3,999/month, and similar schemes can often be arranged for quality used machines. Understanding the loan process is critical, and we've covered it in detail in our guide on [/blog/kcc-tractor-loan-telangana-2026](/blog/kcc-tractor-loan-telangana-2026).
 
 ## Importance of After-Sales Service and Parts
 

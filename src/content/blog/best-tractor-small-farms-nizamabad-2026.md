@@ -214,6 +214,6 @@ Opposite New Bus Stand, Nizamabad, Telangana 503001
 
 - [Tractor for 5 Acres in Nizamabad — Which One to Buy](/blog/tractor-for-5-acres-nizamabad-guide)
 - [New Holland 3230 TX Review for Telangana 2026](/blog/new-holland-3230-review-telangana-2026)
-- [Tractor Loan Guide for Telangana Farmers 2026](/blog/tractor-loan-telangana-2026)
+- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026)
 - [New Holland Tractor on Zero Down Payment EMI — Nizamabad Guide 2026](/blog/tractor-emi-zero-downpayment-nizamabad-2026)
 - [Best Tractor Under 7 Lakh in Telangana 2026](/blog/best-tractor-under-7-lakh-telangana-2026)

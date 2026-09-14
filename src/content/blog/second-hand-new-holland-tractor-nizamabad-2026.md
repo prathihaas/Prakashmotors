@@ -140,8 +140,8 @@ A 3-year-old NH tractor in good condition with full service history typically of
 ## Also Read
 
 - [Best Tractor for Nizamabad District 2026](/blog/best-tractor-nizamabad-district-2026)
-- [Tractor Resale Value Telangana — New Holland](/blog/tractor-resale-value-telangana-new-holland)
-- [Tractor Loan Guide Telangana 2026](/blog/tractor-loan-telangana-2026)
+- [Tractor Resale Value Telangana — New Holland](/blog/second-hand-new-holland-tractor-nizamabad-2026)
+- [Tractor Loan Guide Telangana 2026](/blog/kcc-tractor-loan-telangana-2026)
 - [Tractor Buying Checklist Nizamabad 2026](/blog/tractor-buying-checklist-nizamabad-2026)
 
 ---

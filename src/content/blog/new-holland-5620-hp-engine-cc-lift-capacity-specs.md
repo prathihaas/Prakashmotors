@@ -60,7 +60,7 @@ The ex-showroom price for the New Holland 5620 TX Plus typically ranges from **R
 
 ### Understanding Your On-Road Price
 
-To get the exact on-road price for your specific location in Nizamabad, Kamareddy, or even Bhainsa, it's best to contact us directly. We can provide a detailed quote that includes all applicable taxes and charges. We also help navigate the Telangana farm mechanization subsidy programs that might be available for select implements, which can significantly reduce your overall investment. For more details on financing, you can also check our guide on [tractor loans in Telangana](/blog/tractor-loan-telangana-2026).
+To get the exact on-road price for your specific location in Nizamabad, Kamareddy, or even Bhainsa, it's best to contact us directly. We can provide a detailed quote that includes all applicable taxes and charges. We also help navigate the Telangana farm mechanization subsidy programs that might be available for select implements, which can significantly reduce your overall investment. For more details on financing, you can also check our guide on [tractor loans in Telangana](/blog/kcc-tractor-loan-telangana-2026).
 
 ## Finance Options and EMI
 

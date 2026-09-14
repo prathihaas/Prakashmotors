@@ -67,7 +67,7 @@ For example, a farmer in Bhainsa might opt for a longer tenure to match their in
 
 ## Worked Examples: Tractor Loan EMI Scenarios (August 2026)
 
-Let's consider an example with a New Holland 3600-2 Excel (49 HP), which has an approximate ex-showroom price of Rs 7.9-8.5 lakh. Let's assume an on-road price of Rs 9.0 lakh (including RTO and insurance – <a href="/blog/tractor-loan-telangana-2026">contact us for today's exact details</a>) and a down payment of Rs 1.5 lakh. This leaves a loan amount of Rs 7.5 lakh.
+Let's consider an example with a New Holland 3600-2 Excel (49 HP), which has an approximate ex-showroom price of Rs 7.9-8.5 lakh. Let's assume an on-road price of Rs 9.0 lakh (including RTO and insurance – <a href="/blog/kcc-tractor-loan-telangana-2026">contact us for today's exact details</a>) and a down payment of Rs 1.5 lakh. This leaves a loan amount of Rs 7.5 lakh.
 
 Here’s how the EMI might look at an assumed annual interest rate of 10.5% (monthly rate = 0.00875):
 
