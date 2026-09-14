@@ -61,7 +61,7 @@ const articleSchema = {
     "logo": { "@type": "ImageObject", "url": "https://www.prakashmotors.in/favicon.jpg" }
   },
   "datePublished": date.toISOString(),
-  "dateModified": date.toISOString(),
+  "dateModified": (post.data.updated ?? date).toISOString(),
   "url": Astro.url.href,
   "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href },
   "isPartOf": { "@id": "https://www.prakashmotors.in/#website" }
@@ -112,6 +112,11 @@ const faqSchema = faqPairs.length > 0 ? {
         <div class="flex justify-center gap-6 mt-6 text-sm text-gray-400 font-semibold uppercase tracking-wider">
           <span>{displayDate}</span>
           {author && <span>By {author}</span>}
+          {post.data.updated && <span>Updated {new Date(post.data.updated).toLocaleDateString('en-IN', { year: 'numeric', month: 'long', day: 'numeric' })}</span>}
+        </div>
+        <div class="mt-6 mx-auto max-w-2xl text-left bg-gray-50 border border-gray-100 rounded-2xl p-4 text-sm text-gray-600 normal-case tracking-normal">
+          <p><strong class="text-gray-800">Who wrote this:</strong> the sales and service team at Prakash Motors, authorised New Holland dealer opposite the New Bus Stand, Nizamabad, since 2003.</p>
+          <p class="mt-1">Prices are checked against our current showroom price list on the "updated" date above; on-road figures vary by variant, insurance and RTO. Call <a href="tel:+919030857333" class="font-bold" style="color:#0033A0">9030857333</a> for today's exact quote.</p>
         </div>
       </header>
 
