@@ -14,7 +14,7 @@ tags:
 featured_image: "/images/blog/farming-tips-2026.jpg"
 excerpt: "Planning to buy a tractor in 2026? Here is the exact status of the tractor subsidy Telangana scheme, eligibility, documents required, and how to apply locally."
 seo_title: "Tractor Subsidy Telangana 2026: Eligibility & Apply Guide"
-seo_description: "Want to claim your tractor subsidy Telangana in 2026? Read our local dealer guide on eligibility, documents, and how to apply. Call Prakash Motors fo."
+seo_description: "Telangana tractor subsidy 2026: who is eligible, SC/ST and small-farmer slabs, documents, and the step-by-step online application. Prakash Motors helps you file it."
 readTime: "6 min read"
 ---
 

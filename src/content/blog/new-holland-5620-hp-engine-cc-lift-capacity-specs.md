@@ -12,8 +12,8 @@ tags:
   - "Heavy Duty Tractor"
 featured_image: "/images/blog/best-tractor-nizamabad-district-2026.jpg"
 excerpt: "Considering the New Holland 5620 for your farm in Nizamabad? We break down its horsepower, engine capacity, and lift capacity. Get the full specs to see if this powerful tractor fits your agricultural needs."
-seo_title: "New Holland 5620 HP: Full Specs for Nizamabad Farmers"
-seo_description: "Detailed New Holland 5620 HP, engine CC, and lift capacity specs for Nizamabad. Find out if this tractor is right for your farm. Visit Prakash Motors."
+seo_title: "New Holland 5620 Specs: 65 HP, Engine CC, Lift Capacity, Price"
+seo_description: "New Holland 5620 TX Plus full specs: 65 HP CRDI engine, cc, PTO HP, lift capacity, gearbox and 2026 on-road price in Nizamabad. Compare with 3630 and 5630."
 readTime: "8 min read"
 ---
 
