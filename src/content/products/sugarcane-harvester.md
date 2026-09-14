@@ -8,7 +8,7 @@ features: ["Minimize wastage", "Maximize tonnage", "Series: 4000 & 8000", "High 
 isRecommended: false
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20Sugarcane%20Harvester%20%5BW-PM%5D"
 ---
-# Revolutionizing Sugarcane Farming
+## Revolutionizing Sugarcane Farming
 
 Manual harvesting of sugarcane is labor-intensive and time-consuming. The New Holland Sugarcane Harvester changes the game.
 

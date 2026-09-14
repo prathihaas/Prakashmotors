@@ -1,6 +1,6 @@
 ---
 title: "New Holland 3630 TX Special Edition"
-seo_title: "New Holland 3630 TX Special Edition Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland 3630 TX Special Edition Price Nizamabad 2026"
 title_te: "న్యూ హాలండ్ 3630 TX స్పెషల్ ఎడిషన్"
 category: "Tractors"
 image: "/images/products/new-holland-3630-tx-special-edition.jpg"
@@ -8,7 +8,7 @@ features: ["50 HP Special", "6-Year Warranty", "Rotavator Special", "Premium Sty
 isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203630%20Special%20Edition%20%5BW-PM%5D"
 ---
-# A Special Breed
+## A Special Breed
 
 The **New Holland 3630 TX Special Edition** celebrates the brand's success in India. It wraps the trusted 50 HP platform in a premium package with enhanced warranty coverage.
 

@@ -1,6 +1,6 @@
 ---
 title: "New Holland Blue Series Simba 20"
-seo_title: "New Holland Blue Series Simba 20 Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland Simba 20 Price in Nizamabad 2026 | Blue Series"
 title_te: "న్యూ హాలండ్ బ్లూ సిరీస్ సింబా 20 ట్రాక్టర్"
 category: "Tractors"
 image: "/images/products/new-holland-blue-series-simba-20.jpg"
@@ -8,7 +8,7 @@ features: ["17 HP Engine", "4WD Technology", "Narrow Track Width", "Side-Shift G
 isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Simba%2020%20%5BW-PM%5D"
 ---
-# The Compact Powerhouse
+## The Compact Powerhouse
 
 The **New Holland Blue Series Simba 20** is designed specifically for specialty farming where space is limited but power is essential. It is India's first sub-20 HP tractor equipped with 4WD.
 

@@ -1,6 +1,6 @@
 ---
 title: "New Holland Excel 4710"
-seo_title: "New Holland Excel 4710 Tractor Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland Excel 4710 Price in Nizamabad 2026 | 47 HP"
 title_te: "న్యూ హాలండ్ ఎక్సెల్ 4710 ట్రాక్టర్"
 category: "Tractors"
 image: "/images/products/new-holland-excel-4710.jpg"
@@ -8,7 +8,7 @@ features: ["47 HP Excel Design", "Synchro Shuttle", "Flat Deck Platform", "Indep
 isRecommended: false
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Excel%204710%20%5BW-PM%5D"
 ---
-# Style Meets Substance
+## Style Meets Substance
 
 The **New Holland Excel 4710** is part of the modern 'Excel' series, combining stylish aesthetics with the rugged utility of a 47 HP tractor.
 

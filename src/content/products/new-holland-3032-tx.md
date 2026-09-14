@@ -1,6 +1,6 @@
 ---
 title: "New Holland 3032 TX"
-seo_title: "New Holland 3032 TX Tractor Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland 3032 TX Tractor Price in Nizamabad 2026"
 title_te: "న్యూ హాలండ్ 3032 TX ట్రాక్టర్"
 category: "Tractors"
 image: "/images/products/new-holland-3032-tx.jpg"
@@ -9,7 +9,7 @@ isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203032%20TX%20%5BW-PM%5D"
 ---
 
-# The Reliable Workhorse
+## The Reliable Workhorse
 
 The **New Holland 3032 TX** is a 35 HP tractor that has earned a reputation for reliability and low maintenance costs, making it a favorite for small to medium landholdings.
 

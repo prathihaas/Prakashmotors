@@ -1,6 +1,6 @@
 ---
 title: "New Holland Blue Series Simba 30"
-seo_title: "New Holland Blue Series Simba 30 Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland Simba 30 Price in Nizamabad 2026 | Blue Series"
 title_te: "న్యూ హాలండ్ బ్లూ సిరీస్ సింబా 30 ట్రాక్టర్"
 category: "Tractors"
 image: "/images/products/new-holland-blue-series-simba-30.jpg"
@@ -8,7 +8,7 @@ features: ["29 HP Engine", "Semi-Constant Mesh", "High Lift Capacity", "Adjustab
 isRecommended: false
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Simba%2030%20%5BW-PM%5D"
 ---
-# The Versatile All-Rounder
+## The Versatile All-Rounder
 
 The **New Holland Simba 30** bridges the gap between compact orchard tractors and full-sized utility machines. It offers the perfect balance of power and agility.
 

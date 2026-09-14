@@ -1,6 +1,6 @@
 ---
 title: "New Holland Excel 4510"
-seo_title: "New Holland Excel 4510 Tractor Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland Excel 4510 Tractor Price in Nizamabad 2026"
 title_te: "న్యూ హాలండ్ ఎక్సెల్ 4510"
 category: "Tractors"
 image: "/images/products/new-holland-excel-4510.jpg"
@@ -8,7 +8,7 @@ features: ["45 HP Engine", "Excel Ergonomics", "7-Speed PTO", "Side Shift", "Mod
 isRecommended: false
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Excel%204510%20%5BW-PM%5D"
 ---
-# Modern Farming Defined
+## Modern Farming Defined
 
 The **New Holland Excel 4510** brings the premium features of the Excel series to the 45 HP category. It is designed for the farmer who values technology and style.
 

@@ -1,6 +1,6 @@
 ---
 title: "New Holland Workmaster 105"
-seo_title: "New Holland Workmaster 105 Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland Workmaster 105 Price in Nizamabad"
 title_te: "న్యూ హాలండ్ వర్క్‌మాస్టర్ 105 ట్రాక్టర్"
 category: "Tractors"
 image: "/images/products/new-holland-workmaster-105.jpg"
@@ -8,7 +8,7 @@ features: ["106 HP Engine", "AC Cabin", "Power Shuttle", "4WD Heavy Duty", "High
 isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%20Workmaster%20105%20%5BW-PM%5D"
 ---
-# The Mega Machine
+## The Mega Machine
 
 The **New Holland Workmaster 105** is not just a tractor; it's a powerhouse for large-scale commercial agriculture. With over 100 HP, it tackles jobs others can't.
 

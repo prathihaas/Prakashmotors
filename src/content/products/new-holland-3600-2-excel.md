@@ -8,7 +8,7 @@ features: ["50 HP FPT", "7-Speed Eptraa PTO", "Double Clutch", "Asli Hero", "180
 isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203600-2%20Excel%20%5BW-PM%5D"
 ---
-# The 'Asli Hero'
+## The 'Asli Hero'
 
 The **New Holland 3600-2 Excel** combines the legendary reliability of the 3600 series with modern Excel advancements. It is the "Real Hero" of the 50 HP segment.
 

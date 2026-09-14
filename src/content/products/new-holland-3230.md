@@ -13,7 +13,7 @@ features:
 isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%203230%20TX%20Super%20%5BW-PM%5D"
 ---
-# The Super Performer
+## The Super Performer
 
 The **New Holland 3230 TX Super** justifies its name by offering "Super" features in the 42 HP segment. It is built for farmers who want modern tech in a mid-sized tractor.
 

@@ -1,6 +1,6 @@
 ---
 title: "New Holland 5630 TX Plus Trem-IV"
-seo_title: "New Holland 5630 TX Plus Trem-IV Price in Nizamabad | Prakash Motors"
+seo_title: "New Holland 5630 TX Plus Price Nizamabad 2026 | 75 HP"
 title_te: "న్యూ హాలండ్ 5630 TX ప్లస్ Trem-IV"
 category: "Tractors"
 image: "/images/products/new-holland-5630-tx-plus-trem-iv.jpg"
@@ -8,7 +8,7 @@ features: ["75 HP Powerhouse", "Trem-IV CRDI", "Heavy Rear Axle", "Independent C
 isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20New%20Holland%205630%20TX%20Plus%20%5BW-PM%5D"
 ---
-# The Harvesting Beast
+## The Harvesting Beast
 
 The **New Holland 5630 TX Plus Trem-IV** is the heavy artillery of the TX Plus series. With 75 HP, it is specifically engineered for high-load PTO applications.
 

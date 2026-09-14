@@ -1,6 +1,6 @@
 ---
 title: "Silver Track"
-seo_title: "Silver Track Combine Harvester Price in Nizamabad | Prakash Motors"
+seo_title: "Silver Track Combine Harvester Price in Nizamabad 2026"
 title_te: "సిల్వర్ ట్రాక్ హార్వెస్టర్"
 category: "Harvester"
 image: "/images/products/silver-track.jpg"
@@ -8,7 +8,7 @@ features: ["King of wet fields", "Durable track system", "Wet Land Special", "Lo
 isRecommended: true
 whatsapp_message: "https://wa.me/919030857333?text=Interested%20in%20Silver%20Track%20%5BW-PM%5D"
 ---
-# The Master of Wet Fields
+## The Master of Wet Fields
 
 In Telangana, paddy is often harvested when the fields are still wet. Traditional wheel harvesters fail here. Enter the **Silver Track**.
 
