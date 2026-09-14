@@ -321,7 +321,7 @@ const localBusinessSchema = {
                             <div class="overflow-hidden bg-paper3 aspect-[16/10]">
                                 <img
                                     src={post.data.featured_image || '/images/hero.jpg'}
-                                    alt=""
+                                    alt={post.data.title}
                                     class="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-[1.04]"
                                     loading="lazy" decoding="async" />
                             </div>

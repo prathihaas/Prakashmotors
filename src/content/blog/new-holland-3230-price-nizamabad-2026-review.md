@@ -20,7 +20,7 @@ readTime: "8 min read"
 
 **The New Holland 3230 is a robust 45 HP tractor, highly sought after by farmers with 3-5 acre paddy holdings in our region. As of August 2026, the ex-showroom price for a New Holland 3230 can range from approximately Rs 6.80 lakh to Rs 7.30 lakh, with the on-road price in Nizamabad typically falling between Rs 7.90 lakh and Rs 8.50 lakh, depending on specific variants and RTO charges.**
 
-> #### TL;DR - New Holland 3230 Key Facts
+> ## TL;DR - New Holland 3230 Key Facts
 > *   **Engine:** 45 HP, powerful and fuel-efficient.
 > *   **Ideal For:** 3-5 acre paddy farms, small to medium-scale agriculture.
 > *   **Price Range (On-Road Nizamabad, Aug 2026):** Rs 7.90 lakh - Rs 8.50 lakh.
