@@ -1,0 +1,53 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const title = "Used Tractors in Nizamabad | Prakash Motors Second Hand Tractors";
+const description = "Certified second-hand tractors for sale at Prakash Motors, Nizamabad. Live stock with prices, photos, finance and easy EMI. WhatsApp 95730 02225 for details.";
+---
+
+<Layout title={title} description={description}>
+  <section class="bg-[#0B4DA2] text-white py-10 px-4">
+    <div class="max-w-5xl mx-auto">
+      <h1 class="text-3xl font-bold">Used tractors for sale 🚜</h1>
+      <p class="mt-2 opacity-90">Certified pre-owned stock · Finance &amp; easy EMI · Updated live</p>
+    </div>
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 py-8">
+    <div id="stock" class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      <p id="loading" class="text-gray-500">Loading current stock…</p>
+    </div>
+    <p class="text-sm text-gray-500 mt-8 text-center">
+      Every tractor is inspected at our workshop. Call / WhatsApp
+      <a href="https://wa.me/919573002225" class="text-[#0B4DA2] font-semibold">95730 02225</a>
+      · Prakash Motors, Nizamabad
+    </p>
+  </section>
+
+  <script>
+    fetch('https://used.prk.sh/api/stock?dealer=motors')
+      .then(function (r) { return r.json(); })
+      .then(function (items) {
+        var grid = document.getElementById('stock');
+        if (!grid) return;
+        if (!items.length) {
+          grid.innerHTML = '<p class="text-gray-500">New stock arriving soon — <a class="text-[#0B4DA2] font-semibold" href="https://wa.me/919573002225">WhatsApp us</a> for upcoming tractors.</p>';
+          return;
+        }
+        grid.innerHTML = items.map(function (t) {
+          return '<div class="bg-white rounded-2xl shadow overflow-hidden">' +
+            '<img src="' + t.photo + '" alt="' + t.brand + ' ' + t.model + '" loading="lazy" class="w-full h-48 object-cover bg-gray-100">' +
+            '<div class="p-4">' +
+            '<div class="font-bold text-lg">' + t.brand + ' ' + t.model + '</div>' +
+            '<div class="text-sm text-gray-500 mt-1">' + t.spec + '</div>' +
+            '<div class="text-xl font-extrabold text-[#0B4DA2] mt-2">' + t.price + '/-</div>' +
+            '<a href="' + t.wa + '" class="block text-center mt-3 bg-[#25D366] text-white font-bold rounded-xl py-3">WhatsApp for details</a>' +
+            '</div></div>';
+        }).join('');
+      })
+      .catch(function () {
+        var el = document.getElementById('loading');
+        if (el) el.innerHTML = 'Could not load stock. <a class="text-[#0B4DA2] font-semibold" href="https://wa.me/919573002225">WhatsApp us</a> for the latest list.';
+      });
+  </script>
+</Layout>
