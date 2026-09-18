@@ -10,6 +10,11 @@ const description = "Certified second-hand tractors for sale at Prakash Motors, 
     <div class="max-w-5xl mx-auto">
       <h1 class="text-3xl font-bold">Used tractors for sale 🚜</h1>
       <p class="mt-2 opacity-90">Certified pre-owned stock · Finance &amp; easy EMI · Updated live</p>
+      <p class="mt-1 text-sm opacity-80">Used-tractor sales — dedicated line 95730 02225</p>
+      <div class="mt-4 flex flex-wrap gap-3">
+        <a href="tel:+919573002225" class="bg-white text-[#0B4DA2] font-bold rounded-xl px-5 py-3">📞 Call 95730 02225</a>
+        <a href="https://wa.me/919573002225" class="bg-[#25D366] text-white font-bold rounded-xl px-5 py-3">WhatsApp us</a>
+      </div>
     </div>
   </section>
 
@@ -41,8 +46,10 @@ const description = "Certified second-hand tractors for sale at Prakash Motors, 
             '<div class="font-bold text-lg">' + t.brand + ' ' + t.model + '</div>' +
             '<div class="text-sm text-gray-500 mt-1">' + t.spec + '</div>' +
             '<div class="text-xl font-extrabold text-[#0B4DA2] mt-2">' + t.price + '/-</div>' +
-            '<a href="' + t.wa + '" class="block text-center mt-3 bg-[#25D366] text-white font-bold rounded-xl py-3">WhatsApp for details</a>' +
-            '</div></div>';
+            '<div class="grid grid-cols-2 gap-2 mt-3">' +
+            '<a href="' + t.wa + '" class="text-center bg-[#25D366] text-white font-bold rounded-xl py-3">WhatsApp</a>' +
+            '<a href="tel:+919573002225" class="text-center bg-[#0B4DA2] text-white font-bold rounded-xl py-3">Call</a>' +
+            '</div></div></div>';
         }).join('');
       })
       .catch(function () {
