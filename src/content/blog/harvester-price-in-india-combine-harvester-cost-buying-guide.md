@@ -13,7 +13,7 @@ tags:
   - "Telangana farming"
 featured_image: "/images/blog/combine-harvester-hire-vs-buy-nizamabad-2026.jpg"
 excerpt: "Thinking about a combine harvester for your farm? We break down harvester prices in India as of 2026 and offer practical advice for Telangana farmers."
-seo_title: "Combine Harvester Price in India 2026: New Holland Cost Guide"
+seo_title: "Combine Harvester Price in India 2026: New Holland Guide"
 seo_description: "Combine harvester price in India 2026: New Holland TC5.30 and competitors, on-road cost in Telangana, running cost per acre, subsidy and hire-vs-buy math."
 readTime: "10 min read"
 ---

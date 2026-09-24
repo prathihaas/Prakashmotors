@@ -256,7 +256,7 @@ We provide practical support throughout the subsidy process:
 ## Also Read
 
 - [Best Tractor for Nizamabad District Farmers 2026 — Complete Guide](/blog/best-tractor-nizamabad-district-2026)
-- [Tractor Loan in Telangana 2026 — Banks, EMI & How to Apply](/blog/kcc-tractor-loan-telangana-2026)
+- [Tractor Loan in Telangana 2026 — Banks, EMI & How to Apply](/blog/kcc-tractor-loan-telangana-2026/)
 - [Tractor EMI with Zero Down Payment in Nizamabad 2026](/blog/tractor-emi-zero-downpayment-nizamabad-2026)
 - [PM Kisan Tractor Scheme 2026 — How to Apply](/blog/telangana-tractor-subsidy-complete-guide-2026)
 - [First-Time Tractor Buyer Guide for Nizamabad Farmers](/blog/first-time-tractor-buyer-guide-nizamabad-2026)

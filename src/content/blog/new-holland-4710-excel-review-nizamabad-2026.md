@@ -143,4 +143,4 @@ A: With a 7-foot rotavator in Nizamabad's black cotton soil, the 4710 Excel cove
 - [New Holland Excel 4510 vs 4710 Comparison](/blog/new-holland-4710-excel-review-nizamabad-2026)
 - [Tractor for Black Cotton Soil in Nizamabad 2026](/blog/best-tractor-nizamabad-district-2026)
 - [New Holland Tractor Buying Checklist — Nizamabad 2026](/blog/tractor-buying-checklist-nizamabad-2026)
-- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026)
+- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026/)

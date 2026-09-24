@@ -78,7 +78,7 @@ We have long-standing partnerships with major nationalized banks, private financ
 * **Kisan Credit Card (KCC) Integration:** If you have an active KCC, we can help you leverage it to secure low-interest agricultural loans with minimal paperwork.
 * **Fast Approvals:** Our dedicated in-house finance team handles the entire documentation process, ensuring your loan gets approved quickly so your tractor can start working in the field without delay.
 
-For a detailed look at the documents required and how to calculate your monthly interest rates, check out our comprehensive [Tractor Loan Telangana Guide 2026](/blog/kcc-tractor-loan-telangana-2026).
+For a detailed look at the documents required and how to calculate your monthly interest rates, check out our comprehensive [Tractor Loan Telangana Guide 2026](/blog/kcc-tractor-loan-telangana-2026/).
 
 ---
 

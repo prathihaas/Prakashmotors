@@ -111,7 +111,7 @@ Understanding the initial investment is important alongside running costs. Here 
 *   **New Holland 5620 TX Plus (65 HP):** Rs 11.0-12.2 lakh
 *   **New Holland Workmaster 105 (106 HP):** Rs 26-29 lakh
 
-We also offer various finance options, including EMIs starting from Rs 3,999/month and accept KCC loans. Don't forget to inquire about the Telangana farm mechanization subsidy available on select implements, which can further reduce your overall costs. You can get more details on financing here: [Tractor Loan Telangana](/blog/kcc-tractor-loan-telangana-2026).
+We also offer various finance options, including EMIs starting from Rs 3,999/month and accept KCC loans. Don't forget to inquire about the Telangana farm mechanization subsidy available on select implements, which can further reduce your overall costs. You can get more details on financing here: [Tractor Loan Telangana](/blog/kcc-tractor-loan-telangana-2026/).
 
 ## Frequently Asked Questions
 

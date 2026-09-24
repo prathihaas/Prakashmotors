@@ -104,7 +104,7 @@ For buyers needing a solid 47 HP workhorse under 8.5 lakh, the [New Holland Exce
 | Subsidy link | Can combine with PM-KISAN | Separate |
 | Processing time | 7-10 days | 2-7 days |
 
-**Verdict:** If you have ₹3 lakh or more as down payment, KCC is unbeatable. If you need more than ₹3 lakh loan, combine KCC with a small top-up loan. To understand the differences between regular NBFC loans and bank tractor loans, read our [Tractor Loan Telangana 2026](/blog/kcc-tractor-loan-telangana-2026) guide.
+**Verdict:** If you have ₹3 lakh or more as down payment, KCC is unbeatable. If you need more than ₹3 lakh loan, combine KCC with a small top-up loan. To understand the differences between regular NBFC loans and bank tractor loans, read our [Tractor Loan Telangana 2026](/blog/kcc-tractor-loan-telangana-2026/) guide.
 
 ## Combine KCC with Telangana Farm Mechanization Subsidy
 

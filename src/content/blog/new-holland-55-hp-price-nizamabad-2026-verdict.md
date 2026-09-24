@@ -77,7 +77,7 @@ We understand that purchasing a tractor is a significant investment. That's why 
 
 *   **Low EMI Options:** You can start with EMIs as low as Rs 3,999 per month, making it easier to manage your budget. We work with various financial institutions to get you the best rates.
 *   **KCC Loans Accepted:** We proudly accept Kisan Credit Card (KCC) loans, simplifying the process for eligible farmers. Many farmers from Kamareddy district find this particularly beneficial.
-*   **Customized Loan Plans:** Our finance experts will help you explore different loan tenures and down payment options to find a plan that suits your financial situation. For more details on tractor loans, you can refer to our guide on [Tractor Loan Telangana 2026](/blog/tractor-loan-telangana-2026).
+*   **Customized Loan Plans:** Our finance experts will help you explore different loan tenures and down payment options to find a plan that suits your financial situation. For more details on tractor loans, you can refer to our guide on [KCC Tractor Loan Telangana 2026](/blog/kcc-tractor-loan-telangana-2026/).
 
 ## Comparing New Holland 55 HP with Competitors in Nizamabad
 
@@ -101,7 +101,7 @@ The on-road price of a 55 HP New Holland tractor in Nizamabad will typically be 
 
 ### Can I get a subsidy on a New Holland 55 HP tractor in Telangana?
 
-While direct subsidies on the tractor unit itself are less common, the Telangana government often provides farm mechanization subsidies on various implements and attachments. We can guide you on which implements are eligible and how to apply for these benefits, helping you reduce your overall investment. Read more about this here: [Tractor Subsidy Telangana: Apply Online with Prakash Motors!](/blog/tractor-subsidy-telangana-apply-online-prakash-motors/)
+While direct subsidies on the tractor unit itself are less common, the Telangana government often provides farm mechanization subsidies on various implements and attachments. We can guide you on which implements are eligible and how to apply for these benefits, helping you reduce your overall investment. Read more about this here: [Tractor Subsidy Telangana: Apply Online with Prakash Motors!](/blog/tractor-subsidy-telangana-2026-guide/)
 
 ### What is the EMI for a New Holland 55 HP tractor in Nizamabad?
 

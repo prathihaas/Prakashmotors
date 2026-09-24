@@ -92,4 +92,4 @@ readTime: "8 min read"
 - [న్యూ హాలండ్ 3600-2 Excel సమీక్ష](/products/new-holland-3600-2-excel)
 - [న్యూ హాలండ్ Excel 4710 సమీక్ష](/products/new-holland-excel-4710)
 - [న్యూ హాలండ్ Workmaster 105 సమీక్ష](/products/new-holland-workmaster-105)
-- [ట్రాక్టర్ లోన్ తెలంగాణ 2026](/blog/kcc-tractor-loan-telangana-2026)
+- [ట్రాక్టర్ లోన్ తెలంగాణ 2026](/blog/kcc-tractor-loan-telangana-2026/)

@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 
 function parseFAQ(body: string): { question: string; answer: string }[] {
   const pairs: { question: string; answer: string }[] = [];
-  const lines = body.split('\n');
+  const lines = body.split(/\r?\n/);
   let i = 0;
   while (i < lines.length) {
     const qMatch = lines[i].match(/^\*\*Q\d*:\s*(.+?)\*\*$/);

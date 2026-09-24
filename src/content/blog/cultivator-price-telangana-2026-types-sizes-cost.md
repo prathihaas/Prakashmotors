@@ -152,7 +152,7 @@ For a 50 HP tractor like the New Holland 3630 TX Super Plus, you'd typically loo
 
 ### Can I get a loan for purchasing a cultivator in Nizamabad?
 
-Yes, absolutely. Many banks and financial institutions offer loans for agricultural implements. You can typically get it as part of a tractor loan package or as a standalone implement loan. We at Prakash Motors also accept KCC (Kisan Credit Card) loans and can help you explore EMI options starting from Rs 3,999/month for tractors, which can often be extended to cover implements. Check our guide on [Tractor Loan in Telangana 2026](/blog/kcc-tractor-loan-telangana-2026) for more details.
+Yes, absolutely. Many banks and financial institutions offer loans for agricultural implements. You can typically get it as part of a tractor loan package or as a standalone implement loan. We at Prakash Motors also accept KCC (Kisan Credit Card) loans and can help you explore EMI options starting from Rs 3,999/month for tractors, which can often be extended to cover implements. Check our guide on [Tractor Loan in Telangana 2026](/blog/kcc-tractor-loan-telangana-2026/) for more details.
 
 ### What is the difference between a cultivator and a rotavator, and which is better for paddy fields?
 

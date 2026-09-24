@@ -69,7 +69,7 @@ At Prakash Motors, we understand the financial needs of farmers. While the exact
 
 ### Telangana Farm Mechanization Subsidy
 
-The Telangana government offers subsidies on select farm implements, including combine harvesters, under its farm mechanization schemes. This can significantly reduce your effective purchase cost. The subsidy amount and eligibility criteria can change, so it's essential to get the latest information. We assist our customers in navigating the application process for these subsidies. For more details on government support, you can also refer to our detailed guide: [Tractor Subsidy Telangana: Apply Online with Prakash Motors!](/blog/tractor-subsidy-telangana-apply-online-prakash-motors/)
+The Telangana government offers subsidies on select farm implements, including combine harvesters, under its farm mechanization schemes. This can significantly reduce your effective purchase cost. The subsidy amount and eligibility criteria can change, so it's essential to get the latest information. We assist our customers in navigating the application process for these subsidies. For more details on government support, you can also refer to our detailed guide: [Tractor Subsidy Telangana: Apply Online with Prakash Motors!](/blog/tractor-subsidy-telangana-2026-guide/)
 
 ## The Real Cost of Ownership: Beyond the Harvester Price
 

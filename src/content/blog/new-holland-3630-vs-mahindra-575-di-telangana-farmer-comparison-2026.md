@@ -73,7 +73,7 @@ Why does New Holland hold better resale value? Three reasons:
 
 Buying a tractor shouldn't be a financial burden. We facilitate tractor loans with EMIs starting from just Rs 3,999 per month. We accept KCC (Kisan Credit Card) loans, making it easier for you to utilize your existing agricultural credit limits.
 
-To understand the exact documentation required and how to structure your loan, read our guide on [/blog/kcc-tractor-loan-telangana-2026](/blog/kcc-tractor-loan-telangana-2026).
+To understand the exact documentation required and how to structure your loan, read our guide on [/blog/kcc-tractor-loan-telangana-2026](/blog/kcc-tractor-loan-telangana-2026/).
 
 ### Calculating Your Monthly Outflow
 

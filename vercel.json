@@ -208,7 +208,7 @@
     },
     {
       "source": "/blog/tractor-loan-telangana-2026",
-      "destination": "/products/",
+      "destination": "/blog/kcc-tractor-loan-telangana-2026/",
       "permanent": true
     },
     {
@@ -408,13 +408,23 @@
       "permanent": true
     },
     {
+      "source": "/blog/tractor-subsidy-telangana-apply-online-prakash-motors",
+      "destination": "/blog/tractor-subsidy-telangana-2026-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tractor-subsidy-telangana-apply-online-prakash-motors/",
+      "destination": "/blog/tractor-subsidy-telangana-2026-guide/",
+      "permanent": true
+    },
+    {
       "source": "/blog/telangana-tractor-subsidy-apply-online-prakash-motors",
-      "destination": "/blog/tractor-subsidy-telangana-apply-online-prakash-motors/",
+      "destination": "/blog/tractor-subsidy-telangana-2026-guide/",
       "permanent": true
     },
     {
       "source": "/blog/telangana-tractor-subsidy-apply-online-prakash-motors/",
-      "destination": "/blog/tractor-subsidy-telangana-apply-online-prakash-motors/",
+      "destination": "/blog/tractor-subsidy-telangana-2026-guide/",
       "permanent": true
     },
     {

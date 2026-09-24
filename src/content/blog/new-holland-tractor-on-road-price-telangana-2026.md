@@ -92,7 +92,7 @@ Farmers can utilize their Kisan Credit Card (KCC) for tractor loans. KCC loans g
 
 ### Tractor Loan Schemes in Telangana
 
-Several banks offer dedicated tractor loan schemes with competitive interest rates and extended repayment periods. We can help you navigate these options and assist with the documentation required for a smooth loan application process. For more details on financing, check out our guide on [Tractor Loan in Telangana](/blog/kcc-tractor-loan-telangana-2026).
+Several banks offer dedicated tractor loan schemes with competitive interest rates and extended repayment periods. We can help you navigate these options and assist with the documentation required for a smooth loan application process. For more details on financing, check out our guide on [Tractor Loan in Telangana](/blog/kcc-tractor-loan-telangana-2026/).
 
 ### Farm Mechanization Subsidies in Telangana
 

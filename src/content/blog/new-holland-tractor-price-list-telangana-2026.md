@@ -130,7 +130,7 @@ CNH Industrial typically revises prices 1-2 times per year, usually in January a
 ## Also Read
 
 - [Best Tractor for Nizamabad District 2026](/blog/best-tractor-nizamabad-district-2026)
-- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026)
+- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026/)
 - [Telangana Tractor Subsidy 2026 — How to Apply](/blog/telangana-tractor-subsidy-2026-how-to-apply)
 - [First-Time Tractor Buyer Guide Nizamabad 2026](/blog/first-time-tractor-buyer-guide-nizamabad-2026)
 

@@ -69,7 +69,7 @@ Banks and financial institutions offer various tractor loan schemes. The interes
 
 For example, if you're looking at a New Holland 3600-2 Excel (49 HP) priced around Rs 7.9-8.5 lakh (ex-showroom as of August 2026), your EMI will depend on the loan amount, interest rate, and tenure. Our team can help you calculate the exact figures based on your eligibility.
 
-Learn more about how to secure favorable financing in our article: [Tractor Loan Telangana 2026](/blog/kcc-tractor-loan-telangana-2026).
+Learn more about how to secure favorable financing in our article: [Tractor Loan Telangana 2026](/blog/kcc-tractor-loan-telangana-2026/).
 
 ### On-Road Price vs. Ex-Showroom Price
 

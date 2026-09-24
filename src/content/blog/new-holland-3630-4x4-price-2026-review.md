@@ -86,7 +86,7 @@ At Prakash Motors, we believe that buying a premium tractor should not put an un
 
 * **Low Monthly EMIs:** We offer flexible EMI options starting from Rs 3,999 per month, depending on your down payment and loan tenure.
 * **KCC (Kisan Credit Card) Loans:** We accept KCC crop loan accounts for tractor financing, allowing you to align your repayment schedules with your bi-annual harvest cycles (Kharif and Rabi).
-* **Telangana Government Tractor Subsidy:** The state government periodically offers financial assistance and subsidies for farm mechanization, especially for scheduled castes, scheduled tribes, and small/marginal farmers. While these subsidies apply primarily to specific implements, our team at Nizamabad can assist you with the paperwork and online registration process. For a complete understanding of how to finance your purchase, take a look at our [tractor loan Telangana 2026 guide](/blog/kcc-tractor-loan-telangana-2026).
+* **Telangana Government Tractor Subsidy:** The state government periodically offers financial assistance and subsidies for farm mechanization, especially for scheduled castes, scheduled tribes, and small/marginal farmers. While these subsidies apply primarily to specific implements, our team at Nizamabad can assist you with the paperwork and online registration process. For a complete understanding of how to finance your purchase, take a look at our [tractor loan Telangana 2026 guide](/blog/kcc-tractor-loan-telangana-2026/).
 
 ---
 

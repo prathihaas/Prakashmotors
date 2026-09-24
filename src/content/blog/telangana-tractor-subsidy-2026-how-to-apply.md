@@ -179,6 +179,6 @@ SC/ST farmers are eligible for 50% subsidy with a cap of approximately ₹1,25,0
 
 - [PM Kisan Tractor Subsidy Scheme 2026 — Eligibility and Application](/blog/telangana-tractor-subsidy-complete-guide-2026)
 - [Telangana Tractor Subsidy — Complete Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026)
-- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026)
+- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026/)
 - [Zero Down Payment Tractor EMI in Nizamabad 2026](/blog/tractor-emi-zero-downpayment-nizamabad-2026)
 - [First-Time Tractor Buyer Guide — Nizamabad 2026](/blog/first-time-tractor-buyer-guide-nizamabad-2026)

@@ -147,5 +147,5 @@ A: Excellent. The NH 3630 TX Plus is one of the best tractors for paddy cultivat
 - [New Holland vs Mahindra Tractor — Telangana Comparison 2026](/blog/new-holland-vs-mahindra-tractor-telangana-2026)
 - [New Holland 3630 TX Plus Review — Nizamabad 2026](/blog/new-holland-3630-tx-plus-review-nizamabad-2026)
 - [Best Tractor for Nizamabad District Farmers 2026 — Complete Guide](/blog/best-tractor-nizamabad-district-2026)
-- [Tractor Loan in Telangana 2026 — Banks, EMI & How to Apply](/blog/kcc-tractor-loan-telangana-2026)
+- [Tractor Loan in Telangana 2026 — Banks, EMI & How to Apply](/blog/kcc-tractor-loan-telangana-2026/)
 - [Tractor Resale Value in Telangana 2026 — New Holland Holds Best](/blog/second-hand-new-holland-tractor-nizamabad-2026)

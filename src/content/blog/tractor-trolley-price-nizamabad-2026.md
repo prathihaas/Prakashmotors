@@ -74,7 +74,7 @@ While there are many local fabricators, buying from an established dealer like P
 
 *   **Quality Assurance:** We only deal with reputable manufacturers, ensuring you get a well-built, durable product. This is critical for safety and longevity.
 *   **Right Advice:** Our team understands the local farming conditions in Nizamabad, Kamareddy, and even Nirmal. We can guide you to the best option for your specific crops and land.
-*   **Financing Options:** We offer flexible EMI options starting from Rs 3,999/month on tractors, and can assist with financing for implements. We also accept KCC loans. For more details on financing, check our guide on [tractor loans in Telangana](/blog/kcc-tractor-loan-telangana-2026).
+*   **Financing Options:** We offer flexible EMI options starting from Rs 3,999/month on tractors, and can assist with financing for implements. We also accept KCC loans. For more details on financing, check our guide on [tractor loans in Telangana](/blog/kcc-tractor-loan-telangana-2026/).
 *   **After-Sales Support:** While trolleys require less maintenance than tractors, having a reliable point of contact for any issues or spare parts (like tyres or hydraulic components) is invaluable.
 *   **Subsidy Guidance:** The Telangana farm mechanization subsidy can sometimes apply to certain implements. We can help you understand if your purchase qualifies. Read our [Telangana Tractor Subsidy Complete Guide](/blog/telangana-tractor-subsidy-complete-guide-2026) for more information.
 

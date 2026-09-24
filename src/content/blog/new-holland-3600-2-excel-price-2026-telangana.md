@@ -120,4 +120,4 @@ If you need a **49 HP tractor with power steering, strong hydraulics, and good r
 
 ---
 
-*For more tractor comparisons, read: [New Holland 3630 vs Mahindra 575 Nizamabad](/blog/new-holland-3630-vs-mahindra-575-di-telangana-farmer-comparison-2026) and [Tractor Loan Telangana Guide](/blog/kcc-tractor-loan-telangana-2026).*
+*For more tractor comparisons, read: [New Holland 3630 vs Mahindra 575 Nizamabad](/blog/new-holland-3630-vs-mahindra-575-di-telangana-farmer-comparison-2026) and [Tractor Loan Telangana Guide](/blog/kcc-tractor-loan-telangana-2026/).*

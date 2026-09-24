@@ -107,7 +107,7 @@ Even with subsidies, a rotavator is a significant investment. We understand the 
 
 *   **Tractor Loans:** Often, you can bundle the cost of the rotavator with your tractor loan. We work with leading banks and financial institutions to secure competitive interest rates.
 *   **KCC Loans:** Kisan Credit Card (KCC) loans are accepted, providing a flexible credit option for agricultural needs.
-*   **EMI Options:** We can help you explore EMI plans. For more details on financing options, you can refer to our blog post on [Tractor Loan Telangana 2026](/blog/kcc-tractor-loan-telangana-2026).
+*   **EMI Options:** We can help you explore EMI plans. For more details on financing options, you can refer to our blog post on [Tractor Loan Telangana 2026](/blog/kcc-tractor-loan-telangana-2026/).
 
 
 ## Why Buy Your Rotavator from Prakash Motors?

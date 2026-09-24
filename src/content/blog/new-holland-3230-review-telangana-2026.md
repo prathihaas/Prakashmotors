@@ -182,4 +182,4 @@ Ready to see the NH 3230 in person? We offer free field demonstrations on your o
 - [New Holland 3630 TX Plus — Full Review for Nizamabad Farmers](/blog/new-holland-3630-tx-plus-review-nizamabad-2026)
 - [Best Tractor for Small Farms in Nizamabad](/blog/best-tractor-small-farms-nizamabad-2026)
 - [Tractor Buying Checklist — Nizamabad 2026](/blog/tractor-buying-checklist-nizamabad-2026)
-- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026)
+- [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026/)
