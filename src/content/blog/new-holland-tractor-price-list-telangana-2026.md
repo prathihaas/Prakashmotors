@@ -23,7 +23,7 @@ Tractor prices in Telangana include several charges beyond the ex-showroom figur
 > **Key Takeaways**
 > - Telangana road tax on tractors is 9% of ex-showroom price
 > - Registration adds ₹8,000-12,000; first-year insurance adds ₹12,000-35,000 depending on model
-> - NH 3630 TX Plus (47HP) is the most popular model in Nizamabad at ₹7.20-7.80L ex-showroom
+> - NH 3630 TX Plus (55HP) is the most popular model in Nizamabad at ₹8.60-9.30L ex-showroom
 > - Subsidy eligibility depends on farmer category and tractor HP — Prakash Motors handles the paperwork
 > - KCC-linked loans offer 7% interest vs standard tractor loans at 9-11%
 
@@ -35,7 +35,7 @@ Related: [Tractor loan options](/blog/kcc-tractor-loan-telangana-2026/)
 
 Ex-showroom price is what the manufacturer charges before state taxes and registration. In Telangana, the government levies a 9% road tax on tractors, which is among the standard agricultural vehicle rates in the Deccan region. Registration fees at the Nizamabad RTO run ₹8,000-12,000 for a new tractor. First-year comprehensive insurance adds ₹12,000-35,000 depending on the model's insured declared value.
 
-The total on-road cost works out to approximately 12-15% above ex-showroom price. For a mid-range tractor like the NH 3630 TX Plus at ₹7.50 lakh ex-showroom, expect an on-road figure near ₹8.55-8.65 lakh in Nizamabad.
+The total on-road cost works out to approximately 12-15% above ex-showroom price. For a mid-range tractor like the NH 3630 TX Plus at ₹8.60-9.30 lakh ex-showroom, expect the on-road figure to be about 12-15% higher in Nizamabad.
 
 Related: [Subsidy schemes that reduce on-road cost](/blog/tractor-subsidy-telangana-2026-guide/)
 
@@ -47,7 +47,7 @@ The table below uses mid-point ex-showroom values. Road tax is calculated at 9%.
 |---|---|---|---|---|---|---|---|
 | NH 3230 TX | 35 | ₹6.00L | ₹54,000 | ₹10,000 | ₹12,500 | ₹6.77L | ~₹8,600/mo |
 | NH Blue Series Simba | 45 | ₹7.00L | ₹63,000 | ₹10,000 | ₹15,000 | ₹7.88L | ~₹12,200/mo |
-| NH 3630 TX Plus | 47 | ₹7.50L | ₹67,500 | ₹10,000 | ₹16,000 | ₹8.44L | ~₹13,000/mo |
+| NH 3630 TX Plus | 55 | ₹8.95L | ₹80,550 | ₹10,000 | Ask for quote | ₹9.86L + insurance | Ask for quote |
 | NH 3600-2 Excel | 50 | ₹8.30L | ₹74,700 | ₹10,000 | ₹18,000 | ₹9.33L | ~₹14,500/mo |
 | NH 4710 Excel | 50 | ₹8.80L | ₹79,200 | ₹10,000 | ₹19,500 | ₹9.89L | ~₹15,500/mo |
 | NH 5620 TX Plus | 75 | ₹12.00L | ₹1,08,000 | ₹10,000 | ₹26,000 | ₹13.44L | ~₹21,000/mo |
@@ -114,7 +114,7 @@ Related: [KCC tractor loan details](/blog/kisan-credit-card-tractor-loan-telanga
 ## Frequently Asked Questions
 
 **Q1: What is the on-road price of the NH 3630 TX Plus in Nizamabad 2026?**
-The NH 3630 TX Plus ex-showroom price in Nizamabad is approximately ₹7.20-7.80 lakh. Adding 9% road tax (roughly ₹67,500), ₹10,000 registration, and ₹16,000 first-year insurance brings the on-road estimate to ₹8.20-8.70 lakh. Contact Prakash Motors at 9030857333 for the exact current price.
+The NH 3630 TX Plus (55 HP) ex-showroom price in Nizamabad is approximately ₹8.60-9.30 lakh. Adding 9% road tax, ₹10,000 registration and first-year insurance puts the on-road price roughly 12-15% above ex-showroom. Contact Prakash Motors at 9030857333 for the exact current price.
 
 **Q2: Is there any price difference between Nizamabad and Hyderabad for New Holland tractors?**
 Ex-showroom prices are set by CNH Industrial and are identical across authorized dealers in Telangana. However, transport charges may vary slightly if you take delivery at a location far from the dealer. Buying locally at Prakash Motors Nizamabad avoids additional freight costs.

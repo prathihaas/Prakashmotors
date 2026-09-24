@@ -179,19 +179,6 @@ This is the difference between an authorized dealer and a general equipment shop
 
 ---
 
-## Testimonials from Nizamabad Farmers
-
-*"2019 లో NH 3630 TX Plus కొన్నాను. 7 సంవత్సరాల్లో ఒక్కసారి కూడా పెద్ద సమస్య రాలేదు. ప్రకాష్ మోటార్స్ సర్వీస్ ఎప్పుడూ సమయానికి వచ్చారు."*
-— Farmer from Banswada mandal
-
-*"Subsidyకి apply చేయడంలో ప్రకాష్ మోటార్స్ team చాలా help చేశారు. SC subsidy వల్ల ₹3 lakhs తక్కువ అయింది."*
-— Farmer from Armoor mandal
-
-*"Kharif season లో breakdown అయినప్పుడు, 4 గంటల్లో technician వచ్చి fix చేశారు. Paddy transplanting miss అవ్వలేదు."*
-— Farmer from Nizamsagar mandal
-
----
-
 ## Visit Us or Contact Us
 
 **Prakash Motors**

@@ -172,16 +172,6 @@ Answer these questions:
 
 ---
 
-## Real Example from Bheemgal Mandal
-
-*"నాకు 4 ఎకరాల వరి పొలం ఉంది. 2022 లో NH 3032 TX కొన్నాను. ప్రతి సంవత్సరం 2–3 నెలలు పక్కవారికి ట్రాక్టర్ అద్దెకు ఇస్తాను. EMI కష్టంగా అనిపించలేదు — నెలకు ₹10,500 చెల్లిస్తున్నాను."*
-
-("I have 4 acres of paddy. Bought NH 3032 TX in 2022. I hire it out to neighbors for 2–3 months annually. The EMI doesn't feel burdensome — paying ₹10,500/month.")
-
-— Farmer from Bheemgal mandal
-
----
-
 ## Our Recommendation
 
 For a purely 5-acre personal-use farm in Nizamabad: **Consider carefully — the economics work best when combined with custom hiring or subsidy eligibility.**

@@ -21,7 +21,7 @@ Nizamabad district is one of Telangana's most agriculturally diverse regions. Sp
 
 Choosing the right tractor for Nizamabad's conditions requires understanding your specific farming zone, soil type, crop portfolio, and acreage. This guide is your complete reference for 2026.
 
-> **TL;DR:** For most Nizamabad farms of 5-30 acres, the New Holland 3630 TX Plus (47HP, ₹7.2-7.8L) handles paddy, cotton, and turmeric across both black cotton and alluvial soils. Go with the NH 4710 Excel (50HP) for heavy black cotton fields, or the NH 3230 (35HP) if your dryland farm is under 10 acres. SMAM subsidy cuts your purchase price by up to ₹1.5L - apply before buying.
+> **TL;DR:** For most Nizamabad farms of 5-30 acres, the New Holland 3630 TX Plus (55HP, ₹8.60-9.30L) handles paddy, cotton, and turmeric across both black cotton and alluvial soils. Go with the NH 4710 Excel (50HP) for heavy black cotton fields, or the NH 3230 (35HP) if your dryland farm is under 10 acres. SMAM subsidy cuts your purchase price by up to ₹1.5L - apply before buying.
 
 ## Nizamabad District Farming Zones
 
@@ -54,7 +54,7 @@ Choosing the right tractor for Nizamabad's conditions requires understanding you
 ## Best Tractor for Each Nizamabad Farming Scenario
 
 ### Scenario 1: Paddy + Turmeric (10–25 acres, Godavari Belt)
-**Recommended: NH 3630 TX Plus (47 HP)**
+**Recommended: NH 3630 TX Plus (55 HP)**
 The Godavari valley's deep alluvial soil requires a strong, reliable tractor with good hydraulic capacity. The NH 3630 TX Plus handles rotavator and puddler operations in paddy fields and transitions easily to turmeric bed preparation.
 
 ### Scenario 2: Cotton + Paddy Rotation (15–30 acres, NH 161 Belt)
@@ -74,7 +74,7 @@ Progressive commercial farmers across Nizamabad who operate at scale or undertak
 | Model | HP | Hydraulic (kg) | Best Use Case | Price (ex-sh.) | EMI (7yr, 20% dn) |
 |---|---|---|---|---|---|
 | NH 3230 TX | 35 | 1,200 | Small farms, dryland | ₹5.80–6.20L | ~₹8,600/mo |
-| NH 3630 TX Plus | 47 | 1,800 | Mixed cotton-paddy | ₹7.20–7.80L | ~₹13,000/mo |
+| NH 3630 TX Plus | 55 | 1,800 | Mixed cotton-paddy | ₹8.60–9.30L | Ask for quote |
 | NH Blue Series Simba | 45 | 1,600 | Entry-premium, versatile | ₹6.80–7.20L | ~₹12,200/mo |
 | NH 3600-2 Excel | 50 | 1,900 | Heavy cotton tillage | ₹8.00–8.60L | ~₹14,500/mo |
 | NH 4710 Excel | 50 | 2,000 | Deep black cotton, turmeric | ₹8.50–9.10L | ~₹15,500/mo |

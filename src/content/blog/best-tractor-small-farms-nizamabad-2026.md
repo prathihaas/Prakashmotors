@@ -166,18 +166,6 @@ This is the model followed by successful small-farm tractor owners in Balkonda, 
 
 ---
 
-## Success Story — Yellareddy Mandal Small Farmer
-
-**Shyam Rao** from Yellareddy mandal cultivates 11 acres — 6 acres paddy, 5 acres cotton. He purchased an NH 3230 TX from Prakash Motors in May 2024 with SC Sub-Plan subsidy (₹1.5 lakh).
-
-After subsidy, his net financed amount was ₹4.5 lakh. Monthly EMI: ₹9,200 at 7% (DCCB).
-
-In his first season (kharif 2024), he custom hired in 4 neighbouring villages for 22 days, earning ₹3.96 lakh. After EMI (₹1,10,400/year), fuel costs (₹86,000), and service (₹22,000), his net tractor-related profit was ₹1.38 lakh — over and above the benefit of farming his own land without rental tractor costs.
-
-"NH 3230 konunappudu konchem doubt ga undhi — EMI burden avutundhi ani. Kaani oka season lo tractor income tho purthiga justify aipoyindi. Neighbour farmers kuda NH tayaari."
-
----
-
 ## Frequently Asked Questions
 
 **Q1: Is 35HP sufficient for paddy cultivation in Nizamabad's waterlogged conditions?**

@@ -2,6 +2,7 @@
 title: "New Holland vs John Deere Tractor 2026 — Telangana Farmers' Verdict"
 title_te: "న్యూ హాలండ్ vs జాన్ డీర్ ట్రాక్టర్ 2026 — తెలంగాణ రైతుల తీర్పు"
 date: "2026-04-10"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Comparison"
 tags:
@@ -90,10 +91,6 @@ New Holland's 1,800 kg hydraulic lift vs John Deere's 1,650 kg may seem like a s
 
 ### 5. Parts Availability in Rural Telangana
 New Holland genuine spare parts are available at Prakash Motors, Nizamabad — in stock for all common service items. John Deere parts for rural Telangana typically need to be ordered from Hyderabad or the JD regional hub, adding 3–7 days to any repair job.
-
-## Real Farmer Voice — Srinivas Rao, Bodhan Mandal
-
-*"I owned a John Deere 5050D for 3 years before switching to the NH 4710 Excel. The JD was a good tractor but every service visit cost me a day of travel to Hyderabad or waiting for a technician to come from far. When it broke down during paddy season, I lost 4 days. With New Holland and Prakash Motors, I've never waited more than one day for service."*
 
 ## When Should You Consider John Deere?
 
