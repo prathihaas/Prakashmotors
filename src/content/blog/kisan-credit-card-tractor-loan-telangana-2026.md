@@ -2,6 +2,7 @@
 title: "Kisan Credit Card Tractor Loan in Telangana 2026 — Complete Guide"
 title_te: "కిసాన్ క్రెడిట్ కార్డ్‌తో ట్రాక్టర్ లోన్ తెలంగాణ 2026"
 date: "2026-05-05"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Finance"
 tags:
@@ -98,7 +99,7 @@ DCCB also processes Telangana state scheme subsidies alongside KCC, which can be
 
 **Step 4: Submit your KCC enhancement application.** Submit all documents at your bank's agricultural loan desk. Most banks process KCC enhancement applications within 7-15 working days for Nizamabad district farmers.
 
-**Step 5: Apply for SMAM subsidy simultaneously.** The SMAM tractor subsidy (25-50%) can be applied for concurrently with the KCC application. Subsidy approval reduces your loan principal. Prakash Motors coordinates this with the Nizamabad district agriculture office.
+**Step 5: Apply for SMAM subsidy simultaneously.** Any subsidy you are eligible for (see our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/)) can be applied for concurrently with the KCC application. Subsidy approval reduces your loan principal. Prakash Motors coordinates this with the Nizamabad district agriculture office.
 
 **Step 6: Take delivery.** Once the KCC limit is approved and subsidy is confirmed, funds are disbursed directly to Prakash Motors. You take delivery of the tractor and commence your first KCC repayment cycle.
 

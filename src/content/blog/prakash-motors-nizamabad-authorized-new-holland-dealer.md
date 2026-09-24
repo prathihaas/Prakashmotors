@@ -2,6 +2,7 @@
 title: "Prakash Motors Nizamabad — Your Trusted New Holland Dealer"
 title_te: "ప్రకాష్ మోటార్స్ నిజామాబాద్ — మీ విశ్వసనీయ న్యూ హాలండ్ డీలర్"
 date: "2026-03-05"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:
@@ -102,7 +103,7 @@ Counterfeit and sub-standard parts are widespread in India's used parts market. 
 ### 4. Finance and Subsidy Support
 Authorized dealers have established relationships with banks for agricultural loans. Our team assists you with:
 - Bank loan applications
-- Government subsidy applications (SMAM, PM Kisan Tractor Yojana)
+- Government subsidy applications (see our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/) for current details)
 - Document preparation
 
 ### 5. Local Knowledge and Trusted Advice

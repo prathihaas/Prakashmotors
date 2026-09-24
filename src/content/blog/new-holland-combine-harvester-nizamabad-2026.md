@@ -2,6 +2,7 @@
 title: "New Holland Combine Harvester in Nizamabad — Is It Worth Buying?"
 title_te: "నిజామాబాద్‌లో న్యూ హాలండ్ కంబైన్ హార్వెస్టర్ — కొనుగోలు సార్థకమా?"
 date: "2026-02-24"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:
@@ -135,13 +136,7 @@ The TC5.30's multi-crop harvesting capability extends the machine's working seas
 
 ## Government Subsidy on Combine Harvesters
 
-The central and state government offer significant subsidies on combine harvester purchase:
-
-- **Pradhan Mantri Kisan schemes**: SC/ST farmers and small-marginal farmers may receive 50% subsidy
-- **General farmers**: 25–40% subsidy under SMAM (Sub-Mission on Agricultural Mechanization)
-- **Custom hiring center (CHC) establishment**: Up to ₹10 lakhs subsidy for setting up CHC with combine harvester
-
-Subsidy reduces the effective investment by ₹5–13 lakhs, dramatically improving the financial case.
+Farm mechanisation schemes may cover harvesters for eligible buyers. Subsidy rules and amounts change every year, so see our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/) for current eligibility and details.
 
 For current subsidy availability and application assistance, contact Prakash Motors.
 

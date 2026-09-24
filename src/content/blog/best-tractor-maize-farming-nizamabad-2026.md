@@ -2,6 +2,7 @@
 title: "Best Tractor for Maize Farming in Nizamabad 2026"
 title_te: "నిజామాబాద్‌లో మొక్కజొన్న సాగుకు బెస్ట్ ట్రాక్టర్ 2026"
 date: "2026-05-05"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Farming Tips"
 tags:
@@ -25,7 +26,7 @@ Maize cultivation is expanding rapidly in Nizamabad district, particularly in th
 > - Maize requires tillage to 25-30cm depth, row-spacing sowing, and 2-3 inter-row cultivation passes
 > - NH 3230 TX is the lowest-cost entry for small maize farms (5-12 acres) at ~₹6.77L on-road
 > - A maize planter (2-4 row) is the most important implement for uniform plant spacing and yield
-> - SMAM subsidy (25-50% up to ₹1.25L) applies to all eligible Nizamabad farmers
+> - Subsidy eligibility depends on farmer category and tractor HP (see our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/))
 
 Related: [Best tractor for Nizamabad district](/blog/best-tractor-nizamabad-district-2026/)
 
@@ -104,7 +105,7 @@ Getting the right implements dramatically improves maize yield and reduces per-a
 
 ## Subsidy and Finance for Maize Farmers
 
-Maize farmers in Nizamabad district qualify for the SMAM tractor subsidy on the same terms as other crop farmers. General category farmers receive 25% subsidy up to ₹75,000. SC/ST and women farmers receive 50% up to ₹1.25L ([Ministry of Agriculture, GoI](https://agricoop.nic.in), 2025).
+Maize farmers in Nizamabad district are treated the same as other crop farmers for subsidy purposes. Subsidy rules and amounts change every year, so see our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/) for current eligibility and details.
 
 Finance is available through SBI, Telangana Grameena Bank, and DCCB Nizamabad. A Kisan Credit Card can also be used for tractor purchase in Telangana, typically at 7% interest for timely repayment versus 9-11% for standard tractor loans.
 

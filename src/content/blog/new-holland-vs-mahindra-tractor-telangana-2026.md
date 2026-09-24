@@ -2,7 +2,7 @@
 title: "New Holland vs Mahindra Tractor 2026 — Which is Best for Telangana Farmers?"
 title_te: "న్యూ హాలండ్ vs మహీంద్రా ట్రాక్టర్ 2026 — తెలంగాణ రైతులకు ఏది బెస్ట్?"
 date: "2026-03-10"
-updated: "2026-09-07"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 featured_image: "/images/blog/new-holland-vs-mahindra-tractor.jpg"
@@ -140,7 +140,7 @@ Mahindra has a slight edge here. The brand recognition in the second-hand market
 
 The best way to decide is to see both tractors work in your own field. Prakash Motors offers **free field demonstrations** of all New Holland models in Nizamabad district. Bring your biggest challenge — wet paddy field, deep black soil, steep slope — and we will show you what the machine can do.
 
-**Call or WhatsApp:** +91 7981913360
+**Call or WhatsApp:** +91 9030857333
 **Location:** Opposite New Bus Stand, Nizamabad, Telangana 503001
 
 ---

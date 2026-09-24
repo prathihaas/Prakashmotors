@@ -2,6 +2,7 @@
 title: "New Holland Tractor Price List Telangana 2026 — All Models"
 title_te: "న్యూ హాలెండ్ ట్రాక్టర్ ధరల జాబితా తెలంగాణ 2026"
 date: "2026-05-05"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:
@@ -23,7 +24,7 @@ Tractor prices in Telangana include several charges beyond the ex-showroom figur
 > - Telangana road tax on tractors is 9% of ex-showroom price
 > - Registration adds ₹8,000-12,000; first-year insurance adds ₹12,000-35,000 depending on model
 > - NH 3630 TX Plus (47HP) is the most popular model in Nizamabad at ₹7.20-7.80L ex-showroom
-> - SMAM subsidy (25-50%) can be claimed before or at purchase — Prakash Motors handles the paperwork
+> - Subsidy eligibility depends on farmer category and tractor HP — Prakash Motors handles the paperwork
 > - KCC-linked loans offer 7% interest vs standard tractor loans at 9-11%
 
 Related: [Tractor loan options](/blog/kcc-tractor-loan-telangana-2026/)
@@ -76,7 +77,7 @@ CNH Industrial periodically releases special edition liveries or anniversary mod
 
 ### SMAM (Sub-Mission on Agricultural Mechanisation)
 
-The Central Government's SMAM scheme offers 25% subsidy (maximum ₹75,000) for general category farmers and 50% subsidy (maximum ₹1.25 lakh) for SC/ST and women farmers. This subsidy applies at purchase time and directly reduces your down payment requirement.
+Subsidy rules and amounts change every year, so see our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/) for current eligibility and details.
 
 To qualify, you must register on the State Agriculture Portal before purchase. Prakash Motors' team in Nizamabad guides buyers through this registration and submission process at no extra charge.
 

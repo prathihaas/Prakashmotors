@@ -2,6 +2,7 @@
 title: "Best 50HP Tractor in Telangana 2026 — New Holland Wins"
 title_te: "తెలంగాణలో బెస్ట్ 50HP ట్రాక్టర్ 2026 — న్యూ హాలండ్ గెలిచింది"
 date: "2026-04-10"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Comparison"
 tags:
@@ -132,7 +133,7 @@ Yes — 50HP is the ideal range for cotton in Nizamabad's deep black Vertisol so
 For Nizamabad farmers, the NH 4710 Excel is the better choice due to lower total cost of ownership, superior local service at Prakash Motors, and equivalent field performance. The John Deere 5050D costs ₹1.5 lakh more upfront and has no authorised dealer within 180 km of Nizamabad.
 
 **Q3: Can I get a subsidy on the 50HP tractor purchase?**
-Yes. Under the Agricultural Mechanisation scheme, SC/ST farmers can avail up to 50% subsidy (max ₹1.5 lakh) on tractor purchases. General category farmers may receive 25-40%. Prakash Motors assists with all subsidy documentation. Contact our team for eligibility verification.
+Direct tractor subsidy in Telangana is limited to specific farmer categories and lower-HP tractors, so check eligibility first. Subsidy rules and amounts change every year, so see our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/) for current eligibility and details. Prakash Motors assists with all subsidy documentation. Contact our team for eligibility verification.
 
 **Q4: What is the resale value of NH 4710 Excel after 5 years?**
 New Holland tractors consistently command 55–65% of purchase price at resale after 5 years of regular use, compared to 45–55% for Sonalika and 50–60% for Mahindra in the Nizamabad secondary market. Strong brand recognition and Prakash Motors service records boost resale value significantly.

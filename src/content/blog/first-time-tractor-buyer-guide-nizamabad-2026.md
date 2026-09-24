@@ -2,6 +2,7 @@
 title: "First Time Tractor Buyer Guide for Nizamabad Farmers 2026"
 title_te: "నిజామాబాద్ రైతులకు మొదటిసారి ట్రాక్టర్ కొనుగోలు గైడ్ 2026"
 date: "2026-04-10"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:
@@ -160,7 +161,7 @@ A brand with no authorised dealer in Nizamabad means every spare part is a 4-hou
 Overpowered tractors waste fuel on small plots. A 55HP tractor doing 10 acres of paddy in Armoor is burning ₹15,000 more fuel per year than necessary.
 
 ### Mistake 4: Not Claiming Subsidies
-Many eligible farmers — especially SC/ST and women farmers — miss subsidies worth ₹1–2 lakh due to lack of documentation help. Prakash Motors assists with all subsidy paperwork at no charge.
+Many eligible farmers — especially SC/ST and women farmers — miss subsidies they are eligible for due to lack of documentation help. Prakash Motors assists with all subsidy paperwork at no charge.
 
 ### Mistake 5: Skipping the Test Drive
 Every tractor brand feels different. Test the clutch, hydraulic lever, seat comfort, and noise level before committing. Prakash Motors offers test drives Monday through Saturday.

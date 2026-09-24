@@ -2,6 +2,7 @@
 title: "How to Choose a Tractor in Telangana — 7 Key Factors 2026"
 title_te: "తెలంగాణలో ట్రాక్టర్ ఎలా ఎంచుకోవాలి — 7 ముఖ్యమైన అంశాలు 2026"
 date: "2026-02-13"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:
@@ -144,7 +145,7 @@ Your budget determines what's accessible. But "budget" should be thought of as:
 **EMI affordability rule of thumb**:
 EMI should not exceed 30% of your average monthly farming income. For a Nizamabad farmer with 20 acres in mixed crops, average monthly income might be ₹40,000–₹60,000. EMI budget: ₹12,000–₹18,000/month.
 
-**Subsidy potential**: Small/marginal farmer status, SC/ST category, or women farmer status can reduce your effective purchase cost by 25–50%. Check eligibility before finalizing your budget.
+**Subsidy potential**: Subsidy rules and amounts change every year, so see our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/) for current eligibility and details. Check eligibility before finalizing your budget.
 
 **Long-term cost**: A ₹2 lakh cheaper tractor that has ₹50,000/year higher repair costs is more expensive over 7 years. Calculate total cost of ownership, not just sticker price.
 

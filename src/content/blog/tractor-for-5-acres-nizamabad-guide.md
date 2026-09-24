@@ -2,6 +2,7 @@
 title: "What Tractor to Buy for 5 Acres in Nizamabad — 2026 Guide"
 title_te: "నిజామాబాద్‌లో 5 ఎకరాలకు ఏ ట్రాక్టర్ కొనాలి — 2026 గైడ్"
 date: "2026-03-11"
+updated: "2026-09-24"
 author: "Prakash Motors Team"
 category: "Buying Guide"
 tags:
@@ -143,10 +144,8 @@ If custom hiring is part of your plan, the [New Holland 3230](/products/new-holl
 For 5-acre farmers, financing is well-supported:
 
 **Kisan Credit Card (KCC)**: If you have a KCC with sufficient limit, it can cover the down payment
-**PM Kisan Tractor Subsidy**: SC/ST and small/marginal farmers are primary beneficiaries — 25–50% subsidy
+**Subsidy**: Subsidy rules and amounts change every year, so see our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/) for current eligibility and details.
 **Grameena Bank loans**: Lower interest rates for marginal farmers in rural areas
-
-With a 35HP tractor and maximum subsidy (SC/ST: 50%), the effective out-of-pocket could be as low as ₹4–4.5 lakhs — making the financial case significantly better.
 
 ---
 
