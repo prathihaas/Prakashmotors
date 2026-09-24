@@ -109,7 +109,7 @@ A 55 HP New Holland tractor like the 3630 TX Super Plus typically boasts a stron
 
 ### ## How does the New Holland 3630 TX Super Plus compare to the New Holland 3600-2 Excel (49 HP)?
 
-The New Holland 3630 TX Super Plus (55 HP) offers more raw power and torque compared to the 3600-2 Excel (49 HP), making it better suited for heavier implements, more demanding soil conditions, or larger landholdings. While the 3600-2 Excel is an excellent choice for smaller farms and lighter tasks, the 3630 TX Super Plus provides that extra punch for increased productivity and versatility. You can learn more about the 3600-2 Excel at [/products/new-holland-3600-2-excel].
+The New Holland 3630 TX Super Plus (55 HP) offers more raw power and torque compared to the 3600-2 Excel (49 HP), making it better suited for heavier implements, more demanding soil conditions, or larger landholdings. While the 3600-2 Excel is an excellent choice for smaller farms and lighter tasks, the 3630 TX Super Plus provides that extra punch for increased productivity and versatility. You can learn more about the 3600-2 Excel at [New Holland 3600-2 Excel](/products/new-holland-3600-2-excel/).
 
 ### Final Thoughts
 

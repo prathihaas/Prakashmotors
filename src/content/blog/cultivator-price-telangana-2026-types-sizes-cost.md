@@ -120,7 +120,7 @@ The Telangana government offers various subsidies under its Farm Mechanization S
 *   **Subsidy Amount:** The percentage or fixed amount of subsidy varies by implement type and government notification. It's crucial to check the latest guidelines.
 *   **Application Process:** Typically involves applying through the Agriculture Department, often requiring documentation like land records, Aadhar card, and tractor registration. We can guide you through the process.
 
-We strongly recommend checking the current subsidy schemes. You can find more details on our dedicated page: [Telangana Tractor Subsidy: Complete Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026). This can make a substantial difference in your overall cultivator price.
+We strongly recommend checking the current subsidy schemes. You can find more details on our dedicated page: [Telangana Tractor Subsidy: Complete Guide 2026](/blog/tractor-subsidy-telangana-2026-guide/). This can make a substantial difference in your overall cultivator price.
 
 ## Where to Buy and What to Look For
 

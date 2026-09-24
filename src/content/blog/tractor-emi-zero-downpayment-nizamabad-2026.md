@@ -153,7 +153,6 @@ A: Yes. Rythu Bandhu disbursements are credited to your linked bank account and 
 ## Also Read
 
 - [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026/)
-- [Telangana Tractor Subsidy 2026 — How to Apply](/blog/telangana-tractor-subsidy-2026-how-to-apply)
-- [PM Kisan Tractor Scheme 2026 — Complete Guide](/blog/telangana-tractor-subsidy-complete-guide-2026)
+- [Telangana Tractor Subsidy 2026 — How to Apply](/blog/tractor-subsidy-telangana-2026-guide/)
 - [First Time Tractor Buyer Guide for Nizamabad Farmers 2026](/blog/first-time-tractor-buyer-guide-nizamabad-2026)
 - [Best Tractor Under 7 Lakh in Telangana 2026](/blog/best-tractor-under-7-lakh-telangana-2026)

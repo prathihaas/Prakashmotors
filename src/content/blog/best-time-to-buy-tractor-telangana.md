@@ -57,7 +57,7 @@ At our Nizamabad showroom, the question we hear most often is about these subsid
 
 We strongly advise farmers to keep a close watch on announcements from the Department of Agriculture, Telangana. Often, the application period for subsidies might open just before the peak buying seasons. Applying early and having your documents ready is key.
 
-For a detailed understanding of the schemes, you can refer to our guide on [Telangana Tractor Subsidy: Complete Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026). It's always best to contact us directly for the latest information on current subsidy programs and how they apply to New Holland tractors.
+For a detailed understanding of the schemes, you can refer to our guide on [Telangana Tractor Subsidy: Complete Guide 2026](/blog/tractor-subsidy-telangana-2026-guide/). It's always best to contact us directly for the latest information on current subsidy programs and how they apply to New Holland tractors.
 
 ## Financing Your Tractor Purchase: EMI & Loans
 

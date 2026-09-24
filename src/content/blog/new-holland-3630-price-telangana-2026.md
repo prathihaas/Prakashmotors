@@ -88,7 +88,7 @@ To support local farmers, the Telangana state government occasionally rolls out 
 
 While direct subsidies on the tractor engine itself depend on active government budgets and specific beneficiary categories (such as SC/ST or small/marginal farmer schemes), there are consistent, attractive subsidies available on key implements used with the New Holland 3630. These include rotavators, laser land levelers, and seed drills. 
 
-By purchasing your tractor along with subsidized implements from an authorized dealer like Prakash Motors, you can significantly reduce your overall setup cost. For step-by-step instructions on how to apply for these state benefits, read our [Telangana Tractor Subsidy Complete Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026).
+By purchasing your tractor along with subsidized implements from an authorized dealer like Prakash Motors, you can significantly reduce your overall setup cost. For step-by-step instructions on how to apply for these state benefits, read our [Telangana Tractor Subsidy Complete Guide 2026](/blog/tractor-subsidy-telangana-2026-guide/).
 
 ---
 

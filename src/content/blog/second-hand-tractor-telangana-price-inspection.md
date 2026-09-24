@@ -114,7 +114,7 @@ Remember, a second hand tractor is like any used vehicle – it will have some w
 
 ## Financing Your Second Hand Tractor Purchase
 
-Even for a used tractor, financing options are available. Many banks offer loans for second hand farm machinery. We at Prakash Motors can guide you through the process. We also accept Kisan Credit Card (KCC) loans, making the purchase more accessible. EMI options for new tractors start from as low as Rs 3,999/month, and similar schemes can often be arranged for quality used machines. Understanding the loan process is critical, and we've covered it in detail in our guide on [/blog/kcc-tractor-loan-telangana-2026](/blog/kcc-tractor-loan-telangana-2026/).
+Even for a used tractor, financing options are available. Many banks offer loans for second hand farm machinery. We at Prakash Motors can guide you through the process. We also accept Kisan Credit Card (KCC) loans, making the purchase more accessible. EMI options for new tractors start from as low as Rs 3,999/month, and similar schemes can often be arranged for quality used machines. Understanding the loan process is critical, and we've covered it in detail in our guide on [KCC tractor loan guide for Telangana](/blog/kcc-tractor-loan-telangana-2026/).
 
 ## Importance of After-Sales Service and Parts
 
@@ -132,7 +132,7 @@ You can verify the documents for a used tractor by checking the Registration Cer
 Common problems in an old tractor engine include excessive smoke (blue, black, or white), unusual knocking or grinding noises, oil leaks around seals and gaskets, low oil pressure, and overheating. Always check the engine oil and coolant for contamination, which can indicate serious internal issues.
 
 ### Is it better to buy a second hand tractor from a dealer or a private seller?
-Buying a second hand tractor from an authorized dealer like Prakash Motors often provides more peace of mind, as dealers typically inspect and service machines before sale, and may offer limited warranties. Private sellers might offer lower prices, but you take on more risk regarding the tractor's true condition and history. We also guide you on available subsidies, like those for implements which you can learn more about at [/blog/telangana-tractor-subsidy-complete-guide-2026](/blog/telangana-tractor-subsidy-complete-guide-2026).
+Buying a second hand tractor from an authorized dealer like Prakash Motors often provides more peace of mind, as dealers typically inspect and service machines before sale, and may offer limited warranties. Private sellers might offer lower prices, but you take on more risk regarding the tractor's true condition and history. We also guide you on available subsidies, like those for implements which you can learn more about at [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/).
 
 Choosing the right second hand tractor is a significant decision for your farming future. Don't rush it. Take your time, use this checklist, and if you need any assistance or want to explore our range of new New Holland tractors, including the robust New Holland Excel 4710, or understand financing options, we are here to help.
 

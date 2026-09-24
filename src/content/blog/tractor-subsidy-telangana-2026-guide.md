@@ -92,9 +92,9 @@ Here are the approximate ex-showroom prices (as of July 2026) for popular New Ho
 | New Holland 5620 TX Plus | 65 HP | Rs 11.0 - 12.2 lakh |
 | New Holland Workmaster 105 | 106 HP | Rs 26 - 29 lakh |
 
-If you want to check out the 47 HP variant, see our detailed page on the [/products/new-holland-excel-4710](/products/new-holland-excel-4710). For medium-duty paddy work, the [/products/new-holland-3600-2-excel](/products/new-holland-3600-2-excel) is a local favorite.
+If you want to check out the 47 HP variant, see our detailed page on the [New Holland Excel 4710](/products/new-holland-excel-4710/). For medium-duty paddy work, the [New Holland 3600-2 Excel](/products/new-holland-3600-2-excel/) is a local favorite.
 
-For those looking at 55 HP tractors like the popular TX Super Plus, you can read our comprehensive guide on [/products/new-holland-3630-tx-super-plus](/products/new-holland-3630-tx-super-plus).
+For those looking at 55 HP tractors like the popular TX Super Plus, you can read our comprehensive guide on [New Holland 3630 TX Super Plus](/products/new-holland-3630-tx-super-plus/).
 
 ## Why Buy From Prakash Motors, Nizamabad?
 
@@ -102,7 +102,7 @@ We aren't a faceless corporate showroom. Prakash Motors has been operating oppos
 
 **మార్కెట్ లో tractor rates and subsidy rules మారుతూ ఉంటాయి**, so relying on an experienced local dealer saves you thousands. We handle the RTO paperwork, insurance, and even assist with your subsidy application documentation.
 
-If you want to understand how to combine your KCC loan with the best tractor financing, check out our detailed post on [KCC tractor loan in Telangana](/blog/kcc-tractor-loan-telangana-2026/). For a broader view of the state schemes, our [/blog/telangana-tractor-subsidy-complete-guide-2026](/blog/telangana-tractor-subsidy-complete-guide-2026) breaks down the fine print. And if you are looking at heavy-duty options like the 106 HP Workmaster, visit [/products/new-holland-workmaster-105](/products/new-holland-workmaster-105).
+If you want to understand how to combine your KCC loan with the best tractor financing, check out our detailed post on [KCC tractor loan in Telangana](/blog/kcc-tractor-loan-telangana-2026/). And if you are looking at heavy-duty options like the 106 HP Workmaster, visit [New Holland Workmaster 105](/products/new-holland-workmaster-105/).
 
 ## Frequently Asked Questions
 

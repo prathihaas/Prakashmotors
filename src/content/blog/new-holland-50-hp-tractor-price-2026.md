@@ -112,7 +112,7 @@ While technically 49 HP, the New Holland 3600-2 Excel performs exceptionally wel
 Both are excellent tractors, but the 'better' choice depends on your specific needs. The 3600-2 Excel (49 HP) is a versatile, powerful all-rounder for general farming and heavier implements. The Excel 4710 (47 HP) is more compact and agile, ideal for inter-cultivation, orchards, and smaller fields where manoeuvrability is key.
 
 ### ## Can I get a subsidy on a New Holland 50 HP tractor in Telangana?
-Yes, the Telangana government offers farm mechanization subsidies on select implements and tractors, which can indirectly benefit your purchase. While direct tractor subsidies might vary, certain implements purchased with the tractor could be eligible. Contact Prakash Motors for today's exact details on applicable subsidies. You can also refer to our guide on [Telangana Tractor Subsidy](/blog/telangana-tractor-subsidy-complete-guide-2026).
+Yes, the Telangana government offers farm mechanization subsidies on select implements and tractors, which can indirectly benefit your purchase. While direct tractor subsidies might vary, certain implements purchased with the tractor could be eligible. Contact Prakash Motors for today's exact details on applicable subsidies. You can also refer to our guide on [Telangana Tractor Subsidy](/blog/tractor-subsidy-telangana-2026-guide/).
 
 ## Ready to Choose Your New Holland 50 HP Tractor?
 

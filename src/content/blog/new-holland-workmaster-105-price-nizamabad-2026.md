@@ -68,7 +68,7 @@ While other brands like John Deere and Kubota offer high-HP models, the Workmast
 
 Investing in a tractor of this caliber requires careful financial planning. At Prakash Motors, we understand this completely. We work with various banks and financial institutions to offer competitive loan options. While the EMI for a Workmaster 105 will be considerably higher than the Rs 3,999/month we advertise for smaller models, we can help you structure a plan that fits your budget.
 
-We also accept Kisan Credit Card (KCC) loans, making the purchase process more accessible for eligible farmers. Don't forget to inquire about the [Telangana tractor subsidy](/blog/telangana-tractor-subsidy-complete-guide-2026) for implements, which can further reduce your overall investment in farm mechanization.
+We also accept Kisan Credit Card (KCC) loans, making the purchase process more accessible for eligible farmers. Don't forget to inquire about the [Telangana tractor subsidy](/blog/tractor-subsidy-telangana-2026-guide/) for implements, which can further reduce your overall investment in farm mechanization.
 
 ### EMI Options for the Workmaster 105
 

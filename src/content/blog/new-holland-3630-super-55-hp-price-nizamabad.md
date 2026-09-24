@@ -93,7 +93,7 @@ Our team can help you navigate the paperwork and secure the best financing deal.
 
 Telangana's government offers various subsidies under farm mechanization schemes, which can significantly reduce the effective cost of your tractor and implements. While the New Holland 3630 Super 55 HP itself might not always qualify for a direct subsidy, certain implements purchased with it, or even lower HP models like the [New Holland 3600-2 Excel (49 HP)](/products/new-holland-3600-2-excel), often do.
 
-We stay updated on all government schemes and can guide you on what subsidies you might be eligible for. It’s always worth checking, as these can provide substantial savings. You can find more information in our [Telangana tractor subsidy guide](/blog/telangana-tractor-subsidy-complete-guide-2026/).
+We stay updated on all government schemes and can guide you on what subsidies you might be eligible for. It’s always worth checking, as these can provide substantial savings. You can find more information in our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/).
 
 ## Frequently Asked Questions
 

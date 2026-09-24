@@ -78,7 +78,7 @@ Investing in a harvester is a significant step towards modernizing your farm. Pr
 *   **Kisan Credit Card (KCC) Loans:** We accept KCC loans, helping you leverage existing credit facilities for your agricultural machinery purchase.
 *   **Custom Loan Solutions:** Our finance team will work with you to find the best loan terms, interest rates, and repayment schedules.
 
-Learn more about financing options on our dedicated page: [/blog/kcc-tractor-loan-telangana-2026](/blog/kcc-tractor-loan-telangana-2026/).
+Learn more about financing options on our dedicated page: [KCC tractor loan guide for Telangana](/blog/kcc-tractor-loan-telangana-2026/).
 
 ## Telangana Farm Mechanization Subsidy for Harvesters
 
@@ -86,7 +86,7 @@ The Telangana government frequently offers subsidies to encourage farm mechaniza
 
 **Currently, subsidies may be available on select harvesters and attachments. We encourage you to inquire with our team about the current subsidy programs and whether your chosen New Holland harvester model qualifies.**
 
-For more details on state support, you can visit: [/blog/telangana-tractor-subsidy-complete-guide-2026](/blog/telangana-tractor-subsidy-complete-guide-2026).
+For more details on state support, you can visit: [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/).
 
 ## Why Choose New Holland for Your Harvester Needs?
 

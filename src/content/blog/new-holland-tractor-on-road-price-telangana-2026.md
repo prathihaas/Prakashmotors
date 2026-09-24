@@ -96,7 +96,7 @@ Several banks offer dedicated tractor loan schemes with competitive interest rat
 
 ### Farm Mechanization Subsidies in Telangana
 
-The Telangana government frequently offers subsidies on farm machinery, including New Holland tractors and implements, under various farm mechanization schemes. These subsidies can significantly reduce your effective purchase cost. We stay updated on the latest schemes and can guide you on eligibility and application. For a detailed overview, refer to our blog post on [Telangana Tractor Subsidy](/blog/telangana-tractor-subsidy-complete-guide-2026).
+The Telangana government frequently offers subsidies on farm machinery, including New Holland tractors and implements, under various farm mechanization schemes. These subsidies can significantly reduce your effective purchase cost. We stay updated on the latest schemes and can guide you on eligibility and application. For a detailed overview, refer to our blog post on [Telangana Tractor Subsidy](/blog/tractor-subsidy-telangana-2026-guide/).
 
 ## Why Choose Prakash Motors for Your New Holland Tractor in Nizamabad?
 

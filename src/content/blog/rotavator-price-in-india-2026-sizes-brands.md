@@ -83,7 +83,7 @@ At Prakash Motors, we provide transparent pricing. When you inquire about the ro
 
 One of the most significant ways to reduce the effective rotavator price for farmers in Telangana is through the **Farm Mechanization Subsidy**. The Telangana government frequently offers schemes to promote the adoption of modern agricultural machinery. These subsidies can cover a substantial portion of the implement's cost, making it much more affordable.
 
-At our Nizamabad showroom, we have helped countless farmers navigate the subsidy application process. The exact percentage or amount of subsidy can vary year to year and depends on government policies. We recommend checking with us or visiting the official Telangana Agriculture Department website for the latest updates on subsidy eligibility and procedures. You can also read our detailed guide on the [Telangana Tractor Subsidy: Complete Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026) for more information that often applies to implements too.
+At our Nizamabad showroom, we have helped countless farmers navigate the subsidy application process. The exact percentage or amount of subsidy can vary year to year and depends on government policies. We recommend checking with us or visiting the official Telangana Agriculture Department website for the latest updates on subsidy eligibility and procedures. You can also read our detailed guide on the [Telangana Tractor Subsidy: Complete Guide 2026](/blog/tractor-subsidy-telangana-2026-guide/) for more information that often applies to implements too.
 
 ## Choosing the Right Rotavator: Beyond Just Price
 

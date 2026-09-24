@@ -53,7 +53,7 @@ Several elements come into play when determining your final monthly payment for 
 
 The principal loan amount is the most significant factor. If you choose a New Holland 3630 TX Super Plus, which ranges from Rs 8.60-9.30 lakh (ex-showroom as of August 2026), your loan requirement will be different than for an Excel 4710 (Rs 7.5-8.2 lakh). A larger down payment directly reduces the principal you need to borrow, thereby lowering your EMI.
 
-Many farmers in Nizamabad prefer to make a substantial down payment, especially after a good harvest, to keep their monthly burden manageable. We also see interest in <a href="/blog/telangana-tractor-subsidy-complete-guide-2026">Telangana farm mechanization subsidies</a> which can effectively reduce the purchase price of certain implements, indirectly impacting the total loan requirement.
+Many farmers in Nizamabad prefer to make a substantial down payment, especially after a good harvest, to keep their monthly burden manageable. We also see interest in <a href="/blog/tractor-subsidy-telangana-2026-guide/">Telangana farm mechanization subsidies</a> which can effectively reduce the purchase price of certain implements, indirectly impacting the total loan requirement.
 
 ### Interest Rates
 

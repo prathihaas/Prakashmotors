@@ -33,7 +33,7 @@ When farmers from Armour, Banswada, and Bodhan walk into our Prakash Motors show
 
 The Mahindra 575 DI is a 47 HP tractor, while the New Holland 3630 TX Super Plus is a 55 HP machine. You are comparing a mid-range workhorse with a heavy-duty one. If your farming involves deep tilling in the black cotton soils of Telangana or running a 6-foot rotary tiller in wet paddy fields, the extra 8 HP and superior hydraulic lift of the New Holland make a massive difference. 
 
-For a closer look at the exact specs of the New Holland model, check out our detailed page on the [/products/new-holland-3630-tx-super-plus](/products/new-holland-3630-tx-super-plus).
+For a closer look at the exact specs of the New Holland model, check out our detailed page on the [New Holland 3630 TX Super Plus](/products/new-holland-3630-tx-super-plus/).
 
 ## On-Road Price in Nizamabad (As of July 2026)
 
@@ -46,7 +46,7 @@ Let's talk numbers. Ex-showroom prices are one thing, but what you pay at the RT
 | New Holland 3630 4x4 | 55 HP | Rs 10.2 - 11.0 lakh | Wet fields, high traction needs |
 | Mahindra 575 DI (Rival) | 47 HP | Call for today's exact price | Lighter farming, haulage |
 
-If you want something smaller for a compact holding, the [/products/new-holland-3600-2-excel](/products/new-holland-3600-2-excel) (49 HP, Rs 7.9-8.5 lakh) is a better like-for-like rival to the Mahindra 575.
+If you want something smaller for a compact holding, the [New Holland 3600-2 Excel](/products/new-holland-3600-2-excel/) (49 HP, Rs 7.9-8.5 lakh) is a better like-for-like rival to the Mahindra 575.
 
 ## Engine Performance and Paddy Farming Usability
 
@@ -73,13 +73,13 @@ Why does New Holland hold better resale value? Three reasons:
 
 Buying a tractor shouldn't be a financial burden. We facilitate tractor loans with EMIs starting from just Rs 3,999 per month. We accept KCC (Kisan Credit Card) loans, making it easier for you to utilize your existing agricultural credit limits.
 
-To understand the exact documentation required and how to structure your loan, read our guide on [/blog/kcc-tractor-loan-telangana-2026](/blog/kcc-tractor-loan-telangana-2026/).
+To understand the exact documentation required and how to structure your loan, read our guide on [KCC tractor loan guide for Telangana](/blog/kcc-tractor-loan-telangana-2026/).
 
 ### Calculating Your Monthly Outflow
 
-Let's say you buy the New Holland 3630 TX Super Plus at an ex-showroom price of Rs 8.60 lakh. With a 20% down payment and a 5-year tenure, your EMI works out to be highly manageable. You can also apply the Telangana Government's farm mechanization subsidy to select implements purchased alongside the tractor, lowering your overall setup cost. Read our [/blog/telangana-tractor-subsidy-complete-guide-2026](/blog/telangana-tractor-subsidy-complete-guide-2026) to see if you qualify.
+Let's say you buy the New Holland 3630 TX Super Plus at an ex-showroom price of Rs 8.60 lakh. With a 20% down payment and a 5-year tenure, your EMI works out to be highly manageable. You can also apply the Telangana Government's farm mechanization subsidy to select implements purchased alongside the tractor, lowering your overall setup cost. Read our [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/) to see if you qualify.
 
-If you are looking at higher HP for large commercial farms, don't miss the [/products/new-holland-workmaster-105](/products/new-holland-workmaster-105) (106 HP, Rs 26-29 lakh).
+If you are looking at higher HP for large commercial farms, don't miss the [New Holland Workmaster 105](/products/new-holland-workmaster-105/) (106 HP, Rs 26-29 lakh).
 
 ## Service and Spare Parts Availability
 
@@ -87,7 +87,7 @@ A tractor is only as good as its service network. Mahindra has a wide network, b
 
 When your tractor breaks down during harvest season in Karimnagar, you need parts immediately. Our mobile service vans frequently visit mandals like Banswada and Bodhan to ensure minimum downtime. Generic competitors like Sonalika and Swaraj 744 might offer lower initial prices, but parts delays can cost you days of standing in the field.
 
-For a lighter, lower-cost alternative that still offers excellent parts support, check out the [/products/new-holland-excel-4710](/products/new-holland-excel-4710) (47 HP, Rs 7.5-8.2 lakh).
+For a lighter, lower-cost alternative that still offers excellent parts support, check out the [New Holland Excel 4710](/products/new-holland-excel-4710/) (47 HP, Rs 7.5-8.2 lakh).
 
 ## Frequently Asked Questions
 

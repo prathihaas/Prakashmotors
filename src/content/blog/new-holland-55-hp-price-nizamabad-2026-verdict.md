@@ -56,7 +56,7 @@ The ex-showroom price is just one part of the equation. To get the actual on-roa
 1.  **RTO Registration Charges:** This is mandatory for all vehicles and varies based on the tractor's price and engine capacity. For Nizamabad and other parts of Telangana, these charges can add a significant amount to the final bill. We handle all the paperwork for you.
 2.  **Insurance:** Comprehensive insurance is crucial to protect your investment. The premium depends on the tractor model, its declared value, and the chosen insurance provider. We can help you find competitive rates.
 3.  **Road Tax:** Similar to RTO charges, this is a state-specific tax.
-4.  **Accessories/Attachments:** Depending on your farming needs, you might opt for additional attachments like cultivators, rotavators, or trolleys. While some implements might qualify for the [Telangana farm mechanization subsidy](/blog/telangana-tractor-subsidy-complete-guide-2026), these are separate costs from the tractor itself.
+4.  **Accessories/Attachments:** Depending on your farming needs, you might opt for additional attachments like cultivators, rotavators, or trolleys. While some implements might qualify for the [Telangana farm mechanization subsidy](/blog/tractor-subsidy-telangana-2026-guide/), these are separate costs from the tractor itself.
 5.  **Logistics/Handling Charges:** Sometimes, there might be minor charges for transport from the factory to our showroom.
 
 At Prakash Motors, we believe in complete transparency. When you visit us, we provide a detailed breakdown of all these costs, so there are no surprises.

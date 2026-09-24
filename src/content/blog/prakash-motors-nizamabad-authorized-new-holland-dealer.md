@@ -235,6 +235,6 @@ We serve all of Nizamabad district — Bodhan, Banswada, Armoor, Balkonda, Bheem
 
 - [Best Tractor for Nizamabad District 2026 — Complete Buyer Guide](/blog/best-tractor-nizamabad-district-2026)
 - [New Holland Tractor Service in Nizamabad 2026](/blog/new-holland-tractor-service-nizamabad-2026)
-- [Telangana Tractor Subsidy 2026 — How to Apply](/blog/telangana-tractor-subsidy-2026-how-to-apply)
+- [Telangana Tractor Subsidy 2026 — How to Apply](/blog/tractor-subsidy-telangana-2026-guide/)
 - [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026/)
 - [Why New Holland is Best for Telangana Farmers 2026](/blog/why-new-holland-best-telangana-farmers-2026)

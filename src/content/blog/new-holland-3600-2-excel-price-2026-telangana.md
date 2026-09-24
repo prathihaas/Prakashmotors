@@ -52,7 +52,7 @@ This tractor is built for medium-sized farms — common in Nizamabad, Kamareddy,
 We have tie-ups with all major banks (SBI, HDFC, ICICI, Canara) and also accept **KCC (Kisan Credit Card) loans**. For a 5-year loan on the 3600-2 Excel, your EMI can start as low as **₹3,999 per month** — subject to credit approval and down payment.
 
 ### Telangana Farm Mechanization Subsidy
-If you're buying with an agricultural purpose, you may be eligible for the **Telangana state farm mechanization subsidy** on select implements (rotavator, cultivator, trailer). We help you with the paperwork. Read our detailed guide: [Telangana Tractor Subsidy Complete Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026).
+If you're buying with an agricultural purpose, you may be eligible for the **Telangana state farm mechanization subsidy** on select implements (rotavator, cultivator, trailer). We help you with the paperwork. Read our detailed guide: [Telangana Tractor Subsidy Complete Guide 2026](/blog/tractor-subsidy-telangana-2026-guide/).
 
 ## Key Features of New Holland 3600-2 Excel
 

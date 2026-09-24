@@ -108,7 +108,7 @@ For buyers needing a solid 47 HP workhorse under 8.5 lakh, the [New Holland Exce
 
 ## Combine KCC with Telangana Farm Mechanization Subsidy
 
-Telangana government offers 40-50% subsidy on select farm implements (rotavator, cultivator, trailer, etc.) under the farm mechanization scheme. You can use your KCC loan to buy the tractor, and apply for subsidy on implements separately. Read our detailed guide: [Telangana Tractor Subsidy Complete Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026).
+Telangana government offers 40-50% subsidy on select farm implements (rotavator, cultivator, trailer, etc.) under the farm mechanization scheme. You can use your KCC loan to buy the tractor, and apply for subsidy on implements separately. Read our detailed guide: [Telangana Tractor Subsidy Complete Guide 2026](/blog/tractor-subsidy-telangana-2026-guide/).
 
 **Example:** Buy a New Holland 3600-2 Excel with KCC loan. Then apply subsidy for a rotavator — you get 50% off. Total savings: low-interest loan + subsidized implement.
 

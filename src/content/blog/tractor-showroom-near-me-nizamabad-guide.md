@@ -66,7 +66,7 @@ We offer flexible EMI plans starting from as low as Rs 3,999 per month, making i
 
 ### KCC Loans and Other Subsidies
 
-We accept Kisan Credit Card (KCC) loans, which are a popular and convenient option for many farmers. Additionally, we stay updated on government schemes and [Telangana farm mechanization subsidies](https://www.prakashmotors.in/blog/telangana-tractor-subsidy-complete-guide-2026/) that might be applicable to your purchase. Often, specific implements or tractor models qualify for support, and we can guide you through the application process.
+We accept Kisan Credit Card (KCC) loans, which are a popular and convenient option for many farmers. Additionally, we stay updated on government schemes and [Telangana farm mechanization subsidies](/blog/tractor-subsidy-telangana-2026-guide/) that might be applicable to your purchase. Often, specific implements or tractor models qualify for support, and we can guide you through the application process.
 
 ### On-Road Price vs. Ex-Showroom Price
 

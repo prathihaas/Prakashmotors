@@ -27,7 +27,7 @@ The Kisan Credit Card (KCC) scheme, launched by the Reserve Bank of India in 199
 > - KCC is often used alongside SMAM subsidy to minimize down payment and effective EMI
 > - Required documents: Pattadar Passbook, Aadhaar, Rythu Bandhu registration, crop details, bank statement
 
-[INTERNAL-LINK: complete tractor loan guide → Tractor Loan Guide Telangana 2026]
+Related: [Complete tractor loan guide](/blog/kcc-tractor-loan-telangana-2026/)
 
 ## What Is the Kisan Credit Card and How Does It Work?
 
@@ -102,7 +102,7 @@ DCCB also processes Telangana state scheme subsidies alongside KCC, which can be
 
 **Step 6: Take delivery.** Once the KCC limit is approved and subsidy is confirmed, funds are disbursed directly to Prakash Motors. You take delivery of the tractor and commence your first KCC repayment cycle.
 
-[INTERNAL-LINK: SMAM subsidy application guide → Tractor Subsidy Telangana 2026 — How to Apply]
+Related: [SMAM subsidy application guide](/blog/tractor-subsidy-telangana-2026-guide/)
 
 ## Limitations of KCC for Tractor Purchase
 
@@ -138,7 +138,7 @@ The effective KCC interest rate for crop loans is 7% per annum for farmers who r
 
 - [Tractor Loan Guide Telangana 2026](/blog/kcc-tractor-loan-telangana-2026/)
 - [Tractor EMI Zero Down Payment Nizamabad](/blog/tractor-emi-zero-downpayment-nizamabad-2026)
-- [Tractor Subsidy Telangana 2026 — How to Apply](/blog/telangana-tractor-subsidy-2026-how-to-apply)
+- [Tractor Subsidy Telangana 2026 — How to Apply](/blog/tractor-subsidy-telangana-2026-guide/)
 - [First-Time Tractor Buyer Guide Nizamabad 2026](/blog/first-time-tractor-buyer-guide-nizamabad-2026)
 
 ---

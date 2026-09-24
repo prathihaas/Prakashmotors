@@ -82,7 +82,7 @@ Banks and financial institutions offer specialized agricultural machinery loans.
 
 The Telangana government frequently offers subsidies on agricultural machinery under various farm mechanization schemes. Combine harvesters are often included. These subsidies can significantly reduce your `harvester price`.
 
-*   **How to Apply:** The application process typically involves submitting documents to the agricultural department. We at Prakash Motors stay updated on these schemes and can guide you through the application process. For more detailed information on subsidies, you can refer to our blog post: [Telangana Tractor Subsidy: Complete Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026).
+*   **How to Apply:** The application process typically involves submitting documents to the agricultural department. We at Prakash Motors stay updated on these schemes and can guide you through the application process. For more detailed information on subsidies, you can refer to our blog post: [Telangana Tractor Subsidy: Complete Guide 2026](/blog/tractor-subsidy-telangana-2026-guide/).
 *   **Eligibility:** Eligibility criteria vary by scheme but generally depend on landholding size, farmer category (SC/ST/OBC), and the specific machinery being purchased.
 
 ## Why Choose New Holland Combine Harvesters?

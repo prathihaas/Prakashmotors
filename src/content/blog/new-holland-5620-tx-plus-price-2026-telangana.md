@@ -79,7 +79,7 @@ For a detailed breakdown of how to apply for a tractor loan in Telangana, read o
 
 The Telangana government provides farm mechanization subsidies on select implements. While the tractor chassis itself may not always be subsidized, implements like heavy-duty rotavators, seed drills, and reversible ploughs often qualify. 
 
-The 5620 TX Plus is powerful enough to operate almost all subsidized implements. If you buy a loader or a heavy rotavator with your tractor, we will guide you through the subsidy application process. Check out our complete [Telangana Tractor Subsidy Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026) to see what implements currently qualify.
+The 5620 TX Plus is powerful enough to operate almost all subsidized implements. If you buy a loader or a heavy rotavator with your tractor, we will guide you through the subsidy application process. Check out our complete [Telangana Tractor Subsidy Guide 2026](/blog/tractor-subsidy-telangana-2026-guide/) to see what implements currently qualify.
 
 ## Service and Spare Parts Availability
 

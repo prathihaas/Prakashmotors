@@ -125,7 +125,7 @@ The Telangana government provides subsidy on farm implements under the Rythu Ban
 - Disc harrow (up to 40%)
 - Trailer (up to 25%)
 
-*We handle all paperwork at Prakash Motors. Learn more in our guide: [Telangana Tractor Subsidy Complete Guide 2026](/blog/telangana-tractor-subsidy-complete-guide-2026)*
+*We handle all paperwork at Prakash Motors. Learn more in our guide: [Telangana Tractor Subsidy Complete Guide 2026](/blog/tractor-subsidy-telangana-2026-guide/)*
 
 ---
 

@@ -26,7 +26,7 @@ Tractor prices in Telangana include several charges beyond the ex-showroom figur
 > - SMAM subsidy (25-50%) can be claimed before or at purchase — Prakash Motors handles the paperwork
 > - KCC-linked loans offer 7% interest vs standard tractor loans at 9-11%
 
-[INTERNAL-LINK: tractor loan options → /blog/kcc-tractor-loan-telangana-2026]
+Related: [Tractor loan options](/blog/kcc-tractor-loan-telangana-2026/)
 
 [IMAGE: New Holland tractor lineup at Prakash Motors Nizamabad showroom - search terms: New Holland tractor dealership India]
 
@@ -36,7 +36,7 @@ Ex-showroom price is what the manufacturer charges before state taxes and regist
 
 The total on-road cost works out to approximately 12-15% above ex-showroom price. For a mid-range tractor like the NH 3630 TX Plus at ₹7.50 lakh ex-showroom, expect an on-road figure near ₹8.55-8.65 lakh in Nizamabad.
 
-[INTERNAL-LINK: subsidy schemes that reduce on-road cost → /blog/telangana-tractor-subsidy-2026-how-to-apply]
+Related: [Subsidy schemes that reduce on-road cost](/blog/tractor-subsidy-telangana-2026-guide/)
 
 ## Complete New Holland Tractor Price List — Telangana 2026
 
@@ -80,7 +80,7 @@ The Central Government's SMAM scheme offers 25% subsidy (maximum ₹75,000) for 
 
 To qualify, you must register on the State Agriculture Portal before purchase. Prakash Motors' team in Nizamabad guides buyers through this registration and submission process at no extra charge.
 
-[INTERNAL-LINK: complete subsidy application steps → /blog/telangana-tractor-subsidy-2026-how-to-apply]
+Related: [Complete subsidy application steps](/blog/tractor-subsidy-telangana-2026-guide/)
 
 ### Telangana State Schemes
 
@@ -108,7 +108,7 @@ Reducing tenure from 7 years to 5 years increases the monthly EMI but cuts total
 
 KCC-linked tractor loans through Telangana Grameena Bank carry 7% interest (with timely repayment incentive) versus the standard 9-11% at commercial banks. On a ₹6 lakh loan over 7 years, this 2% difference saves approximately ₹48,000 in total interest.
 
-[INTERNAL-LINK: KCC tractor loan details → /blog/kisan-credit-card-tractor-loan-telangana-2026]
+Related: [KCC tractor loan details](/blog/kisan-credit-card-tractor-loan-telangana-2026/)
 
 ## Frequently Asked Questions
 
@@ -131,7 +131,7 @@ CNH Industrial typically revises prices 1-2 times per year, usually in January a
 
 - [Best Tractor for Nizamabad District 2026](/blog/best-tractor-nizamabad-district-2026)
 - [Tractor Loan Guide for Telangana Farmers 2026](/blog/kcc-tractor-loan-telangana-2026/)
-- [Telangana Tractor Subsidy 2026 — How to Apply](/blog/telangana-tractor-subsidy-2026-how-to-apply)
+- [Telangana Tractor Subsidy 2026 — How to Apply](/blog/tractor-subsidy-telangana-2026-guide/)
 - [First-Time Tractor Buyer Guide Nizamabad 2026](/blog/first-time-tractor-buyer-guide-nizamabad-2026)
 
 ---

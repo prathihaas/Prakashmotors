@@ -31,7 +31,7 @@ Paddy, maize, and soybean cultivation dominate this region. Most farmers here do
 > - Tractors, rotavators, paddy transplanters, harvesters, and power tillers are all covered
 > - Prakash Motors is an empaneled New Holland dealer and can assist with quotation and documentation
 
-[INTERNAL-LINK: tractor financing options → tractor loan guide for Nizamabad farmers]
+Related: [Tractor financing options](/blog/kcc-tractor-loan-telangana-2026/)
 
 ---
 
@@ -116,7 +116,7 @@ Complete the purchase only after approval and only from the empaneled dealer lis
 **Step 6: Subsidy credited to your account**
 After the dealer submits purchase verification documents, the subsidy amount is directly credited to your Aadhaar-linked bank account within 15 to 30 working days.
 
-[INTERNAL-LINK: New Holland tractor models available in Nizamabad → product pages for tractors]
+Related: [New Holland tractor models available in Nizamabad](/#products)
 
 ---
 
@@ -145,7 +145,7 @@ PM-KISAN adds another ₹6,000 per year (₹2,000 per installment, three times a
 
 If you hold 3 acres, Rythu Bandhu alone gives you ₹30,000 per year. Combined with the SMAM subsidy of up to ₹1.5 lakh, the total effective price reduction on a New Holland 3230 or 3630 becomes substantial.
 
-[INTERNAL-LINK: tractor EMI calculator and loan options → tractor loan guide]
+Related: [Tractor EMI calculator and loan options](/blog/kcc-tractor-loan-telangana-2026/)
 
 ---
 
@@ -171,7 +171,7 @@ We do not charge for this assistance. It is part of our service to Nizamabad far
 
 Walk into our showroom on Hyderabad Highway, Nizamabad, or call us at **+91 9030857333** to start your SMAM application review today.
 
-[INTERNAL-LINK: contact page and dealership directions → Prakash Motors Nizamabad contact]
+Related: [Contact page and dealership directions](/contact/)
 
 ---
 
@@ -202,4 +202,4 @@ Start at [agrimachinery.nic.in](https://agrimachinery.nic.in) with your Aadhaar 
 
 Do not wait until the window closes. The number of beneficiaries approved each cycle is limited by state budget allocation. Early applicants have a better chance of being included in the current cycle rather than being pushed to the next.
 
-[INTERNAL-LINK: explore New Holland tractor models suitable for Telangana farming → tractor product pages]
+Related: [Explore New Holland tractor models suitable for Telangana farming](/#products)
