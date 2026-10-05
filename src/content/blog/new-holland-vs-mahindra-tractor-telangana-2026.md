@@ -14,7 +14,7 @@ readTime: "6 min read"
 
 When it comes to buying a tractor in Nizamabad district, the conversation almost always comes down to two names: **New Holland** and **Mahindra**. Both are trusted brands. Both have been working in Telangana's fields for decades. But they are not the same, and for different farming situations, one clearly wins over the other.
 
-This comparison is based on real feedback from farmers in Nizamabad, Bodhan, Banswada, and surrounding mandals — not just brochure numbers.
+
 
 ---
 
@@ -63,7 +63,7 @@ For Nizamabad farmers growing paddy, the higher lift capacity means you can use 
 
 With diesel at ₹90–95 per litre in Nizamabad, fuel costs are a major operating expense.
 
-In actual field use reported by Nizamabad farmers:
+In actual field use:
 - **New Holland 3630 TX Plus:** 2.8–3.2 litres/hour under load
 - **Mahindra 475 DI:** 3.0–3.5 litres/hour under load
 
@@ -75,7 +75,7 @@ The difference is 0.2–0.3 litres per hour. For a farmer running 10 hours a day
 
 ## Build Quality and Durability
 
-New Holland tractors use higher-grade steel in their chassis and implement hitch. Farmers in Nizamabad who have owned both brands consistently report that New Holland withstands the black cotton soil conditions of the region better over a 10-year ownership period.
+New Holland tractors use higher-grade steel in their chassis and implement hitch. New Holland withstands the black cotton soil conditions of the region better over a 10-year ownership period.
 
 Mahindra tractors are well-built but designed to be more affordable to manufacture — which shows in certain components like the PTO shaft, axle quality, and hydraulic pump longevity under continuous use.
 

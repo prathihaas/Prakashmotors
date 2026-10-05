@@ -103,7 +103,7 @@ The purchase price is just the beginning. Evaluate these over 5 years:
 | Resale Value (deduction) | -₹3.5 L | -₹5.0 L |
 | **Net 5-Year Cost** | **₹8.8 L** | **₹7.0 L** |
 
-A ₹1 lakh higher purchase price for New Holland results in ₹1.8 lakh lower total cost of ownership over 5 years. This is a real-world calculation shared by NH farmers in Bodhan and Banswada mandals.
+A ₹1 lakh higher purchase price for New Holland results in ₹1.8 lakh lower total cost of ownership over 5 years.
 
 ---
 

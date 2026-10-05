@@ -38,7 +38,7 @@ Beyond just having the desired tractor in stock, a good dealer offers a comprehe
 
 #### Local Market Understanding
 
-At our Nizamabad showroom, the question we hear most isn't just about horsepower, but about which model performs best with specific crops like paddy or sugarcane, common in our region. A dealer familiar with local farming practices, soil types, and common implements (like rotavators for black soil or cultivators for lighter soils) can guide you better than a generic salesperson. We can recommend models like the New Holland 3630 TX Super Plus for its versatility, or the Excel 4710 for smaller landholdings, based on what works for *our* local farmers.
+A dealer familiar with local farming practices, soil types, and common implements (like rotavators for black soil or cultivators for lighter soils) can guide you better than a generic salesperson. We can recommend models like the New Holland 3630 TX Super Plus for its versatility, or the Excel 4710 for smaller landholdings.
 
 ## New Holland Tractor Models and Approximate Prices (Nizamabad, August 2026)
 

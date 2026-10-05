@@ -39,7 +39,7 @@ The documents you need and more detail on each step are below.
 
 ## Tractor Subsidy Telangana: What is Actually Available in 2026?
 
-When it comes to buying a tractor, farmers across Nizamabad, Kamareddy, and Jagtial districts are constantly asking us about the subsidy status. The reality of the **tractor subsidy Telangana** scheme as of July 2026 is that the state government focuses heavily on the Rythu Bandhu scheme for crop investment, while farm mechanization is supported through the Rashtriya Krishi Vikas Yojana (RKVY) and SMAM (Sub-Mission on Agricultural Mechanization).
+The reality of the **tractor subsidy Telangana** scheme as of July 2026 is that the state government focuses heavily on the Rythu Bandhu scheme for crop investment, while farm mechanization is supported through the Rashtriya Krishi Vikas Yojana (RKVY) and SMAM (Sub-Mission on Agricultural Mechanization).
 
 If you are expecting a flat 40% discount on a 55 HP tractor at the dealership, that is not how the current system works. The Telangana government provides a 50% subsidy (capped at Rs 50,000) primarily on agricultural implements. For tractors, direct subsidies are heavily restricted and generally only apply to specific categories of farmers (like SC/ST communities or small/marginal farmers) for tractors below 35 HP.
 

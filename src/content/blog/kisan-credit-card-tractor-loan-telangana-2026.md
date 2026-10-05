@@ -48,7 +48,7 @@ Most Telangana banks follow NABARD's model guidelines: the term loan component f
 
 In practice, Nizamabad district farmers with holdings of 5-15 acres often access KCC equipment limits of ₹4-8L — sufficient to cover the NH 3230 TX (₹5.80-6.20L ex-showroom) to NH Blue Series Simba (₹6.80-7.20L) range. Larger farms with demonstrated income can access limits covering NH 3630 TX Plus and NH 4710 Excel purchases.
 
-[UNIQUE INSIGHT] We've found at Prakash Motors that farmers who present 2-3 consecutive years of bank statements showing Rythu Bandhu credits (₹5,000/acre/season) alongside crop sale income receive significantly higher KCC equipment limit approvals. Rythu Bandhu payments are treated as stable guaranteed income by most NABARD-linked banks in Telangana — a fact many farmers don't know to highlight in their application.
+Farmers who present 2-3 consecutive years of bank statements showing Rythu Bandhu credits (₹5,000/acre/season) alongside crop sale income may receive significantly higher KCC equipment limit approvals. Rythu Bandhu payments are treated as stable guaranteed income by most NABARD-linked banks in Telangana.
 
 ## KCC vs Standard Tractor Loan — Interest Savings Comparison
 
@@ -87,7 +87,7 @@ DCCB Nizamabad is the cooperative bank channel for Primary Agricultural Cooperat
 
 DCCB also processes Telangana state scheme subsidies alongside KCC, which can be combined for maximum benefit.
 
-[PERSONAL EXPERIENCE] In our experience at Prakash Motors, farmers who apply for KCC-linked tractor loans through TGB Nizamabad consistently report the most streamlined experience because the bank's agricultural team understands Nizamabad district crop patterns and is familiar with our dealership's documentation requirements. We recommend starting there if you are uncertain about which bank to approach.
+Farmers who apply for KCC-linked tractor loans through TGB Nizamabad often report a streamlined experience because the bank's agricultural team understands Nizamabad district crop patterns and is familiar with dealership documentation requirements. We recommend starting there if you are uncertain about which bank to approach.
 
 ## Step-by-Step Process for KCC Tractor Loan in Telangana
 

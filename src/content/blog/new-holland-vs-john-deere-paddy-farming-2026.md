@@ -73,7 +73,7 @@ Over 10 years, this fuel saving amounts to approximately ₹92,700 — nearly of
 
 The John Deere 5050D is priced at ₹9.5–10.5 lakh on-road in Nizamabad — **₹1.5–2.0 lakh more expensive** than the NH 3630 TX Plus at ₹8.0–8.5 lakh. For similar (and in some specifications, inferior) capability in paddy-specific operations.
 
-This price premium for John Deere in India reflects the brand premium rather than performance premium at this power class. For Nizamabad's paddy farmer, the ₹1.5 lakh price difference funds:
+This price premium for John Deere in India reflects the brand premium rather than performance premium at this power class. The ₹1.5 lakh price difference funds:
 - 2 years of engine oil and filter changes
 - Full set of paddy cage wheels as an attachment
 - Annual insurance premium for 3 years
@@ -87,7 +87,7 @@ Here is the single most important data point in this comparison:
 What this means in practice:
 - Mobile service request during peak Kharif puddling (June–July): wait time 2–4 days for a JD technician to arrive
 - Sourcing a spare part not in stock locally: 5–7 day lead time from Hyderabad warehouse
-- Emergency tractor breakdown on transplanting day: potential to miss the critical 7-day transplanting window
+
 
 Prakash Motors, Nizamabad, maintains an authorised New Holland service centre with:
 - Resident trained NH mechanics

@@ -65,7 +65,7 @@ Be cautious of low-hour readings (under 1,500 hours on a 5-year machine) if the 
 
 Ask the seller to allow a compression test. A healthy NH tractor engine should show consistent compression across all cylinders. Significant variation (more than 10% between cylinders) suggests uneven wear and potential future costs. White smoke on startup (after warming) indicates oil burning — a concern. Black smoke suggests fuel system issues.
 
-[PERSONAL EXPERIENCE] In our experience handling used NH trade-ins at Prakash Motors, the most common issue with older tractors from Balkonda-area farms is hydraulic seal wear — not engine wear. The heavy black cotton soil workload puts sustained pressure on hydraulic systems. This is fixable but should be factored into your offer price.
+The most common issue with older tractors from Balkonda-area farms is hydraulic seal wear — not engine wear. The heavy black cotton soil workload puts sustained pressure on hydraulic systems. This is fixable but should be factored into your offer price.
 
 ### Hydraulic Pressure Test
 
@@ -97,7 +97,7 @@ Some issues with used tractors are too costly or uncertain to accept. Walk away 
 
 **Excessive clutch slip:** Test by loading the tractor on an incline with a heavy implement. If the engine revs but the tractor barely moves, clutch replacement is needed — approximately ₹12,000-18,000 in parts and labor.
 
-[UNIQUE INSIGHT] In our trade-in evaluations at Prakash Motors, we find that approximately 35% of used tractors from private sellers (not dealer-certified) have at least one undisclosed issue that would cost ₹20,000 or more to rectify. Buying from a dealer with a certified pre-owned inspection gives you a verifiable starting point.
+Approximately 35% of used tractors from private sellers (not dealer-certified) have at least one undisclosed issue that would cost ₹20,000 or more to rectify. Buying from a dealer with a certified pre-owned inspection gives you a verifiable starting point.
 
 ## Finance for Used New Holland Tractors in Nizamabad
 

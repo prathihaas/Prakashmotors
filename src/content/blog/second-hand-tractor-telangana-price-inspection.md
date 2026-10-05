@@ -46,7 +46,7 @@ Determining a 'fair price' is not an exact science, but we can give you a good b
 
 *Note: These are estimated ranges for well-maintained tractors. Prices can vary significantly based on specific condition, location, and seller urgency.* Always confirm today's exact details with the seller.
 
-At our Nizamabad showroom, the question we hear most is about the 'real' price. Remember, a tractor's value depreciates over time, but a meticulously maintained machine holds its value better. When a farmer comes to us asking about a specific model, we always advise them to consider the total cost of ownership, not just the purchase price. A cheap tractor with hidden issues can quickly become an expensive liability.
+Remember, a tractor's value depreciates over time, but a meticulously maintained machine holds its value better. Always consider the total cost of ownership, not just the purchase price. A cheap tractor with hidden issues can quickly become an expensive liability.
 
 ## Your Comprehensive Inspection Checklist for a Used Tractor
 

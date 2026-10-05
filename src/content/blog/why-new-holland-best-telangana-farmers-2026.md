@@ -124,7 +124,6 @@ Warranty claims through Prakash Motors are processed within 5 working days in mo
 New Holland has sold over **15,000 tractors in Telangana** through its authorised dealer network. In Nizamabad district alone, Prakash Motors has delivered over 800 NH tractors since 2015 — to farmers across Armoor, Bodhan, Banswada, Balkonda, Bheemgal, Yellareddy, Dichpally, and Nandipet mandals.
 
 This track record means:
-- Real-world performance data validated in Telangana's specific soil types and crops
 - Large secondary market of NH tractors — buyers know the product, supporting resale values
 - A community of NH owners in the district to share operating experiences
 - Prakash Motors service team familiar with every NH model's performance in local conditions
@@ -156,7 +155,7 @@ At the same HP, the NH 3630 TX Plus (47HP) is actually priced similarly or lower
 Both are excellent tractors. John Deere has slightly better resale value. However, for Nizamabad farmers, the absence of an authorised John Deere service centre within 180 km is a dealbreaker. A breakdown during kharif sowing with a 2-day wait for a technician from Hyderabad can cost more than 5 years of premium purchase price.
 
 **Q3: Is New Holland reliable for long-term use?**
-Yes. NH tractors regularly run 8,000–12,000 hours before requiring major engine overhaul. Prakash Motors has customers in Nizamabad with NH 3630 models purchased in 2016 still operating at 6,000+ hours with only scheduled maintenance — no major repairs.
+Yes. NH tractors regularly run 8,000–12,000 hours before requiring major engine overhaul.
 
 **Q4: Can I trade in my old tractor against a new NH at Prakash Motors?**
 Yes. Prakash Motors accepts old tractors (any brand) as trade-ins against new NH purchases. Trade-in value is assessed based on condition, hours, and market demand. This can significantly reduce the down payment requirement on your new NH tractor.

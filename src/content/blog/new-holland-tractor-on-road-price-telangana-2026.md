@@ -26,7 +26,7 @@ readTime: "12 min read"
 > *   EMI options are available from Rs 3,999/month, and KCC loans are accepted.
 > *   Always contact Prakash Motors for the most accurate, up-to-date pricing and subsidy details as of today.
 
-At Prakash Motors, opposite the New Bus Stand in Nizamabad, we've been helping farmers across Nizamabad, Kamareddy, Jagtial, and Karimnagar districts find the right New Holland tractor since 2003. One of the first questions everyone asks is, naturally, about the vehicle's cost. It's a significant investment, and understanding all the components that make up the final on-road price is crucial.
+At Prakash Motors, opposite the New Bus Stand in Nizamabad, we've been helping farmers across Nizamabad, Kamareddy, Jagtial, and Karimnagar districts find the right New Holland tractor since 2003. Understanding all the components that make up the final on-road price is crucial for this significant investment.
 
 This guide will give you a clear picture of the New Holland tractor price list for 2026 in Telangana, covering popular models, what influences the on-road cost, and how you can make your purchase more affordable.
 
@@ -56,7 +56,7 @@ The ex-showroom price is just the base. For the final on-road cost, several fact
 4.  **Accessories:** Any additional attachments like front loaders, rotavators, cultivators, or even basic accessories like bumpers or canopies will add to the total cost. Many farmers prefer to buy these from us directly, ensuring compatibility and quality.
 5.  **Logistics/Handling Charges:** While minimal, some dealers might include a nominal charge for transportation from the factory to the showroom.
 
-At our Nizamabad showroom, the question we hear most often is about the difference between ex-showroom and on-road. We take the time to break down each component, ensuring complete transparency. It’s important to see the full picture before making a decision.
+We take the time to break down each component, ensuring complete transparency. It’s important to see the full picture before making a decision.
 
 ## Popular New Holland Models and Their Applications in Telangana
 

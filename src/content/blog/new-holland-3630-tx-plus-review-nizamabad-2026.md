@@ -42,7 +42,7 @@ If you farm in Nizamabad district — whether your fields are spread across Bodh
 
 The 3630 TX Plus runs a 3-cylinder turbocharged diesel engine producing 47 horsepower. What really stands out is how this engine performs at lower RPMs. In Nizamabad's black cotton soil — especially during kharif season paddy cultivation — you need consistent torque at low speeds. The 3630 TX Plus delivers exactly that.
 
-During rotavation of clay-heavy soil near Dharpally and Nizamsagar mandal areas, farmers have reported the engine pulling without strain even at 1400 RPM. That's a significant advantage over some competitor tractors that lug at the same conditions.
+
 
 **Fuel economy**: Expect 2.8 to 3.2 litres per hour under heavy load during cultivation. For transport work, fuel consumption drops to 1.8–2.2 litres per hour. Over a full kharif season, this translates to meaningful savings compared to older tractors in the same class.
 
@@ -73,7 +73,7 @@ This is where New Holland genuinely stands apart from competitors in the same pr
 - **Steering**: Power steering as standard — fields with heavy soil in Balkonda and Armoor mandals are manageable without fatigue
 - **Dashboard**: Clean, readable instrument cluster with hour meter, fuel gauge, and temperature warning
 
-Farmers in Bodhan who work their tractors for transport (chilli and cotton loads to mandis) report the 3630 TX Plus is far less tiring to operate on long road hauls than older platforms.
+The 3630 TX Plus is far less tiring to operate on long road hauls than older platforms, especially for transport work (chilli and cotton loads to mandis).
 
 ---
 

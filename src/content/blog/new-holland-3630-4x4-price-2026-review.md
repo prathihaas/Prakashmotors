@@ -59,7 +59,7 @@ If you find that your budget is closer to the 8-lakh range, you might want to lo
 
 ## 2WD vs 4WD Math: Is the Extra Cost Worth It?
 
-Many buyers visiting our Nizamabad showroom ask if the price difference of roughly Rs 1.5 lakh between the 2WD and 4WD models of the 3630 is worth the investment. Let us look at the actual numbers over a year of typical operation:
+The price difference of roughly Rs 1.5 lakh between the 2WD and 4WD models of the 3630 often raises questions about the investment. Let us look at the actual numbers over a year of typical operation:
 
 1. **Diesel Efficiency:** A 4WD tractor experiences significantly less wheel slip. While a 2WD tractor might slip 15-20% in wet clay, the 4x4 keeps slippage below 5%. This directly translates to a saving of 1 to 1.5 litres of diesel per hour of heavy puddling.
 2. **Tyre Longevity:** Rear tyres on a 2WD tractor wear out quickly when subjected to constant slippage on hard soils or wet mud. By distributing the tractive force across all four wheels, the 3630 4x4 extends the overall life of your rear tyres, delaying expensive replacements.

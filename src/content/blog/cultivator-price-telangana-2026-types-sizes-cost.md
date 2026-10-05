@@ -79,7 +79,7 @@ This is perhaps the most straightforward factor. More tines or discs mean a wide
 
 ### Brand and Build Quality
 
-Established brands like New Holland, Mahindra, Sonalika, and John Deere generally command a higher price due to their reputation for durability, material quality, and after-sales service. Cheaper, unbranded options might save you money upfront, but they often lead to higher maintenance costs and shorter lifespan. We've seen local farmers regret going for the cheapest option when it breaks down during critical seasons.
+Established brands like New Holland, Mahindra, Sonalika, and John Deere generally command a higher price due to their reputation for durability, material quality, and after-sales service. Cheaper, unbranded options might save you money upfront, but they often lead to higher maintenance costs and shorter lifespan.
 
 ### Material Used (High Carbon Steel, Boron Steel)
 
@@ -110,7 +110,7 @@ Here’s a general guide for pairing implements with New Holland tractors popula
 | Disc Harrow (Light-Med) | 45-65 HP                | New Holland 3630 4x4, 5620 TX Plus |
 | Hydraulic Reversible MB | 50-75 HP+               | New Holland 5620 TX Plus, Workmaster 105 |
 
-At our showroom, we always advise farmers to consider their tractor's power output. For instance, a farmer with a [New Holland 3600-2 Excel](/products/new-holland-3600-2-excel) (49 HP) will find a 9-11 tine spring-loaded implement much more efficient than trying to pull a heavy 13-tine rigid one in tough soil. Similarly, for those with a powerful [New Holland Workmaster 105](/products/new-holland-workmaster-105), a heavy-duty disc harrow or MB plough will maximize productivity.
+Farmers should consider their tractor's power output. For instance, a tractor with 49 HP will find a 9-11 tine spring-loaded implement much more efficient than trying to pull a heavy 13-tine rigid one in tough soil. Similarly, for those with a powerful tractor, a heavy-duty disc harrow or MB plough will maximize productivity.
 
 ## Telangana Farm Mechanization Subsidy on Implements
 

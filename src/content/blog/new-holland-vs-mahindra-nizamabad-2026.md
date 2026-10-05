@@ -21,7 +21,7 @@ Mahindra is India's best-selling tractor brand — a fact that's hard to argue w
 
 The answer lies in long-term performance data, not first impressions.
 
-This is an honest comparison based on real ownership experience from farmers in Nizamabad, Bodhan, Armoor, Balkonda, and surrounding mandals.
+
 
 > **TL;DR:** In Nizamabad's paddy and cotton belt, New Holland consistently outperforms Mahindra on hydraulic lift (1,800kg vs 1,500kg), fuel efficiency (saving ₹60,000-90,000 over 5 years), and resale value (65-70% vs 60-68% after 5 years). Mahindra wins on upfront price (₹1.3-1.4L cheaper). For serious farmers with 15+ acres of black cotton fields, New Holland delivers better long-term value.
 
@@ -73,7 +73,7 @@ Mahindra 475 DI: **1,500 kg hydraulic lift**
 
 In Nizamabad's black cotton soil, farmers typically run heavy disc ploughs weighing 600–900 kg when fully loaded with soil. The difference between 1,500 and 1,800 kg hydraulic capacity becomes visible within the first week of deep tillage. NH handles it effortlessly; Mahindra struggles and often requires multiple passes.
 
-Multiple Bodhan and Armoor farmers report that their Mahindra required **two passes** for deep black cotton disc ploughing, while the NH 3630 completed the same work in **one pass** — saving 3–4 hours per day on large fields.
+For deep black cotton disc ploughing, Mahindra may require **two passes**, while the NH 3630 can complete the same work in **one pass** — potentially saving 3–4 hours per day on large fields.
 
 ### 2. Fuel Efficiency — ₹12,000 to ₹18,000 Saved Per Year
 
@@ -98,11 +98,11 @@ Why this matters: Grain threshers and some high-speed implements require 1000 RP
 
 ### 4. Engine Performance in Hot Conditions
 
-Telangana's summer kharif season sees temperatures of 38–44°C. New Holland's turbocharged intercooled engine maintains consistent power output even in extreme heat. Multiple Nizamabad farmers report that their Mahindra tractors experienced **power loss and overheating** during peak summer operations — particularly during cotton land preparation in May–June.
+Telangana's summer kharif season sees temperatures of 38–44°C. New Holland's turbocharged intercooled engine maintains consistent power output even in extreme heat. Mahindra tractors may experience **power loss and overheating** during peak summer operations — particularly during cotton land preparation in May–June.
 
 ### 5. Build Quality and Long-Term Reliability
 
-After 5 years and 2,500+ hours, the average New Holland tractor in Telangana requires 20–30% less in cumulative repairs compared to equivalent Mahindra tractors. This is based on service records from Prakash Motors and farmer testimonials across Nizamabad district.
+After 5 years and 2,500+ hours, New Holland tractors may require 20–30% less in cumulative repairs compared to equivalent Mahindra tractors. This is based on service records from Prakash Motors.
 
 ## Who Should Still Choose Mahindra?
 

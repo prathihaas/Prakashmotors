@@ -59,7 +59,7 @@ Here is what is covered in Telangana under the 2025 cycle:
 - **Self-propelled Reapers / Harvesters:** Up to 40% subsidy
 - **Power Tillers (below 8 BHP):** Up to 50% subsidy, maximum ₹55,000
 
-[PERSONAL EXPERIENCE] In our experience at Prakash Motors, most Nizamabad farmers applying under SMAM choose the tractor category first, then add rotavator subsidy as a second application in the following cycle. The portal allows one approved implement per application.
+The SMAM portal allows one approved implement per application. Farmers often choose the tractor category first, then add rotavator subsidy as a second application in the following cycle.
 
 Rotavators are especially useful for soybean and maize farmers in Yellareddy and Bheemgal areas, where soil preparation time directly impacts planting windows.
 
@@ -88,7 +88,7 @@ Eligibility under SMAM follows national guidelines with some Telangana-specific 
 - Bank account must be Aadhaar-linked for direct benefit transfer
 - Annual income limit applies in some categories — check the portal at application time
 
-[UNIQUE INSIGHT] Many Nizamabad farmers miss out because they applied once years ago under a state scheme and assume SMAM is the same program. It is not. SMAM has its own 10-year restriction clock. If your last state machinery subsidy was before 2015, you likely qualify again. Check with the Agriculture Officer in Nizamabad before giving up.
+Many farmers miss out because they applied once years ago under a state scheme and assume SMAM is the same program. It is not. SMAM has its own 10-year restriction clock. If your last state machinery subsidy was before 2015, you may qualify again. Check with the Agriculture Officer in Nizamabad.
 
 [CHART: Bar chart - Subsidy percentages by farmer category (SC/ST: 50%, OBC: 40%, General: 40%) and machinery type - Source: Ministry of Agriculture SMAM guidelines 2024]
 
@@ -151,7 +151,7 @@ Related: [Tractor EMI calculator and loan options](/blog/kcc-tractor-loan-telang
 
 ## Common Mistakes That Kill Your Application
 
-[ORIGINAL DATA] Based on feedback from farmers who visited Prakash Motors after a failed application, these are the three most common errors:
+These are common errors that can lead to a failed application:
 
 **Mistake 1: Buying before getting approval.** This is the most expensive mistake. Some farmers assume the subsidy applies to a tractor they already bought. It does not. Approval must come first.
 

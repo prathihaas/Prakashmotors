@@ -48,7 +48,7 @@ The 3230's 3-cylinder naturally aspirated diesel engine may lack a turbocharger,
 
 The engine produces 42 HP at rated RPM and maintains good torque in the 1400–1800 RPM working range. For paddy cultivation in Nizamabad and Kamareddy areas, this is more than adequate. For cotton field deep tillage in Banswada or Yellareddy, you may need 2 passes with heavy implements, but the engine won't strain.
 
-**Fuel efficiency** is a genuine strength. At 2.3–2.7 litres per hour under field load, the 3230 is one of the more economical tractors in its segment. Farmers in Armoor mandal report saving ₹400–600 per day compared to their previous older tractor.
+**Fuel efficiency** is a genuine strength. At 2.3–2.7 litres per hour under field load, the 3230 is one of the more economical tractors in its segment.
 
 ---
 

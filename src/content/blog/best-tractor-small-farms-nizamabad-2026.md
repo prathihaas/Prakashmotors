@@ -157,7 +157,7 @@ A Balkonda small farmer with 10 acres can typically custom hire for **25–35 da
 - Annual EMI burden: ₹11,000 × 12 = ₹1.32 lakh
 - **Net surplus after EMI from custom hiring alone: ₹93,000/year**
 
-This is the model followed by successful small-farm tractor owners in Balkonda, Yellareddy, and Bheemgal mandals — custom hiring more than covers the EMI.
+This model of custom hiring can more than cover the EMI.
 
 ### Subsidy and Low-Interest Finance
 

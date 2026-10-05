@@ -55,7 +55,7 @@ Combine harvesting compresses this to 7–10 machine hours. The entire 20 acres 
 ### Labor Cost Savings
 Manual paddy harvesting costs ₹4,500–₹6,000 per acre (2026 rates). A combine harvesting contract costs ₹1,800–₹2,500 per acre. The saving per acre is ₹2,000–₹3,500.
 
-For a 20-acre paddy farmer: ₹40,000–₹70,000 saved per season on labor alone.
+
 
 ### Post-Harvest Residue
 Modern combines like the TC5.30 can spread straw uniformly, making residue incorporation easier. This reduces the cost and labor of field preparation for the next crop.

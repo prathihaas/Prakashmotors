@@ -54,7 +54,7 @@ Related: [Full NH 3230 TX review](/blog/new-holland-3230-review-telangana-2026/)
 
 The NH Blue Series Simba is the ideal tractor for a Nizamabad maize farmer operating 12-20 acres. Its 45HP engine runs a 5-6 foot rotavator and a 4-row maize planter without strain, completing field preparation significantly faster than a 35HP tractor on larger fields.
 
-[PERSONAL EXPERIENCE] Banswada-area farmers who upgraded from 35HP to the Simba for 15-acre maize farms reported completing kharif field preparation 2 full days earlier, which translated to timely sowing during the optimal June window — a critical factor for maize yield in Telangana's monsoon pattern.
+
 
 The Simba also handles the subsequent paddy or cotton season with adequate power, making it a versatile year-round investment.
 
@@ -101,7 +101,7 @@ Getting the right implements dramatically improves maize yield and reduces per-a
 | October-November | Harvest | Manual / harvester | Low tractor |
 | November | Residue incorporation | Rotavator | Medium-high |
 
-[UNIQUE INSIGHT] Analysis of Prakash Motors service call data from Yellareddy-area maize farmers shows that the most common cause of delayed sowing is tractor unavailability during the June peak — not lack of inputs. Owning a tractor eliminates this bottleneck, and on farms above 10 acres, the cost of hiring at ₹900-1,200/hour for 60 hours of kharif preparation alone (₹54,000-72,000) approaches the annual EMI of a 35HP tractor.
+The most common cause of delayed sowing is tractor unavailability during the June peak — not lack of inputs. Owning a tractor eliminates this bottleneck, and on farms above 10 acres, the cost of hiring at ₹900-1,200/hour for 60 hours of kharif preparation alone (₹54,000-72,000) approaches the annual EMI of a 35HP tractor.
 
 ## Subsidy and Finance for Maize Farmers
 

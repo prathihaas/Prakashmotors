@@ -89,7 +89,7 @@ After years of experience serving Nizamabad district farmers, here is what makes
 New Holland tractors deliver the highest hydraulic lift capacity in their class. This matters enormously in Nizamabad's black cotton soil where heavy disc ploughs demand 1,600–2,000 kg lift capacity. Competing brands at similar HP often deliver only 1,200–1,500 kg.
 
 ### 2. Fuel Efficiency
-Independent tests and farmer testimonials consistently confirm that New Holland tractors save **₹8,000–₹15,000 per year** on diesel compared to competing brands of similar horsepower. Over a 10-year ownership period, this adds up to ₹80,000–₹1.5 lakh in savings.
+New Holland tractors are fuel-efficient, saving an estimated **₹8,000–₹15,000 per year** on diesel compared to competing brands of similar horsepower. Over a 10-year ownership period, this adds up to ₹80,000–₹1.5 lakh in savings.
 
 ### 3. Durability in Local Conditions
 CNH Industrial's engineering is specifically calibrated for tropical farming conditions. Engine components handle the extreme heat and dust of Telangana's kharif season without the frequent overheating issues common in some competing brands.

@@ -47,7 +47,7 @@ We offer a comprehensive range of New Holland tractors to suit various farming n
 | New Holland 5620 TX Plus | 65 HP | Rs 11.00 - 12.20 lakh | High performance, heavy-duty | Large farms, commercial use |
 | New Holland Workmaster 105 | 106 HP | Rs 26.00 - 29.00 lakh | Advanced technology, high capacity | Specialized, large-scale operations |
 
-At our Nizamabad showroom, the question we hear most often is about the real on-road price. It's crucial to understand that the ex-showroom price is just one component. RTO (Road Transport Office) charges in Telangana depend on the tractor's horsepower and other factors, and insurance premiums also vary. We provide a transparent breakdown of all these costs so you know exactly what you're paying. We also help you navigate the process of obtaining Telangana farm mechanization subsidies on select implements, which can significantly reduce your overall investment. For more details on subsidies, you can refer to our guide: [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/).
+The question most often asked is about the real on-road price. It's crucial to understand that the ex-showroom price is just one component. RTO (Road Transport Office) charges in Telangana depend on the tractor's horsepower and other factors, and insurance premiums also vary. We provide a transparent breakdown of all these costs so you know exactly what you're paying. We also help you navigate the process of obtaining Telangana farm mechanization subsidies on select implements, which can significantly reduce your overall investment. For more details on subsidies, you can refer to our guide: [Telangana tractor subsidy guide](/blog/tractor-subsidy-telangana-2026-guide/).
 
 ### Understanding EMI and Tractor Loans
 
@@ -55,7 +55,7 @@ We believe that owning a New Holland tractor should be accessible to every farme
 
 ## New Holland Service and Parts Availability
 
-Beyond sales, Prakash Motors is committed to providing excellent after-sales service. Our authorized service center, staffed with New Holland-trained technicians, ensures that your tractor remains in optimal working condition. We stock genuine New Holland parts, preventing downtime and ensuring the longevity of your investment. Farmers from remote areas of Kamareddy or Bodhan often tell us how important it is to have a reliable service point nearby, and we strive to meet that need with prompt and efficient service.
+Beyond sales, Prakash Motors is committed to providing excellent after-sales service. Our authorized service center, staffed with New Holland-trained technicians, ensures that your tractor remains in optimal working condition. We stock genuine New Holland parts, preventing downtime and ensuring the longevity of your investment. Having a reliable service point nearby is important, and we strive to meet that need with prompt and efficient service.
 
 ## Comparing New Holland with Competitors in Telangana
 

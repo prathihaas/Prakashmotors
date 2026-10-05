@@ -67,7 +67,7 @@ Most New Holland models come in multiple variants. The NH 3630 TX Plus, for exam
 
 Dealers frequently offer implement combo deals that bundle a tractor with a rotavator, disc plough, or cultivator. These combos often save ₹25,000-50,000 compared to buying implements separately. Prakash Motors offers Kharif and Rabi season combo packages — ask the sales team for the current bundle.
 
-[PERSONAL EXPERIENCE] In our experience at Prakash Motors, roughly 60% of buyers in Nizamabad district opt for a tractor-rotavator combo package, as the rotavator is the single most-used implement across paddy, cotton, and turmeric farms in this region.
+Roughly 60% of buyers in Nizamabad district opt for a tractor-rotavator combo package, as the rotavator is the single most-used implement across paddy, cotton, and turmeric farms in this region.
 
 ### Colour and Special Editions
 
@@ -97,7 +97,7 @@ Second, apply for your subsidy before arriving at the dealership. Having subsidy
 
 Third, compare finance offers. Prakash Motors works with SBI, Telangana Grameena Bank, HDFC Bank, and other lenders. Ask for quotes from at least two lenders and let the team find the lowest effective interest rate for your profile.
 
-[UNIQUE INSIGHT] Buyers who bring their land records (Pattadar Passbook) and subsidy registration printout to their first dealership visit close their purchase 40% faster, according to our sales team's experience, because finance processing starts the same day rather than after a second visit.
+Buyers who bring their land records (Pattadar Passbook) and subsidy registration printout to their first dealership visit may close their purchase faster because finance processing can start the same day.
 
 [CHART: Pie chart - Total on-road cost breakdown: Ex-showroom vs road tax vs registration vs insurance - source: Prakash Motors Nizamabad]
 

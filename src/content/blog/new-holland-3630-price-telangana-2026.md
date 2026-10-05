@@ -96,7 +96,7 @@ By purchasing your tractor along with subsidized implements from an authorized d
 
 Before spending your hard-earned money, it is logical to compare the **new holland 3630 price** with other 50-55 HP tractors in the market, such as the Swaraj 744, Mahindra Arjun, or John Deere 5050D.
 
-* **Engine Reliability:** The 3-cylinder, FPT-designed engine in the 3630 is globally acclaimed for its high torque backup. When pulling a heavy trolley loaded with sugarcane up a steep incline in Banswada, this engine does not choke or drop RPMs.
+* **Engine Reliability:** The 3-cylinder, FPT-designed engine in the 3630 is globally acclaimed for its high torque backup. This engine does not choke or drop RPMs when pulling a heavy trolley.
 * **PTO Power:** With 50.7 HP PTO output, the 3630 runs 6-foot rotavators far more efficiently than most competitors in the 55 HP segment, saving you up to 1 to 1.5 liters of diesel every single hour.
 * **Resale Value:** Due to its massive popularity and the easy availability of genuine spare parts across Telangana, the New Holland 3630 commands one of the highest resale values in the pre-owned tractor market.
 

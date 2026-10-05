@@ -31,7 +31,7 @@ readTime: "6 min read"
 
 ## Rythu Bharosa 2026: Eligibility and How It Works
 
-At our Nizamabad showroom, the question we hear most is whether the benefit can be combined with the Telangana farm mechanization subsidy for implements. Yes – the cash transfer can be used for any approved agricultural input, while the mechanization subsidy applies separately to eligible implements such as rotavators, seed drills or trailers. This combination often makes the difference between postponing a purchase and buying this season.
+The cash transfer can be used for any approved agricultural input, while the mechanization subsidy applies separately to eligible implements such as rotavators, seed drills or trailers. This combination often makes the difference between postponing a purchase and buying this season.
 
 Eligibility targets small and marginal farmers; verification is based on landholding size through the Telangana agriculture portal. Once approved, the amount is transferred directly to the beneficiary’s bank account, typically in two installments. There is no restriction on using the funds for a tractor down payment, provided the purchase serves farming purposes.
 
@@ -77,7 +77,7 @@ Once the benefit is credited to your bank account, you can use those funds as pa
 
 ### Do I need to separate the Rythu Bharosa benefit from the Telangana farm mechanization subsidy?
 
-No. The two schemes are independent. The cash transfer can be used for any agricultural input, while the mechanization subsidy applies to eligible implements such as rotavators, seed drills or trailers. Many of our customers combine both to reduce the overall outlay for a tractor‑implement package.
+No. The two schemes are independent. The cash transfer can be used for any agricultural input, while the mechanization subsidy applies to eligible implements such as rotavators, seed drills or trailers. Many farmers combine both to reduce the overall outlay for a tractor‑implement package.
 
 ### What documents do I need to show at Prakash Motors to avail the benefit?
 

@@ -31,7 +31,7 @@ Here at Prakash Motors, opposite the New Bus Stand in Nizamabad, we've been help
 
 ## Understanding the Tractor Buying Cycle in Telangana
 
-For most farmers in Telangana, the rhythm of agriculture dictates the tractor buying cycle. We see distinct peaks and troughs throughout the year:
+For most farmers in Telangana, the rhythm of agriculture dictates the tractor buying cycle. There are distinct peaks and troughs throughout the year:
 
 ### Pre-Kharif Season (March to May)
 
@@ -53,7 +53,7 @@ As the financial year-end approaches, dealerships aim to clear their existing st
 
 One of the biggest factors influencing the "best time to buy a tractor" in Telangana is the availability of government subsidies. The Telangana State Government, through various schemes, actively promotes farm mechanization. These subsidies can significantly reduce your upfront cost.
 
-At our Nizamabad showroom, the question we hear most often is about these subsidies. It's crucial to understand that subsidy schemes have specific application windows, eligibility criteria, and budgetary allocations. They don't run continuously throughout the year.
+It's crucial to understand that subsidy schemes have specific application windows, eligibility criteria, and budgetary allocations. They don't run continuously throughout the year.
 
 We strongly advise farmers to keep a close watch on announcements from the Department of Agriculture, Telangana. Often, the application period for subsidies might open just before the peak buying seasons. Applying early and having your documents ready is key.
 

@@ -71,7 +71,7 @@ In practical terms in Nizamabad's farming:
 
 **Large rotavator operations**: The 3600-2 Excel handles 7-ft rotavators confidently — a capability the NH 3630 TX Plus (47HP) pushes to its limits. In Banswada area's hard soil, where the rotavator encounters varying resistance, the additional hydraulic flow maintains implement response.
 
-**Sub-soiler compatibility**: 3-tyne sub-soilers for deep turmeric preparation in Yellareddy and Armoor areas work well with the 3600-2 Excel's hydraulics. This operation is at the limit of 47HP hydraulics.
+**Sub-soiler compatibility**: 3-tyne sub-soilers for deep turmeric preparation work well with the 3600-2 Excel's hydraulics. This operation is at the limit of 47HP hydraulics.
 
 **Multi-implement versatility**: The 3600-2 Excel can run a wider range of heavy implements without compromise — important for farmers who switch implements frequently across different crops.
 

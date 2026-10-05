@@ -51,7 +51,7 @@ The 3230 isn't just a tractor; it's a workhorse that has earned its reputation t
 
 *   **Powerful 45 HP Engine:** Provides ample power for various agricultural tasks, from ploughing and tilling to hauling and spraying.
 *   **Fuel Efficiency:** New Holland engines are known for their efficient fuel consumption, which translates to lower running costs – a major concern for our farmers.
-*   **Versatility:** The 3230 handles a wide range of implements, making it a versatile choice for mixed farming operations. Its lifting capacity is often a talking point at our showroom.
+*   **Versatility:** The 3230 handles a wide range of implements, making it a versatile choice for mixed farming operations.
 *   **Comfort and Ergonomics:** Designed with the operator in mind, offering comfortable seating and easy-to-reach controls, reducing fatigue during long hours in the field.
 *   **Durability and Reliability:** Built to withstand tough Indian farming conditions, ensuring a long service life with proper maintenance.
 
@@ -81,7 +81,7 @@ When farmers visit our showroom, opposite New Bus Stand, Nizamabad, they often c
 
 *Prices are approximate on-road prices for Nizamabad as of August 2026. Actual prices may vary. Contact us for today's exact details.*
 
-At our Nizamabad showroom, the question we hear most often is about the 3230's performance in puddling for paddy. We confidently tell them it excels, offering good grip and sufficient power for consistent field preparation. While the Mahindra 575 DI is a strong competitor, many of our customers find this New Holland tractor's operational comfort and specific features more appealing for their daily needs. If you're considering other models, our team can also discuss options like the [New Holland Excel 4710](/products/new-holland-excel-4710/) which is a popular choice for slightly higher power needs.
+The 3230 excels in puddling for paddy, offering good grip and sufficient power for consistent field preparation. While the Mahindra 575 DI is a strong competitor, this New Holland tractor's operational comfort and specific features are often appealing for daily needs. If you're considering other models, our team can also discuss options like the [New Holland Excel 4710](/products/new-holland-excel-4710/) which is a popular choice for slightly higher power needs.
 
 ## Service and Support for Your New Holland 3230
 

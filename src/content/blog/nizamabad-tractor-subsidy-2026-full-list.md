@@ -22,7 +22,6 @@ As of October 2026, the Telangana government, through various departments, conti
 **Planning to buy a new tractor in Nizamabad? Understanding the available government subsidies can significantly reduce your financial burden. This comprehensive guide from Prakash Motors, your local New Holland dealer, outlines the schemes for 2026, eligibility criteria, and how to navigate the application process to maximize your savings.**
 
 > TL;DR
->
 > *   **Telangana Farm Mechanization Scheme (TFMS):** Primary source for tractor and implement subsidies.
 > *   **Eligibility:** Small, marginal, SC/ST, and women farmers often receive higher assistance.
 > *   **Subsidy Amount:** Varies by scheme and farmer category, typically 20-50% of the unit cost.
@@ -48,7 +47,7 @@ While specific scheme details can vary, common eligibility requirements for trac
 
 ### How Much Subsidy Can You Expect in Nizamabad?
 
-This is the question we hear most often at our Nizamabad showroom, and the answer is not a single number. The subsidy percentage depends on several factors:
+The answer is not a single number. The subsidy percentage depends on several factors:
 
 *   **Farmer Category:** SC/ST farmers and women farmers often receive up to 50% subsidy, while general category small and marginal farmers might get 30-40%.
 *   **Equipment Type:** Tractors, power tillers, rotavators, cultivators, and other implements have different subsidy caps.
@@ -67,7 +66,7 @@ The application process for tractor subsidies has largely moved online, making i
 5.  **Field Verification:** Agricultural department officials may conduct a field visit to verify your landholding and farming status.
 6.  **Sanction & Purchase:** Upon final sanction, the subsidy amount is usually transferred directly to the dealer, and you pay only the balance amount. Sometimes, it might be reimbursed to the farmer after purchase.
 
-We understand that this process can seem daunting. At Prakash Motors, located opposite the New Bus Stand in Nizamabad, our team is well-versed in the subsidy application process and offers comprehensive assistance to our customers. We've been serving farmers in Nizamabad, Kamareddy, and even parts of Nirmal and Bhainsa since 2003, and our experience ensures a smoother application journey.
+
 
 ### Key Considerations for Nizamabad Farmers
 
@@ -91,7 +90,7 @@ New Holland offers a range of tractors that are highly popular among Nizamabad f
 
 ### Why Choose New Holland with Subsidy?
 
-New Holland tractors are renowned for their reliability, fuel efficiency, and advanced features, making them a smart investment for any farmer. With a subsidy, the financial burden is significantly reduced, allowing you to access superior technology. Our farmers in Kamareddy often praise the New Holland 3630 TX Super Plus for its performance in sugarcane fields, while the 3600-2 Excel is a favorite for paddy cultivation in the low-lying areas around Nizamabad.
+New Holland tractors are renowned for their reliability, fuel efficiency, and advanced features, making them a smart investment for any farmer. With a subsidy, the financial burden is significantly reduced, allowing you to access superior technology.
 
 ## Understanding the Financial Impact: Beyond the Subsidy
 

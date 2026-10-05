@@ -54,7 +54,7 @@ This means the 3230 TX effectively performs like a higher-HP tractor when pullin
 
 ### Highest Hydraulic Lift in the Segment
 
-At **1,600 kg hydraulic lift**, the 3230 TX outperforms every competitor in this price range. The Mahindra 265 DI offers just 1,200 kg — a significant gap that shows up when lifting heavy disc harrows and rotavators in sticky black cotton soil. Farmers in Balkonda and Yellareddy who have switched from the Mahindra 265 to the NH 3230 report dramatically fewer implement-dragging incidents.
+At **1,600 kg hydraulic lift**, the 3230 TX outperforms every competitor in this price range. The Mahindra 265 DI offers just 1,200 kg — a significant gap that shows up when lifting heavy disc harrows and rotavators in sticky black cotton soil.
 
 ### After-Sales Support From Day One
 

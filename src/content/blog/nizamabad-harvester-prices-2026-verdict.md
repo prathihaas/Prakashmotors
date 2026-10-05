@@ -30,7 +30,7 @@ The on-road price for a New Holland combine harvester in Nizamabad, Telangana, s
 
 ## Harvester Price in Nizamabad: What Farmers Should Know for 2026
 
-When farmers from Armoor, Bodhan, or even further out in Kamareddy district visit our showroom, the first question is always about the *harvester price*. It's not just about the ex-showroom figure; there are many components that make up the final on-road cost. For 2026, you're looking at a base price starting around ₹18 lakh for a New Holland TC5.30 combine harvester, which is a popular choice for paddy and maize in our region. Larger, more powerful models, like the New Holland TC5.90, designed for higher output and various crops, can easily exceed ₹35-40 lakh.
+It's not just about the ex-showroom figure; there are many components that make up the final on-road cost. For 2026, you're looking at a base price starting around ₹18 lakh for a New Holland TC5.30 combine harvester, which is a popular choice for paddy and maize in our region. Larger, more powerful models, like the New Holland TC5.90, designed for higher output and various crops, can easily exceed ₹35-40 lakh.
 
 ### Factors Influencing Combine Harvester Price
 
@@ -65,7 +65,7 @@ Buying a combine harvester is a significant investment. Fortunately, several fin
 
 ### EMI Options for Harvesters
 
-At Prakash Motors, we understand the financial needs of farmers. While the exact EMI for a combine harvester will depend on the loan amount, tenure, and interest rates, we can facilitate financing through various banks. For example, some of our customers manage to get EMIs that are comfortable for their harvest cycles. We accept KCC (Kisan Credit Card) loans, which can often provide favorable terms for agricultural machinery.
+At Prakash Motors, we understand the financial needs of farmers. While the exact EMI for a combine harvester will depend on the loan amount, tenure, and interest rates, we can facilitate financing through various banks. We accept KCC (Kisan Credit Card) loans, which can often provide favorable terms for agricultural machinery.
 
 ### Telangana Farm Mechanization Subsidy
 

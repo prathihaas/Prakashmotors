@@ -114,7 +114,7 @@ Use this decision table to confirm your HP requirement:
 - [ ] **Dealer authorisation verified** — confirm the dealer is an authorised New Holland dealer (look for NH dealership board and CNH certificate)
 - [ ] **Service team met personally** — speak to the service manager or technician, not just the sales team
 - [ ] **Previous customer references obtained** — ask for 2–3 customer contacts in your mandal who purchased the same model
-- [ ] **Customer references contacted** — call them, ask about service experience, fuel efficiency, reliability
+
 - [ ] **Emergency support response tested** — call the dealer's service number outside business hours and see if it is attended
 
 ---

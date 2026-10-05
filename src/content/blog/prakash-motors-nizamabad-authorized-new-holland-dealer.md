@@ -20,7 +20,7 @@ readTime: "7 min read"
 
 *నిజామాబాద్‌లో మీ విశ్వసనీయ న్యూ హాలండ్ అధికారిక డీలర్ — ప్రకాష్ మోటార్స్*
 
-When a farmer in Nizamabad district needs a new tractor, a tractor service, or advice on farm mechanization, one name comes to mind consistently: Prakash Motors. As the authorized New Holland dealer for Nizamabad, Telangana, we have built a relationship of trust with the farming community across Bodhan, Banswada, Armoor, Balkonda, Bheemgal, Yellareddy, Kamareddy, and Nizamsagar mandals.
+Prakash Motors is the authorized New Holland dealer for Nizamabad, Telangana. We serve the farming community across Bodhan, Banswada, Armoor, Balkonda, Bheemgal, Yellareddy, Kamareddy, and Nizamsagar mandals.
 
 This post tells you who we are, what we do, and why choosing an authorized dealer matters more than you might think.
 
@@ -172,8 +172,8 @@ For emergency breakdowns during critical seasons (kharif sowing, turmeric harves
 Our philosophy is simple: **a farmer who buys a tractor from Prakash Motors should never feel alone** in managing that investment. We are here when:
 - You need advice on implements
 - Something breaks down during peak season
-- Your son wants to know the best tractor for his new land
-- You want to understand the subsidy options available
+
+
 
 This is the difference between an authorized dealer and a general equipment shop.
 
