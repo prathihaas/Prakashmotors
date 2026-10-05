@@ -102,7 +102,7 @@ Telangana's summer kharif season sees temperatures of 38–44°C. New Holland's 
 
 ### 5. Build Quality and Long-Term Reliability
 
-After 5 years and 2,500+ hours, New Holland tractors may require 20–30% less in cumulative repairs compared to equivalent Mahindra tractors. This is based on service records from Prakash Motors.
+Long-term repair costs depend on usage and maintenance. Ask our service team for typical service costs on the model you are considering before you buy.
 
 ## Who Should Still Choose Mahindra?
 

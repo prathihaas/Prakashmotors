@@ -42,14 +42,14 @@ The New Holland 4710 Excel occupies a sweet spot in the Nizamabad tractor market
 | On-road Price (Nizamabad) | ₹9.0 – 9.5 lakh |
 | Warranty | 2 years / 2,000 hours |
 
-## Engine and Performance — Real-World Data
+## Engine and Performance — Typical Field Figures
 
-
+These are indicative figures for common operations. Actual results vary with soil, implement and operator, so ask our team for figures on your own field conditions.
 
 **Rotavation (7-foot rotavator):**
 - Operating speed: 3.5–4.5 km/hr
 - Fuel consumption: 3.2 litres/hour
-- Working depth achieved: 180–200 mm consistently
+- Working depth: 180–200 mm
 
 **Deep Ploughing (3-bottom MB plough):**
 - Working speed: 2.5–3.0 km/hr
